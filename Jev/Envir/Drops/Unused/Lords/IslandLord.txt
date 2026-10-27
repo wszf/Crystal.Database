@@ -1,36 +1,36 @@
 ;Gold
 1/1 Gold 45000
-1/10 GoldBar
+1/10 金条
 
 ;Pots + Other
-1/1 (HP)DrugXL
-1/1 (MP)DrugXL
-1/1 (HP)DrugXL
-1/1 (MP)DrugXL
-1/1 SunPotion
-1/1 SunPotion
-1/1 SunPotion
-1/2 SunPotion
-1/2 SunPotion
-1/2 SunPotion
-1/1 SunPotion 
-1/1 SunPotion  
-1/2 SunPotion  
-1/2 SunPotion  
+1/1 金疮药(特大)
+1/1 魔法药(特大)
+1/1 金疮药(特大)
+1/1 魔法药(特大)
+1/1 太阳水
+1/1 太阳水
+1/1 太阳水
+1/2 太阳水
+1/2 太阳水
+1/2 太阳水
+1/1 太阳水 
+1/1 太阳水  
+1/2 太阳水  
+1/2 太阳水  
 
-1/1  BenedictionOil
+1/1  祝福油
 1/10 GoldenBenedictionOil
 
 
-1/15 AwakeningSoul0
-1/15 AwakeningSoul0
+1/15 觉醒之魂0
+1/15 觉醒之魂0
 
 ;Weapons
-1/1150 BarbarianSword
-1/1150 ApusBow
-1/1150 RawSword
-1/1150 BoneCarvedFan
-1/1150 MadDragonBlades
+1/1150 碧血混水剑
+1/1150 神燕弓
+1/1150 虹玄混地剑
+1/1150 翊仙混真扇
+1/1150 飞燕混月剑
 1/1150 HorneySlayer
 1/1150 HorneyScepter
 1/1150 HorneyFeathers
@@ -43,8 +43,8 @@
 ;Armour
 1/950 HorneySuit(M)
 1/950 HorneySuit(F)
-1/1500 HeavenArmour(M)
-1/1500 HeavenArmour(F)
+1/1500 天衣无缝(男)
+1/1500 天衣无缝(女)
 1/1500 HeavenRedArmour(M)
 1/1500 HeavenRedArmour(F)
 1/1500 HeavenGrnArmour(M)
@@ -85,17 +85,17 @@
 
 
 ;Gems/Orbs
-1/10 BraveryGem
-1/10 MagicGem 
-1/10 SoulGem
-1/15 ProtectionGem
-1/15 EvilSlayerGem
-1/15 DurabilityGem
-1/30 PoisonGem
-1/32 FreezingGem
-1/35 AccuracyGem
-1/35 StormGem
-1/40 EnduranceGem
+1/10 勇猛宝玉
+1/10 魔性宝玉 
+1/10 仙界宝玉
+1/15 守护宝玉
+1/15 制魔宝玉
+1/15 强化宝玉
+1/30 中毒宝玉
+1/32 酷寒宝玉
+1/35 集中宝玉
+1/35 疾风宝玉
+1/40 忍耐宝玉
 1/50 QualityGem
 1/55 CriticalDamgeForge
 1/55 CriticalRateForge
@@ -105,40 +105,40 @@
 
 ;Books
 ;;Warrior
-1/100 BladeAvalanche
-1/300 ProtectionField
-1/400 Rage
-1/500 CounterAttack
+1/100 空破闪
+1/300 护身气幕
+1/400 狂暴
+1/500 反击
 
 ;;Wizard
-1/100 Mirroring
-1/300 MeteorStrike
-1/400 MagicBooster
-1/500 IceThrust
+1/100 分身术
+1/300 流星打击
+1/400 魔力强化
+1/500 冰刺术
 1/600 LavaKing
 1/750 FrozenRains
 
 ;;Taoist
-1/300 Reincarnation
-1/300 PoisonCloud
-1/400 Plague
-1/600 PetEnhancer
+1/300 复活术
+1/300 毒雾
+1/400 瘟疫术
+1/600 宠物强化
 1/750 HeadShot
 1/900 HolyShield
 
 ;;Assassion
-1/100 SwiftFeet
-1/300 DarkBody
-1/500 Hemorrhage
-1/600 Moonmist
+1/100 迅雷疾足
+1/300 暗影替身
+1/500 血凤击
+1/600 月影迷雾
 1/750 ShadowStep
 1/800 FuryWaves
 
-1/100 PoisonShot
-1/300 CrippleShot
-1/600 SummonSnakes
-1/750 NapalmShot
-1/800 OneWithNature
+1/100 毒箭
+1/300 致残射击
+1/600 召唤毒蛇
+1/750 燃烧箭
+1/800 天人合一
 
 ;CraftingMaterials
 

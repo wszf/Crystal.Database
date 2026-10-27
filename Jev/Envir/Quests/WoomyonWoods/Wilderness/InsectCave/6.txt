@@ -1,29 +1,30 @@
 [@Description]
-I lost my bag because of the insects in the cave.
-They took all my belongings. Could you please
-get my stuff back? 
+我在洞里丢了背包。
+它们把我的所有东西都拿走了。能帮我
+把东西取回来吗？
 
 [@TaskDescription]
-Kill {VoiletKekTal/Crimson}, {KekTal/Crimson} and {BlueHoroBlaster's/Crimson} 
+击杀{紫虎虫/Crimson}、{虎虫/Crimson}和{碧蓝魔眼/Crimson}
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-GatheringGlove 1
-GatheringTool 1
-GreenHerb 5
+采药手套 1
+采药工具 1
+绿草药 5
 
 [@CarryItems]
 
 [@FixedRewards]
 
 [@SelectRewards]
-HardSteelSword
-EbonyBangle
-MonkBangle
-SilkShoes
+坚硬凌风
+黑檀神镯
+道士神镯
+丝绸宝鞋
 
 [@ExpReward]
 3800

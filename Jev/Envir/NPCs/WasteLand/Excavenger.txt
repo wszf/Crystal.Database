@@ -1,8 +1,8 @@
 [@Main]
 #SAY
-Hello Traveler. Have you ventured into the caves?
-The Evil within are great. But the rewards can be greater.
-<Close/@exit>
+你好，旅人。你进入过洞穴吗？
+邪恶的力量很强。但奖励可以更丰厚。
+<关闭/@exit>
 
 [Quests]
 138

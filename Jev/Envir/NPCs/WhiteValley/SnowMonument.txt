@@ -1,17 +1,17 @@
 [@MAIN]
 #SAY
-An Monument which read's 
+一个纪念碑上写着 
   
-"Those who dare enters will die"
-<Enter/@move1>
+胆敢进入的人都会死
+<进入/@move1>
  
-<Close/@exit>
+<关闭/@exit>
 
 [@move1]
 #IF
-CHECKEXACTMON SinseokMiner >= 1 SnowCave_BOSS
+CHECKEXACTMON 新石矿工 >= 1 SnowCave_BOSS
 #ACT
 MOVE SnowCave_BOSS 30 37
-LocalMessage "[Sinseok Miner] Who Dares enter my Lair. You shall die with a painful death!" Shout
+LocalMessage "[新石矿工] 谁敢进入我的巢穴。你将遭受痛苦的死亡！" Shout
 #ELSEACT
 MOVE SnowCave_BOSS 30 37

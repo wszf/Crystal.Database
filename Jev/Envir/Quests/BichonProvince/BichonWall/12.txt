@@ -1,12 +1,12 @@
 [@Description]
-Do you know of {CanniTea?/LightSteelBlue} Its the best Tea 
-ever. I want to have some, but it's not easy 
-to get. Could you ask {CraftLady/LimeGreen} to 
-make some {CanniTea/LightSteelBlue} for me? 
- 
+你知道{食人花茶(材料)/LightSteelBlue}吗？那是最好的茶。
+我想要一些，但不容易弄到。你能让{工艺夫人/LimeGreen}给我做一些{食人花茶(材料)/LightSteelBlue}吗？
+
 [@TaskDescription]
 
+
 [@Completion]
+
 
 [@KillTasks]
 

@@ -2,33 +2,33 @@
 #IF
 CHECKPKPOINT > 100
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello i'm Gilbert, the wandering warrior.
-I transport men and goods to other places fast and safe. 
-Just pay the fee then ill escort you to anywhere.
-So what do you say?
+你好，我是流浪的战士吉尔伯特。
+我能快速安全地将人与货物运送到其他地方。 
+交了费用，我带你到任何地方去。
+那您觉得如何？
  
-I'll use this <Service/@tele>
-Maybe next <Time/@exit> 
+我用这个<服务/@tele>。
+也许在下一个<时间/@exit> 
 
 [@tele]
 #SAY
-Which place would you like to go?
+你想去哪个地方？
  
-<<BorderVillage/@Border>>
-<<BichonWall/@BichonWall>>
-<<SerpentValley/@Serpent>>
-<<MudWall/@MudWall>>
-<<TaoistSchool/@TaoVillage>>
-<<CastleGi-Ryoong/@CastleGi>>
+<<边境村/@Border>>
+<<比奇城/@BichonWall>>
+<<毒蛇山谷/@Serpent>>
+<<泥墙村/@MudWall>>
+<<道观/@TaoVillage>>
+<<封魔谷/@CastleGi>>
 
 [@Border]
 #ACT

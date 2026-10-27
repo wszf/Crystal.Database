@@ -1,13 +1,14 @@
 [@Description]
 
+
 [@TaskDescription]
-Travel South-East to {PrajnaTemple/Yellow} and Kill 30 
-{Minotaur's/Crimson}.
+向东南前往{牛魔寺庙八层/Yellow}并杀死30个{牛头魔/Crimson}。
 
 [@Completion]
 
+
 [@KillTasks]
-Minotaur 30
+牛头魔 30
 
 [@ItemTasks]
 

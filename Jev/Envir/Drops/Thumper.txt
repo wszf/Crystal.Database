@@ -6,22 +6,22 @@
 1/2 (HP)Booster
 1/2 (MP)Booster
 1/2 (MP)Booster
-1/2 SunPotion
-1/2 SunPotion
-1/2 SunPotion(M)
-1/2 SunPotion(M)
-1/2 SunPotion(M)
-1/2 SunPotion(M)
+1/2 太阳水
+1/2 太阳水
+1/2 强效太阳水
+1/2 强效太阳水
+1/2 强效太阳水
+1/2 强效太阳水
 
-1/25 ImpactDrug(L) 
-1/25 MagicDrug(L) 
-1/25 TaoistDrug(L) 
-1/25 StormDrug(L) 
-1/25 StaminaAid(L) 
-1/25 MagicAid(L) 
+1/25 攻击药水(大) 
+1/25 魔法药水(大) 
+1/25 道力药水(大) 
+1/25 疾风药水(大) 
+1/25 体力药水(大) 
+1/25 魔力药水(大) 
 
 1/55 Awakeningbox
-1/80 AwakeningSoul0
+1/80 觉醒之魂0
 
 ;;1/150 EasterRobe(M)[1d]
 ;;1/150 EasterRobe(F)[1d]

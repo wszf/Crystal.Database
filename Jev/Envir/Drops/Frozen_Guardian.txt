@@ -2,32 +2,32 @@
 1/3 Gold 5000
 
 ;Pots + Other
-1/1 (HP)DrugMedium
-1/1 (HP)DrugMedium
-1/1 (HP)DrugMedium
-1/1 (HP)DrugMedium
-1/1 (HP)DrugMedium
-1/2 (HP)Druglarge
-1/2 (MP)Druglarge
-1/2 (MP)Druglarge
-1/2 (MP)Druglarge
-1/2 (MP)Druglarge
-1/2 (MP)Druglarge
-1/1 SunPotion
-1/2 SunPotion
-1/1 SunPotion(M)
-1/2 SunPotion(M)
+1/1 金疮药(中量)
+1/1 金疮药(中量)
+1/1 金疮药(中量)
+1/1 金疮药(中量)
+1/1 金疮药(中量)
+1/2 金疮药(大量)
+1/2 魔法药(大量)
+1/2 魔法药(大量)
+1/2 魔法药(大量)
+1/2 魔法药(大量)
+1/2 魔法药(大量)
+1/1 太阳水
+1/2 太阳水
+1/1 强效太阳水
+1/2 强效太阳水
 
 ;Weapons
-1/1000 SilverBow
-1/1000 GreatAxe
-1/1000 MageStaff
-1/1000 SerpentSword
-1/1000 DoubleBlades
+1/1000 银弓
+1/1000 炼狱
+1/1000 魔杖
+1/1000 银蛇
+1/1000 双极刀
 
 ;Weapons Rare
-1/550 DragonSword
-1/550 BloodStealerSword
+1/550 井中月
+1/550 血饮
 1/550 TaoistWidow
 1/550 DragonSabers
 1/600 VanguardBlade
@@ -37,16 +37,16 @@
 1/600 VanguardBlades
 
 ;Armour
-1/400 LightLeatherArmour(M)
-1/400 LightLeatherArmour(F)
-1/400 HeavyArmour(M) 
-1/400 HeavyArmour(F) 
-1/400 MagicRobe(M) 
-1/400 MagicRobe(F) 
-1/400 SoulArmour(M) 
-1/400 SoulArmour(F) 
-1/400 RelicArmour(M)
-1/400 RelicArmour(F)
+1/400 轻皮甲(男)
+1/400 轻皮甲(女)
+1/400 重盔甲(男) 
+1/400 重盔甲(女) 
+1/400 魔法长袍(男) 
+1/400 魔法长袍(女) 
+1/400 灵魂战衣(男) 
+1/400 灵魂战衣(女) 
+1/400 残影魔衣(男)
+1/400 残影魔衣(女)
 
 ;Armour Rare
 1/600 VanguardArmour(M)
@@ -101,4 +101,4 @@
 1/200 AssaultGuards[14d]
 
 ;Quests
-1/2 WoomaHeart Q
+1/2 沃玛之心 Q

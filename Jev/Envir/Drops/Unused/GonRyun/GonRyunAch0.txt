@@ -2,8 +2,8 @@
 1/1 Gold 3000
 
 ;Potions
-1/8 SunPotion
-1/8 SunPotion
+1/8 太阳水
+1/8 太阳水
 
 ;Stone
 1/1940 HolyMcStone
@@ -20,7 +20,7 @@
 
 
 ;Belt
-1/7352 BeltOfDarkness
+1/7352 黑术腰
 1/7353 AscendedBelt
 1/7355 StrapofTrolls
 
@@ -37,14 +37,14 @@
 1/1125 FreezingFragment
 1/1125 AgilityFragment
 1/1125 EnduranceFragment
-1/1130 IceMarble
-1/1900 Armourcasttool 
+1/1130 寒冰珠
+1/1900 铠甲铸造工具 
 1/1900 TranslucentCrystal
-1/1900 Armourbook(DC)
-1/1900 Armourbook(SC)
-1/1900 Armourbook(MC)
-1/1900 RustyArmour
-1/1900 BookofSpirit
-1/1900 HavocCrystal
+1/1900 盔甲之书(勇猛)
+1/1900 盔甲之书(仙术)
+1/1900 盔甲之书(魔界)
+1/1900 锈蚀的古代盔甲
+1/1900 精神之书
+1/1900 浩劫水晶
 
 

@@ -1,11 +1,11 @@
 1/1 Gold 750
 
 ;Pots + Other
-1/6 (HP)DrugLarge
-1/6 (MP)DrugLarge
+1/6 金疮药(大量)
+1/6 魔法药(大量)
 
-1/40 AwakeningSoul0
-1/40 AwakeningSoul0
+1/40 觉醒之魂0
+1/40 觉醒之魂0
 
 
 ;Weapons

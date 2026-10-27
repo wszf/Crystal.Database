@@ -1,13 +1,14 @@
 [@Description]
-{Blacksmith Jang/LimeGreen}, has requested some help.
-Please can you go speak to him he is located
-in {WoomyonWoods/Yellow} If you follow the path North
-it will lead you to {WoomyonWoods/Yellow} town.
+{铁匠张/LimeGreen}需要一些帮助。
+能去跟他谈谈吗？他在
+{沃玛森林/Yellow}。如果沿着北边的路走
+，会到达{沃玛森林/Yellow}镇。
 
 [@TaskDescription]
-Travel to {WoomyonWoods/Yellow} and speak to {Jang/LimeGreen}.
+前往{沃玛森林/Yellow}并与{张/LimeGreen}交谈。
 
 [@Completion]
+
 
 [@KillTasks]
 

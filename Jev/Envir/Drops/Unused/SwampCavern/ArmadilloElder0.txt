@@ -2,48 +2,48 @@
 1/10 Gold 1450
 
 ;Pots + Other
-1/10 (HP)DrugLarge
-1/10 (MP)DrugLarge
-1/30 (HP)DrugXL
-1/30 (MP)DrugXL
+1/10 金疮药(大量)
+1/10 魔法药(大量)
+1/30 金疮药(特大)
+1/30 魔法药(特大)
 
 ;Helmets
-1/960 SkeletonHelmet
-1/960 ShamanHelmet
+1/960 骷髅头盔
+1/960 道士头盔
 
 ;Necklace
-1/940 BlueJadeNecklace
-1/940 ConvexLens
-1/940 BambooPipe
-1/11000 ClawNecklace
-1/11000 LifeNecklace
-1/11000 PearlNecklace
-1/11200 ThunderRing
-1/11200 NobleRing
+1/940 蓝翡翠项链
+1/940 放大镜
+1/940 竹笛
+1/11000 幽灵项链
+1/11000 生命项链
+1/11000 天珠项链
+1/11200 雷霆环
+1/11200 鬼刃环
 
 
-1/4200 SoulRing
+1/4200 心意环
 
 ;Bracelets
-1/900 SharpBracelet
-1/920 EvadeBracelet
-1/925 MundaneGlove
-1/925 NokChiWheel
-1/925 TaoProtectBracelet
-1/14200 KnightBracelet
-1/14200 BaekTaGlove
-1/14200 8TrigramWheel
+1/900 夏普儿手镯
+1/920 辟邪手镯
+1/925 平凡护腕
+1/925 天音轮
+1/925 道力手镯
+1/14200 骑士手镯
+1/14200 白驼手套
+1/14200 八极轮
 
-1/14200 HangMaWheel
-1/14200 SpiritReformer
+1/14200 抗魔轮
+1/14200 魂锁轮
 
-1/14200 BokMaWheel
-1/14200 HolyTaoWheel
+1/14200 伏魔轮
+1/14200 太极轮
 
 ;Rings
-1/940 CoralRing
-1/900 ExpelRing
+1/940 珊瑚戒指
+1/900 降妖除魔戒指
 
 
 ;Belts
-1/10000 GoldBelt
+1/10000 黄金腰带

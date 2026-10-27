@@ -1,30 +1,30 @@
 [@Main]
 #SAY
-(Hmm?! There is a note left in the skeleton pile?)
+(嗯？！骨架堆里留了张字条？)
  
-<Read/@Read>
+<阅读/@Read>
  
-<Close/@exit>
+<关闭/@exit>
 
 
 [@Read]
 #SAY
-"From another being who endlessly wanders this place,"
-"Obtain the scroll and bring it to me."
+来自另一个在这片土地上无止境徘徊的生灵，
+拿到卷轴给我。
  
-(Is this the scroll?)
-(<I should try it out./@Enter>)
+(这是卷轴吗？)
+(<我应该试试看。/@Enter>)
 
 
 [@Enter]
 #IF
-CHECKITEM ScrollOfSeal 1
+CHECKITEM 凭证 1
 #ACT
-TAKEITEM ScrollOfSeal 1
+TAKEITEM 凭证 1
 MOVE LABY01
 
 #ELSESAY
-You need to have the {ScrollOfSeal/LightSteelBlue} to enter!
+你需要有{凭证/LightSteelBlue}才能进入！
  
-<Close/@Exit>
+<关闭/@Exit>
 

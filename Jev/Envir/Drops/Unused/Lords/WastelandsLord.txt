@@ -1,50 +1,50 @@
 ;Gold
 1/1 Gold 35000
-1/10 GoldBar
+1/10 金条
 
 ;Pots + Other
-1/1 (HP)DrugXL
-1/2 (HP)DrugXL
-1/1 (MP)DrugXL
-1/2 (MP)DrugXL
-1/1 SunPotion
-1/1 SunPotion
-1/1 SunPotion(M)
-1/1 SunPotion(M)
-1/1 SunPotion
-1/1 SunPotion
-1/2 SunPotion
-1/2 SunPotion
-1/1 SunPotion
-1/2 SunPotion
+1/1 金疮药(特大)
+1/2 金疮药(特大)
+1/1 魔法药(特大)
+1/2 魔法药(特大)
+1/1 太阳水
+1/1 太阳水
+1/1 强效太阳水
+1/1 强效太阳水
+1/1 太阳水
+1/1 太阳水
+1/2 太阳水
+1/2 太阳水
+1/1 太阳水
+1/2 太阳水
 
 
-1/1 BenedictionOil
+1/1 祝福油
 1/10 GoldenBenedictionOil
 
 
 1/1 Awakeningbox 
-1/1 AwakeningSoul0 
+1/1 觉醒之魂0 
 
 ;Weapons
-1/200 MaleficBow
-1/200 DragonSlayer
-1/200 DragonStaff
-1/200 SoulSabre
-1/450 SwordOfWarGod
-1/450 BowOfForce
-1/450 BladeOfSorcery
-1/450 HeavenSword
-1/800 FrozenSabre
-1/800 ConquerorSpear
-1/800 BastardSword
-1/1000 BlackTigerHammer
-1/1000 LethalBow
-1/1000 StaffOfLotus
-1/1000 FanOfCrane
+1/200 邪弓
+1/200 屠龙
+1/200 噬魂法杖
+1/200 龙纹剑
+1/450 开天
+1/450 力量之弓
+1/450 镇天
+1/450 玄天
+1/800 寒霜剑
+1/800 月轮枪
+1/800 月轮剑
+1/1000 黑虎斧
+1/1000 致命之弓
+1/1000 火莲杖
+1/1000 鹤羽扇
 
 ;Weapons Rare
-1/1400 HellYamaBlade
+1/1400 阎狱之剑
 1/1600 WidowsWail
 1/1600 ThorsBattleAxe
 1/1600 OathKeeper
@@ -54,12 +54,12 @@
 1/6000 LordSlayerBlades
 
 ;Armour
-1/300 BlackTigerArmour(M)
-1/300 BlackTigerArmour(F)
-1/300 LotusArmour(M)
-1/300 LotusArmour(F)
-1/300 CraneArmour(M)
-1/300 CraneArmour(F)
+1/300 黑虎甲胄(男)
+1/300 黑虎甲胄(女)
+1/300 莲盛魔衣(男)
+1/300 莲盛魔衣(女)
+1/300 鹤羽圣衣(男)
+1/300 鹤羽圣衣(女)
 
 ;Armour Rare
 1/1000 TrollsRobe(M)
@@ -68,11 +68,11 @@
 1/6000 LordSlayerArmour(F)
 
 ;Helmets
-1/40 GreatHelmet
-1/40 WisdomCoronet
-1/40 TaoCoronet
-1/40 RoyalHelmet
-1/450 SparklingHelmet
+1/40 英雄头盔
+1/40 贤者帽
+1/40 通天冠
+1/40 修罗头盔
+1/450 贝玉头盔
 1/460 PuiYuHelmet
 
 ;Helmets Rare
@@ -82,12 +82,12 @@
 1/6000 LordSlayerHelmet
 
 ;Necklace
-1/100 CuspidNecklace
-1/100 SorceryAnchor
-1/100 PurifiedMirror
-1/205 EvilTriangle
-1/205 CrossPurified
-1/205 AdamantNecklace
+1/100 破角
+1/100 针坠
+1/100 心如明镜
+1/205 曜紫天坠
+1/205 秀女十字盘
+1/205 金刚陶坠
 1/600 DefenderNecklace
 1/800 AscendedNecklace
 
@@ -98,12 +98,12 @@
 1/6000 LordSlayerNecklace
 
 ;Bracelets
-1/100 DualTitanAmulet
-1/100 SacredAngelAmulet
-1/100 EvilWhispAmulet
-1/205 WildTitanAmulet
-1/205 EnchantedAmulet
-1/205 FiveElementAmulet
+1/100 铁魔双轮
+1/100 玉女天使
+1/100 曜火虹轮
+1/205 暴虎归山
+1/205 曜宝探魔轮
+1/205 五行悟思轮
 1/600 DefenderGlove
 1/800 AscendedWheel
 
@@ -114,12 +114,12 @@
 1/6000 LordSlayerBracelet
 
 ;Rings
-1/100 PledgeRing
-1/100 FiveElementRing
-1/100 CrimsonRubyRing
-1/205 DemonRubyRing
-1/205 EvilExpelRing
-1/205 GoldDragonRing
+1/100 盟约戒指
+1/100 五行连环
+1/100 血玉环
+1/205 飞曜环
+1/205 金刚伏魔环
+1/205 金龙戒指
 1/600 DefenderRing
 1/800 AscendedRing
 
@@ -155,37 +155,37 @@
 ;Stone
 
 ;Gems/Orbs
-1/30 BraveryOrb
-1/30 MagicOrb
-1/30 SoulOrb
-1/25 ProtectionOrb
-1/25 EvilSlayerOrb
-1/20 DurabilityOrb
-1/40 PoisonOrb
-1/40 FreezingOrb
-1/40 AccuracyOrb
-1/40 StormOrb
-1/40 EnduranceOrb
+1/30 勇猛神珠
+1/30 魔性神珠
+1/30 仙界神珠
+1/25 守护神珠
+1/25 制魔神珠
+1/20 强化神珠
+1/40 中毒神珠
+1/40 酷寒神珠
+1/40 集中神珠
+1/40 疾风神珠
+1/40 忍耐神珠
 
 
 ;Books
 1/100 SliceNDice
-1/200 SummonHolyDeva
-1/200 Mirroring
-1/200 SwiftFeet
-1/200 BladeAvalanche
-1/500 ProtectionField
-1/500 Reincarnation
-1/500 MeteorStrike
-1/500 PoisonCloud
-1/500 Rage
-1/500 Plague
-1/500 MagicBooster
-1/500 Hemorrhage
-1/500 CounterAttack
-1/900 SlashingBurst
-1/900 MoonMist
-1/900 StormEscape
+1/200 召唤圣灵
+1/200 分身术
+1/200 迅雷疾足
+1/200 空破闪
+1/500 护身气幕
+1/500 复活术
+1/500 流星打击
+1/500 毒雾
+1/500 狂暴
+1/500 瘟疫术
+1/500 魔力强化
+1/500 血凤击
+1/500 反击
+1/900 日闪
+1/900 月影迷雾
+1/900 风暴逃脱
 1/700 LavaKing
 1/750 FrozenRains
 1/850 HeadShot
@@ -194,11 +194,11 @@
 1/1280 FuryWaves
 1/1200 HolyShield
 
-1/100 PoisonShot 
-1/200 CrippleShot
-1/500 SummonSnakes 		
-1/90 NapalmShot 		
-1/1200 OneWithNature
+1/100 毒箭 
+1/200 致残射击
+1/500 召唤毒蛇 		
+1/90 燃烧箭 		
+1/1200 天人合一
 
 
 ;CraftingMaterials

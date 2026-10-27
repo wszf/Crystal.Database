@@ -2,43 +2,43 @@
 1/1 Gold 15000
 
 ;Pots + Other
-1/1 (HP)DrugLarge
-1/1 (HP)DrugLarge
-1/2 (HP)DrugLarge
-1/2 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/1 (MP)DrugLarge
-1/2 (MP)DrugLarge
-1/2 (MP)DrugLarge
-1/1 (HP)DrugXL
-1/1 (HP)DrugXL
-1/2 (HP)DrugXL
-1/2 (HP)DrugXL
-1/1 (MP)DrugXL
-1/1 (MP)DrugXL
-1/2 (MP)DrugXL
-1/2 (MP)DrugXL
-1/1 SunPotion(M)
-1/1 SunPotion(M)
-1/1 SunPotion(M)
-1/1 SunPotion(M)
-1/2 SunPotion(M)
-1/2 SunPotion(M)
-1/2 SunPotion(M)
-1/2 SunPotion(M)
+1/1 金疮药(大量)
+1/1 金疮药(大量)
+1/2 金疮药(大量)
+1/2 金疮药(大量)
+1/1 魔法药(大量)
+1/1 魔法药(大量)
+1/2 魔法药(大量)
+1/2 魔法药(大量)
+1/1 金疮药(特大)
+1/1 金疮药(特大)
+1/2 金疮药(特大)
+1/2 金疮药(特大)
+1/1 魔法药(特大)
+1/1 魔法药(特大)
+1/2 魔法药(特大)
+1/2 魔法药(特大)
+1/1 强效太阳水
+1/1 强效太阳水
+1/1 强效太阳水
+1/1 强效太阳水
+1/2 强效太阳水
+1/2 强效太阳水
+1/2 强效太阳水
+1/2 强效太阳水
 
-1/2 BenedictionOil
-1/5 BenedictionOil
+1/2 祝福油
+1/5 祝福油
 
-1/10 ImpactDrug(L)
-1/10 MagicDrug(L)
-1/10 TaoistDrug(L)
-1/10 StormDrug(L)
+1/10 攻击药水(大)
+1/10 魔法药水(大)
+1/10 道力药水(大)
+1/10 疾风药水(大)
 
 
 
-1/5 AwakeningSoul0
-1/20 AwakeningSoul0
+1/5 觉醒之魂0
+1/20 觉醒之魂0
 
 
 ;Weapons
@@ -81,8 +81,8 @@
 
 
 ;CraftingMaterials
-1/20 DragonScale
-1/40 RedEyeSkull
+1/20 龙鳞
+1/40 邪眼骷髅
 
 
 ;Quests

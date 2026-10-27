@@ -2,8 +2,8 @@
 1/14 Gold 1700
 
 ;Pots + Other
-1/5 (HP)DrugXL
-1/5 (MP)DrugXL
+1/5 金疮药(特大)
+1/5 魔法药(特大)
 
 
 

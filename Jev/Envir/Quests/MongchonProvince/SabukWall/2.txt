@@ -1,17 +1,18 @@
 [@Description]
-Hello Mirian, I'm still missing {Volume 1/LightSteelBlue} and {2/LightSteelBlue}, 
+你好米里安，我还是缺少{第一卷/LightSteelBlue}和{2/LightSteelBlue}，
 
 [@TaskDescription]
-Please return to the {Hidden Entrance/Yellow} 
-And retrieve {Volume 1/LightSteelBlue} and {2/LightSteelBlue}.
+请返回{隐藏入口/Yellow}
+并取回{第一卷/LightSteelBlue}和{2/LightSteelBlue}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-BichonTales(1) 1
-BichonTales(2) 1
+比奇令牌(1) 1
+比奇令牌(2) 1
 
 [@CarryItems]
 

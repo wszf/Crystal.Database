@@ -2,26 +2,26 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Traveller, I will purchase any Stones you have.
+旅人，我愿意购买你所有的石头。
  
-<Sell/@sell> Stones.
+<出售/@sell> 石头。
  
-<Close/@exit>
+<关闭/@exit>
 
 [@Sell]
 #SAY
-Show me which Stones you wish to sell.
+展示您想要出售的石头。
  
-<Back/@main>
+<返回/@main>
 
 [Types]
 11

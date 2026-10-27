@@ -2,48 +2,48 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello I'm the inspector dispatched from Bichon.
-I sincerely ask you to cooperate with the authorities
-if and when something happens around here.
- <Ask/@ask1> what he is investigating
- <Ask/@ask2> about the Bottomless Pit
- <Close/@exit>
+大家好，我是从比奇省派来的检查员。
+我真诚地请求你配合管理人员
+如果这里发生任何事情。
+ <询问/@ask1> 他正在调查什么
+ <询问/@ask2> 关于无底深渊
+ <关闭/@exit>
 
 [@ask1]
-Lately, a number of unidentified monsters have been seen
-lurking around here,so I've been sent to find the cause.
-according to some rumors, there is a place called the
-"Bottomless Pit" on this island. I'm investigating
-whether that place has something to do with monsters.
- <Next/@next1>
+最近看到一些不明的怪物
+在这里游荡，所以我被派来找出原因。
+根据一些传言，有一个叫作的
+底部深渊 在这个岛上。我正在调查
+不知道那个地方是否和怪物有关。
+ <下一页/@next1>
 
 [@next1]
-We haven't been able to locate the exact position of this
-Bottomless Pit... If you discover it's whereabouts,
-please make sure you inform me as soon as you can.
- <Close/@exit>
+我们还没能找到这个的准确位置
+无底深渊……如果你发现它的下落，
+请您一有空就通知我。
+ <关闭/@exit>
 
 [@ask2]
-I dont actually know in great detail, but from what I heard,
-the place is haunted by mysterious forces, and because of that
-many villagers have disappeared without trace. People here are
-now calling it the "Bottomless Pit", an they have taken to
-avoid being out in the wilderness alone.
- <Next/@next2>
+我其实不太了解细节，但据我所听来，
+这里被神秘的力量附着，正因为这一点
+许多村民无踪无迹地失踪了。这里的居民是
+现在称之为“无底深渊”，他们开始
+不要独自在荒野里游荡。
+ <下一页/@next2>
 
 [@next2]
-I'm afraid that's all the information I have. If you want to
-know more about it, go and speak to the village chief
- <Close/@exit>
+恐怕这就是我所有的消息了。如果你想
+想了解更多，去和村长说说话
+ <关闭/@exit>
 
 [Quests]
 121

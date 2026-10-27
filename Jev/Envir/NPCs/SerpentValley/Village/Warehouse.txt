@@ -2,29 +2,29 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello traveller. How can i help you?
+欢迎过客。有什么可以帮您？
  
-<Access/@Storage> Storage
-You have <$PARCELAMOUNT> parcels awaiting collection.
-<Send/@SendParcel> Parcel
-<Collect/@CollectParcel> Parcels
+<进入/@Storage> 仓库
+你有<$PARCELAMOUNT>个等待领取包裹。
+<发送/@SendParcel> 包裹
+<领取/@CollectParcel> 包裹
  
-<Close/@exit>
+<关闭/@exit>
 
 
 
 [@Storage]
 #SAY
-What item do you want to store or withdraw?
+你想存入或取出什么物品？
  
-<Back/@Main> - <Close/@exit>
+<返回/@Main> - <关闭/@exit>
 

@@ -2,42 +2,42 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello, Are you looking for something particular? 
-How can I be of assistance.
+你好，您是想找点什么吗？ 
+有什么可以帮你的吗。
  
-<View/@BuySell> Store.
-<Repair/@Repair> Weapon.
+<查看/@BuySell> 商店。
+<修理/@Repair> 武器。
  
-<Close/@exit>
+<关闭/@exit>
 
 [@BuySell]
 #SAY
-Which item would you like to Buy or Sell?
-<Buy Back/@BuyBack>
+你想买卖什么物品？
+<回购/@BuyBack>
  
-<Back/@main>
+<返回/@main>
 
 [@BuyBack]
 #SAY
-These are the items still available to purchase back.
+这些是仍然可以购买的物品。
  
-<Back/@main>
+<返回/@main>
 
 [@Repair]
 #SAY
-Would you like to repair a weapon?
-Show me the weapon that needs it.
+你想修理一件武器吗？
+展示需要此材料的武器。
  
-<Back/@main>
+<返回/@main>
 
 
 [Types]
@@ -45,27 +45,27 @@ Show me the weapon that needs it.
 14
 
 [Trade]
-EbonySword
-EbonyBow
-BronzeSword
-ShortBow
-ShortSword
-SharpHoaSword
-BoneBow
-Ironsword
-BronzeAxe
-Trident
-HookedSword
-Scimitar
-BladesOfVelocity
-CompoundBow
-SteelAxe
-SteelSword
-PrinceDagger
-MartialSword
-KrissSword
-HookedSpear
-IronBlades
-LongBow
-PowerAxe
-PurifierSword
+乌木剑
+乌木弓
+青铜剑
+短弓
+短剑
+暴虎刀
+骨弓
+铁剑
+青铜斧
+海魂
+八荒
+半月
+音速刀
+复合弓
+钢斧
+凌风
+破魂
+斩马刀
+降魔
+偃月
+墨铁刀
+长弓
+修罗
+凝霜

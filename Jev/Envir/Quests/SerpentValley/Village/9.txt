@@ -1,21 +1,22 @@
 [@Description]
-Hello traveller. I also need some fruit to make 
-this wine. Could you get me 10 {EbonyFruit/LightSteelBlue}.
+你好，旅人。我还需要一些水果来酿制
+这酒。能帮我弄到10个{乌木果/LightSteelBlue}吗？
 
 [@TaskDescription]
-Please collect 10 {EbonyFruit/LightSteelBlue}
+请收集10个{乌木果/LightSteelBlue}
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-Ebony(Fruit) 10
+乌木果(材料) 10
 
 [@CarryItems]
 
 [@FixedRewards]
-SuperiorBronzeHelmet
+纯铜头盔
 
 [@SelectRewards]
 

@@ -1,27 +1,25 @@
 [@Description]
-Thankyou traveler. For returning my son's {Robe/LightSteelBlue} I have a task
-if your to the challenge. My Son was looking for some treasure in 
-{SerpentDeadMine/Yellow} There was a letter in his Robes saying he found
-the Gold. Please return and retrieve the {StolenGold/LightSteelBlue}
+谢谢你，旅人。为了还回我儿子的 {长袍/LightSteelBlue}，我有了一个任务，如果你敢接受的话。我儿子在 {毒蛇死矿/Yellow}寻找宝物，他的长袍里有一封信说他找到了金子。请帮我取回 {失窃的金币/LightSteelBlue}。
 
 [@TaskDescription]
-Kill {RotNdZombie/Crimson} located on {SerpentDeadMine 2F/Yellow}
+杀死位于 {毒蛇死矿/Yellow} 的 {暗之石肤僵尸/Crimson}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-StolenGold 1
+失窃的金币 1
 
 [@CarryItems]
 
 [@FixedRewards]
 
 [@SelectRewards]
-BlackCrystalRing
-EyeofGoldenSnake
-BlackPearlRing 
+黑水晶戒指
+黄金蛇眼
+黑珍珠戒指 
 
 [@ExpReward]
 4800

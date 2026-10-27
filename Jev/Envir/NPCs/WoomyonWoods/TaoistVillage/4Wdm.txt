@@ -2,30 +2,30 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-What kind of Poison would you like to purchase?
+你想购买哪种毒药？
  
-<Purchase/@Buy> Poison.
+<购买/@Buy> 毒药。
  
-<Close/@exit>
+<关闭/@exit>
 
 [@Buy]
 #SAY
-What Posion's do you wish to buy?
+您想购买什么药水？
  
-<Close/@exit>
+<关闭/@exit>
  
 [Types]
 13
 
 [Trade]
 GrenPoison
-RedPoison
+黄色药粉

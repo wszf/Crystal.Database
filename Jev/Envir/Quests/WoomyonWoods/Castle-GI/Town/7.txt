@@ -1,28 +1,29 @@
 [@Description]
-We have been receiving new report's.
-There is a New type of creature in the {Temple/Yellow}.
+我们收到了新的报告。
+在 {沃玛寺庙/Yellow} 有一种新型的生物。
 
 [@TaskDescription]
-Eliminate 30 {WoomaWarrior's/Crimson} and a 
-{WoomaGaurdian/Crimson} and return his {Horn/LightSteelBlue}.
+消灭 {沃玛勇士/Crimson} 30只和
+{沃玛守卫/Crimson} 一只，并带回它的 {角/LightSteelBlue}。
 
 [@Completion]
 
+
 [@KillTasks]
-WoomaWarrior 30
-WoomaGuardian 1
+沃玛勇士 30
+沃玛卫士 1
 
 [@ItemTasks]
-WoomasHorn 1
+沃玛的号角 1
 
 [@CarryItems]
 
 [@FixedRewards]
 
 [@SelectRewards]
-BlueJadePendant
-WizardRing
-RingOfMoral
+蓝翡翠挂坠
+法师之戒
+道德之戒
 
 [@ExpReward]
 11000

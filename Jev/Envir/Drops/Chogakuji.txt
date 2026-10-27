@@ -8,8 +8,8 @@
 1/25 (MP)Booster
 
 
-1/40 AwakeningSoul0
-1/50 AwakeningSoul0
+1/40 觉醒之魂0
+1/50 觉醒之魂0
 
 
 ;Weapons

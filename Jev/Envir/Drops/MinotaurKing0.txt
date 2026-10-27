@@ -2,29 +2,29 @@
 1/2 Gold 25000
 
 ;Pots + Other
-1/1 (HP)DrugXL
-1/1 (MP)DrugXL
-1/1 (HP)DrugXL
-1/1 (MP)DrugXL
-1/1 (HP)DrugXL
-1/1 (MP)DrugXL
-1/1 (HP)DrugXL
-1/1 (MP)DrugXL
-1/1 (HP)DrugXL
-1/1 (MP)DrugXL
-1/2 Sunpotion
-1/2 Sunpotion
-1/2 Sunpotion(M)
-1/2 Sunpotion(M)
-1/2 Sunpotion(M)
-1/2 Sunpotion(M)
-1/2 Sunpotion(M)
-1/2 Sunpotion(M)
+1/1 金疮药(特大)
+1/1 魔法药(特大)
+1/1 金疮药(特大)
+1/1 魔法药(特大)
+1/1 金疮药(特大)
+1/1 魔法药(特大)
+1/1 金疮药(特大)
+1/1 魔法药(特大)
+1/1 金疮药(特大)
+1/1 魔法药(特大)
+1/2 太阳水
+1/2 太阳水
+1/2 强效太阳水
+1/2 强效太阳水
+1/2 强效太阳水
+1/2 强效太阳水
+1/2 强效太阳水
+1/2 强效太阳水
 
-1/1 BenedictionOil
+1/1 祝福油
 
-1/20 AwakeningSoul0
-1/20 AwakeningSoul0
+1/20 觉醒之魂0
+1/20 觉醒之魂0
 1/75 MinotaurKingRune
 
 

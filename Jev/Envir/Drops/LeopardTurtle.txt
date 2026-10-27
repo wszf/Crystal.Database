@@ -2,8 +2,8 @@
 1/20 Gold 1200
 
 ;Pots + Other
-1/5 (HP)DrugXL
-1/5 (MP)DrugXL
+1/5 金疮药(特大)
+1/5 魔法药(特大)
 
 1/1125 BraveryFragment
 1/1125 MagicFragment
@@ -18,27 +18,27 @@
 1/1125 FreezingFragment
 1/1125 AgilityFragment
 1/1125 EnduranceFragment
-1/1130 IceMarble
-1/1900 Armourcasttool 
+1/1130 寒冰珠
+1/1900 铠甲铸造工具 
 1/1900 TranslucentCrystal
-1/1900 Armourbook(DC)
-1/1900 Armourbook(SC)
-1/1900 Armourbook(MC)
-1/1900 RustyArmour
-1/1900 BookofSpirit
-1/1900 HavocCrystal
+1/1900 盔甲之书(勇猛)
+1/1900 盔甲之书(仙术)
+1/1900 盔甲之书(魔界)
+1/1900 锈蚀的古代盔甲
+1/1900 精神之书
+1/1900 浩劫水晶
 
-1/5000 FiveStringNecklace
-1/5000 FiveStringBracelet
-1/5000 FiveStringring
-1/5000 PurityNecklace
-1/5000 PurityBracelet
-1/5000 Purityring
+1/5000 五玄项链
+1/5000 五玄手镯
+1/5000 五玄戒指
+1/5000 灵玉项链
+1/5000 灵玉手镯
+1/5000 灵玉戒指
 1/5000 DarkGhostChain
-1/5000 SmashPendulum
-1/5000 SmashWheel
+1/5000 破碎项链
+1/5000 破碎手镯
 1/5000 DarkGhostBracelet
-1/5000 HwanDevilRing
+1/5000 青魔戒指
 
 
 

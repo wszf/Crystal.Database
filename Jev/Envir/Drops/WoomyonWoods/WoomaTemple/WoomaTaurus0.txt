@@ -3,21 +3,21 @@
 
 
 ;Pots + Other
-1/1 (HP)DrugMedium 
-1/1 (MP)DrugMedium 
-1/1 (HP)DrugMedium 
-1/1 (MP)DrugMedium 
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/1 SunPotion 
-1/1 SunPotion(M)
+1/1 金疮药(中量) 
+1/1 魔法药(中量) 
+1/1 金疮药(中量) 
+1/1 魔法药(中量) 
+1/1 金疮药(大量)
+1/1 魔法药(大量)
+1/1 太阳水 
+1/1 强效太阳水
 
-1/15 BenedictionOil
-1/10 WoomaHorn
-1/10 WoomaHeart
+1/15 祝福油
+1/10 沃玛号角
+1/10 沃玛之心
 
-1/40 AwakeningSoul0
-1/40 AwakeningSoul0
+1/40 觉醒之魂0
+1/40 觉醒之魂0
 
 
 ;Weapons
@@ -69,7 +69,7 @@
 
 
 ;Quests
-1/1 WoomaHeart Q
+1/1 沃玛之心 Q
 1/10 HeartLocket Q
 1/2 GuardianBlades Q
 1/1 WoomaTempleMap Q

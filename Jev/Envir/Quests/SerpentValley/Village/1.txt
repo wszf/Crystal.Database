@@ -1,18 +1,16 @@
 [@Description]
-Hello traveller. I was returning to {SerpentValley/Yellow}
-from {MongchonProvince/Yellow}. But I was attacked by 
-{Currish/Crimson} and dropped my bag. My priceless 
-{JadeRing/LightSteelBlue} was in the bag.
+你好，旅人。我正从 {盟重省/Yellow}返回 {毒蛇山谷/Yellow}。结果被 {恶狼/Crimson}袭击，掉了我的包。我无价的 {翡翠戒指/LightSteelBlue}就在包里。
 
 [@TaskDescription]
-Find the {JadeRing/LightSteelBlue} from {Currish/Crimson}.
+从 {恶狼/Crimson}那里找到 {翡翠戒指/LightSteelBlue}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-JadeRing 1
+翡翠戒指 1
 
 [@CarryItems]
 

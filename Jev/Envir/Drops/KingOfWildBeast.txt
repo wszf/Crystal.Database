@@ -2,92 +2,92 @@
 1/1 Gold 30000
 
 ;Pots + Other
-1/1 (HP)DrugLarge
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/1 (MP)DrugLarge
-1/1 (HP)DrugXL
-1/1 (HP)DrugXL
-1/1 (MP)DrugXL
-1/1 (MP)DrugXL
-1/1 SunPotion
-1/2 SunPotion
-1/3 SunPotion(M)
-1/5 SunPotion(M)
+1/1 金疮药(大量)
+1/1 金疮药(大量)
+1/1 魔法药(大量)
+1/1 魔法药(大量)
+1/1 金疮药(特大)
+1/1 金疮药(特大)
+1/1 魔法药(特大)
+1/1 魔法药(特大)
+1/1 太阳水
+1/2 太阳水
+1/3 强效太阳水
+1/5 强效太阳水
 
-1/10 ImpactDrug(L)
-1/10 MagicDrug(L)
-1/10 TaoistDrug(L)
-1/10 StormDrug(L)
+1/10 攻击药水(大)
+1/10 魔法药水(大)
+1/10 道力药水(大)
+1/10 疾风药水(大)
 
-1/15 BenedictionOil
+1/15 祝福油
 1/40 GoldenBenedictionOil
 
-1/40 AwakeningSoul0
-1/40 AwakeningSoul0
+1/40 觉醒之魂0
+1/40 觉醒之魂0
 
 ;Weapons
-1/250 MaleficBow
-1/250 DragonSlayer
-1/250 DragonStaff
-1/250 SoulSabre
-1/450 BurstSword
-1/450 DreadBow
-1/450 HolyBloodSpear
-1/450 DragonBloodSword
+1/250 邪弓
+1/250 屠龙
+1/250 噬魂法杖
+1/250 龙纹剑
+1/450 魔血剑
+1/450 恐惧之弓
+1/450 神血枪
+1/450 龙血剑
 
 ;Weapon Rare
-1/900 BlackTigerHammer
-1/900 StaffOfLotus
-1/900 LethalBow
-1/900 FanOfCrane
+1/900 黑虎斧
+1/900 火莲杖
+1/900 致命之弓
+1/900 鹤羽扇
 
 ;Armour
-1/20 StuddedArmour(M)
-1/20 StuddedArmour(F)
-1/20 SteelArmour(M)
-1/20 SteelArmour(F)
-1/20 DragonRobe(M)
-1/20 DragonRobe(F)
-1/20 TitanArmour(M)
-1/20 TitanArmour(F)
+1/20 镶钉铠甲(男)
+1/20 镶钉铠甲(女)
+1/20 鬼面甲胄(男)
+1/20 鬼面甲胄(女)
+1/20 火龙魔衣(男)
+1/20 火龙魔衣(女)
+1/20 玄天宝衣(男)
+1/20 玄天宝衣(女)
 
 ;Armour Rare
-1/500 BlackTigerArmour(M)
-1/500 BlackTigerArmour(F)
-1/500 LotusArmour(F)
-1/500 LotusArmour(M)
-1/500 CraneArmour(F)
-1/500 CraneArmour(M)
+1/500 黑虎甲胄(男)
+1/500 黑虎甲胄(女)
+1/500 莲盛魔衣(女)
+1/500 莲盛魔衣(男)
+1/500 鹤羽圣衣(女)
+1/500 鹤羽圣衣(男)
 
 ;Helmets
 1/545 ApesCrown
-1/550 SparklingHelmet
-1/560 HelmetOfDarkness
+1/550 贝玉头盔
+1/560 黑术冠
 
 ;Helmets Rare
 1/400 AscendedHelmet
 
 ;Necklace
-1/205 EvilTriangle
-1/205 CrossPurified
-1/205 AdamantNecklace
+1/205 曜紫天坠
+1/205 秀女十字盘
+1/205 金刚陶坠
 
 ;Necklace Rare
 1/400 AscendedNecklace
 
 ;Bracelets
-1/205 WildTitanAmulet
-1/205 EnchantedAmulet
-1/205 FiveElementAmulet
+1/205 暴虎归山
+1/205 曜宝探魔轮
+1/205 五行悟思轮
 
 ;Bracelets Rare
 1/400 AscendedWheel
 
 ;Rings
-1/205 DemonRubyRing
-1/205 EvilExpelRing
-1/205 GoldDragonRing
+1/205 飞曜环
+1/205 金刚伏魔环
+1/205 金龙戒指
 
 ;Ring Rare
 1/400 AscendedRing
@@ -101,9 +101,9 @@
 
 ;Belts
 1/40 BoneBelt
-1/150 FlamingGrasp
-1/260 SparklingBelt
-1/165 BeltOfDarkness
+1/150 烈焰之握
+1/260 贝玉腰带
+1/165 黑术腰
 
 ;Belt Rare
 1/400 AscendedBelt
@@ -121,45 +121,45 @@
 
 
 ;Gems/Orbs
-1/50 FreezingOrb
-1/50 DurabilityOrb
-1/50 BraveryOrb
-1/50 MagicOrb
-1/50 SoulOrb
-1/50 ProtectionOrb
-1/50 EvilSlayerOrb
-1/50 PoisonOrb
-1/50 AccuracyOrb
-1/50 AgilityOrb
+1/50 酷寒神珠
+1/50 强化神珠
+1/50 勇猛神珠
+1/50 魔性神珠
+1/50 仙界神珠
+1/50 守护神珠
+1/50 制魔神珠
+1/50 中毒神珠
+1/50 集中神珠
+1/50 回避神珠
 
 
 ;Books
 ;;Warrior
-1/500 BladeAvalanche
-1/700 ProtectionField
-1/900 Rage
-1/1500 CounterAttack
+1/500 空破闪
+1/700 护身气幕
+1/900 狂暴
+1/1500 反击
 
 ;;Wizard
-1/60 FlameDisruptor
-1/500 Mirroring
-1/900 MeteorStrike
-1/1500 MagicBooster
-1/1500 IceThrust
+1/60 灭天火
+1/500 分身术
+1/900 流星打击
+1/1500 魔力强化
+1/1500 冰刺术
 
 ;;Toaist
-1/60 UltimateEnhancer
-1/500 SummonHolyDeva
-1/700 Reincarnation
-1/900 PoisonCloud
-1/900 Plague
-1/1500 PetEnhancer
+1/60 终极强化
+1/500 召唤圣灵
+1/700 复活术
+1/900 毒雾
+1/900 瘟疫术
+1/1500 宠物强化
 
 ;;Assassion
-1/60 MPEater
-1/500 SwiftFeet
-1/900 DarkBody
-1/1500 Hemorrhage
+1/60 吸气
+1/500 迅雷疾足
+1/900 暗影替身
+1/1500 血凤击
 
 ;CraftingMaterials
 

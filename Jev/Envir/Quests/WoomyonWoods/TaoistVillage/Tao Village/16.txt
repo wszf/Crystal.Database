@@ -1,28 +1,34 @@
 [@Description]
-You found the Book.. That's fantastic news. 
-It dosent look like it's been damaged. 
+你找到书了..真是个好消息。
+它看起来没有受损。
 
 [@TaskDescription]
-Return the {PrajnaHistory/LightSteelBlue} Book to {VillageChief/LimeGreen}
-in {PrajnaIsland/Yellow}.
+把{苍月史书/LightSteelBlue}书交还给{村长/LimeGreen}
+在{苍月岛/Yellow}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
 
 [@CarryItems]
-PrajnaHistory 1
+苍月史书 1
 
 [@FixedRewards]
 
 [@SelectRewards]
-FineIronArmour
-FireRobe
-YingYangRobe
-FlamingRedArmour
-HardTemperedArmour
+战神宝盔(男)
+战神宝盔(女)
+火之法袍(男)
+火之法袍(女)
+阴阳道袍(男)
+阴阳道袍(女)
+远古战甲(男)
+远古战甲(女)
+远古弓甲(男)
+远古弓甲(女)
 
 [@ExpReward]
 3912

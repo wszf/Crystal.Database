@@ -23,13 +23,13 @@
 ;Torches
 
 ;Potions
-1/10 DeerHorn 
-1/50 DeerBlood 
+1/10 鹿茸 
+1/50 鹿血 
 
 ;Ores
 
 ;Meat
-1/1 Venison 
+1/1 鹿肉 
 
 ;Crafting Materials
 
@@ -70,7 +70,7 @@
 ;Fish
 
 ;Quest
-1/2 DeerMeat Q
+1/2 野鹿肉 Q
 
 ;Awakening
 

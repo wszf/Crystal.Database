@@ -1,17 +1,18 @@
 [@Description]
-Please return to {Robin/LimeGreen} Warehouse Keeper in 
-{MongchonProvince/Yellow} 
+请回{罗宾/LimeGreen}在{盟重省/Yellow}的仓库管理员那里。
 
 [@TaskDescription]
 
+
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
 
 [@CarryItems]
-OldRobe 1
+旧法袍 1
 
 [@FixedRewards]
 

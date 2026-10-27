@@ -1,17 +1,18 @@
 [@Description]
-I miss my Parent's so much. Please can you help?
+我非常想念我的父母。请你能帮帮我吗？
 
 [@TaskDescription]
-Delivery {SkysLetter/LightSteelBlue} to {Sir.Mogu/LimeGreen} in {BichonWall/Yellow}.
+将 {飞鸽之书/LightSteelBlue} 运送给 {莫古爵士/LimeGreen} 在 {比奇城/Yellow}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
 
 [@CarryItems]
-SkysLetter 2
+飞鸽之书 2
 
 [@FixedRewards]
 

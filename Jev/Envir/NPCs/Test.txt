@@ -1,8 +1,8 @@
 [@main]
 #SAY
-Hello {<$USERNAME>/KHAKI}, Want a boost?
+{<$USERNAME>/KHAKI}，想要点经验加成吗？
 
-<Yes/@Yes> <No/@Exit>
+<是/@Yes> <否/@Exit>
 
 [@YES]
 #IF
@@ -27,18 +27,18 @@ GOTO @Assassin
 
 [@Warrior]
 #ACT
-GIVEITEM BlackTigerArmour(M) 1
-GIVEITEM BlackTigerArmour(F) 1
-GIVEITEM HelmetOfKings 1
-GIVEITEM BlackTigerHammer 1
-GIVEITEM TarragonNecklace 1	
-GIVEITEM DualTitanAmulet 2
-GIVEITEM PledgeRing	2
-GIVEITEM BeltOfDarkness	1
-GIVEITEM BootsOfDarkness 1
+GIVEITEM 黑虎甲胄(男) 1
+GIVEITEM 黑虎甲胄(女) 1
+GIVEITEM 王者头盔 1
+GIVEITEM 黑虎斧 1
+GIVEITEM 血龙项链 1	
+GIVEITEM 铁魔双轮 2
+GIVEITEM 盟约戒指	2
+GIVEITEM 黑术腰	1
+GIVEITEM 黑术靴 1
 GIVEITEM HolyDCStone 1
 #SAY
-<Spells/@SpellsWarrior>
+<法术/@SpellsWarrior>
 
 [@SpellsWarrior]
 #ACT
@@ -60,22 +60,22 @@ GIVESKILL Fury 3
 GIVESKILL SlashingBurst 3
 GIVESKILL ImmortalSkin 3
 #SAY
-<Level/@Level>
+<等级/@Level>
 
 [@Wizard]
 #ACT
-GIVEITEM LotusArmour(M) 1
-GIVEITEM LotusArmour(F) 1
-GIVEITEM HelmetOfSorcery 1
-GIVEITEM TarragonNecklace 1
-GIVEITEM EvilWhispAmulet 2
-GIVEITEM CrimsonRubyRing 2
-GIVEITEM BeltOfDarkness	1
-GIVEITEM BootsOfDarkness 1
+GIVEITEM 莲盛魔衣(男) 1
+GIVEITEM 莲盛魔衣(女) 1
+GIVEITEM 魔道头盔 1
+GIVEITEM 血龙项链 1
+GIVEITEM 曜火虹轮 2
+GIVEITEM 血玉环 2
+GIVEITEM 黑术腰	1
+GIVEITEM 黑术靴 1
 GIVEITEM HolyMCStone 1
-GIVEITEM StaffOfLotus 1
+GIVEITEM 火莲杖 1
 #SAY
-<Spells/@SpellsWizard>
+<法术/@SpellsWizard>
 
 [@SpellsWizard]
 #ACT
@@ -104,21 +104,21 @@ GIVESKILL Cataclysm 3
 GIVESKILL IceThrust 3
 GIVESKILL FireBounce 3
 #SAY
-<Level/@Level>
+<等级/@Level>
 
 [@Taoist]
 #ACT
-GIVEITEM CraneArmour(M) 1
-GIVEITEM CraneArmour(F) 1
-GIVEITEM PurifiedMask 1
-GIVEITEM TarragonNecklace 1
-GIVEITEM SacredAngelAmulet 2
-GIVEITEM FiveElementRing 2
-GIVEITEM BeltOfDarkness	1
-GIVEITEM BootsOfDarkness 1 
+GIVEITEM 鹤羽圣衣(男) 1
+GIVEITEM 鹤羽圣衣(女) 1
+GIVEITEM 净化面具 1
+GIVEITEM 血龙项链 1
+GIVEITEM 玉女天使 2
+GIVEITEM 五行连环 2
+GIVEITEM 黑术腰	1
+GIVEITEM 黑术靴 1 
 GIVEITEM HolySCStone 1
 #SAY
-<Spells/@SpellsTaoist>
+<法术/@SpellsTaoist>
 
 [@SpellsTaoist]
 #ACT
@@ -148,21 +148,21 @@ GIVESKILL EnergyShield 3
 GIVESKILL PetEnhancer 3
 GIVESKILL HealingCircle 3
 #SAY
-<Level/@Level>
+<等级/@Level>
 
 [@Assassin]
 #ACT
-GIVEITEM StealthArmour(M) 1
-GIVEITEM StealthArmour(F) 1
-GIVEITEM DemonShadow 1
-GIVEITEM TarragonNecklace 1
-GIVEITEM DualTitanAmulet 2
-GIVEITEM PledgeRing	2
-GIVEITEM BeltOfDarkness	1
-GIVEITEM BootsOfDarkness 1
+GIVEITEM 黑乌飞甲(男) 1
+GIVEITEM 黑乌飞甲(女) 1
+GIVEITEM 魔影头盔 1
+GIVEITEM 血龙项链 1
+GIVEITEM 铁魔双轮 2
+GIVEITEM 盟约戒指	2
+GIVEITEM 黑术腰	1
+GIVEITEM 黑术靴 1
 GIVEITEM HolyDCStone 1
 #SAY
-<Spells/@SpellsAssassin>
+<法术/@SpellsAssassin>
 
 [@SpellsAssassin]
 #ACT
@@ -181,7 +181,7 @@ GIVESKILL DarkBody 3
 GIVESKILL Hemorrhage 3
 GIVESKILL MoonMist 3
 #SAY
-<Level/@Level>
+<等级/@Level>
 
 [@Level]
 #ACT

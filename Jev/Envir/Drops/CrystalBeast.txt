@@ -3,42 +3,42 @@
 1/1 Gold 100000 LV1
 
 ;Pots + Other
-1/1 SunPotion LV1
-1/1 SunPotion LV1
-1/1 SunPotion LV1
-1/1 SunPotion LV1
-1/1 SunPotion LV1
-1/1 SunPotion LV1
+1/1 太阳水 LV1
+1/1 太阳水 LV1
+1/1 太阳水 LV1
+1/1 太阳水 LV1
+1/1 太阳水 LV1
+1/1 太阳水 LV1
 
-1/1 BenedictionOil LV1
+1/1 祝福油 LV1
 1/2 GoldenBenedictionOil LV1
-1/1 AwakeningSoul0 LV1
-1/1 AwakeningSoul0 LV1
+1/1 觉醒之魂0 LV1
+1/1 觉醒之魂0 LV1
 
 ;Weapons
 ;Warrior
-1/100 FrozenSabre LV1
-1/100 GrimBow LV1
-1/250 BlackTigerHammer LV1
-1/250 LethalBow LV1
-1/550 BarbarianSword LV1
-1/550 ApusBow LV
+1/100 寒霜剑 LV1
+1/100 冷酷之弓 LV1
+1/250 黑虎斧 LV1
+1/250 致命之弓 LV1
+1/550 碧血混水剑 LV1
+1/550 神燕弓 LV
 
 ;Wizard
-1/100 ConquerorSpear LV1
-1/250 StaffOfLotus LV1
-1/550 RawSword LV1
+1/100 月轮枪 LV1
+1/250 火莲杖 LV1
+1/550 虹玄混地剑 LV1
 
 ;Taoist
-1/100 BastardSword LV1
-1/250 FanOfCrane LV1
-1/550 BoneCarvedFan LV1
+1/100 月轮剑 LV1
+1/250 鹤羽扇 LV1
+1/550 翊仙混真扇 LV1
 
 ;Assassin
-1/100 ZincBlades LV1
-1/250 ButcheringBlades LV1
-1/550 MadDragonBlades LV1
-1/650 TheRipper LV1
+1/100 月轮刀 LV1
+1/250 黑乌刀 LV1
+1/550 飞燕混月剑 LV1
+1/650 撕裂者 LV1
 
 ;Weapon Rare
 1/2100 CrystalSlayer LV1
@@ -97,45 +97,45 @@
 1/1 Gold 100000 LV2
 
 ;Pots + Other
-1/1 SunPotion LV2
-1/1 SunPotion LV2
-1/1 SunPotion LV2
-1/1 SunPotion LV2
-1/1 SunPotion LV2
-1/1 SunPotion LV2
+1/1 太阳水 LV2
+1/1 太阳水 LV2
+1/1 太阳水 LV2
+1/1 太阳水 LV2
+1/1 太阳水 LV2
+1/1 太阳水 LV2
 
-1/1 BenedictionOil LV2
+1/1 祝福油 LV2
 1/2 GoldenBenedictionOil LV2
 
 
 
-1/1 AwakeningSoul0 LV2
-1/1 AwakeningSoul0 LV2
+1/1 觉醒之魂0 LV2
+1/1 觉醒之魂0 LV2
 
 ;Weapons
 ;Warrior
-1/100 FrozenSabre LV2
-1/100 GrimBow LV2
-1/250 BlackTigerHammer LV2
-1/250 LethalBow LV2
-1/550 ApusBow LV2
-1/550 BarbarianSword LV2
+1/100 寒霜剑 LV2
+1/100 冷酷之弓 LV2
+1/250 黑虎斧 LV2
+1/250 致命之弓 LV2
+1/550 神燕弓 LV2
+1/550 碧血混水剑 LV2
 
 ;Wizard
-1/100 ConquerorSpear LV2
-1/250 StaffOfLotus LV2
-1/550 RawSword LV2
+1/100 月轮枪 LV2
+1/250 火莲杖 LV2
+1/550 虹玄混地剑 LV2
 
 ;Taoist
-1/100 BastardSword LV2
-1/250 FanOfCrane LV2
-1/550 BoneCarvedFan LV2
+1/100 月轮剑 LV2
+1/250 鹤羽扇 LV2
+1/550 翊仙混真扇 LV2
 
 ;Assassin
-1/100 ZincBlades LV2
-1/250 ButcheringBlades LV2
-1/550 MadDragonBlades LV2
-1/650 TheRipper LV2
+1/100 月轮刀 LV2
+1/250 黑乌刀 LV2
+1/550 飞燕混月剑 LV2
+1/650 撕裂者 LV2
 
 ;Weapon Rare
 1/2100 CrystalSlayer LV2
@@ -194,44 +194,44 @@
 1/1 Gold 100000 LV3
 
 ;Pots + Other
-1/1 SunPotion LV3
-1/1 SunPotion LV3
-1/1 SunPotion LV3
-1/1 SunPotion LV3
-1/1 SunPotion LV3
-1/1 SunPotion LV3
+1/1 太阳水 LV3
+1/1 太阳水 LV3
+1/1 太阳水 LV3
+1/1 太阳水 LV3
+1/1 太阳水 LV3
+1/1 太阳水 LV3
 
-1/1 BenedictionOil LV3
+1/1 祝福油 LV3
 1/2 GoldenBenedictionOil LV3
 
 
-1/1 AwakeningSoul0 LV3
-1/1 AwakeningSoul0 LV3
+1/1 觉醒之魂0 LV3
+1/1 觉醒之魂0 LV3
 
 ;Weapons
 ;Warrior
-1/100 FrozenSabre LV3
-1/100 GrimBow LV3
-1/250 BlackTigerHammer LV3
-1/550 ApusBow LV3
-1/250 LethalBow LV3
-1/550 BarbarianSword LV3
+1/100 寒霜剑 LV3
+1/100 冷酷之弓 LV3
+1/250 黑虎斧 LV3
+1/550 神燕弓 LV3
+1/250 致命之弓 LV3
+1/550 碧血混水剑 LV3
 
 ;Wizard
-1/100 ConquerorSpear LV3
-1/250 StaffOfLotus LV3
-1/550 RawSword LV3
+1/100 月轮枪 LV3
+1/250 火莲杖 LV3
+1/550 虹玄混地剑 LV3
 
 ;Taoist
-1/100 BastardSword LV3
-1/250 FanOfCrane LV2
-1/550 BoneCarvedFan LV2
+1/100 月轮剑 LV3
+1/250 鹤羽扇 LV2
+1/550 翊仙混真扇 LV2
 
 ;Assassin
-1/100 ZincBlades LV3
-1/250 ButcheringBlades LV3
-1/550 MadDragonBlades LV3
-1/650 TheRipper LV3
+1/100 月轮刀 LV3
+1/250 黑乌刀 LV3
+1/550 飞燕混月剑 LV3
+1/650 撕裂者 LV3
 
 ;Weapon Rare
 1/2100 CrystalSlayer LV3
@@ -290,44 +290,44 @@
 1/1 Gold 100000 LV4
 
 ;Pots + Other
-1/1 SunPotion LV4
-1/1 SunPotion LV4
-1/1 SunPotion LV4
-1/1 SunPotion LV4
-1/1 SunPotion LV4
-1/1 SunPotion LV4
+1/1 太阳水 LV4
+1/1 太阳水 LV4
+1/1 太阳水 LV4
+1/1 太阳水 LV4
+1/1 太阳水 LV4
+1/1 太阳水 LV4
 
-1/1 BenedictionOil LV4
+1/1 祝福油 LV4
 1/2 GoldenBenedictionOil LV4
 
 
-1/1 AwakeningSoul0 LV4
-1/1 AwakeningSoul0 LV4
+1/1 觉醒之魂0 LV4
+1/1 觉醒之魂0 LV4
 
 ;Weapons
 ;Warrior
-1/100 FrozenSabre LV4
-1/100 GrimBow LV4
-1/250 BlackTigerHammer LV4
-1/250 LethalBow LV4
-1/550 ApusBow LV4
-1/550 BarbarianSword LV4
+1/100 寒霜剑 LV4
+1/100 冷酷之弓 LV4
+1/250 黑虎斧 LV4
+1/250 致命之弓 LV4
+1/550 神燕弓 LV4
+1/550 碧血混水剑 LV4
 
 ;Wizard
-1/100 ConquerorSpear LV4
-1/250 StaffOfLotus LV4
-1/550 RawSword LV4
+1/100 月轮枪 LV4
+1/250 火莲杖 LV4
+1/550 虹玄混地剑 LV4
 
 ;Taoist
-1/100 BastardSword LV4
-1/250 FanOfCrane LV4
-1/550 BoneCarvedFan LV4
+1/100 月轮剑 LV4
+1/250 鹤羽扇 LV4
+1/550 翊仙混真扇 LV4
 
 ;Assassin
-1/100 ZincBlades LV4
-1/250 ButcheringBlades LV4
-1/550 MadDragonBlades LV4
-1/650 TheRipper LV4
+1/100 月轮刀 LV4
+1/250 黑乌刀 LV4
+1/550 飞燕混月剑 LV4
+1/650 撕裂者 LV4
 
 ;Weapon Rare
 1/2100 CrystalSlayer LV4
@@ -386,45 +386,45 @@
 1/1 Gold 100000 LV5
 
 ;Pots + Other
-1/1 SunPotion LV5
-1/1 SunPotion LV5
-1/1 SunPotion LV5
-1/1 SunPotion LV5
-1/1 SunPotion LV5
-1/1 SunPotion LV5
+1/1 太阳水 LV5
+1/1 太阳水 LV5
+1/1 太阳水 LV5
+1/1 太阳水 LV5
+1/1 太阳水 LV5
+1/1 太阳水 LV5
 
-1/1 BenedictionOil LV5
+1/1 祝福油 LV5
 1/2 GoldenBenedictionOil LV5
 
 
 
-1/1 AwakeningSoul0 LV5
-1/1 AwakeningSoul0 LV5
+1/1 觉醒之魂0 LV5
+1/1 觉醒之魂0 LV5
 
 ;Weapons
 ;Warrior
-1/100 FrozenSabre LV5
-1/100 GrimBow LV5
-1/250 BlackTigerHammer LV5
-1/250 LethalBow LV5
-1/550 BarbarianSword LV5
-1/550 ApusBow LV5
+1/100 寒霜剑 LV5
+1/100 冷酷之弓 LV5
+1/250 黑虎斧 LV5
+1/250 致命之弓 LV5
+1/550 碧血混水剑 LV5
+1/550 神燕弓 LV5
 
 ;Wizard
-1/100 ConquerorSpear LV5
-1/250 StaffOfLotus LV5
-1/550 RawSword LV5
+1/100 月轮枪 LV5
+1/250 火莲杖 LV5
+1/550 虹玄混地剑 LV5
 
 ;Taoist
-1/100 BastardSword LV5
-1/250 FanOfCrane LV5
-1/550 BoneCarvedFan LV5
+1/100 月轮剑 LV5
+1/250 鹤羽扇 LV5
+1/550 翊仙混真扇 LV5
 
 ;Assassin
-1/100 ZincBlades LV5
-1/250 ButcheringBlades LV5
-1/550 MadDragonBlades LV5
-1/650 TheRipper LV5
+1/100 月轮刀 LV5
+1/250 黑乌刀 LV5
+1/550 飞燕混月剑 LV5
+1/650 撕裂者 LV5
 
 ;Weapon Rare
 1/2100 CrystalSlayer LV5
@@ -483,44 +483,44 @@
 1/1 Gold 100000 LV6
 
 ;Pots + Other
-1/1 SunPotion LV6
-1/1 SunPotion LV6
-1/1 SunPotion LV6
-1/1 SunPotion LV6
-1/1 SunPotion LV6
-1/1 SunPotion LV6
+1/1 太阳水 LV6
+1/1 太阳水 LV6
+1/1 太阳水 LV6
+1/1 太阳水 LV6
+1/1 太阳水 LV6
+1/1 太阳水 LV6
 
-1/1 BenedictionOil LV6
+1/1 祝福油 LV6
 1/2 GoldenBenedictionOil LV6
 
 
-1/1 AwakeningSoul0 LV6
-1/1 AwakeningSoul0 LV6
+1/1 觉醒之魂0 LV6
+1/1 觉醒之魂0 LV6
 
 ;Weapons
 ;Warrior
-1/100 FrozenSabre LV6
-1/100 GrimBow LV6
-1/250 BlackTigerHammer LV6
-1/550 ApusBow LV6
-1/250 LethalBow LV6
-1/550 BarbarianSword LV6
+1/100 寒霜剑 LV6
+1/100 冷酷之弓 LV6
+1/250 黑虎斧 LV6
+1/550 神燕弓 LV6
+1/250 致命之弓 LV6
+1/550 碧血混水剑 LV6
 
 ;Wizard
-1/100 ConquerorSpear LV6
-1/250 StaffOfLotus LV6
-1/550 RawSword LV6
+1/100 月轮枪 LV6
+1/250 火莲杖 LV6
+1/550 虹玄混地剑 LV6
 
 ;Taoist
-1/100 BastardSword LV6
-1/250 FanOfCrane LV6
-1/550 BoneCarvedFan LV6
+1/100 月轮剑 LV6
+1/250 鹤羽扇 LV6
+1/550 翊仙混真扇 LV6
 
 ;Assassin
-1/100 ZincBlades LV6
-1/250 ButcheringBlades LV6
-1/550 MadDragonBlades LV6
-1/650 TheRipper LV6
+1/100 月轮刀 LV6
+1/250 黑乌刀 LV6
+1/550 飞燕混月剑 LV6
+1/650 撕裂者 LV6
 
 ;Weapon Rare
 1/2100 CrystalSlayer LV6
@@ -579,45 +579,45 @@
 1/1 Gold 100000 LV7
 
 ;Pots + Other
-1/1 SunPotion LV7
-1/1 SunPotion LV7
-1/1 SunPotion LV7
-1/1 SunPotion LV7
-1/1 SunPotion LV7
-1/1 SunPotion LV7
+1/1 太阳水 LV7
+1/1 太阳水 LV7
+1/1 太阳水 LV7
+1/1 太阳水 LV7
+1/1 太阳水 LV7
+1/1 太阳水 LV7
 
-1/1 BenedictionOil LV7
+1/1 祝福油 LV7
 1/2 GoldenBenedictionOil LV7
 
 
 
-1/1 AwakeningSoul0 LV7
-1/1 AwakeningSoul0 LV7
+1/1 觉醒之魂0 LV7
+1/1 觉醒之魂0 LV7
 
 ;Weapons
 ;Warrior
-1/100 FrozenSabre LV7
-1/100 GrimBow LV7
-1/250 BlackTigerHammer LV7
-1/250 LethalBow LV7
-1/550 BarbarianSword LV7
-1/550 ApusBow LV7
+1/100 寒霜剑 LV7
+1/100 冷酷之弓 LV7
+1/250 黑虎斧 LV7
+1/250 致命之弓 LV7
+1/550 碧血混水剑 LV7
+1/550 神燕弓 LV7
 
 ;Wizard
-1/100 ConquerorSpear LV7
-1/250 StaffOfLotus LV7
-1/550 RawSword LV7
+1/100 月轮枪 LV7
+1/250 火莲杖 LV7
+1/550 虹玄混地剑 LV7
 
 ;Taoist
-1/100 BastardSword LV7
-1/250 FanOfCrane LV7
-1/550 BoneCarvedFan LV7
+1/100 月轮剑 LV7
+1/250 鹤羽扇 LV7
+1/550 翊仙混真扇 LV7
 
 ;Assassin
-1/100 ZincBlades LV7
-1/250 ButcheringBlades LV7
-1/550 MadDragonBlades LV7
-1/650 TheRipper LV7
+1/100 月轮刀 LV7
+1/250 黑乌刀 LV7
+1/550 飞燕混月剑 LV7
+1/650 撕裂者 LV7
 
 ;Weapon Rare
 1/2100 CrystalSlayer LV7
@@ -676,45 +676,45 @@
 1/1 Gold 100000 LV8
 
 ;Pots + Other
-1/1 SunPotion LV8
-1/1 SunPotion LV8
-1/1 SunPotion LV8
-1/1 SunPotion LV8
-1/1 SunPotion LV8
-1/1 SunPotion LV8
+1/1 太阳水 LV8
+1/1 太阳水 LV8
+1/1 太阳水 LV8
+1/1 太阳水 LV8
+1/1 太阳水 LV8
+1/1 太阳水 LV8
 
-1/1 BenedictionOil LV8
+1/1 祝福油 LV8
 1/2 GoldenBenedictionOil LV8
 
 
 
-1/1 AwakeningSoul0 LV8
-1/1 AwakeningSoul0 LV8
+1/1 觉醒之魂0 LV8
+1/1 觉醒之魂0 LV8
 
 ;Weapons
 ;Warrior
-1/100 FrozenSabre LV8
-1/100 GrimBow LV8
-1/250 BlackTigerHammer LV8
-1/250 LethalBow LV8
-1/550 ApusBow LV8
-1/550 BarbarianSword LV8
+1/100 寒霜剑 LV8
+1/100 冷酷之弓 LV8
+1/250 黑虎斧 LV8
+1/250 致命之弓 LV8
+1/550 神燕弓 LV8
+1/550 碧血混水剑 LV8
 
 ;Wizard
-1/100 ConquerorSpear LV8
-1/250 StaffOfLotus LV8
-1/550 RawSword LV8
+1/100 月轮枪 LV8
+1/250 火莲杖 LV8
+1/550 虹玄混地剑 LV8
 
 ;Taoist
-1/100 BastardSword LV8
-1/250 FanOfCrane LV8
-1/550 BoneCarvedFan LV8
+1/100 月轮剑 LV8
+1/250 鹤羽扇 LV8
+1/550 翊仙混真扇 LV8
 
 ;Assassin
-1/100 ZincBlades LV8
-1/250 ButcheringBlades LV8
-1/550 MadDragonBlades LV8
-1/650 TheRipper LV8
+1/100 月轮刀 LV8
+1/250 黑乌刀 LV8
+1/550 飞燕混月剑 LV8
+1/650 撕裂者 LV8
 
 ;Weapon Rare
 1/2100 CrystalSlayer LV8

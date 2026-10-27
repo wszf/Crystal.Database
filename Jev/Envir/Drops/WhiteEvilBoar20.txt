@@ -2,14 +2,14 @@
 1/10 Gold 6000
 
 ;Pots + Other
-1/5 (HP)DrugLarge
-1/5 (MP)DrugLarge
-1/10 (HP)DrugLarge
-1/10 (MP)DrugLarge
+1/5 金疮药(大量)
+1/5 魔法药(大量)
+1/10 金疮药(大量)
+1/10 魔法药(大量)
 
 
 ;CraftingMaterials
-1/25 WhiteThread 
+1/25 白线 
 
 
 

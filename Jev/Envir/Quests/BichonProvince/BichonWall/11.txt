@@ -1,25 +1,22 @@
 [@Description]
-Have you been to the dungeon near {Bichon/Yellow}?
-The {Skeletons/Crimson} are there. The Guard near the
-dungeon reported that the number of {Skeletons/Crimson}
-have been increasing lately. Do you think you
-can go eliminate 25 {Skeletons/Crimson}? This is for the
-safety of {Bichon/Yellow}.
+你去过{比奇/Yellow}附近的地下城吗？
+那里有{骷髅/Crimson}。地下城附近的卫兵报告说，{骷髅/Crimson}的数量最近一直在增加。你觉得你能去消灭25只{骷髅/Crimson}吗？这是为了{比奇/Yellow}的安全。
 
 [@TaskDescription]
-Eliminate 25 {Skeleton's/Crimson}
+消灭25只{骷髅/Crimson}
 
 [@Completion]
 
+
 [@KillTasks]
-Skeleton 25
+骷髅 25
 
 [@ItemTasks]
 
 [@CarryItems]
 
 [@FixedRewards]
-SuperiorMagicHelmet
+幻魔头盔
 
 [@SelectRewards]
 

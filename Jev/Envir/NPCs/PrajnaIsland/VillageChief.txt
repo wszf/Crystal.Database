@@ -2,106 +2,109 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
- You know. I'm already 90 years old and have lived here
- all my life. If you want to know anything about the 
- island, feel free to ask me at any time. 
+ 你知道的。我已经九十岁了，住在这里很久了
+ 我的一生。如果你想知道关于 
+ 岛屿，随时可以问我。 
  
- <ask/@ask1> about the local legend
- <ask/@ask2> about the monsters
- <ask/@ask3> about the Bottomless Pit
- <move outside/@Tmove>
- <close/@exit>
+ <询问/@ask1> 关于当地传说
+ <询问/@ask2> 关于怪物
+ <询问/@ask3> 关于无底深渊
+ <移出/@Tmove>
+ <关闭/@exit>
 
 [@ask1]
- According to the legend, 1000 years ago there was an
- epic war, to decide the fate of the world. It happened
- right here on this island... The evil forces from their
- dark, underground lair rose from the earth, using the
- island as a channel to invade the world. 
- <Next/@next1>
+ 根据传说，一千年前曾有一位
+ 决定世界命运的史诗大战。它发生于
+ 就在这个岛上……来自他们那边的邪恶势力
+ 黑暗的地下巢穴从地底升起，利用着
+ 作为入侵世界的通道的岛屿。 
+ <下一页/@next1>
 
 [@next1]
- However, mighty heroes appeared, who bravely fought and
- defeated the evil forces after many fierce battles.
- These heroes sealed the path that led to the gateway of
- the evil 
- <Next/@next2>
+ 然而，出现了强大的英雄，他们勇敢地战斗并
+ 在经历了无数惨烈的战斗后击败了邪恶的力量。
+ 这些英雄封住了通往门的道路，
+ 邪恶的 
+ <下一页/@next2>
 
 [@next2]
- Later these heroes built a temple that was based on a maze,
- on top of the sealed path, to block its access; however, as time
- passed, the temple became buried deep into the ground and
- no trace of it can now be found. 
- <Next/@next3>
+ 后来这些英雄建立了一座基于迷宫的神庙，
+ 在封印的路径之上，以阻止其进入；然而，随着时间
+ 流逝了，这座寺庙深深地埋在了地下，并且
+ 已经找不到任何踪迹了。 
+ <下一页/@next3>
 
 [@next3]
- What? Unbelievable you say? Ha ha ha...
- of course, that's why I told you it is a legend! 
- <close/@exit>
+ 什么？你说不信？哈哈哈哈……
+
+ 当然，这就是我告诉你的，这是一个传说！ 
+ <关闭/@exit>
 
 [@ask2]
- I believe that the monsters spotted recently must be
- the ones mentioned in the legend. Otherwise, how can we
- explain that such things exist in the world?
- I am sure, positive, that they are the ones once defeated
- by the legendary heroes, and are returning once more. 
- <Next/@next4>
+ 我相信最近发现的怪物一定是
+ 传说中提到的那些。否则，我们怎么能
+ 解释世间竟有这样的存在？
+ 我确信，肯定就是那些曾经战败的人
+ 由传说中的英雄们，并且再次回归。 
+ <下一页/@next4>
 
 [@next4]
- It is the end of the world. The end, I tell you....
- Why must something like this happen in the very twilight
- of my life?
- What misfortune... what sadness... bah! 
- <close/@exit>
+ 这是世界的尽头。尽头，我告诉你....
+ 怎么偏偏在黄昏的时候发生这种事啊。
+
+ 我的生命？
+ 多大的不幸……多深的悲伤……呸！
+ 
+ <关闭/@exit>
 
 [@ask3]
- The "Bottomless Pit"? Now there's something I haven't
- heard about in a very long time. It happened such a long
- time ago, so the youngsters here do not know much about
- this. Anyway, it is a true story. 
- <Next/@next5>
+ 什么“无底深渊”？这是我没见过的东西
+ 很久以前听说的。它发生得太久了
+ 很久以前，这里的年轻人并不知道
+ 这。总之，这是一个真实的故事。 
+ <下一页/@next5>
 
 [@next5]
- Long ago. there was a pit somewhere in this island.
- whenever strange sound echoed through the pit,
- people passing there nearby
- disappeared all and never returned.
- So it was called "Bottomless Pit. 
- <Next/@next6>
+ 很久以前。这个岛上某个地方有一个深坑。
+ 每当有奇怪的声音回荡在深渊里，
+ 路过此地的人们
+ 消失了所有，再也没有回来。
+ 所以它被称为“无底深渊”。 
+ <下一页/@next6>
 
 [@next6]
- Ah one man.. there was one man
- who came back alive. He came back covered
- all over with wounds and told us there is
- another world down there full of cruel monsters.
- He spoke some more gibberish
- we couldn't understand him and he died few days later. 
- <Next/@next7>
+ 啊，一个男人……曾有一位男人
+ 谁能活着回来。他回来时身上覆盖着
+ 身上满是伤口，告诉我们有
+ 下面另一个充满残暴怪物的世界。
+ 他又说了一些胡话
+ 我们无法理解他，他几天后就死了。 
+ <下一页/@next7>
 
 [@next7]
- The frightened willagers could not bear any more
- and called a famous shaman for an exorcism.
- Maybe because of the exorcism or something
- else, never again we have experienced
- such indidenets of people disappearing. 
- <Next/@next8>
+ 惊恐的村民们再也无法忍受了
+ 并请了一位著名的萨满进行驱邪。
+ 也许是因为驱邪之类的原因
+ 否则，我们再也没有经历过
+ 这种人失踪的事件。 
+ <下一页/@next8>
 
 [@next8]
- That's the story and already 70 years have
- passed since then. Now no one remembers
- where was the pit but it might appear again.
- Village elders, who are aware of the incidents,
- aew anxious about that. 
- <close/@exit>
+ 这就是故事，已经过了七十年了
+ 流逝。现在没有人记得
+ 那个深渊可能还会再次出现。
+ 村里的长者们，了解这些事情的，
+ 对那件事感到焦虑。 
+ <关闭/@exit>
 
 [@Tmove]
 #IF

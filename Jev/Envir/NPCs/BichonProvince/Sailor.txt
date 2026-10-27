@@ -1,32 +1,32 @@
 [@main]
 #SAY
- The boat goes many places. The boat will depart soon
- Passengers, Please board the ship.
+ 这艘船去过很多地方。船很快就要启航了。
+ 乘客们，请上船。
  
- <To Prajna Island/@brdmove> Pay 2,000 Gold and Board.
- <To White Valley/@brdmove1> Pay 10,000 Gold and Board.
- <Talk/@talk> about each frontiers.
+ <前往般若岛/@brdmove> 支付2,000 金币并登船。
+ <前往白谷/@brdmove1> 支付10,000金币并登船。
+ <聊天/@talk> 每个边境点。
 
 [@talk]
 #SAY
- Which frontier do you want to talk about?
- <Prajna Island/@talkPI>
- <White Valley/@talkWV>
- <Back/@main>
+ 你想谈论哪个边境？
+ <苍月岛/@talkPI>
+ <雪原/@talkWV>
+ <返回/@main>
 
 [@talkPI]
- Prajna Island is full of rampaging monsters.
- Some braves may take this opportunity to boost and raise
- their reputation and fame but for the locals,it ain't nothing but just hell.
+ 普罗智纳岛到处都是狂暴的怪物。
+ 一些勇敢的人可能会抓住这个机会提升和提高
+ 他们的名声和威望，但在本地人看来，不过是地狱罢了。
 
- <Back/@talk>
+ <返回/@talk>
 
 [@talkWV]
 #SAY
- WhiteValley is new fontier which has just been discovered.
- The evil within is great. But the Riches are greater.
+ 白谷是一个新发现的边境。
+ 内心的邪恶很厉害。但财富更伟大。
 
- <Back/@talk>
+ <返回/@talk>
  
 [@brdmove]
 #IF
@@ -35,10 +35,10 @@ CHECKGOLD > 2000
 TAKEGOLD 2000
 Move 5 124 353
 #ELSESAY
-You Dont Have enough {Gold/Gold} to use my Service!
-Be gone, don't waste my time again!
+你没有足够的{金币/Gold}来使用我的服务！
+滚开，别再浪费我的时间了！
 
-<Exit/@exit>
+<退出/@exit>
 
 [@brdmove1]
 #IF
@@ -47,7 +47,7 @@ CHECKGOLD > 10000
 TAKEGOLD 10000
 MOVE WHITEVILLAGE 67 93
 #ELSESAY
-You Dont Have enough {Gold/Gold} to use my Service!
-Be gone, don't waste my time again!
+你没有足够的{金币/Gold}来使用我的服务！
+滚开，别再浪费我的时间了！
 
-<Exit/@exit>
+<退出/@exit>

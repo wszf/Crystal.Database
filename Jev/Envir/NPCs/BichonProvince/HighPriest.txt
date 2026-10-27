@@ -1,9 +1,9 @@
 [@Main]
 #SAY
-Don't get to close.. I've lost everything..
-Who sent you?
+别靠太近了..我什么都没了..
+谁派你来的？
 
-<Close/@exit>
+<关闭/@exit>
 
 [Quests]
 -13

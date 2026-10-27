@@ -1,14 +1,15 @@
 [@Description]
-How Deep have you been in {Stone Temple/Yellow}?
-The {WhiteBoar/Crimson} is located on Deep Within.
+你在{石庙/Yellow}里深入到了什么程度？
+{白野猪/Crimson}是在更深处的。
 
 [@TaskDescription]
-Eliminate the {WhiteBoar/Crimson}.
+消灭{白野猪/Crimson}。
 
 [@Completion]
 
+
 [@KillTasks]
-WhiteBoar 1
+白野猪 1
 
 [@ItemTasks]
 

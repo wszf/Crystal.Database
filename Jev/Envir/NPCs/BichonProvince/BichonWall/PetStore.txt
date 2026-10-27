@@ -5,27 +5,28 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Greetings! You have come to purchase Creature Eggs, have you?
+欢迎！您是来购买妖兽蛋的吗？
  
-<List/@Buy> available Eggs to purchase.
+<列表/@Buy> 可购买的蛋。
  
-<Close/@Exit>
+<关闭/@Exit>
 
 [@Buy]
 #SAY
-Please select the Egg you want to buy.
+请选择您想要购买的蛋。
+
  
  
-<Back/@Main>
+<返回/@Main>
 
 
 [Types]
@@ -33,8 +34,8 @@ Please select the Egg you want to buy.
 
 
 [Trade]
-BabyPigEgg
-KittenEgg
+小猪蛋
+小猫蛋
 
 [@talk]
 #IF
@@ -56,25 +57,25 @@ GOTO @MAIN1-3
 #ACT
 SET [539] 0
 #SAY
-Ah your the traveler.. Ive been hearing about.
-Well I refuse to tell anyone about the Emperor!
+啊，你是旅行者……我听说过你。
+哎，我可不会告诉别人的！
  
-<Close/exit>
+<关闭/exit>
 
 [@MAIN1-2]
 #ACT
 SET [541] 0
 #SAY
-Ah your the traveler.. Ive been hearing about.
-Well I refuse to tell anyone about the Emperor!
+啊，你是旅行者……我听说过你。
+哎，我可不会告诉别人的！
  
-<Close/exit>
+<关闭/exit>
 
 [@MAIN1-3]
 #SAY
-Have you ever heard about the Emperor? 
-Hes such a lazy good for nothing fool. Sooner we remove him
-from the throne the better. Its time for the free folk to 
-govern these lands.
+您听说过皇帝吗？ 
+真是个懒骨头的废物。早点把他踢掉
+王座更适合。是自由的人民该 
+治理这些土地。
  
-<Close/@exit>
+<关闭/@exit>

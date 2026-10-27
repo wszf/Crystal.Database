@@ -1,25 +1,25 @@
 ;;TownScroll
 [@_UseItem(3)]
 #SAY
-Which Town or Village would you like to visit? 
+你想去哪个城镇或村庄？ 
  
-Teleport to: <Border Village/@BVV&T1>
-Teleport to: <Bichon Wall/@BWV&T1>
-Teleport to: <Serpent Village/@SVV&T1>
-Teleport to: <Mud Wall/@MWV&T1>
-Teleport to: <Sabuk Castle/@SCV&T1>
-Please <Show me some more/@MoreV&T1> Locations
+传送至：<边境村/@BVV&T1>
+传送至：<比奇城/@BWV&T1>
+传送到：<毒蛇村/@SVV&T1>
+传送到：<泥墙村/@MWV&T1>
+传送到：<沙巴克城堡/@SCV&T1>
+请<再给我看看/@MoreV&T1>地点
 
 [@MoreV&T1]
 #SAY
-Teleport to: <Fortress/@FV&T1>
-Teleport to: <Seokcho Village/@SeoVV&T1>
-Teleport to: <CastleGi-Ryoong Castle/@CRCV&T1>
-Teleport to: <Taoist Village/@TVV&T1>
-Teleport to: <Prajna Town/@PTV&T1> 
-Teleport to: <PastBichon Village/@PBV&T1> Required Level30
-Teleport to: <WasteLands/@WLV&T1>
-<Back/@_UseItem(49)>
+传送到：<要塞/@FV&T1>
+传送到：<石潮村/@SeoVV&T1>
+传送至：<沙巴克城堡/@CRCV&T1>
+传送到：<道士村/@TVV&T1>
+传送到：<般若镇/@PTV&T1> 
+传送到：<旧比奇村/@PBV&T1> 需要等级30
+传送到：<废弃之地/@WLV&T1>
+<返回/@_UseItem(49)>
 
 [@BVV&T1]
 #ACT
@@ -67,9 +67,9 @@ CHECKLEVEL > 30
 #ACT
 MOVE 6 124 157
 #ELSESAY
-Sorry you are not the correct level.
+抱歉你的等级不对。
  
-<Back/@_UseItem(49)>
+<返回/@_UseItem(49)>
 
 [@WLV&T1]
 #ACT

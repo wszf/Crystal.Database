@@ -1,117 +1,117 @@
 ;;DungeonScroll
 [@_UseItem(4)]
 #SAY
-Which Dungeon would you like to visit?
+你想去哪个副本？
  
-Teleport Region: <BichonProvince/@BPD1>
-Teleport Region: <SerpentValley/@SVD1>
-Teleport Region: <MongchonProvince/@MPD1>
-Teleport Region: <WoomyonWoods(S)/@WWSD1>
-Teleport Region: <WoomyonWoods(N)/@WWND1>
-Please <Show me some more/@DungeonPage2> Locations
+传送区域：<比奇省/@BPD1>
+传送区域：<毒蛇山谷/@SVD1>
+传送区域：<盟重省/@MPD1>
+传送区域：<沃玛森林/@WWSD1>
+传送区域：<道馆/@WWND1>
+请<再给我看看/@DungeonPage2>地点
 
 [@DungeonPage2]
 #SAY
-Teleport Region: <SeokchoValley/@SeoVD1>
-Teleport Region: <CastleGi-Ryoong/@CGCD1>
-Teleport Region: <PrajnaIsland/@PID1>
-Teleport Region: <PastBichon/@PBD1> Required Level43
-Teleport Region: <WasteLands/@WLD1>
+传送区域：<壶中天/@SeoVD1>
+传送区域：<封魔谷/@CGCD1>
+传送区域：<苍月岛/@PID1>
+传送区域：<远古比奇/@PBD1> 要求等级43
+传送区域：<废弃之地/@WLD1>
  
  
-<Back/@_UseItem(50)>
+<返回/@_UseItem(50)>
  
 [@BPD1]
 #SAY
-Available Dungeons in BichonProvince.
+比奇省可进入的地下城。
  
-Teleport to: <OmaCavern/@OC1>
-Teleport to: <DeadMines/@DM1>
-<Back/@_UseItem(50)>
+传送到：<奥玛洞窟/@OC1>
+传送至：<死矿/@DM1>
+<返回/@_UseItem(50)>
 
 [@SVD1]
 #SAY
-Available Dungeons in SerpentValley.
+蛇谷可进入的地下城。
  
-Teleport to: <SerpentDeadMines/@SDM1>
-Teleport to: <ViperCave/@VC1>
-<Back/@_UseItem(50)>
+传送到：<毒蛇死矿/@SDM1>
+传送到：<毒蛇洞穴/@VC1>
+<返回/@_UseItem(50)>
 
 [@MPD1]
 #SAY
-Available Dungeons in MonchonProvince.
+蒙村省可进入的地下城。
  
-Teleport to: <BugCave/@BC1>
-Teleport to: <StoneTemple/@ST1>
-Teleport to: <SabukSecretCave/@SSC1>
-Teleport to: <ZumaTemple/@ZT1>
-Teleport to: <FoxTemple/@FT1>
-<Back/@_UseItem(50)>
+传送至：<虫洞/@BC1>
+传送到：<石庙/@ST1>
+传送到：<沙巴克密道/@SSC1>
+传送到：<祖玛寺庙/@ZT1>
+传送到：<狐庙/@FT1>
+<返回/@_UseItem(50)>
 
 [@WWSD1]
 #SAY
-Available Dungeons in WoomyonWoods(S).
+巫山林（南）可进入的地下城。
  
-Teleport to: <InsectCave/@IC1>
-Teleport to: <WoomaTemple/@WT1>
-<Back/@_UseItem(50)>
+传送到：<虫洞/@IC1>
+传送到：<沃玛教主大殿/@WT1>
+<返回/@_UseItem(50)>
 
 [@WWND1]
 #SAY
-Available Dungeons in WoomyonWoods(N).
+巫山林（北）可进入的地下城。
  
-Teleport to: <MineralMines/@MM1>
-Teleport to: <TreePath/@TP1>
-Teleport to: <RedValley/@RV1>
-Teleport to: <DarkForest/@DF1>
+传送到：<矿场/@MM1>
+传送到：<丛林迷宫/@TP1>
+传送到：<红谷/@RV1>
+传送至：<黑暗森林/@DF1>
 
-<Back/@_UseItem(50)>
+<返回/@_UseItem(50)>
 
 [@SeoVD1]
 #SAY
-Available Dungeons in SeokchoValley.
+石草谷可进入的地下城。
  
-Teleport to: <TrollMines/@TM1>
-<Back/@DungeonPage2>
+传送到：<巨魔矿洞/@TM1>
+<返回/@DungeonPage2>
 
 [@CGCD1]
 #SAY
-Available Dungeons in CastleGi-Ryoong.
+卡斯提-里勇可进入的地下城。
  
-Teleport to: <BlackDragonDungeon/@BDD1>
-Teleport to: <DragonCavern/@DC1>
-<Back/@DungeonPage2>
+传送至：<黑龙地牢入口/@BDD1>
+传送到：<龙窟/@DC1>
+<返回/@DungeonPage2>
 
 
 [@PID1]
 #SAY
-Available Dungeons in PrajnaIsland.
+般若岛可进入的地下城。
  
-Teleport to: <PrajnaStoneCave/@PSC1>
-Teleport to: <PrajnaTemple/@PT1>
-<Back/@DungeonPage2>
+传送到：<般若石洞/@PSC1>
+传送到：<牛魔寺庙八层/@PT1>
+<返回/@DungeonPage2>
 
 [@PBD1]
 #IF
 LEVEL > 42
 #SAY
-Available Dungeons in PastBichon.
+过去比奇可进入的地下城。
  
-Teleport to: <EvilMirPalace/@EM1>
-<Back/@DungeonPage2>
+传送到：<火龙洞窟/@EM1>
+<返回/@DungeonPage2>
 
 #ELSESAY
-Sorry you aint the correct level.
+抱歉你不是正确的等级。
  
-<Back/@DungeonPage2>
+<返回/@DungeonPage2>
 
 [@WLD1]
 #SAY
-Available Dungeons in WasteLands.
+荒野可进入的地下城。
  
-Teleport to: <RedCave/@RC1>
-Teleport to: <HellCavern/@HC1>
-<Back/@DungeonPage2>
+传送到：<红岩洞/@RC1>
+传送到：<地狱洞穴/@HC1>
+<返回/@DungeonPage2>
 
 [@OC1]
 #ACT

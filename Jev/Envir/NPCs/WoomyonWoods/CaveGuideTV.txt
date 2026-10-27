@@ -1,8 +1,8 @@
 [@Main]
 #SAY
-I'm the Cave researcher in this area.
+我是这片区域的洞穴研究员。
 
-<Close/@exit>
+<关闭/@exit>
 
 [Quests]
 -117

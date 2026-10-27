@@ -2,10 +2,10 @@
 1/10 Gold 100
 
 ;Crafting Materials
-1/3 SpiderTeeth 
-1/10 SpiderWeb
+1/3 蜘蛛牙 
+1/10 蜘蛛网
 
 ;Quest
-1/3 PoisonSack Q
-1/3 Web Q
-1/7 SpiderLeg Q
+1/3 毒药袋 Q
+1/3 网 Q
+1/7 蜘蛛腿 Q

@@ -1,10 +1,10 @@
 [@Main]
 #SAY
-I am the Assassin-Level Warrior, it's good to see you.
-The first thing you need to learn is sword technique,
-you can start to practise this properly at level 7.
-First level up and then come and see me.
-<Ok/@exit>
+我是刺客级战士，见到你真好。
+你首先需要学会的是剑法，
+您可以在7级开始好好练习这个了。
+升到一级再来找我。
+<确定/@exit>
 
 [Quests]
 -16

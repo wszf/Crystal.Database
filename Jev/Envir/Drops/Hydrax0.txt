@@ -2,8 +2,8 @@
 1/10 Gold 1150
 
 ;Pots + Other
-1/15 (HP)DrugXL
-1/15 (MP)DrugXL
+1/15 金疮药(特大)
+1/15 魔法药(特大)
 
 ;Weapons
 

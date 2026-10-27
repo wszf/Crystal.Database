@@ -1,19 +1,17 @@
 [@Description]
-Welcome to {MongchonProvince/Yellow}. 
-We have been getting attacked by Boar looking 
-monsters. We got reports that these mobs are 
-coming from the {Underground Tomb/Yellow}. Can you 
-go there and eliminate the monsters?
+欢迎来到{盟重省/Yellow}。
+我们被野猪形态的怪物袭击了。我们收到报告说这些怪物
+是从{石墓/Yellow}传来的。你能去那里消灭这些怪物吗？
 
 [@TaskDescription]
-Eliminate 15 {BlackBoar/Crimson} and {RedBoar's/Crimson} in 
-{StoneTomb/Yellow}
+在{石墓/Yellow}消灭15只{黑野猪/Crimson}和{红野猪/Crimson}
 
 [@Completion]
 
+
 [@KillTasks]
-BlackBoar 15
-RedBoar 15
+黑野猪 15
+红野猪 15
 
 [@ItemTasks]
 

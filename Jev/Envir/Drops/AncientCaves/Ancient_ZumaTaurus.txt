@@ -2,168 +2,168 @@
 1/1 Gold 20000 
 
 ;Pots+Other
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/2 (HP)DrugLarge
-1/2 (MP)DrugLarge
-1/3 (HP)DrugLarge
-1/3 (MP)DrugLarge
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/2 (HP)DrugLarge
-1/2 (MP)DrugLarge
-1/3 (HP)DrugLarge
-1/3 (MP)DrugLarge
-1/1 SunPotion
-1/2 SunPotion
-1/1 SunPotion(M)
-1/2 SunPotion(M)
+1/1 金疮药(大量)
+1/1 魔法药(大量)
+1/2 金疮药(大量)
+1/2 魔法药(大量)
+1/3 金疮药(大量)
+1/3 魔法药(大量)
+1/1 金疮药(大量)
+1/1 魔法药(大量)
+1/2 金疮药(大量)
+1/2 魔法药(大量)
+1/3 金疮药(大量)
+1/3 魔法药(大量)
+1/1 太阳水
+1/2 太阳水
+1/1 强效太阳水
+1/2 强效太阳水
 
 
-1/15 BenedictionOil
+1/15 祝福油
 1/10 AncZumaRelic
-1/40 AwakeningSoul0
-1/40 AwakeningSoul0
+1/40 觉醒之魂0
+1/40 觉醒之魂0
 
 1/75 AncientZumaTaurusRune
 
 ;Weapons
-1/170 ZumaJudgementMace
+1/170 祖玛裁决之杖
 1/170 ZumaFriendBow
-1/170 ZumaWarMageStaff
-1/170 ZumaSoulSpringWand
-1/225 WarSpiritBlade
-1/225 LitheBow
-1/225 MagicScythe
-1/225 StoneBambooFan
-1/300 JudgementMace
-1/300 FiendBow
-1/300 WarMageStaff 
-1/300 SoulSpringWand 
+1/170 祖玛骨玉权杖
+1/170 祖玛无极棍
+1/225 龙牙
+1/225 轻灵弓
+1/225 怒斩
+1/225 逍遥扇
+1/300 裁决之杖
+1/300 魔弓
+1/300 骨玉权杖 
+1/300 无极棍 
 
 ;WeaponsRare
-1/550 MaleficBow
-1/550 DragonSlayer
-1/550 DragonStaff
-1/550 SoulSabre
-1/800 SwordOfWarGod 
-1/800 BowOfForce
-1/800 BladeOfSorcery 
-1/800 HeavenSword
+1/550 邪弓
+1/550 屠龙
+1/550 噬魂法杖
+1/550 龙纹剑
+1/800 开天 
+1/800 力量之弓
+1/800 镇天 
+1/800 玄天
 
 
 ;Armour
-1/30 IronArmour(M)
-1/30 IronArmour(F)
-1/40 TemperedArmour(M)
-1/40 TemperedArmour(F)
-1/30 WizardRobe(M)
+1/30 战神盔甲(男)
+1/30 战神盔甲(女)
+1/40 精炼铠甲(男)
+1/40 精炼铠甲(女)
+1/30 恶魔长袍(男)
 1/30 WizardRobe(F)
-1/30 PearlArmour(M)
-1/30 PearlArmour(F)
-1/35 SteelArmour(M)
-1/35 SteelArmour(F)
-1/35 DragonRobe(M)
-1/35 DragonRobe(F)
-1/35 TitanArmour(M)
-1/35 TitanArmour(F)
+1/30 幽灵战衣(男)
+1/30 幽灵战衣(女)
+1/35 鬼面甲胄(男)
+1/35 鬼面甲胄(女)
+1/35 火龙魔衣(男)
+1/35 火龙魔衣(女)
+1/35 玄天宝衣(男)
+1/35 玄天宝衣(女)
 
 ;ArmourRare
-1/10000 HeavenArmour(M)
-1/10000 HeavenArmour(F)
+1/10000 天衣无缝(男)
+1/10000 天衣无缝(女)
 1/10000 HeavenArcheyRobe(M)
 1/10000 HeavenArcheyRobe(F)
 
 ;Helmets
-1/10 SkeletonHelmet
-1/10 ShamanHelmet
-1/15 GoldenTiara
-1/20 BlackIronHelmet
-1/20 HelmetOfHero
+1/10 骷髅头盔
+1/10 道士头盔
+1/15 黄金头盔
+1/20 黑铁头盔
+1/20 勇士头盔
 
 
 ;Helmets Rare
-1/70 GreatHelmet
-1/70 WisdomCoronet
-1/70 TaoCoronet
-1/70 RoyalHelmet 
+1/70 英雄头盔
+1/70 贤者帽
+1/70 通天冠
+1/70 修罗头盔 
 1/470 MajesticHelmet
 1/800 ExternalHelmet
 
 
 ;Necklace
-1/10 LanternNecklace
-1/10 TigerNecklace
-1/15 BlueJadeNecklace
-1/15 ConvexLens
-1/15 BambooPipe
-1/30 ClawNecklace
-1/30 LifeNecklace
-1/30 PearlNecklace
-1/65 GreenBead
-1/65 DemonicBells
-1/65 SoulNecklace
-1/80 HeroNecklace
+1/10 灯笼项链
+1/10 白色虎齿项链
+1/15 蓝翡翠项链
+1/15 放大镜
+1/15 竹笛
+1/30 幽灵项链
+1/30 生命项链
+1/30 天珠项链
+1/65 绿色项链
+1/65 恶魔铃铛
+1/65 灵魂项链
+1/80 水波颈饰
 1/80 MeteoriteOfArchey 
-1/80 AdamantineNecklace
-1/80 RequiemNecklace
-1/300 GaleNecklace
+1/80 金刚铃项链
+1/80 镇魂项链
+1/300 狂风项链
 
 ;Necklace Rare
 1/470 MajesticNecklace
 1/275 BrutePendulum
-1/275 FiveStringNecklace
-1/275 SurvivalNecklace
+1/275 五玄项链
+1/275 求生项链
 1/800 ExternalNecklace
 
 ;Bracelets
-1/40 3rdEyeBracelet
-1/85 KnightBracelet
-1/85 DragonBracelet
-1/100 SteelGlove
-1/300 8TrigramWheel
-1/300 HangMaWheel
-1/300 BokMaWheel
+1/40 三眼手镯
+1/85 骑士手镯
+1/85 龙之手镯
+1/100 阎罗手套
+1/300 八极轮
+1/300 抗魔轮
+1/300 伏魔轮
 
 ;Bracelets Rare
 1/470 MajesticWheel
 1/375 BruteSpiral
-1/375 FiveStringBracelet
-1/375 SurvivalBracelet
+1/375 五玄手镯
+1/375 求生手镯
 1/800 ExternalWheel
 
 
 ;Rings
-1/95 PowerRing
-1/95 VioletRing
-1/95 TitanRing
-1/100 GaleRing
-1/300 NobleRing
-1/300 OmaSpiritRing
+1/95 力量戒指
+1/95 紫碧螺
+1/95 泰坦戒指
+1/100 狂风戒指
+1/300 鬼刃环
+1/300 奥玛环
 1/300 DestinyRing 
-1/300 SoulRing
+1/300 心意环
 
 ;Rings Rare
 1/470 MajesticRing
 1/320 BruteRing
-1/320 FiveStringRing
-1/320 SurvivalRing
+1/320 五玄戒指
+1/320 求生戒指
 1/800 ExternalRing
 
 ;Shoes
-1/10  SilkBoots
-1/20  BlackBoots
-1/30  DragonBoots
-1/50  RedScaleBoots
+1/10  紫绸靴
+1/20  避魂靴
+1/30  龙靴
+1/50  赤鳞靴
 
 ;ShoesRare
 1/470 MajesticBoots
 1/800 ExternalBoots
 
 ;Belts
-1/20 SteelBelt
-1/30 GoldBelt
-1/50 AdamantineBelt
+1/20 钢铁腰带
+1/30 黄金腰带
+1/50 金刚腰带
 
 ;BeltsRare
 1/470 MajesticBelt
@@ -202,72 +202,72 @@
 
 ;Books
 ;Warrior
-1/40 ShoulderDash
+1/40 野蛮冲撞
 1/45 SliceNDice
-1/50 TwinDrakeBlade
-1/55 Entrapment
+1/50 双龙斩
+1/55 捕蝇剑
 1/60 BladeStorm
-1/65 FlamingSword
-1/70 LionRoar
+1/65 烈火剑法
+1/70 狮子吼
 1/75 BladeStorm
-1/80 CrossHalfMoon
-1/85 BladeAvalanche
-1/120 ProtectionField
-1/210 Rage
+1/80 狂风斩
+1/85 空破闪
+1/120 护身气幕
+1/210 狂暴
 
 ;Wizard
-1/40 FireWall
-1/45 Lightning
-1/50 FrostCrunch
-1/55 ThunderStorm
-1/60 MagicShield
-1/65 IceStorm
-1/70 FlameDisruptor
-1/120 Mirroring
-1/210 FlameField
+1/40 火墙
+1/45 疾光电影
+1/50 寒冰掌
+1/55 地狱雷光
+1/60 魔法护盾
+1/65 冰咆哮
+1/70 灭天火
+1/120 分身术
+1/210 火龙气焰
 
 ;Taoist
-1/40 Revelation
-1/45 BlessedArmour
-1/50 EnergyRepulsor
-1/55 TrapHexagon
-1/60 Purification
-1/65 MassHealing
-1/70 Hallucination
-1/75 UltimateEnhancer
-1/80 HealingCircle
-1/85 SummonShinsu
-1/90 Reincarnation
-1/120 SummonHolyDeva
-1/210 Curse
+1/40 心灵启示
+1/45 祝福铠甲
+1/50 气功波
+1/55 困魔咒
+1/60 净化术
+1/65 群体治疗术
+1/70 迷魂术
+1/75 终极强化
+1/80 阴阳五行阵
+1/85 召唤神兽
+1/90 复活术
+1/120 召唤圣灵
+1/210 诅咒术
 
 ;Assassin
-1/40 Haste
-1/45 FlashDash
-1/50 LightBody
-1/55 HeavenlySword
-1/60 FireBurst
+1/40 急速
+1/45 拔刀术
+1/50 轻身术
+1/55 天剑
+1/60 烈风击
 1/65 CrescentSlash
-1/70 Trap
-1/75 PoisonSword
-1/80 MoonLight
-1/120 MPEater
-1/210 SwiftFeet
+1/70 捕缚术
+1/75 猛毒剑气
+1/80 月光
+1/120 吸气
+1/210 迅雷疾足
 
 ;Archer
-1/40 Meditation
-1/40 ElementalShot
-1/40 ExplosiveTrap
-1/45 Concentration
-1/45 VampireShot
-1/50 SummonVampire
-1/55 BackStep
-1/60 DelayedExplosion
-1/60 ElementalBarrier
-1/120 BindingShot
-1/210 SummonToad
-1/210 PoisonShot
-1/210 CrippleShot
+1/40 冥想
+1/40 元素射击
+1/40 爆炸陷阱
+1/45 专注
+1/45 吸血箭
+1/50 召唤吸血蜘蛛
+1/55 后撤步
+1/60 延爆箭
+1/60 元素屏障
+1/120 束缚箭
+1/210 召唤蟾蜍
+1/210 毒箭
+1/210 致残射击
 
 
 ;Quests

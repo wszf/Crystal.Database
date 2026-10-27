@@ -2,11 +2,11 @@
 1/5 Gold 1650
 
 ;Potions
-1/5 (HP)DrugXL
-1/5 (MP)DrugXL
-1/10 SunPotion
-1/10 SunPotion
+1/5 金疮药(特大)
+1/5 魔法药(特大)
+1/10 太阳水
+1/10 太阳水
 
-1/18000 PledgeRing
-1/18000 FiveElementRing
-1/18000 CrimsonRubyRing
+1/18000 盟约戒指
+1/18000 五行连环
+1/18000 血玉环

@@ -1,12 +1,13 @@
 [@Description]
-Oh Hello Traveler. 
-Have you ever heard of {MongchonProvince/Yellow}? 
-They are in need of help.
+哦，你好，旅人。
+你听说过{盟重省/Yellow}吗？
+他们急需帮助。
 
 [@TaskDescription]
-Talk to {Edwin/LimeGreen} in {MongchonProvince/Yellow}.
+和{盟重省/Yellow}的{埃德温/LimeGreen}谈谈。
 
 [@Completion]
+
 
 [@KillTasks]
 

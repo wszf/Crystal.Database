@@ -1,8 +1,9 @@
 [@main]
-Worship me you little thing, then you will be able to
-break the boundary of time and space to go to the past.
-<To the Past!/@tele>
-<I will stay here/@exit>
+快来膜拜我，小家伙，那样你就能……
+
+打破时空界限前往过去。
+<返回过去！/@tele>
+<我留在这里/@exit>
 
 [@tele]
 #IF
@@ -16,13 +17,13 @@ goto @lowlevel
 #IF
 LEVEL > 32
 LEVEL < 40
-CHECKITEM TimeStonePiece 1
+CHECKITEM 时间之石 1
 #ACT
-TAKEITEM TimeStonePiece 1
+TAKEITEM 时间之石 1
 MOVE 6 63 247
 #ELSESAY
-I'm sorry you do not have a {TimeStonePiece/LightSteelBlue}.
-<Close/@exit>          
+抱歉，你没有{时间之石/LightSteelBlue}。
+<关闭/@exit>          
 
 [@level40]
 #ACT

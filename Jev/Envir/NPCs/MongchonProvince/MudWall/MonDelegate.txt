@@ -2,21 +2,22 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Your the Traveler, I keep hearing about.
-Welcome to MudWall. Your good deed's around the these Land's.
-are greatly admired.
-Please speak with the Local Vendor's im sure they would welcome any
-help.
-<Close/@exit>
+你是旅人，我一直听说过你。
+欢迎来到泥墙。你的善行在这片土地上。
+备受敬仰。
+请和本地商人交谈，我相信他们会欢迎任何
+
+帮助。
+<关闭/@exit>
 
 [Quests]
 114

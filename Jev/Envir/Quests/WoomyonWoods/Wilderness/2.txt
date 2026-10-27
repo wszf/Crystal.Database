@@ -1,17 +1,14 @@
 [@Description]
-Hello traveller. Please listen to my story. I moved 
-to {Woomyon Woods/Yellow} 40 years ago. I was able 
-to hunt all the monsters around my home then, 
-but now that I'm old and weak, I'm afraid to go 
-out of my house.
+你好旅人。请听我讲个故事。我四十年前搬到了{沃玛森林/Yellow}。那时候我能猎杀我家周围所有的怪物，但现在我已经老了又虚弱，我怕出门了。
 
 [@TaskDescription]
-Eliminate 10 {OmaFighter/Crimson} for {MasterShok/LimeGreen}
+为{师傅_肖克/LimeGreen}击杀10只{半兽战士/Crimson}
 
 [@Completion]
 
+
 [@KillTasks]
-OmaFighter 10
+半兽战士 10
 
 [@ItemTasks]
 

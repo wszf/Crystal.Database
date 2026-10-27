@@ -1,12 +1,11 @@
 [@Description]
-There seem's to be a Dark and Evil Aura coming 
-from the {Mine/Yellow}
+从 {矿洞/Yellow}传来一股黑暗而邪恶的气息。
 
 [@TaskDescription]
-Investigate the source of Evil in 
-{SerpentDeadMine/Yellow}
+调查 {毒蛇死矿/Yellow}邪恶的源头。
 
 [@Completion]
+
 
 [@KillTasks]
 

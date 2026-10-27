@@ -2,16 +2,16 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello there <$USERNAME>. I don't have any work that
-needs doing at the moment. Come back next week and I
-may be able to help you.
-<Ok/@exit>
+<$USERNAME>，你好。我没什么能帮你的事。
+现在有事情要做。下周再来我
+也许能帮到你。
+<确定/@exit>

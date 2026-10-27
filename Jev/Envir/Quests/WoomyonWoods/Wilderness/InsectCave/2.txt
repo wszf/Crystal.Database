@@ -1,18 +1,17 @@
 [@Description]
-{BlueHoroBlaster/Crimson} is in {InsectCave/Yellow}. The blood of
-this bug can be purified to be used as a 
-medicine. Could you bring me 12 {BugBlood/LightSteelBlue}?
+{碧蓝魔眼/Crimson}在{虫洞/Yellow}。这种虫子的血液可以提纯用于药材。你能给我带回12个{虫血/LightSteelBlue}吗？
 
 [@TaskDescription]
-Kill {BlueHoroBlaster's/Crimson} in {InsectCave/Yellow} and collect 12 
-{BugBlood/LightSteelBlue}
+在{虫洞/Yellow}击杀{碧蓝魔眼/Crimson}并收集12个
+{虫血/LightSteelBlue}
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-BugBlood 12
+虫血 12
 
 [@CarryItems]
 

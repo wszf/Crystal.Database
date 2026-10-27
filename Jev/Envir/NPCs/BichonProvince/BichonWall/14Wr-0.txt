@@ -3,16 +3,16 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #IF
-CHECKITEM PremiumPass[1d]
+CHECKITEM 远古英雄之证[1天]
 #ACT
 GOTO @PremCaveMenu
 #ELSEACT
@@ -20,7 +20,7 @@ GOTO @CHECKPASS2
 
 [@CHECKPASS2]
 #IF
-CHECKITEM PremiumPass[3d]
+CHECKITEM 远古英雄之证[3天]
 #ACT
 GOTO @PremCaveMenu
 #ELSEACT
@@ -28,7 +28,7 @@ GOTO @CHECKPASS3
 
 [@CHECKPASS3]
 #IF
-CHECKITEM PremiumPass[7d]
+CHECKITEM 远古英雄之证[7天]
 #ACT
 GOTO @PremCaveMenu
 #ELSEACT
@@ -36,45 +36,45 @@ GOTO @CHECKPASS4
 
 [@CHECKPASS4]
 #IF
-CHECKITEM PremiumPass[15d]
+CHECKITEM 远古英雄之证[15天]
 #ACT
 GOTO @PremCaveMenu
 #ELSESAY
-You dont have a {Premium Pass/LightSteelBlue}.
+你没有{高级通行证/LightSteelBlue}。
 
-;;Premium Cave Menu.
+;;高级洞穴菜单。
 [@PremCaveMenu]
 #SAY
-Congratulations <$USERNAME>, 
-Thank You for your contribution. As a reward you now have access
-to the following Premium Dungeons which don't have any Restrictions.
+恭喜<$USERNAME>， 
+感谢你的贡献。作为奖励，你现在获得了
+到以下没有任何限制的高级副本。
  
-<Dungeon 1/@PremDungeon1> | <Dungeon 2/@PremDungeon2> | <Dungeon 3/@PremDungeon3> - Dungeons to come.
-Quick Entry to:
-<Ancient Oma Cave/@AOC> | <Ancient Wooma Temple/@AWT> | <Ancient Stone Temple/@AST>
-<Ancient Zuma Temple/@AZT> | <Ancient Prajna Cave/@APC>
+<地下城1/@PremDungeon1> | <地下城2/@PremDungeon2> | <地下城3/@PremDungeon3> - 更多地下城即将开放。
+快速进入：
+<远古奥玛洞/@AOC> | <古老伍玛神殿/@AWT> | <远古石庙/@AST>
+<远古祖玛寺庙/@AZT> | <远古般若洞/@APC>
 
 [@AOC]
 #ACT
 MOVE D001A
-GIVEITEM TownTeleport 1
+GIVEITEM 回城卷 1
 
 [@AWT]
 #ACT
 MOVE D021A
-GIVEITEM TownTeleport 1
+GIVEITEM 回城卷 1
 
 [@AST]
 #ACT
 MOVE D710A
-GIVEITEM TownTeleport 1
+GIVEITEM 回城卷 1
 
 [@AZT]
 #ACT
 MOVE 0157A
-GIVEITEM TownTeleport 1
+GIVEITEM 回城卷 1
 
 [@APC]
 #ACT
 MOVE D2051A
-GIVEITEM TownTeleport 1
+GIVEITEM 回城卷 1

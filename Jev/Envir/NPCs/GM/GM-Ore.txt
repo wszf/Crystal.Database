@@ -2,39 +2,39 @@
 #IF
 ISADMIN
 #SAY
-Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-<Buy/@Buy> Ore
-<Sell/@Sell> Ore
+{<$USERNAME>/KHAKI}，我叫{<$NPCNAME>/KHAKI}。
+<购买/@Buy> 矿石
+<出售/@Sell> 矿石
 
 #ELSEACT
 MOVE 0 300 300
 
 [@Sell]
 #SAY
-Sell
+出售
  
-<Back/@Main>
+<返回/@Main>
 
 [@Buy]
 #SAY
-Buy.
+买。
  
-<Back/@Main>
+<返回/@Main>
 
 
 [Types]
 14
 
 [Trade]
-CopperOre
-IronOre
-SilverOre
-GoldOre
-BlackIronOre
-Amethyst
-Ruby
-Platinum
-Nephrite
-AdamintineOre
-EmeraldOre
-OlivineOre
+铜矿
+铁矿
+银矿
+金矿
+黑铁矿
+紫水晶矿
+红宝石矿
+白金矿
+软玉矿
+精金矿
+翡翠矿
+橄榄石矿

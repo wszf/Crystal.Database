@@ -1,26 +1,24 @@
 [@Description]
-Recently we have discovered a new area called 
-{AncientRuins/Yellow}.  However,the olny way 
-to go there is by going through EvilHeart. 
-As you can see, I cant't go throught EvilHeart 
-due to all the monsters in there. Therefore, 
-I'm here trying to create a force that will 
-defeat the monsters. So.. will you be able to help me 
-out by killing the monsters inside of {RedCave/Yellow}? 
-If are less monsters then the force will be able to 
-complete their task more easily.
+最近我们发现了一个叫{远古遗迹/Yellow}的新区域。然而，唯一能去那里
+的办法是穿过邪心之地。
+如你所见，我因为里面有太多怪物，无法穿过邪心之地。所以，
+我在这里试图创造一种能够击败怪物的力量。所以……你能帮我
+通过杀死{红岩洞/Yellow}里的怪物来解决吗？
+如果怪物越少，这股力量就能更轻松地
+完成任务了。
 
 [@TaskDescription]
-Eliminate 12 {GhastlyLeecher/Crimson}, {CyanoGhast/Crimson}, 
-{MutatedManworm/Crimson} and {CrazyManworm/Crimson}.
+消灭12个{青白恶鬼/Crimson}、{靛蓝恶鬼/Crimson}、
+{嗜血虫魔/Crimson}和{疯狂虫魔/Crimson}。
 
 [@Completion]
 
+
 [@KillTasks]
-GhastlyLeecher 12
-CyanoGhast 12
-MutatedManworm 12
-CrazyManworm 12
+青白恶鬼 12
+靛蓝恶鬼 12
+嗜血虫魔 12
+疯狂虫魔 12
 
 [@ItemTasks]
 

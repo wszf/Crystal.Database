@@ -3,16 +3,16 @@
 1/33 Gold 12553 LV1
 
 ;Pots + Other
-1/10 (HP)DrugXL LV1
-1/10 (MP)DrugXL LV1
+1/10 金疮药(特大) LV1
+1/10 魔法药(特大) LV1
 
 ;Weapons
-1/150 PowerAxe LV1
-1/150 LongBow LV1
-1/200 PurifierSword LV1  
-1/200 MartialSword LV1
-1/200 HookedSpear LV1
-1/200 KrissSword LV1
+1/150 修罗 LV1
+1/150 长弓 LV1
+1/200 凝霜 LV1  
+1/200 斩马刀 LV1
+1/200 偃月 LV1
+1/200 降魔 LV1
 
 ;Helmets Rare
 1/1000 MysteryCap[1d] LV1
@@ -32,25 +32,25 @@
 1/3500 BloodJewl[1d] LV1
 
 ;Gems
-1/3200 DurabilityGem LV1
-1/3200 ProtectionGem LV1
-1/3200 EvilSlayerGem LV1
+1/3200 强化宝玉 LV1
+1/3200 守护宝玉 LV1
+1/3200 制魔宝玉 LV1
 
 ;Level 2
 ;Gold
 1/33 Gold 12553 LV2
 
 ;Pots + Other
-1/10 (HP)DrugXL LV2
-1/10 (MP)DrugXL LV2
+1/10 金疮药(特大) LV2
+1/10 魔法药(特大) LV2
 
 ;Weapons
-1/150 LongBow LV2
-1/150 PowerAxe LV2
-1/200 PurifierSword LV2  
-1/200 MartialSword LV2
-1/200 HookedSpear LV2
-1/200 KrissSword LV2
+1/150 长弓 LV2
+1/150 修罗 LV2
+1/200 凝霜 LV2  
+1/200 斩马刀 LV2
+1/200 偃月 LV2
+1/200 降魔 LV2
 
 ;Helmets Rare
 1/1000 MysteryCap[1d] LV2
@@ -70,25 +70,25 @@
 1/3500 BloodJewl[1d] LV2
 
 ;Gems
-1/3200 DurabilityGem LV2
-1/3200 ProtectionGem LV2
-1/3200 EvilSlayerGem LV2
+1/3200 强化宝玉 LV2
+1/3200 守护宝玉 LV2
+1/3200 制魔宝玉 LV2
 
 ;Level 3
 ;Gold
 1/33 Gold 12553 LV3
 
 ;Pots + Other
-1/10 (HP)DrugXL LV3
-1/10 (MP)DrugXL LV3
+1/10 金疮药(特大) LV3
+1/10 魔法药(特大) LV3
 
 ;Weapons
-1/150 PowerAxe LV3
-1/150 LongBow LV3
-1/200 PurifierSword LV3  
-1/200 MartialSword LV3
-1/200 HookedSpear LV3
-1/200 KrissSword LV3
+1/150 修罗 LV3
+1/150 长弓 LV3
+1/200 凝霜 LV3  
+1/200 斩马刀 LV3
+1/200 偃月 LV3
+1/200 降魔 LV3
 
 ;Helmets Rare
 1/1000 MysteryCap[1d] LV3
@@ -108,25 +108,25 @@
 1/3500 BloodJewl[1d] LV3
 
 ;Gems
-1/3200 DurabilityGem LV3
-1/3200 ProtectionGem LV3
-1/3200 EvilSlayerGem LV3
+1/3200 强化宝玉 LV3
+1/3200 守护宝玉 LV3
+1/3200 制魔宝玉 LV3
 
 ;Level 4
 ;Gold
 1/33 Gold 12553 LV4
 
 ;Pots + Other
-1/10 (HP)DrugXL LV4
-1/10 (MP)DrugXL LV4
+1/10 金疮药(特大) LV4
+1/10 魔法药(特大) LV4
 
 ;Weapons
-1/150 PowerAxe LV4
-1/150 LongBow LV4
-1/200 PurifierSword LV4  
-1/200 MartialSword LV4
-1/200 HookedSpear LV4
-1/200 KrissSword LV4
+1/150 修罗 LV4
+1/150 长弓 LV4
+1/200 凝霜 LV4  
+1/200 斩马刀 LV4
+1/200 偃月 LV4
+1/200 降魔 LV4
 
 ;Helmets Rare
 1/1000 MysteryCap[1d] LV4
@@ -146,25 +146,25 @@
 1/3500 BloodJewl[1d] LV4
 
 ;Gems
-1/3200 DurabilityGem LV4
-1/3200 ProtectionGem LV4
-1/3200 EvilSlayerGem LV4
+1/3200 强化宝玉 LV4
+1/3200 守护宝玉 LV4
+1/3200 制魔宝玉 LV4
 
 ;Level 5
 ;Gold
 1/33 Gold 12553 LV5
 
 ;Pots + Other
-1/10 (HP)DrugXL LV5
-1/10 (MP)DrugXL LV5
+1/10 金疮药(特大) LV5
+1/10 魔法药(特大) LV5
 
 ;Weapons
-1/150 PowerAxe LV5
-1/150 LongBow LV5
-1/200 PurifierSword LV5  
-1/200 MartialSword LV5
-1/200 HookedSpear LV5
-1/200 KrissSword LV5
+1/150 修罗 LV5
+1/150 长弓 LV5
+1/200 凝霜 LV5  
+1/200 斩马刀 LV5
+1/200 偃月 LV5
+1/200 降魔 LV5
 
 ;Helmets Rare
 1/1000 MysteryCap[1d] LV5
@@ -184,25 +184,25 @@
 1/3500 BloodJewl[1d] LV5
 
 ;Gems
-1/3200 DurabilityGem LV5
-1/3200 ProtectionGem LV5
-1/3200 EvilSlayerGem LV5
+1/3200 强化宝玉 LV5
+1/3200 守护宝玉 LV5
+1/3200 制魔宝玉 LV5
 
 ;Level 6
 ;Gold
 1/33 Gold 12553 LV6
 
 ;Pots + Other
-1/10 (HP)DrugXL LV6
-1/10 (MP)DrugXL LV6
+1/10 金疮药(特大) LV6
+1/10 魔法药(特大) LV6
 
 ;Weapons
-1/150 PowerAxe LV6
-1/150 LongBow LV6
-1/200 PurifierSword LV6  
-1/200 MartialSword LV6
-1/200 HookedSpear LV6
-1/200 KrissSword LV6
+1/150 修罗 LV6
+1/150 长弓 LV6
+1/200 凝霜 LV6  
+1/200 斩马刀 LV6
+1/200 偃月 LV6
+1/200 降魔 LV6
 
 ;Helmets Rare
 1/1000 MysteryCap[1d] LV6
@@ -222,25 +222,25 @@
 1/3500 BloodJewl[1d] LV6
 
 ;Gems
-1/3200 DurabilityGem LV6
-1/3200 ProtectionGem LV6
-1/3200 EvilSlayerGem LV6
+1/3200 强化宝玉 LV6
+1/3200 守护宝玉 LV6
+1/3200 制魔宝玉 LV6
 
 ;Level 7
 ;Gold
 1/33 Gold 12553 LV7
 
 ;Pots + Other
-1/10 (HP)DrugXL LV7
-1/10 (MP)DrugXL LV7
+1/10 金疮药(特大) LV7
+1/10 魔法药(特大) LV7
 
 ;Weapons
-1/150 PowerAxe LV7
-1/150 LongBow LV7
-1/200 PurifierSword LV7  
-1/200 MartialSword LV7
-1/200 HookedSpear LV7
-1/200 KrissSword LV7
+1/150 修罗 LV7
+1/150 长弓 LV7
+1/200 凝霜 LV7  
+1/200 斩马刀 LV7
+1/200 偃月 LV7
+1/200 降魔 LV7
 
 ;Helmets Rare
 1/1000 MysteryCap[1d] LV7
@@ -260,25 +260,25 @@
 1/3500 BloodJewl[1d] LV7
 
 ;Gems
-1/3200 DurabilityGem LV7
-1/3200 ProtectionGem LV7
-1/3200 EvilSlayerGem LV7
+1/3200 强化宝玉 LV7
+1/3200 守护宝玉 LV7
+1/3200 制魔宝玉 LV7
 
 ;Level 8
 ;Gold
 1/33 Gold 12553 LV8
 
 ;Pots + Other
-1/10 (HP)DrugXL LV8
-1/10 (MP)DrugXL LV8
+1/10 金疮药(特大) LV8
+1/10 魔法药(特大) LV8
 
 ;Weapons
-1/150 PowerAxe LV8
-1/150 LongBow LV8
-1/200 PurifierSword LV8  
-1/200 MartialSword LV8
-1/200 HookedSpear LV8
-1/200 KrissSword LV8
+1/150 修罗 LV8
+1/150 长弓 LV8
+1/200 凝霜 LV8  
+1/200 斩马刀 LV8
+1/200 偃月 LV8
+1/200 降魔 LV8
 
 ;Helmets Rare
 1/1000 MysteryCap[1d] LV8
@@ -298,6 +298,6 @@
 1/3500 BloodJewl[1d] LV8
 
 ;Gems
-1/3200 DurabilityGem LV8
-1/3200 ProtectionGem LV8
-1/3200 EvilSlayerGem LV8
+1/3200 强化宝玉 LV8
+1/3200 守护宝玉 LV8
+1/3200 制魔宝玉 LV8

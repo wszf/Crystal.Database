@@ -2,25 +2,25 @@
 #IF
 ISADMIN
 #SAY
-Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-I see you're holding: {<$TORCH>/CORAL}
-<Buy/@Buy> Grocery
-<Sell/@Sell> Grocery
+{<$USERNAME>/KHAKI}，我叫{<$NPCNAME>/KHAKI}。
+我看到你拿着: {<$TORCH>/CORAL}
+<购买/@Buy> 食物
+<出售/@Sell> 日用品
 
 #ELSEACT
 MOVE 0 300 300
 
 [@Buy]
 #SAY
-Buy.
+买。
  
-<Back/@Main>
+<返回/@Main>
 
 [@Sell]
 #SAY
-Sell.
+出售。
  
-<Back/@Main>
+<返回/@Main>
 
 
 [Types]
@@ -29,20 +29,20 @@ Sell.
 17
 
 [Trade]
-Candle
-Torch
-EnternalFlame
-PeddlerTorch
-DragonTorch
-RepairOil
-WarGodOil
-BenedictionOil
-RandomTeleport
-DungeonEscape
-TownTeleport
-TeleportHome
+蜡烛
+火把
+永恒之火
+大火把
+龙之火把
+修复油
+战神油
+祝福油
+随机传送卷
+地牢逃脱卷
+回城卷
+行会回城卷
 AncTeleport
-GreenPoison
-RedPoison
-Amulet
-AmuletOfRevival
+灰色药粉
+黄色药粉
+护身符
+复活符

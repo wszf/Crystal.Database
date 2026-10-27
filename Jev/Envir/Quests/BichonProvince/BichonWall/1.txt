@@ -1,22 +1,22 @@
 [@Description]
-I've been getting reports that {ForestYeti's/Crimson} are
-attacking only the new Warrior's lately.
-Do you think you can help?
+我接到了报告，说{森林雪人/Crimson}最近只攻击新来的战士。
+你觉得你能帮忙吗？
 
 [@TaskDescription]
-Eliminate 5 {ForestYeti's/Crimson}.
+消灭5只{森林雪人/Crimson}。
 
 [@Completion]
 
+
 [@KillTasks]
-ForestYeti 5
+森林雪人 5
 
 [@ItemTasks]
 
 [@CarryItems]
 
 [@FixedRewards]
-PrecisionPendant
+精密吊坠
 
 [@SelectRewards]
 

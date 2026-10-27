@@ -1,30 +1,28 @@
 [@Description]
-Traveler Please return to the {SerpentDeadMines/Yellow} 
-and complete the task which was on the 
-{HiddenScroll/LightSteelBlue}. 
+旅人，请返回 {毒蛇死矿/Yellow}，并完成 {隐藏的卷轴/LightSteelBlue}上的任务。
 
 [@TaskDescription]
-Eliminate {RotShamanZombie's/Crimson} and retrieve 
-{HeartOfDead/LightSteelBlue} from the {HiGreatGhoul/Crimson}
+消灭 {暗之萨满僵尸/Crimson} 并从 {变异尸王/Crimson}那里取回 {死亡之心/LightSteelBlue}。
 
 [@Completion]
 
+
 [@KillTasks]
-RotShamanZombie 20
+暗之萨满僵尸 20
 
 [@ItemTasks]
-HeartOfDead 1
+死亡之心 1
 
 [@CarryItems]
 
 [@FixedRewards]
 
 [@SelectRewards]
-MartialSabre
-SpearWithHook
-KeenKrissSword
-BlackIronCrowSwords
-ToughLongBow
+斩马
+偃月刀
+精锐降魔
+黑铁刀
+坚韧长弓
 
 [@ExpReward]
 4800

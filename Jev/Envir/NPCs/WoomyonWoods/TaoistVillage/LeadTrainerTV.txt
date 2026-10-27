@@ -2,19 +2,19 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello Mirian, We need to improve on how we teach our 
-Taoists.
+你好米里安，我们需要改进的是我们教导的 
+道士。
 
-<Close/@exit>
+<关闭/@exit>
 
 [Quests]
 86

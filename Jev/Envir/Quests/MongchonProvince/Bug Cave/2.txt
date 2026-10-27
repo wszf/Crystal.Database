@@ -1,19 +1,18 @@
 [@Description]
-I went to hunt in {DeathValley/Yellow}. I ran into some 
-{Tongs/Crimson} I thought it was a Boss Monster. 
-While retreating I dropped my beloved Sword.
-
+我去了{死亡山谷/Yellow}狩猎。我遇到了一些
+{钳虫/Crimson}，我以为它是个BOSS怪物。
+在撤退时，我掉了我心爱的剑。
 
 [@TaskDescription]
-Travel to {Death Valley/Yellow} and retrieve {CharleySword/LightSteelBlue} 
-by killing {Tongs/Crimson}.
+前往{死亡山谷/Yellow}并击杀{钳虫/Crimson}后，取回{龙之宝剑/LightSteelBlue}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-CharleySword 1
+龙之宝剑 1
 
 [@CarryItems]
 

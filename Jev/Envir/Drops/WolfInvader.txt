@@ -2,20 +2,20 @@
 1/4 Gold 320
 
 ;Pots + Other
-1/20 (HP)DrugMedium 
-1/20 (MP)DrugMedium
+1/20 金疮药(中量) 
+1/20 魔法药(中量)
 
 
 ;Armour Rare
-1/1000 MediumArmour(M)
-1/1000 MediumArmour(F)
+1/1000 中型盔甲(男)
+1/1000 中型盔甲(女)
  
 
 ;Shoes
-1/140 OldLoafer
+1/140 旧布鞋
 
 ;Belts
-1/140 LeatherBelt
+1/140 兽皮腰带
 
 
 ;Shields
@@ -23,9 +23,9 @@
 
 
 ;Stone
-1/1520 McStone(S)
-1/1520 ScStone(S)
-1/1520 DcStone(S)
-1/1920 mcStone(M)
-1/1920 McStone(M)
-1/1920 DcStone(M)
+1/1520 魔法守护石(小)
+1/1520 道术守护石(小)
+1/1520 攻击守护石(小)
+1/1920 魔法守护石(中)
+1/1920 魔法守护石(中)
+1/1920 攻击守护石(中)

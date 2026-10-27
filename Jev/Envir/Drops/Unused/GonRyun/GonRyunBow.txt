@@ -2,37 +2,37 @@
 1/1 Gold 2400
 
 ;Potions
-1/8 SunPotion
-1/8 SunPotion
+1/8 太阳水
+1/8 太阳水
 
 
 ;Bracelet
 ;Bracelets Rare
-1/38000 DualTitanAmulet
-1/38000 SacredAngelAmulet
-1/38000 EvilWhispAmulet
+1/38000 铁魔双轮
+1/38000 玉女天使
+1/38000 曜火虹轮
 
 
 1/25000 DestinyRing 
-1/25000 OmaSpiritRing
-1/25000 NobleRing
-1/25000 SoulRing
+1/25000 奥玛环
+1/25000 鬼刃环
+1/25000 心意环
 
 
 ;Necklace
 
 
 ;Helmet
-1/5000 BlackTigerArmour(M)
-1/5000 BlackTigerArmour(F)
-1/5000 LotusArmour(M)
-1/5000 LotusArmour(F)
-1/5000 CraneArmour(M)
-1/5000 CraneArmour(F)
-1/5000 StealthArmour(M)
-1/5000 StealthArmour(F)
-1/5000 LightTemperedArmour(M)
-1/5000 LightTemperedArmour(F)
+1/5000 黑虎甲胄(男)
+1/5000 黑虎甲胄(女)
+1/5000 莲盛魔衣(男)
+1/5000 莲盛魔衣(女)
+1/5000 鹤羽圣衣(男)
+1/5000 鹤羽圣衣(女)
+1/5000 黑乌飞甲(男)
+1/5000 黑乌飞甲(女)
+1/5000 轻型精炼甲(男)
+1/5000 轻型精炼甲(女)
 
 1/1125 BraveryFragment
 1/1125 MagicFragment
@@ -47,13 +47,13 @@
 1/1125 FreezingFragment
 1/1125 AgilityFragment
 1/1125 EnduranceFragment
-1/1130 IceMarble
-1/1900 Armourcasttool 
+1/1130 寒冰珠
+1/1900 铠甲铸造工具 
 1/1900 TranslucentCrystal
-1/1900 Armourbook(DC)
-1/1900 Armourbook(SC)
-1/1900 Armourbook(MC)
-1/1900 RustyArmour
-1/1900 BookofSpirit
-1/1900 HavocCrystal
+1/1900 盔甲之书(勇猛)
+1/1900 盔甲之书(仙术)
+1/1900 盔甲之书(魔界)
+1/1900 锈蚀的古代盔甲
+1/1900 精神之书
+1/1900 浩劫水晶
 

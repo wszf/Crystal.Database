@@ -2,40 +2,40 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome, What can I do for you?
+欢迎，有什么可以帮您的吗？
  
-<View/@BuySell> Store.
-<Repair/@Repair> Item.
+<查看/@BuySell> 商店。
+<修理/@Repair> 物品。
  
-<Close/@exit>
+<关闭/@exit>
 
 [@BuySell]
 #SAY
-Which item would you like to Buy or Sell?
-<Buy Back/@BuyBack>
+你想买卖什么物品？
+<回购/@BuyBack>
  
-<Back/@main>
+<返回/@main>
 
 [@BuyBack]
 #SAY
-These are the items still available to purchase back.
+这些是仍然可以购买的物品。
  
-<Back/@main>
+<返回/@main>
 
 [@Repair]
 #SAY
-You can repair various kinds of Items.
+你可以修理各种物品。
   
-<Back/@main>
+<返回/@main>
 
 [Types]
 1
@@ -49,58 +49,58 @@ You can repair various kinds of Items.
 14
 
 [Trade]
-(HP)DrugSmall 1
-(HP)DrugSmall 5
-(HP)DrugSmall 10
-(MP)DrugSmall 1
-(MP)DrugSmall 5
-(MP)DrugSmall 10
-(HP)DrugMedium 1
-(HP)DrugMedium 5
-(HP)DrugMedium 10
-(MP)DrugMedium 1
-(MP)DrugMedium 5
-(MP)DrugMedium 10
-WoodenSword
-WoodenBow
-Dagger
-EbonySword
-EbonyBow
-BronzeSword
-ShortBow
-ShortSword
-SharpHoaSword
-BoneBow
-IronSword
-BronzeAxe
-Trident
-HookedSword
-Scimitar
-BladesOfVelocity
-CompoundBow
-LightArmour(M)
-LightArmour(F)
-BronzeHelmet
-MagicHelmet
-BrassHelmet
-LeatherBelt
-ChainBelt
-LowShoes
-LeatherBoots
-NagaNecklace
+金疮药(小量) 1
+金疮药(小量) 5
+金疮药(小量) 10
+魔法药(小量) 1
+魔法药(小量) 5
+魔法药(小量) 10
+金疮药(中量) 1
+金疮药(中量) 5
+金疮药(中量) 10
+魔法药(中量) 1
+魔法药(中量) 5
+魔法药(中量) 10
+木剑
+木弓
+匕首
+乌木剑
+乌木弓
+青铜剑
+短弓
+短剑
+暴虎刀
+骨弓
+铁剑
+青铜斧
+海魂
+八荒
+半月
+音速刀
+复合弓
+轻型盔甲(男)
+轻型盔甲(女)
+青铜头盔
+魔法头盔
+黄铜头盔
+兽皮腰带
+铁腰带
+布鞋
+鹿皮靴
+魔鬼项链
 PheonixBead
-AmberNecklace
-LanternNecklace
-HornRing
-IronRing
-WhiteJadeRing
-BlueRing
-BlackRing
-SerpentEyeRing
-PearlRing
-GoldRing
-SteelBracelet
-LargeBracelet
-StrainBracelet
-MonkBracelet
-EbonyBracelet
+琥珀项链
+灯笼项链
+牛角戒指
+生铁戒指
+白玉戒指
+蓝色水晶戒指
+黑色水晶戒指
+蛇眼戒指
+珍珠戒指
+金戒指
+钢手镯
+大手镯
+尽力手镯
+道士手镯
+黑檀手镯

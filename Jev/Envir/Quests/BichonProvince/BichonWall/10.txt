@@ -1,17 +1,18 @@
 [@Description]
-Hello traveller, I have a favor tou ask you. I lost 
-my sister's ring while hunting in {OmaCave/Yellow}. 
+欢迎过客，我求你帮个忙。我在{奥玛洞/Yellow}狩猎时，把
+我妹妹的戒指弄丢了。
 
 [@TaskDescription]
-Find {OliviasRing/LightSteelBlue} in {OmaCave/Yellow}
+在{奥玛洞/Yellow}找到{水晶戒指/LightSteelBlue}
 
 [@Completion]
+
 
 
 [@KillTasks]
 
 [@ItemTasks]
-OliviasRing 1
+水晶戒指 1
 
 [@CarryItems]
 

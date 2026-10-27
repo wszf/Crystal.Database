@@ -2,45 +2,46 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-I am the Examiner for Bichon.
-In order to go to restricted ares, you are required to have a
-Bichon Token.
-If you would like a Bichon Token you can purchase one from me.
-<Buy Bichon Token/@Buy>
-<Ask about Bichon Token/@Ask>
-<Close/@Exit>
+我是比奇省的考官。
+要进入限制区域，你需要拥有一个
+比奇代币。
+若想要比奇令牌，可以从我这里购买。
+<购买比奇令牌/@Buy>
+<询问比奇令牌/@Ask>
+<关闭/@Exit>
 
 [@Ask]
 #SAY
-In a book written 100 years ago,there is a section where it
-explainshow to enter hell. It is said the patch to hell was discovered
-past the BorderVillage. To investigate this area, we have prepared
-many investigators. If you'd like to see this place too, you should go
-ask their leader.
-Also you will need the Bichon Token to go thought the cave.
-<Buy Bichon Token/@Buy>
-<Will get next time/@Exit>
+在一本写于百年前的书里，有一个章节说
+解释如何进入地狱。据说通往地狱的补丁被发现
+经过边境村。为了调查这个区域，我们准备了
+许多调查员。如果你也想看看这个地方，你应该去
+询问他们的首领。
+你还需要比奇令牌才能通过洞穴。
+<购买比奇令牌/@Buy>
+<下次再来/@Exit>
 
 
 [@Buy]
 #SAY
-Please choose what you want to buy.
+请选择您想要购买的物品。
+
  
  
-<Back/@Main>
+<返回/@Main>
 
 
 [Trade]
-BichonToken
+比奇通用币
 
 [Quests]
 60

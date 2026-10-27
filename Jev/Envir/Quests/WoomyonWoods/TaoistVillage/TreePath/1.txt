@@ -1,16 +1,17 @@
 [@Description]
-Please travel to the {RedValley/Yellow} and collect the
-Ingredient's. 
+请前往{红谷/Yellow}收集
+材料。
 
 [@TaskDescription]
-Kill {SpiderBat/Crimson} and collect 20 {BatPoison/LightSteelBlue}.
+击杀{月魔蜘蛛/Crimson}并收集20个{蝙蝠毒/LightSteelBlue}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-BatPoison 20
+蝙蝠毒 20
 
 [@CarryItems]
 

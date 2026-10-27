@@ -3,8 +3,8 @@
 1/24 Gold 5913 LV1
 
 ;Pots + Other
-1/10 (HP)DrugXL LV1
-1/10 (MP)DrugXL LV1
+1/10 金疮药(特大) LV1
+1/10 魔法药(特大) LV1
 
 ;Helmets Rare
 1/1000 MysteryCap[1d] LV1
@@ -28,8 +28,8 @@
 1/24 Gold 5913 LV2
 
 ;Pots + Other
-1/10 (HP)DrugXL LV2
-1/10 (MP)DrugXL LV2
+1/10 金疮药(特大) LV2
+1/10 魔法药(特大) LV2
 
 ;Helmets Rare
 1/1000 MysteryCap[1d] LV2
@@ -53,8 +53,8 @@
 1/24 Gold 5913 LV3
 
 ;Pots + Other
-1/10 (HP)DrugXL LV3
-1/10 (MP)DrugXL LV3
+1/10 金疮药(特大) LV3
+1/10 魔法药(特大) LV3
 
 ;Helmets Rare
 1/1000 MysteryCap[1d] LV3
@@ -78,8 +78,8 @@
 1/24 Gold 5913 LV4
 
 ;Pots + Other
-1/10 (HP)DrugXL LV4
-1/10 (MP)DrugXL LV4
+1/10 金疮药(特大) LV4
+1/10 魔法药(特大) LV4
 
 ;Helmets Rare
 1/1000 MysteryCap[1d] LV4
@@ -103,8 +103,8 @@
 1/24 Gold 5913 LV5
 
 ;Pots + Other
-1/10 (HP)DrugXL LV5
-1/10 (MP)DrugXL LV5
+1/10 金疮药(特大) LV5
+1/10 魔法药(特大) LV5
 
 ;Helmets Rare
 1/1000 MysteryCap[1d] LV5
@@ -128,8 +128,8 @@
 1/24 Gold 5913 LV6
 
 ;Pots + Other
-1/10 (HP)DrugXL LV6
-1/10 (MP)DrugXL LV6
+1/10 金疮药(特大) LV6
+1/10 魔法药(特大) LV6
 
 ;Helmets Rare
 1/1000 MysteryCap[1d] LV6
@@ -153,8 +153,8 @@
 1/24 Gold 5913 LV7
 
 ;Pots + Other
-1/10 (HP)DrugXL LV7
-1/10 (MP)DrugXL LV7
+1/10 金疮药(特大) LV7
+1/10 魔法药(特大) LV7
 
 ;Helmets Rare
 1/1000 MysteryCap[1d] LV7
@@ -178,8 +178,8 @@
 1/24 Gold 5913 LV8
 
 ;Pots + Other
-1/10 (HP)DrugXL LV8
-1/10 (MP)DrugXL LV8
+1/10 金疮药(特大) LV8
+1/10 魔法药(特大) LV8
 
 ;Helmets Rare
 1/1000 MysteryCap[1d] LV8

@@ -4,18 +4,18 @@
 ;Pots + Other
 1/40 (HP)Booster
 1/40 (MP)Booster 
-1/60 SunPotion 
-1/100 SunPotion(M)
+1/60 太阳水 
+1/100 强效太阳水
 
-1/250 ImpactDrug(L) 
-1/250 MagicDrug(L) 
-1/250 TaoistDrug(L) 
-1/250 StormDrug(L) 
-1/250 StaminaAid(L) 
-1/250 MagicAid(L) 
+1/250 攻击药水(大) 
+1/250 魔法药水(大) 
+1/250 道力药水(大) 
+1/250 疾风药水(大) 
+1/250 体力药水(大) 
+1/250 魔力药水(大) 
 
 1/500 Awakeningbox
-1/500 AwakeningSoul0
+1/500 觉醒之魂0
 
 
 ;;1/2500 EasterRobe(M)[7d]

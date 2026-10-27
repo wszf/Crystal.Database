@@ -2,123 +2,123 @@
 #IF
 ISADMIN
 #SAY
-Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-I see you're wearing: {<$NECKLACE>/CORAL}
-<Buy/@Buy> Necklace
-<Sell/@Sell> Necklace
-<Repair/@Repair> Necklace
-<Special Repair/@SRepair> Necklace
+{<$USERNAME>/KHAKI}，我叫{<$NPCNAME>/KHAKI}。
+我看到你穿着: {<$NECKLACE>/CORAL}
+<购买/@Buy> 项链
+<出售/@Sell> 项链
+<修理/@Repair> 项链
+<特殊修理/@SRepair> 项链
 
 #ELSEACT
 MOVE 0 300 300
 
 [@Buy]
 #SAY
-Buy.
+买。
  
-<Back/@Main>
+<返回/@Main>
 
 [@Sell]
 #SAY
-Sell.
+出售。
  
-<Back/@Main>
+<返回/@Main>
 
 [@Repair]
 #SAY
-Repair.
+修理。
  
-<Back/@Main>
+<返回/@Main>
 
 [@SRepair]
 #SAY
-Special repair.
+特殊修理。
  
-<Back/@Main>
+<返回/@Main>
 
 
 [Types]
 5
 
 [Trade]
-SpiritNecklace
-RecallNecklace
-RedOrchidNecklace
-RedFlowerNecklace
-SmashPendulum
-HwanDevilNecklace
-PurityNecklace
-FiveStringNecklace
-MirNecklace
-BugNecklace
-WhiteGoldNecklace
-WhiteGoldNecklace(H)
-RedJadeNecklace
-RedJadeNecklace(H)
-NephriteNecklace
-NephriteNecklace(H)
-TarragonNecklace
-NecklaceOfAgony
-SurvivalNecklace
-ProbeNecklace
-SkillNecklace
-GoldNecklace
-PrecisionNecklace
-BlackNecklace
-EbonyNecklace
-YellowNecklace
+祈祷项链
+记忆项链
+虹魔项链
+魔血项链
+破碎项链
+青魔项链
+灵玉项链
+五玄项链
+天龙燕月神
+虫眼项链
+雷霆项链
+雷霆项链(英雄)
+红玉项链
+红玉项链(英雄)
+软玉项链
+软玉项链(英雄)
+血龙项链
+痛苦项链
+求生项链
+探测项链
+技巧项链
+金项链
+传统项链
+黑色水晶项链
+黑檀项链
+黄色水晶项链
 PlatinNecklace
-JadeNecklace
-TigerNecklace
+翡翠项链
+白色虎齿项链
 IllusionNecklace
-NagaNecklace
-AmberNecklace
+魔鬼项链
+琥珀项链
 PheonixBead
-LanternNecklace
-GaleNecklace
-WarriorNecklace
-BlueCrystalNecklace
-BlueJadeNecklace
-ConvexLens
-BambooPipe
-BlueThunderNecklace
-SpiritPowerNecklace
-ClawNecklace
-LifeNecklace
-PearlNecklace
-AmethystNecklace
-DemonicBells
-SoulNecklace
-GreenBead
-HeroNecklace
-AdamantineNecklace
-RequiemNecklace
-CuspidNecklace
-SorceryAnchor
-PurifiedMirror
-AdamantNecklace
-EvilTriangle
-CrossPurified
+灯笼项链
+狂风项链
+勇士项链
+蓝水晶项链
+蓝翡翠项链
+放大镜
+竹笛
+青雷项链
+灵力项链
+幽灵项链
+生命项链
+天珠项链
+紫晶项链
+恶魔铃铛
+灵魂项链
+绿色项链
+水波颈饰
+金刚铃项链
+镇魂项链
+破角
+针坠
+心如明镜
+金刚陶坠
+曜紫天坠
+秀女十字盘
 PurpleFoxNecklace
 RedFoxNecklace
 BlueFoxNecklace
 GreatPurpleFoxNecklace
 GreatRedFoxNecklace
 GreatBlueFoxNecklace
-GoldenPendant
-PrecisionPendant
-BlackCrystalPendant
-EbonyPendant
-YellowCrystalPendant
-OldNagaNecklace
-AmberPendant
-WornBeadofPhoenix
-BlueJadePendant
-ClawPendant
-FireConvexLens
-StrongBambooFlute
-DemonMask
-VioletOrb
-KunroonTear
-DragonNecklace
-DragonPendant
+黄金吊坠
+精密吊坠
+黑水晶吊坠
+黑檀吊坠
+黄水晶吊坠
+恶魔项链
+琥珀吊坠
+凤凰珍珠
+蓝翡翠挂坠
+幽灵吊坠
+显微镜
+潇湘笛
+魔神鬼影
+魔玉电影
+昆仑眼泪
+巨龙项链
+巨龙吊坠

@@ -1,16 +1,16 @@
 [@Description]
-Is it true? Youve been to the {Ancient Layer/Yellow}? Can
-you return and Collect 17 {BloodPill/LightSteelBlue} by killing 
-{AncientSnakeScorpion's/Crimson}
+去过{远古之地/Yellow}吗？你能回来收集17个{血之药/LightSteelBlue}吗？方法是杀死{远古蝎蛇/Crimson}。
 
 [@TaskDescription]
 
+
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-BloodPill 17
+血之药 17
 
 [@CarryItems]
 

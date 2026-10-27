@@ -2,69 +2,69 @@
 #IF
 ISADMIN
 #SAY
-Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-I see you're wearing: {<$BELT>/CORAL}
-<Buy/@Buy> Belt
-<Sell/@Sell> Belt
-<Repair/@Repair> Belt
-<Special Repair/@SRepair> Belt
+{<$USERNAME>/KHAKI}，我叫{<$NPCNAME>/KHAKI}。
+我看到你穿着: {<$BELT>/CORAL}
+<购买/@Buy> 腰带
+<出售/@Sell> 腰带
+<修理/@Repair> 腰带
+<特殊修理/@SRepair> 腰带
 
 #ELSEACT
 MOVE 0 300 300
  
 [@Buy]
 #SAY
-Buy.
+买。
  
-<Back/@Main>
+<返回/@Main>
 
 [@Sell]
 #SAY
-Sell.
+出售。
  
-<Back/@Main>
+<返回/@Main>
 
 [@Repair]
 #SAY
-Repair.
+修理。
  
-<Back/@Main>
+<返回/@Main>
 
 [@SRepair]
 #SAY
-Special repair.
+特殊修理。
  
-<Back/@Main>
+<返回/@Main>
 
 
 [Types]
 9
 
 [Trade]
-MirBelt
-WhiteGoldBelt
-WhiteGoldBelt(H)
-RedJadeBelt
-RedJadeBelt(H)
-NephriteBelt
-NephriteBelt(H)
-BeltOfStrength1
-BeltOfStrength2
-BeltOfStrength3
-BeltOfStrength4
-BeltOfStrength5
-TarragonBelt
-SparklingBelt
-BeltOfDarkness
-CheongboBelt(WAR)
-CheongboBelt(WIZ)
-CheongboBelt(TAO)
-CheongboBelt(ASSA)
-CheongboBelt(ARCH)
-LeatherBelt
-ChainBelt
-BronzeBelt
-SteelBelt
-GoldBelt
-AdamantineBelt
-FlamingGrasp
+天龙反向带
+雷霆腰带
+雷霆腰带(英雄)
+红玉腰带
+红玉腰带(英雄)
+软玉腰带
+软玉腰带(英雄)
+强身腰带1
+强身腰带2
+强身腰带3
+强身腰带4
+强身腰带5
+血龙腰带
+贝玉腰带
+黑术腰
+青宝腰带(勇猛)
+青宝腰带(魔性)
+青宝腰带(仙界)
+青宝腰带(机敏)
+青宝腰带(弓手)
+兽皮腰带
+铁腰带
+青铜腰带
+钢铁腰带
+黄金腰带
+金刚腰带
+烈焰之握

@@ -1,17 +1,17 @@
 [@Description]
-There seem's to be a lot of Zombie's presence 
-lately. Head West to the {MineralMines/Yellow}.
- 
+最近似乎有大量的僵尸出没。往西边的{矿场/Yellow}去看看。
+
 [@TaskDescription]
-Eliminate 10 {CursedPriest/Crimson}, {ShiZombie/Crimson}, 
-{CursedZombie's/Crimson}.
+消灭10个{被诅咒的神父/Crimson}、{石化僵尸/Crimson}、
+{被诅咒的僵尸/Crimson}。
 
 [@Completion]
 
+
 [@KillTasks]
-CursedPriest 10
-ShiZombie 10
-CursedZombie 10
+被诅咒的神父 10
+石化僵尸 10
+被诅咒的僵尸 10
 
 [@ItemTasks]
 

@@ -1,12 +1,11 @@
 [@Description]
-Traveler. Please Warn the {SubjugationLead/LimeGreen} in 
-{WoomyonWoods/Yellow} about the pending threat.
+旅人。请提醒{征服队长/LimeGreen}在{沃玛森林/Yellow}注意迫在眉睫的威胁。
 
 [@TaskDescription]
-Travel to {WoomyonWoods/Yellow} and warm them 
-about the pending Threat.
+前往{沃玛森林/Yellow}并提醒他们即将到来的威胁。
 
 [@Completion]
+
 
 [@KillTasks]
 

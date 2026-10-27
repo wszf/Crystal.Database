@@ -2,77 +2,77 @@
 #IF
 ISADMIN
 #SAY
-Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-I see you're wearing: {<$BOOTS>/CORAL}
+{<$USERNAME>/KHAKI}，我叫{<$NPCNAME>/KHAKI}。
+我看到你穿着: {<$BOOTS>/CORAL}
 
-<Buy/@Buy> Boot
-<Sell/@Sell> Boot
-<Repair/@Repair> Boot
-<Special Repair/@SRepair> Boot
+<购买/@Buy> 靴子
+<出售/@Sell> 靴子
+<修理/@Repair> 靴子
+<特殊修理/@SRepair> 靴子
 
 #ELSEACT
 MOVE 0 300 300
  
 [@Buy]
 #SAY
-Buy.
+买。
  
-<Back/@Main>
+<返回/@Main>
 
 [@Sell]
 #SAY
-Sell.
+出售。
  
-<Back/@Main>
+<返回/@Main>
 
 [@Repair]
 #SAY
-Repair.
+修理。
  
-<Back/@Main>
+<返回/@Main>
 
 [@SRepair]
 #SAY
-Special repair.
+特殊修理。
  
-<Back/@Main>
+<返回/@Main>
 
 
 [Types]
 10
 
 [Trade]
-MirBoots
-WhiteGoldShoes
-WhiteGoldShoes(H)
-RedJadeShoes
-RedJadeShoes(H)
-NephriteShoes
-NephriteShoes(H)
-BootsOfStrength1
-BootsOfStrength2
-BootsOfStrength3
-BootsOfStrength4
-BootsOfStrength5
-TarragonBoots
-RaidersBoots
-RaidersBoots1
-RaidersBoots2
-RaidersBoots3
-RaidersBoots4
-RaidersBoots5
-SparklingBoots
-BootsOfDarkness
-CheongboBoots(WAR)
-CheongboBoots(WIZ)
-CheongboBoots(TAO)
-CheongboBoots(ASSA)
-CheongboBoots(ARCH)
-RottenShoes
-LowShoes
-LeatherBoots
-SilkBoots
-BlackBoots
-DragonBoots
-RedScaleBoots
-GoldPatternBoots
+天龙神形步
+雷霆战靴
+雷霆战靴(英雄)
+红玉战靴
+红玉战靴(英雄)
+软玉战靴
+软玉战靴(英雄)
+强身靴子1
+强身靴子2
+强身靴子3
+强身靴子4
+强身靴子5
+血龙靴子
+监视者靴子
+监视者靴子1
+监视者靴子2
+监视者靴子3
+监视者靴子4
+监视者靴子5
+贝玉靴子
+黑术靴
+青宝靴(勇猛)
+青宝靴(魔性)
+青宝靴(仙界)
+青宝靴(机敏)
+青宝靴(弓手)
+腐朽战靴
+布鞋
+鹿皮靴
+紫绸靴
+避魂靴
+龙靴
+赤鳞靴
+黄金宝靴

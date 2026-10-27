@@ -2,19 +2,19 @@
 1/1 Gold 2000
 
 ;Pots + Other
-1/1 SunPotion    
-1/1 SunPotion(M)  
-1/1 (HP)DrugMedium 
-1/1 (MP)DrugMedium 
-1/1 (HP)DrugMedium 
-1/1 (MP)DrugMedium 
+1/1 太阳水    
+1/1 强效太阳水  
+1/1 金疮药(中量) 
+1/1 魔法药(中量) 
+1/1 金疮药(中量) 
+1/1 魔法药(中量) 
 
-1/30 ImpactDrug(S) 
-1/30 MagicDrug(S) 
-1/30 TaoistDrug(S) 
-1/30 StormDrug(S) 
-1/30 StaminaAid(S) 
-1/30 MagicAid(S) 
+1/30 攻击药水(小) 
+1/30 魔法药水(小) 
+1/30 道力药水(小) 
+1/30 疾风药水(小) 
+1/30 体力药水(小) 
+1/30 魔力药水(小) 
 
 
 ;Weapons
@@ -76,11 +76,11 @@
 
 
 ;CraftingMaterials
-1/1 CopperOre
-1/1 IronOre
-1/1 SilverOre
-1/5 BlackIronOre
-1/5 GoldOre
+1/1 铜矿
+1/1 铁矿
+1/1 银矿
+1/5 黑铁矿
+1/5 金矿
 
 ;Quests
 1/1 GhoulsChain Q

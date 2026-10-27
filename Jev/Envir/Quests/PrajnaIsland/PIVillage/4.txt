@@ -1,10 +1,11 @@
 [@Description]
-Please travel back to {TaoVillage/Yellow} and speak with 
-the {LeadTrainer/LimeGreen}.
+请返回{道士村/Yellow}与{首席训练师/LimeGreen}交谈。
 
 [@TaskDescription]
 
+
 [@Completion]
+
 
 [@KillTasks]
 

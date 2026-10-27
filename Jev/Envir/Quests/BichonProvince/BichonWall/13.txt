@@ -1,19 +1,18 @@
 [@Description]
-Did you want me to make you {CanniTea/LightSteelBlue}? Hmm.. 
-I ran out of Ingredients. Do you think you can 
-get me 10 {CannibalLeaf/LightSteelBlue} and 10 {CannibalSeed/LightSteelBlue}?
+你让我给你做{食人花茶(材料)/LightSteelBlue}？嗯……
+我材料用完了。你能不能帮我弄到10个{食人花叶/LightSteelBlue}和10个{食人花果实/LightSteelBlue}？
 
 [@TaskDescription]
-Collect 10 {CannibalLeaf/LightSteelBlue} and {CannibalSeed's/LightSteelBlue} from 
-{CannibalPlant's/Crimson}
+从{食人花/Crimson}收集10个{食人花叶/LightSteelBlue}和{食人花果实/LightSteelBlue}
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-CannibalLeaf 10
-CannibalSeed 10
+食人花叶 10
+食人花果实 10
 
 [@CarryItems]
 

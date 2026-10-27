@@ -2,99 +2,101 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-This is the palace of Bichon wall.
-I am the Administrator. How may I help you ?
-<Request Guild creation/@CREATEGUILD>
-<Request Guild war/@REQUESTWAR>
-Required {Gold/Gold}: <$GUILDWARFEE> Last's for <$GUILDWARTIME> Minutes.
-<Request Sabuk conquest war/@requestcastlewar>
-<Ask how to create a Guild/@buildguildexp> || <Ask about Guild war/@guildwarexp>
+这是比奇城宫殿。
+我是管理员。有什么可以帮您的吗？
+<申请创建公会/@CREATEGUILD>
+<申请公会战/@REQUESTWAR>
+需要{金币/Gold}: <$GUILDWARFEE> 持续<$GUILDWARTIME> 分钟。
+<申请沙巴克攻城战/@requestcastlewar>
+<询问如何创建公会/@buildguildexp> || <询问公会战/@guildwarexp>
 
  
 
 [@buildguildexp]
 #SAY
-In order to qualify for guild creation
-you need to bring me several items:-
-One million {Gold/Gold} & the Horn of WoomaTaurus, who lives
-in deep in the Wooma Temple in Woomyon Woods.
-Please keep in mind that no special characters
-are allowed in guild names.
-Guilds made by using alt codes or spaces in the name
-will be deleted and no refund made.
-<Back/@main>
+要符合公会创建的条件
+你需要给我带上几件物品：-
+一百万{金币/Gold}和沃玛牛角，居住的
+在伍蒙森林的伍玛神庙深处。
+请记住不能使用特殊字符。
+
+允许用于公会名称。
+使用特殊字符或空格命名的公会
+将被删除，不予退款。
+<返回/@main>
 
 [@guildwarexp]]
 #SAY
-<Guild war/@guildwar2> means war done by legal request.  
-Actually, due to the number of guilds and struggles between 
-them, the government approve <legal/@warrule> guild war. 
-When <requested/@propose>, war will be allowed for 3 hours. 
-You'll have to pay <$GUILDWARFEE> {Gold/Gold} as request fee. 
+<公会战/@guildwar2> 指的是经合法请求发起的战争。  
+其实，由于公会数量多和公会之间的争斗， 
+他们，政府批准了<法律/@warrule>公会战。 
+请求公会战后 <请求/@propose>，将允许进行3小时的战争。 
+你需要支付<$GUILDWARFEE> {金币/Gold}作为请求费用。 
  
-<Back/@main>
+<返回/@main>
 
 [@guildwar2]
 #SAY
-When you request guild war, names of allies will appear in blue,
-on the other side, enemy names will appear orange.
-If you are connected during a Guild War, the message:
-'War with {nnn} guild' will appear in chatting window and
-if you kill a member of the enemy guild you will not
-be regarded as PK.
-<Back/@guildwarexp>
+当你请求公会战时，盟友的名字会显示为蓝色，
+另一边，敌人的名字会显示为橙色。
+如果你在公会战期间连接，消息：
+'与{新手引导}公会开战'将在聊天窗口显示，
+如果你杀死敌对公会成员，你将不会
+被视为PK。
+<返回/@guildwarexp>
 
 [@warrule]
 #SAY
-Guildwar cannot take place in village.
-It can be executed out of certain ranges from the 
-village or inside contest area (like inside some buildings).
-However, if you are PK your ID will be red in colour,
-even during war.
+村子里不能进行公会战。
+可以从一定范围外执行。 
+在村子或者比赛区域内（比如一些建筑内部）。
+不过，如果你PK你的ID会变成红色，
+即使在战争中。
  
-<Back/@guildwarexp>
+<返回/@guildwarexp>
 
 [@propose]
 #SAY
-Proposal of guild war only can be requested
-by Guildchief.
-<Back/@guildwarexp>
+公会战提案只能在这里发起。
+由公会会长。
+<返回/@guildwarexp>
 
 [@donate]
 #SAY
-We are not collecting donation money yet.
+我们暂时不收捐款。
  
- <Back/@main>
+ <返回/@main>
 
 [@requestcastlewar]
 #SAY
-To request Sabuk conquest war you should have ZumaRelic. 
-Do you have it? 
-Once you request to conquer Sabuk the fight will 
-start 2 days later.
+要请求沙巴克征战，你需要祖玛遗物。
  
- <Apply for Sabuk conquest/@requestcastlewarnow>
+你有吗？ 
+当你请求征服沙巴克时，战斗将会 
+开始后推迟2天。
  
- <Back/@main>
+ <申请沙巴克攻城/@requestcastlewarnow>
+ 
+ <返回/@main>
 
 [~@request_ok]
 #SAY
-Wall conquest war accepted. 
-Run to Sabuk wall as fast as you can 
-to ask the oldman for the date and time of the war.
+接受城墙攻城战。 
+快跑去沙巴克城墙。 
+去问老人家战争的日期和时间。
  
-<Exit/@exit>
-; time of wall conquest war is
-; <$CASTLEWARDATE> PM 8.
+<退出/@exit>
+城墙征服战时间是
+<$CASTLEWARDATE> 晚上8点。
 
 
 

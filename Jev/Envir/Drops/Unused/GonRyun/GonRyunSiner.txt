@@ -2,33 +2,33 @@
 1/1 Gold 2400
 
 ;Potions
-1/8 SunPotion
-1/8 SunPotion
+1/8 太阳水
+1/8 太阳水
 
 
 ;Bracelet
 
 
 ;Weapons
-1/5000 CloudRing
-1/5000 RedDemonRing
-1/5000 PoisonRing
-1/5000 DemonMask
-1/5000 VioletOrb
-1/5000 KunroonTear
+1/5000 柔云戒指
+1/5000 战魔戒指
+1/5000 毒素戒指
+1/5000 魔神鬼影
+1/5000 魔玉电影
+1/5000 昆仑眼泪
 1/10000 (H)WheelOfLunar
 
 ;Armour
-1/9250 RedDarkArmour(M)
-1/9250 RedDarkArmour(F)
-1/9250 BlueDarkArmour(M)
-1/9250 BlueDarkArmour(F)
-1/9250 ScaledArmour(M)
-1/9250 ScaledArmour(F)
-1/9250 GreenDarkArmour(M)
-1/9250 GreenDarkArmour(F)
-1/9250 GoldDarkArmour(M)
-1/9350 GoldDarkArmour(F)
+1/9250 赤之魔甲(男)
+1/9250 赤之魔甲(女)
+1/9250 青之魔甲(男)
+1/9250 青之魔甲(女)
+1/9250 鳞甲(男)
+1/9250 鳞甲(女)
+1/9250 绿之魔甲(男)
+1/9250 绿之魔甲(女)
+1/9250 黑之魔甲(男)
+1/9350 黑之魔甲(女)
 
 1/1125 BraveryFragment
 1/1125 MagicFragment
@@ -43,12 +43,12 @@
 1/1125 FreezingFragment
 1/1125 AgilityFragment
 1/1125 EnduranceFragment
-1/1130 IceMarble
-1/1900 Armourcasttool 
+1/1130 寒冰珠
+1/1900 铠甲铸造工具 
 1/1900 TranslucentCrystal
-1/1900 Armourbook(DC)
-1/1900 Armourbook(SC)
-1/1900 Armourbook(MC)
-1/1900 RustyArmour
-1/1900 BookofSpirit
-1/1900 HavocCrystal
+1/1900 盔甲之书(勇猛)
+1/1900 盔甲之书(仙术)
+1/1900 盔甲之书(魔界)
+1/1900 锈蚀的古代盔甲
+1/1900 精神之书
+1/1900 浩劫水晶

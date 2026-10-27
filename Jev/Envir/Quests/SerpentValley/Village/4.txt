@@ -1,16 +1,15 @@
 [@Description]
-Please help me. I recently moved here, and i see 
-Snakes everywhere! I cant go to sleep knowing 
-the Snakes are crawling under my bed.
+请帮帮我。我最近搬到这里来，到处都是蛇！我不知道蛇在我床底下爬着，根本睡不着。
 
 [@TaskDescription]
-Please eliminate 10 {RedSnake/Crimson} and {TigerSnake's/Crimson}.
+请消灭10条{红蛇/Crimson}和{虎蛇/Crimson}。
 
 [@Completion]
 
+
 [@KillTasks]
-TigerSnake 10
-RedSnake 10
+虎蛇 10
+红蛇 10
 
 [@ItemTasks]
 
@@ -19,7 +18,8 @@ RedSnake 10
 [@FixedRewards]
 
 [@SelectRewards]
-SolidArmour
+坚实盔甲(男)
+坚实盔甲(女)
 
 [@ExpReward]
 1000

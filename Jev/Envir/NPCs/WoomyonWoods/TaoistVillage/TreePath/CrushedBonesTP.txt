@@ -1,6 +1,6 @@
 [@MAIN]
 #SAY
-The missing Trainee.. Not much left on him anymore.
+失踪的学徒……身上快没什么力气了。
 
 
 [Quests]

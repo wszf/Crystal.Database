@@ -13,7 +13,7 @@
 ;Rings
 
 ;Amulets
-1/1 GreenPoison 
+1/1 灰色药粉 
 
 ;Belts
 

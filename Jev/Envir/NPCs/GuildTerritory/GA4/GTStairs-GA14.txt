@@ -1,6 +1,6 @@
 [@main]
-<Move/@move2nd> to the 2nd floor.
-<Close/@exit>
+<移动/@move2nd> 到二楼。
+<关闭/@exit>
 
 [@move2nd]
 #ACT

@@ -2,27 +2,27 @@
 #IF
 ISADMIN
 #SAY
-Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-I see you have: {<$MOUNT>/CORAL}
-Mount Loyalty: {<$MOUNTLOYALTY>/CORAL}
-You need to be Lebel 22 for mounts, Your Level: {<$LEVEL>/ORANGE}
-<Buy/@Buy> Mount Equipment
-<Sell/@Sell> Mount Equipment
+{<$USERNAME>/KHAKI}，我叫{<$NPCNAME>/KHAKI}。
+我看到你有: {<$MOUNT>/CORAL}
+忠诚之马: {<$MOUNTLOYALTY>/CORAL}
+骑乘需要达到22级，你的等级：{<$LEVEL>/ORANGE}
+<购买/@Buy> 坐骑装备
+<出售/@Sell> 坐骑装备
 
 #ELSEACT
 MOVE 0 300 300
  
 [@Sell]
 #SAY
-Sell.
+出售。
  
-<Back/@Main>
+<返回/@Main>
 
 [@Buy]
 #SAY
-Buy.
+买。
  
-<Back/@Main>
+<返回/@Main>
 
 
 [Types]
@@ -35,32 +35,32 @@ Buy.
 27
 
 [Trade]
-BengalTiger
-BlueTiger
-BlackLeopard
-IceLeopard
-PantheraTiger
-RedTiger
-WhiteTiger
-Wolf
-BrownWolf
-BlueWolf
-BlackWolf
-WhiteWolf
-LeatherBridle
-GoldBridle
-BronzeBell
-SilverBell
-GoldBell
-GreenBell
-Saddle
-RedRibbon
-BlueRibbon
-BlackRibbon
-LeatherMask
-WhiteMask
-BlackMask
-SilverMask
-TitaniumMask
-RawMeat
-LeanMeat
+黄斑虎
+蓝虎坐骑
+黑豹坐骑
+冰豹坐骑
+猛虎坐骑
+红老虎
+白老虎
+狼
+棕狼坐骑
+蓝狼坐骑
+黑狼坐骑
+白狼
+皮制缰绳
+黄金马鞭
+青铜铃铛
+白银铃铛
+金铃铛
+翡翠铃铛
+马鞍
+红蝴蝶结
+蓝色绸带
+黑色绸带
+皮制面具
+白色面具
+黑色面具
+银色面具
+泰坦面甲
+生肉
+烤肉

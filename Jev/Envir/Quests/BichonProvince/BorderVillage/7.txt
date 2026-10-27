@@ -1,14 +1,14 @@
 [@Description]
-Hello young traveller. Have you heard
-of the Warrior Instructor in this region?
-He is the master of all Warriors. I hear
-hes been looking for a new disciple lately.
-It could be a rumor.
+你好，年轻的旅人。你听说过
+这个地区的武师了吗？他是所有战士的大师。我听说
+他最近一直在寻找新的弟子。
+这可能只是个传闻。
 
 [@TaskDescription]
-Speak with {Master_Wa/LimeGreen} at Coordinates 110:317
+与{瓦师傅/LimeGreen}在坐标 110:317交谈
 
 [@Completion]
+
 
 [@KillTasks]
 

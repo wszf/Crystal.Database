@@ -2,11 +2,11 @@
 1/7 Gold 1000
 
 ;Potions
-1/15 (HP)DrugLarge
-1/15 (MP)DrugLarge
+1/15 金疮药(大量)
+1/15 魔法药(大量)
 
 ;Crafting Material
-1/60 BaboonLeather
+1/60 狒狒皮
 1/30 StormFragment
 1/30 DisillusionFragment
 1/30 AccuracyFragment

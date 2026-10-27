@@ -1,9 +1,9 @@
 [@Main]
 #SAY
-Stranger.. Stranger.. Help. I'm scared. 
-My Father entered the Mines looking for possible Loot!
+陌生人..陌生人..救命。我好害怕。 
+我父亲进入矿洞寻找可能的战利品！
 
-<Close/@exit>
+<关闭/@exit>
 
 [Quests]
 74

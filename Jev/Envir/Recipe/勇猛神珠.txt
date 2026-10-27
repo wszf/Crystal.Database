@@ -1,0 +1,12 @@
+[Recipe]
+Amount 1
+Chance 20
+Gold 10000
+
+[Tools]
+工艺书
+
+[Ingredients]
+攻击守护石 
+攻击药水(大) 
+金疮药(特大) 2

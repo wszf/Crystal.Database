@@ -1,21 +1,20 @@
 [@Description]
-Do you know how to get to {CastleGi-Ryoong/Yellow}? I 
-need to send a CookBook to {Butcher Jim/LimeGreen} in
-{CastleGi-Ryoong/Yellow}? 
-
+你知道怎么去{封魔谷/Yellow}吗？我
+需要把食谱发给{屠夫吉姆/LimeGreen}在
+{封魔谷/Yellow}？
 
 [@TaskDescription]
-Head North through {WoomyonWoods/Yellow} and
-deliver the {CookBook/LightSteelBlue} to {Jim/LimeGreen} in {CastleGi-Ryoong/Yellow}
+从{沃玛森林/Yellow}向北走，并将{菜谱/LightSteelBlue}送到{封魔谷/Yellow}的{吉姆/LimeGreen}那里
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
 
 [@CarryItems]
-CookBook 2
+菜谱 2
 
 [@FixedRewards]
 

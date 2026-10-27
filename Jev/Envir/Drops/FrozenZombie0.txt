@@ -2,14 +2,14 @@
 1/10 Gold 1000
 
 ;Potions
-1/15 (HP)DrugLarge
-1/15 (MP)DrugLarge
+1/15 金疮药(大量)
+1/15 魔法药(大量)
 
 ;Crafting Material
-1/100 StrongRope
-1/40 LargeBone
-1/80 ArmourBook(MC)
-1/80 RustyArmour
+1/100 粗缆绳
+1/40 大骨头
+1/80 盔甲之书(魔界)
+1/80 锈蚀的古代盔甲
 1/10 StormFragment
 1/10 DisillusionFragment
 1/10 AccuracyFragment

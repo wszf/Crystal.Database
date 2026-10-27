@@ -2,17 +2,17 @@
 #IF
 CHECKCLASS Wizard
 #SAY
-Hello!
+你好！
 
-<Buy 5 Pets Level 0/@buyp>  ~  <Price List/@PL>
-<Buy 5 Pets Level 7/@buysev>  ~  <Price List/@PSEV>
-<Buy 1 Elite Pet Level 0/@buysp>  ~  <Price List/@PLS>
-<Buy 1 Elite Pet Level 7/@buyspsev>  ~  <Price List/@PLSEV>
-<Store Pets/@storep>
-<Retrieve Pets/@retP>
+<购买5个宠物等级0/@buyp>  ~  <价格表/@PL>
+<购买5个宠物等级7/@buysev>  ~  <价格表/@PSEV>
+<购买1个精英宠物等级0/@buysp>  ~  <价格表/@PLS>
+<购买1个精英宠物等级7/@buyspsev>  ~  <价格表/@PLSEV>
+<寄存宠物/@storep>
+<取回宠物/@retP>
 
 #ELSESAY
-You have no business here...
+你没来这儿干什么...
 
 
 [@BuyP]
@@ -21,24 +21,24 @@ PETCOUNT == 0
 #ACT
 GOTO @BuyP1
 #ELSESAY
-You can't have any activate pets to use this feature
+你不能激活宠物来使用此功能
 
 
 [@BuyP1]
 #SAY
 
-Hello!
-What pets would you like to purchase? <Main/@Main>
+你好！
+你想购买什么宠物？ <主界面/@Main>
 
-<RedViper/@pet1>  {Level 20+/Red}
-<WickedTong/@pet2>  {Level 25+/Red}
-<WildBeast/@pet3>  {Level 30+/Red}
-<BloodRat/@pet4>  {Level 35+/Red}
-<SeaCreature/@pet5>  {Level 40+/Red}
-<ClawBeast/@pet6>  {Level 45+/Red}
-<DemonSlasher/@pet7>  {Level 50+/Red}
-<DemonFighter/@pet8>  {Level 55+/Red}
-<FrozenBasher/@pet9>  {Level 60+/Red}
+<赤色毒蛇/@pet1>  {20级以上/Red}
+<邪龙/@pet2>  {25级以上/Red}
+<野兽/@pet3>  {30级以上/Red}
+<血鼠/@pet4>  {35级以上/Red}
+<海怪/@pet5>  {40级以上/Red}
+<爪兽/@pet6>  {45级以上/Red}
+<魔斩者/@pet7>  {50级以上/Red}
+<魔斗士/@pet8>  {55级以上/Red}
+<冰暴者/@pet9>  {60级以上/Red}
 
 
 
@@ -49,10 +49,10 @@ LEVEL < 100
 CHECKGOLD >= 250000
 #ACT
 TAKEGOLD 25000
-GIVEPET RedViper 5
+GIVEPET 赤色毒蛇 5
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@pet2]
 #IF
@@ -63,8 +63,8 @@ CHECKGOLD >= 45000
 TAKEGOLD 45000
 GIVEPET WickedTong 5
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@pet3]
 #IF
@@ -75,8 +75,8 @@ CHECKGOLD >= 75000
 TAKEGOLD 75000
 GIVEPET WildBeast 5
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@pet4]
 #IF
@@ -87,8 +87,8 @@ CHECKGOLD >= 100000
 TAKEGOLD 100000
 GIVEPET BloodRat 5
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@pet5]
 #IF
@@ -99,8 +99,8 @@ CHECKGOLD >= 150000
 TAKEGOLD 150000
 GIVEPET SeaCreature 5
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@pet6]
 #IF
@@ -111,8 +111,8 @@ CHECKGOLD >= 200000
 TAKEGOLD 200000
 GIVEPET ClawBeast 5
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@pet7]
 #IF
@@ -123,8 +123,8 @@ CHECKGOLD >= 250000
 TAKEGOLD 250000
 GIVEPET DemonSlasher 5
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@pet8]
 #IF
@@ -135,8 +135,8 @@ CHECKGOLD >= 300000
 TAKEGOLD 300000
 GIVEPET DemonFighter 5
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 
 [@pet9]
@@ -148,21 +148,21 @@ CHECKGOLD >= 350000
 TAKEGOLD 350000
 GIVEPET FrozenBasher 5
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 
 [@PL]
-<Main/@Main>
-{RedViper's/Red} are 25000 gold
-{WickedTong's/Red} are 45000 gold
-{WildBeast's/Red} are 75000 gold
-{BloodRat's/Red} are 100000 gold
-{SeaCreature's/Red} are 150000 gold
-{ClawBeast's/Red} are 200000 gold
-{DemonSlasher's/Red} are 250000 gold
-{DemonFighter's/Red} are 300000 gold
-{FrozenBasher's/Red} are 350000 gold
+<主界面/@Main>
+{红毒蛇的/Red} 售价 25000 金币
+{邪口舌的/Red} 售价 45000 金币
+{野兽的/Red} 售价为 75000 金币
+{血鼠的/Red} 是100000 金币
+{海怪的/Red} 售价 150000 金币
+{爪兽的/Red} 是200000 金币
+{魔斩手的/Red} 是250000 金币
+{魔斗士的/Red} 是300000 金币
+{冰锤的/Red} 售价 350000 金币
 
 
 [@Buysev]
@@ -171,24 +171,24 @@ PETCOUNT == 0
 #ACT
 GOTO @BuysevP1
 #ELSESAY
-You can't have any activate pets to use this feature
+你不能激活宠物来使用此功能
 
 
 [@BuysevP1]
 #SAY
 
-Hello!
-What pets would you like to purchase?  <Main/@Main>
+你好！
+你想购买什么宠物？  <主界面/@Main>
 
-<RedViper/@petsev1>  {Level 20+/Red}
-<WickedTong/@petsev2>  {Level 25+/Red}
-<WildBeast/@petsev3>  {Level 30+/Red}
-<BloodRat/@petsev4>  {Level 35+/Red}
-<SeaCreature/@petsev5>  {Level 40+/Red}
-<ClawBeast/@petsev6>  {Level 45+/Red}
-<DemonSlasher/@petsev7>  {Level 50+/Red}
-<DemonFighter/@petsev8>  {Level 55+/Red}
-<FrozenBasher/@petsev9>  {Level 60+/Red}
+<赤色毒蛇/@petsev1>  {20级以上/Red}
+<邪龙/@petsev2>  {25级以上/Red}
+<野兽/@petsev3>  {30级以上/Red}
+<血鼠/@petsev4>  {35级以上/Red}
+<海怪/@petsev5>  {40级以上/Red}
+<爪兽/@petsev6>  {45级以上/Red}
+<魔斩者/@petsev7>  {50级以上/Red}
+<魔斗士/@petsev8>  {55级以上/Red}
+<冰暴者/@petsev9>  {60级以上/Red}
 
 
 [@petsev1]
@@ -198,10 +198,10 @@ LEVEL < 100
 CHECKGOLD >= 50000
 #ACT
 TAKEGOLD 50000
-GIVEPET RedViper 5 7
+GIVEPET 赤色毒蛇 5 7
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@petsev2]
 #IF
@@ -212,8 +212,8 @@ CHECKGOLD >= 90000
 TAKEGOLD 90000
 GIVEPET WickedTong 5 7
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@petsev3]
 #IF
@@ -224,8 +224,8 @@ CHECKGOLD >= 150000
 TAKEGOLD 150000
 GIVEPET WildBeast 5 7
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@petsev4]
 #IF
@@ -236,8 +236,8 @@ CHECKGOLD >= 200000
 TAKEGOLD 200000
 GIVEPET BloodRat 5 7
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@petsev5]
 #IF
@@ -248,8 +248,8 @@ CHECKGOLD >= 300000
 TAKEGOLD 300000
 GIVEPET SeaCreature 5 7
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@petsev6]
 #IF
@@ -260,8 +260,8 @@ CHECKGOLD >= 400000
 TAKEGOLD 400000
 GIVEPET ClawBeast 5 7
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@petsev7]
 #IF
@@ -272,8 +272,8 @@ CHECKGOLD >= 500000
 TAKEGOLD 500000
 GIVEPET DemonSlasher 5 7
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@petsev8]
 #IF
@@ -284,8 +284,8 @@ CHECKGOLD >= 500000
 TAKEGOLD 500000
 GIVEPET DemonFighter 5 7
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@petsev9]
 #IF
@@ -296,22 +296,22 @@ CHECKGOLD >= 500000
 TAKEGOLD 500000
 GIVEPET FrozenBasher 5 7
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 
 
 [@PSEV]
-<Main/@Main>
-{RedViper's/Red} are 50000 gold
-{WickedTong's/Red} are 90000 gold
-{WildBeast's/Red} are 150000 gold
-{BloodRat's/Red} are 200000 gold
-{SeaCreature's/Red} are 300000 gold
-{ClawBeast's/Red} are 400000 gold
-{DemonSlasher's/Red} are 500000 gold
-{DemonFighter's/Red} are 500000 gold
-{FrozenBasher's/Red} are 500000 gold
+<主界面/@Main>
+{红毒蛇的/Red} 售价 50000 金币
+{邪口舌的/Red} 售价为 90000 金币
+{野兽的/Red} 售价为 150000 金币
+{血鼠的/Red} 是200000 金币
+{海怪的/Red} 售价 300000 金币
+{爪兽的/Red} 是400000 金币
+{魔斩手的/Red} 是500000 金币
+{魔斗士的/Red} 是500000 金币
+{冰锤的/Red} 售价 500000 金币
 
 [@BUYSP]
 #IF 
@@ -319,21 +319,21 @@ PETCOUNT == 0
 #ACT
 GOTO @BuySP2
 #ELSESAY
-You can't have any activate pets to use this feature
+你不能激活宠物来使用此功能
 
 [@BuySP2]
 #SAY
 
-Hello!
-What pets would you like to purchase?  <Main/@Main>
+你好！
+你想购买什么宠物？  <主界面/@Main>
                                
-<CrystalCrawler/@solo1>  {Level 40+/Red}
-<DragonWarrior/@solo2>  {Level 44+/Red}
-<TwinHeadBeast/@solo3>  {Level 48+/Red}
-<BlackTortoise/@solo4>  {Level 52+/Red}
-<SnowLord/@solo5>  {Level 56+/Red}
-<SeedingsClaw/@solo6>  {Level 60+/Red}
-<SnowBlest/@solo7>  {Level 64+/Red}
+<晶爬者/@solo1>  {40级以上/Red}
+<龙战士/@solo2>  {44级以上/Red}
+<双头兽/@solo3>  {48级以上/Red}
+<黑龟/@solo4>  {52级以上/Red}
+<雪主/@solo5>  {56级以上/Red}
+<种子爪/@solo6>  {60级以上/Red}
+<雪暴/@solo7>  {64级以上/Red}
 
 
 [@solo1]
@@ -345,8 +345,8 @@ CHECKGOLD >= 150000
 TAKEGOLD 150000
 GIVEPET CrystalCrawler 1
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@solo2]
 #IF
@@ -357,8 +357,8 @@ CHECKGOLD >= 200000
 TAKEGOLD 200000
 GIVEPET DragonWarrior 1
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@solo3]
 #IF
@@ -369,8 +369,8 @@ CHECKGOLD >= 250000
 TAKEGOLD 250000
 GIVEPET TwinHeadBeast 1
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@solo4]
 #IF
@@ -381,8 +381,8 @@ CHECKGOLD >= 300000
 TAKEGOLD 300000
 GIVEPET BlackTortoise  1
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@solo5]
 #IF
@@ -393,8 +393,8 @@ CHECKGOLD >= 350000
 TAKEGOLD 350000
 GIVEPET SnowLord 1
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@solo6]
 #IF
@@ -405,8 +405,8 @@ CHECKGOLD >= 400000
 TAKEGOLD 400000
 GIVEPET SeedingsClaw 1
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@solo7]
 #IF
@@ -417,18 +417,18 @@ CHECKGOLD >= 450000
 TAKEGOLD 450000
 GIVEPET SnowBlest 1
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@PLS]
-<Main/@Main>
-{CrystalCrawler/Red} is 150000 Gold
-{DragonWarrior/Red} is 200000 Gold
-{TwinHeadBeast/Red} is 250000 Gold
-{BlackTortoise/Red} is 300000 Gold
-{SnowLord/Red} is 350000 Gold
-{SeedingsClaw/Red} is 400000 Gold
-{SnowBlest/Red} is 450000 Gold
+<主界面/@Main>
+{晶爬者/Red} 是150000 金币
+{龙战士/Red} 是200000 金币
+{双头兽/Red} 售价 250000 金币
+{黑龟/Red} 是300000 金币
+{雪主/Red} 售价 350000 金币
+{种子爪/Red} 售价 400000 金币
+{雪暴/Red} 售价 450000 金币
 
 [@BUYSPSEV]
 #IF 
@@ -436,21 +436,21 @@ PETCOUNT == 0
 #ACT
 GOTO @BuySPSEV2
 #ELSESAY
-You can't have any activate pets to use this feature
+你不能激活宠物来使用此功能
 
 [@BuySPSEV2]
 #SAY
 
-Hello!
-What pets would you like to purchase?  <Main/@Main>
+你好！
+你想购买什么宠物？  <主界面/@Main>
 
-<CrystalCrawler/@solosev1>  {Level 40+/Red}
-<DragonWarrior/@solosev2>  {Level 44+/Red}
-<TwinHeadBeast/@solosev3>  {Level 48+/Red}
-<BlackTortoise/@solosev4>  {Level 52+/Red}
-<SnowLord/@solosev5>  {Level 56+/Red}
-<SeedingsClaw/@solosev6>  {Level 60+/Red}
-<SnowBlest/@solosev7>  {Level 64+/Red}
+<晶爬者/@solosev1>  {40级以上/Red}
+<龙战士/@solosev2>  {44级以上/Red}
+<双头兽/@solosev3>  {48级以上/Red}
+<黑龟/@solosev4>  {52级以上/Red}
+<雪主/@solosev5>  {56级以上/Red}
+<种子爪/@solosev6>  {60级以上/Red}
+<雪暴/@solosev7>  {64级以上/Red}
 
 
 [@solosev1]
@@ -462,8 +462,8 @@ CHECKGOLD >= 350000
 TAKEGOLD 350000
 GIVEPET CrystalCrawler 1 7
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@solosev2]
 #IF
@@ -474,8 +474,8 @@ CHECKGOLD >= 400000
 TAKEGOLD 400000
 GIVEPET DragonWarrior 1 7
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@solosev3]
 #IF
@@ -486,8 +486,8 @@ CHECKGOLD >= 450000
 TAKEGOLD 450000
 GIVEPET TwinHeadBeast 1 7
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@solosev4]
 #IF
@@ -498,8 +498,8 @@ CHECKGOLD >= 500000
 TAKEGOLD 500000
 GIVEPET BlackTortoise 1 7
 #ELSESAY
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@solosev5]
 #IF
@@ -510,8 +510,8 @@ CHECKGOLD >= 550000
 TAKEGOLD 550000
 GIVEPET SnowLord 1 7
 #ELSESAY 
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@solosev6]
 #IF
@@ -522,8 +522,8 @@ CHECKGOLD >= 550000
 TAKEGOLD 550000
 GIVEPET SeedingsClaw 1 7
 #ELSESAY 
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@solosev5]
 #IF
@@ -534,54 +534,54 @@ CHECKGOLD >= 550000
 TAKEGOLD 550000
 GIVEPET SnowBlest 1 7
 #ELSESAY 
-You are not the right level or to poor.
-<Main/@Main>
+你的等级不够或者太穷了。
+<主界面/@Main>
 
 [@PLSEV]
-<Main/@Main>
-{CrystalCrawler/Red} is 350000 Gold
-{DragonWarrior/Red} is 400000 Gold
-{TwinHeadBeast/Red} is 450000 Gold
-{BlackTortoise/Red} is 500000 Gold
-{SnowLord/Red} is 550000 Gold
-{SeedingsClaw/Red} is 550000 Gold
-{SnowBlest/Red} is 550000 Gold
+<主界面/@Main>
+{晶爬者/Red} 是350000 金币
+{龙战士/Red} 是400000 金币
+{双头兽/Red} 售价 450000 金币
+{黑龟/Red} 是500000 金币
+{雪主/Red} 售价 550000 金币
+{种子爪/Red} 售价 550000 金币
+{雪暴/Red} 售价 550000 金币
 
 
 
 [@storep]
-I can store certain creatures for you..
-I will give you a token to retrieve them whenever you fancy
-THEY MUST ALL BE LEVEL 7 AND STILL ALIVE to store them and 
-all be the same type of creature.
+我可以为你储存某些生物……
+我给你一个令牌，想取的时候拿去用吧
+他们都必须是等级:7并且还活着才能储存他们和 
+都是同一类型的生物。
 
-<Store Pets/@Store1>
-<Store Elite Pets/@Store2>
-<Main/@Main>
+<寄存宠物/@Store1>
+<商店精英宠物/@Store2>
+<主界面/@Main>
 
 [@Store1]
-<Main/@Main>
-<Store RedViper's/@Storepet1>
-<Store WickedTong's/@Storepet2>
-<Store WildBeast's/@Storepet3>
-<Store BloodRat's/@Storepet4>
-<Store SeaCreature's/@Storepet5>
-<Store ClawBeast's/@Storepet6>
-<Store DemonSlasher's/@Storepet7>
-<Store DemonFighter's/@Storepet8>
-<Store FrozenBasher's/@Storepet9>
+<主界面/@Main>
+<商店红毒蛇的/@Storepet1>
+<商店邪口舌的/@Storepet2>
+<商店野兽的/@Storepet3>
+<商店血鼠的/@Storepet4>
+<商店海怪的/@Storepet5>
+<商店爪兽的/@Storepet6>
+<商店魔斩手的/@Storepet7>
+<商店魔斗士的/@Storepet8>
+<商店冰锤的/@Storepet9>
 
 [@Storepet1]
 #IF
-CHECKPET RedViper
+CHECKPET 赤色毒蛇
 PETLEVEL == 7
 PETCOUNT == 5
 #ACT
 CLEARPETS
 GIVEITEM RedViperToken 1
 #ELSESAY
-Sorry you don't meet the requirements to store your pets!
-<Main/@Main>
+抱歉你不符合存放宠物的要求！
+<主界面/@Main>
 
 [@Storepet2]
 #IF
@@ -592,8 +592,8 @@ PETCOUNT == 5
 CLEARPETS
 GIVEITEM WickedTongToken 1
 #ELSESAY
-Sorry you don't meet the requirements to store your pets!
-<Main/@Main>
+抱歉你不符合存放宠物的要求！
+<主界面/@Main>
 
 [@Storepet3]
 #IF
@@ -604,8 +604,8 @@ PETCOUNT == 5
 CLEARPETS
 GIVEITEM WildBeastToken 1
 #ELSESAY
-Sorry you don't meet the requirements to store your pets!
-<Main/@Main>
+抱歉你不符合存放宠物的要求！
+<主界面/@Main>
 
 [@Storepet4]
 #IF
@@ -616,8 +616,8 @@ PETCOUNT == 5
 CLEARPETS
 GIVEITEM BloodRatToken 1
 #ELSESAY
-Sorry you don't meet the requirements to store your pets!
-<Main/@Main>
+抱歉你不符合存放宠物的要求！
+<主界面/@Main>
 
 [@Storepet5]
 #IF
@@ -628,8 +628,8 @@ PETCOUNT == 5
 CLEARPETS
 GIVEITEM SeaCreatureToken 1
 #ELSESAY
-Sorry you don't meet the requirements to store your pets!
-<Main/@Main>
+抱歉你不符合存放宠物的要求！
+<主界面/@Main>
 
 [@Storepet6]
 #IF
@@ -640,8 +640,8 @@ PETCOUNT == 5
 CLEARPETS
 GIVEITEM ClawBeastToken 1
 #ELSESAY
-Sorry you don't meet the requirements to store your pets!
-<Main/@Main>
+抱歉你不符合存放宠物的要求！
+<主界面/@Main>
 
 [@Storepet7]
 #IF
@@ -652,8 +652,8 @@ PETCOUNT == 5
 CLEARPETS
 GIVEITEM DemonSlasherToken 1
 #ELSESAY
-Sorry you don't meet the requirements to store your pets!
-<Main/@Main>
+抱歉你不符合存放宠物的要求！
+<主界面/@Main>
 
 [@Storepet8]
 #IF
@@ -664,8 +664,8 @@ PETCOUNT == 5
 CLEARPETS
 GIVEITEM DemonFighterToken 1
 #ELSESAY
-Sorry you don't meet the requirements to store your pets!
-<Main/@Main>
+抱歉你不符合存放宠物的要求！
+<主界面/@Main>
 
 [@Storepet9]
 #IF
@@ -676,18 +676,18 @@ PETCOUNT == 5
 CLEARPETS
 GIVEITEM FrozenBasherToken 1
 #ELSESAY
-Sorry you don't meet the requirements to store your pets!
-<Main/@Main>
+抱歉你不符合存放宠物的要求！
+<主界面/@Main>
 
 [@Store2]
-<Main/@Main>
-<Store CrystalCrawler/@Storesolo1>
-<Store DragonWarrior/@Storesolo2>
-<Store TwinHeadBeast/@Storesolo3>
-<Store BlackTortoise/@Storesolo4>
-<Store SnowLord/@Storesolo5>
-<Store SeedingsClaw/@Storesolo6>
-<Store SnowBlest/@Storesolo7>
+<主界面/@Main>
+<商店 晶爪/@Storesolo1>
+<商店 龙战/@Storesolo2>
+<商店 双头兽/@Storesolo3>
+<商店 黑龟/@Storesolo4>
+<商店 雪主/@Storesolo5>
+<商店 籽爪/@Storesolo6>
+<商店 雪光/@Storesolo7>
 
 
 [@Storesolo1]
@@ -699,8 +699,8 @@ PETCOUNT == 1
 CLEARPETS
 GIVEITEM CrystalCrawlerToken 1
 #ELSESAY
-Sorry you don't meet the requirements to store your pets!
-<Main/@Main>
+抱歉你不符合存放宠物的要求！
+<主界面/@Main>
 
 [@Storesolo2]
 #IF
@@ -711,8 +711,8 @@ PETCOUNT == 1
 CLEARPETS
 GIVEITEM DragonWarriorToken 1
 #ELSESAY
-Sorry you don't meet the requirements to store your pets!
-<Main/@Main>
+抱歉你不符合存放宠物的要求！
+<主界面/@Main>
 
 [@Storesolo3]
 #IF
@@ -723,8 +723,8 @@ PETCOUNT == 1
 CLEARPETS
 GIVEITEM TwinHeadBeastToken 1
 #ELSESAY
-Sorry you don't meet the requirements to store your pets!
-<Main/@Main>
+抱歉你不符合存放宠物的要求！
+<主界面/@Main>
 
 [@Storesolo4]
 #IF
@@ -735,8 +735,8 @@ PETCOUNT == 1
 CLEARPETS
 GIVEITEM BlackTortoiseToken 1
 #ELSESAY
-Sorry you don't meet the requirements to store your pets!
-<Main/@Main>
+抱歉你不符合存放宠物的要求！
+<主界面/@Main>
 
 [@Storesolo5]
 #IF
@@ -747,8 +747,8 @@ PETCOUNT == 1
 CLEARPETS
 GIVEITEM SnowLordToken 1
 #ELSESAY
-Sorry you don't meet the requirements to store your pets!
-<Main/@Main>
+抱歉你不符合存放宠物的要求！
+<主界面/@Main>
 
 [@Storesolo6]
 #IF
@@ -759,8 +759,8 @@ PETCOUNT == 1
 CLEARPETS
 GIVEITEM SeedingsClawToken 1
 #ELSESAY
-Sorry you don't meet the requirements to store your pets!
-<Main/@Main>
+抱歉你不符合存放宠物的要求！
+<主界面/@Main>
 
 [@Storesolo7]
 #IF
@@ -771,8 +771,8 @@ PETCOUNT == 1
 CLEARPETS
 GIVEITEM SnowBlestToken 1
 #ELSESAY
-Sorry you don't meet the requirements to store your pets!
-<Main/@Main>
+抱歉你不符合存放宠物的要求！
+<主界面/@Main>
 
 
 
@@ -783,37 +783,37 @@ PETCOUNT == 0
 #ACT
 GOTO @retp1
 #ELSESAY
-You can't have any activate pets to use this feature
-<Main/@Main>
+你不能激活宠物来使用此功能
+<主界面/@Main>
 
 [@retp1]
-So you want to retreive your pets?
-Make sure you have your token!
+所以你想取回你的宠物？
+确保你带着你的令牌！
 
-<Normal Pets/@retnorm>
-<Elite Pets/@retelite>
-<Main/@Main>
+<普通宠物/@retnorm>
+<精英宠物/@retelite>
+<主界面/@Main>
 [@retnorm]
-<Main/@Main>
-<RedViper's/@Retpet1>
-<WickedTong's/@Retpet2>
-<WildBeast's/@Retpet3>
-<BloodRat's/@Retpet4>
-<SeaCreature's/@Retpet5>
-<ClawBeast's/@Retpet6>
-<DemonSlasher's/@Retpet7>
-<DemonFighter's/@Retpet8>
-<FrozenBasher's/@Retpet9>
+<主界面/@Main>
+<红毒蛇的/@Retpet1>
+<邪口舌的/@Retpet2>
+<野兽的/@Retpet3>
+<血鼠的/@Retpet4>
+<海怪的/@Retpet5>
+<爪兽的/@Retpet6>
+<魔斩手的/@Retpet7>
+<魔斗士的/@Retpet8>
+<冰锤的/@Retpet9>
 
 [@retelite]
-<Main/@Main>
-<CrystalCrawler/@Retsolo1>
-<DragonWarrior/@Retsolo2>
-<TwinHeadBeast/@Retsolo3>
-<BlackTortoise/@Retsolo4>
-<SnowLord/@Retsolo5>
-<SeedingsClaw/@Retsolo6>
-<SnowBlest/@Retsolo7>
+<主界面/@Main>
+<晶爬者/@Retsolo1>
+<龙战士/@Retsolo2>
+<双头兽/@Retsolo3>
+<黑龟/@Retsolo4>
+<雪主/@Retsolo5>
+<种子爪/@Retsolo6>
+<雪暴/@Retsolo7>
 
 
 
@@ -824,10 +824,10 @@ LEVEL < 100
 CHECKITEM RedViperToken 1
 #ACT
 TAKEITEM RedViperToken 1
-GIVEPET RedViper 5 7
+GIVEPET 赤色毒蛇 5 7
 #ELSESAY
-You need to bring me your token!
-<Main/@Main>
+你需要交出你的令牌！
+<主界面/@Main>
 
 
 [@Retpet2]
@@ -839,8 +839,8 @@ CHECKITEM WickedTongToken 1
 TAKEITEM WickedTongToken 1
 GIVEPET WickedTong 5 7
 #ELSESAY
-You need to bring me your token!
-<Main/@Main>
+你需要交出你的令牌！
+<主界面/@Main>
 
 [@Retpet3]
 #IF
@@ -851,8 +851,8 @@ CHECKITEM WildBeastToken 1
 TAKEITEM WildBeastToken 1
 GIVEPET WildBeast 5 7
 #ELSESAY
-You need to bring me your token!
-<Main/@Main>
+你需要交出你的令牌！
+<主界面/@Main>
 
 [@Retpet4]
 #IF
@@ -863,8 +863,8 @@ CHECKITEM BloodRatToken 1
 TAKEITEM BloodRatToken 1
 GIVEPET BloodRat 5 7
 #ELSESAY
-You need to bring me your token!
-<Main/@Main>
+你需要交出你的令牌！
+<主界面/@Main>
 
 [@Retpet5]
 #IF
@@ -875,8 +875,8 @@ CHECKITEM SeaCreatureToken 1
 TAKEITEM SeaCreatureToken 1
 GIVEPET SeaCreature 5 7
 #ELSESAY
-You need to bring me your token!
-<Main/@Main>
+你需要交出你的令牌！
+<主界面/@Main>
 
 [@Retpet6]
 #IF
@@ -887,8 +887,8 @@ CHECKITEM ClawBeastToken 1
 TAKEITEM ClawBeastToken 1
 GIVEPET ClawBeast 5 7
 #ELSESAY
-You need to bring me your token!
-<Main/@Main>
+你需要交出你的令牌！
+<主界面/@Main>
 
 [@Retpet7]
 #IF
@@ -899,8 +899,8 @@ CHECKITEM DemonSlasherToken 1
 TAKEITEM DemonSlasherToken 1
 GIVEPET DemonSlasher 5 7
 #ELSESAY
-You need to bring me your token!
-<Main/@Main>
+你需要交出你的令牌！
+<主界面/@Main>
 
 [@Retpet8]
 #IF
@@ -911,8 +911,8 @@ CHECKITEM DemonFighterToken 1
 TAKEITEM DemonFighterToken 1
 GIVEPET DemonFighter 5 7
 #ELSESAY
-You need to bring me your token!
-<Main/@Main>
+你需要交出你的令牌！
+<主界面/@Main>
 
 [@Retpet9]
 #IF
@@ -923,8 +923,8 @@ CHECKITEM FrozenBasherToken 1
 TAKEITEM FrozenBasherToken 1
 GIVEPET FrozenBasher 5 7
 #ELSESAY
-You need to bring me your token!
-<Main/@Main>
+你需要交出你的令牌！
+<主界面/@Main>
 
 
 
@@ -938,8 +938,8 @@ CHECKITEM CrystalCrawlerToken 1
 TAKEITEM CrystalCrawlerToken 1
 GIVEPET CrystalCrawler 1 7
 #ELSESAY
-You need to bring me your token!
-<Main/@Main>
+你需要交出你的令牌！
+<主界面/@Main>
 
 [@Retsolo2]
 #IF
@@ -950,8 +950,8 @@ CHECKITEM DragonWarriorToken 1
 TAKEITEM DragonWarriorToken 1
 GIVEPET DragonWarrior 1 7
 #ELSESAY
-You need to bring me your token!
-<Main/@Main>
+你需要交出你的令牌！
+<主界面/@Main>
 
 [@Retsolo3]
 #IF
@@ -962,8 +962,8 @@ CHECKITEM TwinHeadBeastToken 1
 TAKEITEM TwinHeadBeastToken 1
 GIVEPET TwinHeadBeast 1 7
 #ELSESAY
-You need to bring me your token!
-<Main/@Main>
+你需要交出你的令牌！
+<主界面/@Main>
 
 [@Retsolo4]
 #IF
@@ -974,8 +974,8 @@ CHECKITEM BlackTortoiseToken 1
 TAKEITEM BlackTortoiseToken 1
 GIVEPET BlackTortoise 1 7
 #ELSESAY
-You need to bring me your token!
-<Main/@Main>
+你需要交出你的令牌！
+<主界面/@Main>
 
 [@Retsolo5]
 #IF
@@ -986,8 +986,8 @@ CHECKITEM SnowLordToken 1
 TAKEITEM SnowLordToken 1
 GIVEPET SnowLord 1 7
 #ELSESAY
-You need to bring me your token!
-<Main/@Main>
+你需要交出你的令牌！
+<主界面/@Main>
 
 [@Retsolo6]
 #IF
@@ -998,8 +998,8 @@ CHECKITEM SeedingsClawToken 1
 TAKEITEM SeedingsClawToken 1
 GIVEPET SeedingsClaw 1 7
 #ELSESAY
-You need to bring me your token!
-<Main/@Main>
+你需要交出你的令牌！
+<主界面/@Main>
 
 [@Retsolo7]
 #IF
@@ -1010,8 +1010,8 @@ CHECKITEM SnowBlestToken 1
 TAKEITEM SnowBlestToken 1
 GIVEPET SnowBlest 1 7
 #ELSESAY
-You need to bring me your token!
-<Main/@Main>
+你需要交出你的令牌！
+<主界面/@Main>
 
 
 

@@ -1,8 +1,8 @@
 [@main]
 #SAY
-Have you had enough and want to go back?
+您已经够了，想回去了吗？
 
-<Yes/@yes>  <No/@exit>
+<是/@yes>  <否/@exit>
 
 [@yes]
 #ACT

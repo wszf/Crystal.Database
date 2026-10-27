@@ -1,13 +1,11 @@
 [@Description]
-Have you heard of {SnakeWine/LightSteelBlue}? This Wine is made 
-with {Red Snake/Crimson} and {Striped Snakes/Crimson}. I had this 
-once near the {SerpentValley/Yellow} and i still can't 
-forget the taste of it.
+你听说过{蛇酒/LightSteelBlue}吗？这种酒是用{红蛇/Crimson}和{花斑蛇/Crimson}酿的。我曾在{毒蛇山谷/Yellow}附近喝过一次，至今还忘不了它的味道。
 
 [@TaskDescription]
-Please go purchase some {SnakeWine/LightSteelBlue} from {Mary/LimeGreen}
+请去{玛丽/LimeGreen}那里购买一些{蛇酒/LightSteelBlue}。
 
 [@Completion]
+
 
 [@KillTasks]
 

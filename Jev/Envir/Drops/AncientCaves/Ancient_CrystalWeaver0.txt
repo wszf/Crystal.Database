@@ -2,5 +2,5 @@
 1/5 Gold 1000
 
 ;Pots + Other
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge
+1/1 金疮药(大量)
+1/1 魔法药(大量)

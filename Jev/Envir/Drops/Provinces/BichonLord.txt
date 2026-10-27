@@ -3,40 +3,40 @@
 1/1 Gold 50000 LV1
 
 ;Pots + Other
-1/1 (HP)DrugXL LV1
-1/1 (MP)DrugXL LV1
-1/1 (HP)DrugXL LV1
-1/1 (MP)DrugXL LV1
-1/1 SunPotion(M) LV1
-1/1 SunPotion(M) LV1
-1/1 SunPotion(M) LV1
-1/5 SunPotion(M) LV1
-1/5 SunPotion(M) LV1
-1/5 SunPotion(M) LV1
-1/1 BenedictionOil LV1
+1/1 金疮药(特大) LV1
+1/1 魔法药(特大) LV1
+1/1 金疮药(特大) LV1
+1/1 魔法药(特大) LV1
+1/1 强效太阳水 LV1
+1/1 强效太阳水 LV1
+1/1 强效太阳水 LV1
+1/5 强效太阳水 LV1
+1/5 强效太阳水 LV1
+1/5 强效太阳水 LV1
+1/1 祝福油 LV1
 
 ;Weapons
 
 
 ;Weapons Rare
-1/370 MaleficBow LV1
-1/370 DragonSlayer LV1
-1/370 DragonStaff LV1
-1/370 SoulSabre LV1
-1/370 RoyalBlades LV1
+1/370 邪弓 LV1
+1/370 屠龙 LV1
+1/370 噬魂法杖 LV1
+1/370 龙纹剑 LV1
+1/370 修罗刀 LV1
 
 
 ;Armour
-1/20 StuddedArmour(M) LV1
-1/20 StuddedArmour(F) LV1
-1/20 SteelArmour(M) LV1
-1/20 SteelArmour(F) LV1
-1/20 DragonRobe(M) LV1
-1/20 DragonRobe(F) LV1
-1/20 TitanArmour(M) LV1
-1/20 TitanArmour(F) LV1
-1/20 RoyalArmour(M) LV1
-1/20 RoyalArmour(F) LV1
+1/20 镶钉铠甲(男) LV1
+1/20 镶钉铠甲(女) LV1
+1/20 鬼面甲胄(男) LV1
+1/20 鬼面甲胄(女) LV1
+1/20 火龙魔衣(男) LV1
+1/20 火龙魔衣(女) LV1
+1/20 玄天宝衣(男) LV1
+1/20 玄天宝衣(女) LV1
+1/20 修罗血衣(男) LV1
+1/20 修罗血衣(女) LV1
 
 
 ;Helmets
@@ -74,18 +74,18 @@
 1/190 TrophyShield LV1
 
 ;Gems/Orbs
-1/70 BraveryOrb LV1
-1/70 MagicOrb LV1
-1/70 SoulOrb LV1
-1/70 ProtectionOrb LV1
-1/70 EvilSlayerOrb LV1
-1/70 DurabilityOrb LV1
-1/90 PoisonOrb LV1
-1/90 FreezingOrb LV1
-1/90 AccuracyOrb LV1
-1/90 StormOrb LV1
-1/90 AgilityOrb LV1
-1/90 EnduranceOrb LV1
+1/70 勇猛神珠 LV1
+1/70 魔性神珠 LV1
+1/70 仙界神珠 LV1
+1/70 守护神珠 LV1
+1/70 制魔神珠 LV1
+1/70 强化神珠 LV1
+1/90 中毒神珠 LV1
+1/90 酷寒神珠 LV1
+1/90 集中神珠 LV1
+1/90 疾风神珠 LV1
+1/90 回避神珠 LV1
+1/90 忍耐神珠 LV1
 
 
 1/140 VanguardBlade LV1
@@ -104,40 +104,40 @@
 1/1 Gold 50000 LV2
 
 ;Pots + Other
-1/1 (HP)DrugXL LV2
-1/1 (MP)DrugXL LV2
-1/1 (HP)DrugXL LV2
-1/1 (MP)DrugXL LV2
-1/1 SunPotion(M) LV2
-1/1 SunPotion(M) LV2
-1/1 SunPotion(M) LV2
-1/5 SunPotion(M) LV2
-1/5 SunPotion(M) LV2
-1/5 SunPotion(M) LV2
-1/1 BenedictionOil LV2
+1/1 金疮药(特大) LV2
+1/1 魔法药(特大) LV2
+1/1 金疮药(特大) LV2
+1/1 魔法药(特大) LV2
+1/1 强效太阳水 LV2
+1/1 强效太阳水 LV2
+1/1 强效太阳水 LV2
+1/5 强效太阳水 LV2
+1/5 强效太阳水 LV2
+1/5 强效太阳水 LV2
+1/1 祝福油 LV2
 
 ;Weapons
 
 
 ;Weapons Rare
-1/370 MaleficBow LV2
-1/370 DragonSlayer LV2
-1/370 DragonStaff LV2
-1/370 SoulSabre LV2
-1/370 RoyalBlades LV2
+1/370 邪弓 LV2
+1/370 屠龙 LV2
+1/370 噬魂法杖 LV2
+1/370 龙纹剑 LV2
+1/370 修罗刀 LV2
 
 
 ;Armour
-1/20 StuddedArmour(M) LV2
-1/20 StuddedArmour(F) LV2
-1/20 SteelArmour(M) LV2
-1/20 SteelArmour(F) LV2
-1/20 DragonRobe(M) LV2
-1/20 DragonRobe(F) LV2
-1/20 TitanArmour(M) LV2
-1/20 TitanArmour(F) LV2
-1/20 RoyalArmour(M) LV2
-1/20 RoyalArmour(F) LV2
+1/20 镶钉铠甲(男) LV2
+1/20 镶钉铠甲(女) LV2
+1/20 鬼面甲胄(男) LV2
+1/20 鬼面甲胄(女) LV2
+1/20 火龙魔衣(男) LV2
+1/20 火龙魔衣(女) LV2
+1/20 玄天宝衣(男) LV2
+1/20 玄天宝衣(女) LV2
+1/20 修罗血衣(男) LV2
+1/20 修罗血衣(女) LV2
 
 
 ;Helmets
@@ -175,18 +175,18 @@
 1/190 TrophyShield LV2
 
 ;Gems/Orbs
-1/70 BraveryOrb LV2
-1/70 MagicOrb LV2
-1/70 SoulOrb LV2
-1/70 ProtectionOrb LV2
-1/70 EvilSlayerOrb LV2
-1/70 DurabilityOrb LV2
-1/90 PoisonOrb LV2
-1/90 FreezingOrb LV2
-1/90 AccuracyOrb LV2
-1/90 StormOrb LV2
-1/90 AgilityOrb LV2
-1/90 EnduranceOrb LV2
+1/70 勇猛神珠 LV2
+1/70 魔性神珠 LV2
+1/70 仙界神珠 LV2
+1/70 守护神珠 LV2
+1/70 制魔神珠 LV2
+1/70 强化神珠 LV2
+1/90 中毒神珠 LV2
+1/90 酷寒神珠 LV2
+1/90 集中神珠 LV2
+1/90 疾风神珠 LV2
+1/90 回避神珠 LV2
+1/90 忍耐神珠 LV2
 
 
 1/140 VanguardBlade LV2
@@ -205,40 +205,40 @@
 1/1 Gold 50000 LV3
 
 ;Pots + Other
-1/1 (HP)DrugXL LV3
-1/1 (MP)DrugXL LV3
-1/1 (HP)DrugXL LV3
-1/1 (MP)DrugXL LV3
-1/1 SunPotion(M) LV3
-1/1 SunPotion(M) LV3
-1/1 SunPotion(M) LV3
-1/5 SunPotion(M) LV3
-1/5 SunPotion(M) LV3
-1/5 SunPotion(M) LV3
-1/1 BenedictionOil LV3
+1/1 金疮药(特大) LV3
+1/1 魔法药(特大) LV3
+1/1 金疮药(特大) LV3
+1/1 魔法药(特大) LV3
+1/1 强效太阳水 LV3
+1/1 强效太阳水 LV3
+1/1 强效太阳水 LV3
+1/5 强效太阳水 LV3
+1/5 强效太阳水 LV3
+1/5 强效太阳水 LV3
+1/1 祝福油 LV3
 
 ;Weapons
 
 
 ;Weapons Rare
-1/370 MaleficBow LV3
-1/370 DragonSlayer LV3
-1/370 DragonStaff LV3
-1/370 SoulSabre LV3
-1/370 RoyalBlades LV3
+1/370 邪弓 LV3
+1/370 屠龙 LV3
+1/370 噬魂法杖 LV3
+1/370 龙纹剑 LV3
+1/370 修罗刀 LV3
 
 
 ;Armour
-1/20 StuddedArmour(M) LV3
-1/20 StuddedArmour(F) LV3
-1/20 SteelArmour(M) LV3
-1/20 SteelArmour(F) LV3
-1/20 DragonRobe(M) LV3
-1/20 DragonRobe(F) LV3
-1/20 TitanArmour(M) LV3
-1/20 TitanArmour(F) LV3
-1/20 RoyalArmour(M) LV3
-1/20 RoyalArmour(F) LV3
+1/20 镶钉铠甲(男) LV3
+1/20 镶钉铠甲(女) LV3
+1/20 鬼面甲胄(男) LV3
+1/20 鬼面甲胄(女) LV3
+1/20 火龙魔衣(男) LV3
+1/20 火龙魔衣(女) LV3
+1/20 玄天宝衣(男) LV3
+1/20 玄天宝衣(女) LV3
+1/20 修罗血衣(男) LV3
+1/20 修罗血衣(女) LV3
 
 
 ;Helmets
@@ -276,18 +276,18 @@
 1/190 TrophyShield LV3
 
 ;Gems/Orbs
-1/70 BraveryOrb LV3
-1/70 MagicOrb LV3
-1/70 SoulOrb LV3
-1/70 ProtectionOrb LV3
-1/70 EvilSlayerOrb LV3
-1/70 DurabilityOrb LV3
-1/90 PoisonOrb LV3
-1/90 FreezingOrb LV3
-1/90 AccuracyOrb LV3
-1/90 StormOrb LV3
-1/90 AgilityOrb LV3
-1/90 EnduranceOrb LV3
+1/70 勇猛神珠 LV3
+1/70 魔性神珠 LV3
+1/70 仙界神珠 LV3
+1/70 守护神珠 LV3
+1/70 制魔神珠 LV3
+1/70 强化神珠 LV3
+1/90 中毒神珠 LV3
+1/90 酷寒神珠 LV3
+1/90 集中神珠 LV3
+1/90 疾风神珠 LV3
+1/90 回避神珠 LV3
+1/90 忍耐神珠 LV3
 
 
 1/140 VanguardBlade LV3
@@ -306,40 +306,40 @@
 1/1 Gold 50000 LV4
 
 ;Pots + Other
-1/1 (HP)DrugXL LV4
-1/1 (MP)DrugXL LV4
-1/1 (HP)DrugXL LV4
-1/1 (MP)DrugXL LV4
-1/1 SunPotion(M) LV4
-1/1 SunPotion(M) LV4
-1/1 SunPotion(M) LV4
-1/5 SunPotion(M) LV4
-1/5 SunPotion(M) LV4
-1/5 SunPotion(M) LV4
-1/1 BenedictionOil LV4
+1/1 金疮药(特大) LV4
+1/1 魔法药(特大) LV4
+1/1 金疮药(特大) LV4
+1/1 魔法药(特大) LV4
+1/1 强效太阳水 LV4
+1/1 强效太阳水 LV4
+1/1 强效太阳水 LV4
+1/5 强效太阳水 LV4
+1/5 强效太阳水 LV4
+1/5 强效太阳水 LV4
+1/1 祝福油 LV4
 
 ;Weapons
 
 
 ;Weapons Rare
-1/370 MaleficBow LV4
-1/370 DragonSlayer LV4
-1/370 DragonStaff LV4
-1/370 SoulSabre LV4
-1/370 RoyalBlades LV4
+1/370 邪弓 LV4
+1/370 屠龙 LV4
+1/370 噬魂法杖 LV4
+1/370 龙纹剑 LV4
+1/370 修罗刀 LV4
 
 
 ;Armour
-1/20 StuddedArmour(M) LV4
-1/20 StuddedArmour(F) LV4
-1/20 SteelArmour(M) LV4
-1/20 SteelArmour(F) LV4
-1/20 DragonRobe(M) LV4
-1/20 DragonRobe(F) LV4
-1/20 TitanArmour(M) LV4
-1/20 TitanArmour(F) LV4
-1/20 RoyalArmour(M) LV4
-1/20 RoyalArmour(F) LV4
+1/20 镶钉铠甲(男) LV4
+1/20 镶钉铠甲(女) LV4
+1/20 鬼面甲胄(男) LV4
+1/20 鬼面甲胄(女) LV4
+1/20 火龙魔衣(男) LV4
+1/20 火龙魔衣(女) LV4
+1/20 玄天宝衣(男) LV4
+1/20 玄天宝衣(女) LV4
+1/20 修罗血衣(男) LV4
+1/20 修罗血衣(女) LV4
 
 
 ;Helmets
@@ -377,18 +377,18 @@
 1/190 TrophyShield LV4
 
 ;Gems/Orbs
-1/70 BraveryOrb LV4
-1/70 MagicOrb LV4
-1/70 SoulOrb LV4
-1/70 ProtectionOrb LV4
-1/70 EvilSlayerOrb LV4
-1/70 DurabilityOrb LV4
-1/90 PoisonOrb LV4
-1/90 FreezingOrb LV4
-1/90 AccuracyOrb LV4
-1/90 StormOrb LV4
-1/90 AgilityOrb LV4
-1/90 EnduranceOrb LV4
+1/70 勇猛神珠 LV4
+1/70 魔性神珠 LV4
+1/70 仙界神珠 LV4
+1/70 守护神珠 LV4
+1/70 制魔神珠 LV4
+1/70 强化神珠 LV4
+1/90 中毒神珠 LV4
+1/90 酷寒神珠 LV4
+1/90 集中神珠 LV4
+1/90 疾风神珠 LV4
+1/90 回避神珠 LV4
+1/90 忍耐神珠 LV4
 
 
 1/140 VanguardBlade LV4
@@ -407,40 +407,40 @@
 1/1 Gold 50000 LV5
 
 ;Pots + Other
-1/1 (HP)DrugXL LV5
-1/1 (MP)DrugXL LV5
-1/1 (HP)DrugXL LV5
-1/1 (MP)DrugXL LV5
-1/1 SunPotion(M) LV5
-1/1 SunPotion(M) LV5
-1/1 SunPotion(M) LV5
-1/5 SunPotion(M) LV5
-1/5 SunPotion(M) LV5
-1/5 SunPotion(M) LV5
-1/1 BenedictionOil LV5
+1/1 金疮药(特大) LV5
+1/1 魔法药(特大) LV5
+1/1 金疮药(特大) LV5
+1/1 魔法药(特大) LV5
+1/1 强效太阳水 LV5
+1/1 强效太阳水 LV5
+1/1 强效太阳水 LV5
+1/5 强效太阳水 LV5
+1/5 强效太阳水 LV5
+1/5 强效太阳水 LV5
+1/1 祝福油 LV5
 
 ;Weapons
 
 
 ;Weapons Rare
-1/370 MaleficBow LV5
-1/370 DragonSlayer LV5
-1/370 DragonStaff LV5
-1/370 SoulSabre LV5
-1/370 RoyalBlades LV5
+1/370 邪弓 LV5
+1/370 屠龙 LV5
+1/370 噬魂法杖 LV5
+1/370 龙纹剑 LV5
+1/370 修罗刀 LV5
 
 
 ;Armour
-1/20 StuddedArmour(M) LV5
-1/20 StuddedArmour(F) LV5
-1/20 SteelArmour(M) LV5
-1/20 SteelArmour(F) LV5
-1/20 DragonRobe(M) LV5
-1/20 DragonRobe(F) LV5
-1/20 TitanArmour(M) LV5
-1/20 TitanArmour(F) LV5
-1/20 RoyalArmour(M) LV5
-1/20 RoyalArmour(F) LV5
+1/20 镶钉铠甲(男) LV5
+1/20 镶钉铠甲(女) LV5
+1/20 鬼面甲胄(男) LV5
+1/20 鬼面甲胄(女) LV5
+1/20 火龙魔衣(男) LV5
+1/20 火龙魔衣(女) LV5
+1/20 玄天宝衣(男) LV5
+1/20 玄天宝衣(女) LV5
+1/20 修罗血衣(男) LV5
+1/20 修罗血衣(女) LV5
 
 
 ;Helmets
@@ -478,18 +478,18 @@
 1/190 TrophyShield LV5
 
 ;Gems/Orbs
-1/70 BraveryOrb LV5
-1/70 MagicOrb LV5
-1/70 SoulOrb LV5
-1/70 ProtectionOrb LV5
-1/70 EvilSlayerOrb LV5
-1/70 DurabilityOrb LV5
-1/90 PoisonOrb LV5
-1/90 FreezingOrb LV5
-1/90 AccuracyOrb LV5
-1/90 StormOrb LV5
-1/90 AgilityOrb LV5
-1/90 EnduranceOrb LV5
+1/70 勇猛神珠 LV5
+1/70 魔性神珠 LV5
+1/70 仙界神珠 LV5
+1/70 守护神珠 LV5
+1/70 制魔神珠 LV5
+1/70 强化神珠 LV5
+1/90 中毒神珠 LV5
+1/90 酷寒神珠 LV5
+1/90 集中神珠 LV5
+1/90 疾风神珠 LV5
+1/90 回避神珠 LV5
+1/90 忍耐神珠 LV5
 
 
 1/140 VanguardBlade LV5
@@ -508,40 +508,40 @@
 1/1 Gold 50000 LV6
 
 ;Pots + Other
-1/1 (HP)DrugXL LV6
-1/1 (MP)DrugXL LV6
-1/1 (HP)DrugXL LV6
-1/1 (MP)DrugXL LV6
-1/1 SunPotion(M) LV6
-1/1 SunPotion(M) LV6
-1/1 SunPotion(M) LV6
-1/5 SunPotion(M) LV6
-1/5 SunPotion(M) LV6
-1/5 SunPotion(M) LV6
-1/1 BenedictionOil LV6
+1/1 金疮药(特大) LV6
+1/1 魔法药(特大) LV6
+1/1 金疮药(特大) LV6
+1/1 魔法药(特大) LV6
+1/1 强效太阳水 LV6
+1/1 强效太阳水 LV6
+1/1 强效太阳水 LV6
+1/5 强效太阳水 LV6
+1/5 强效太阳水 LV6
+1/5 强效太阳水 LV6
+1/1 祝福油 LV6
 
 ;Weapons
 
 
 ;Weapons Rare
-1/370 MaleficBow LV6
-1/370 DragonSlayer LV6
-1/370 DragonStaff LV6
-1/370 SoulSabre LV6
-1/370 RoyalBlades LV6
+1/370 邪弓 LV6
+1/370 屠龙 LV6
+1/370 噬魂法杖 LV6
+1/370 龙纹剑 LV6
+1/370 修罗刀 LV6
 
 
 ;Armour
-1/20 StuddedArmour(M) LV6
-1/20 StuddedArmour(F) LV6
-1/20 SteelArmour(M) LV6
-1/20 SteelArmour(F) LV6
-1/20 DragonRobe(M) LV6
-1/20 DragonRobe(F) LV6
-1/20 TitanArmour(M) LV6
-1/20 TitanArmour(F) LV6
-1/20 RoyalArmour(M) LV6
-1/20 RoyalArmour(F) LV6
+1/20 镶钉铠甲(男) LV6
+1/20 镶钉铠甲(女) LV6
+1/20 鬼面甲胄(男) LV6
+1/20 鬼面甲胄(女) LV6
+1/20 火龙魔衣(男) LV6
+1/20 火龙魔衣(女) LV6
+1/20 玄天宝衣(男) LV6
+1/20 玄天宝衣(女) LV6
+1/20 修罗血衣(男) LV6
+1/20 修罗血衣(女) LV6
 
 
 ;Helmets
@@ -579,18 +579,18 @@
 1/190 TrophyShield LV6
 
 ;Gems/Orbs
-1/70 BraveryOrb LV6
-1/70 MagicOrb LV6
-1/70 SoulOrb LV6
-1/70 ProtectionOrb LV6
-1/70 EvilSlayerOrb LV6
-1/70 DurabilityOrb LV6
-1/90 PoisonOrb LV6
-1/90 FreezingOrb LV6
-1/90 AccuracyOrb LV6
-1/90 StormOrb LV6
-1/90 AgilityOrb LV6
-1/90 EnduranceOrb LV6
+1/70 勇猛神珠 LV6
+1/70 魔性神珠 LV6
+1/70 仙界神珠 LV6
+1/70 守护神珠 LV6
+1/70 制魔神珠 LV6
+1/70 强化神珠 LV6
+1/90 中毒神珠 LV6
+1/90 酷寒神珠 LV6
+1/90 集中神珠 LV6
+1/90 疾风神珠 LV6
+1/90 回避神珠 LV6
+1/90 忍耐神珠 LV6
 
 
 1/140 VanguardBlade LV6
@@ -609,40 +609,40 @@
 1/1 Gold 50000 LV7
 
 ;Pots + Other
-1/1 (HP)DrugXL LV7
-1/1 (MP)DrugXL LV7
-1/1 (HP)DrugXL LV7
-1/1 (MP)DrugXL LV7
-1/1 SunPotion(M) LV7
-1/1 SunPotion(M) LV7
-1/1 SunPotion(M) LV7
-1/5 SunPotion(M) LV7
-1/5 SunPotion(M) LV7
-1/5 SunPotion(M) LV7
-1/1 BenedictionOil LV7
+1/1 金疮药(特大) LV7
+1/1 魔法药(特大) LV7
+1/1 金疮药(特大) LV7
+1/1 魔法药(特大) LV7
+1/1 强效太阳水 LV7
+1/1 强效太阳水 LV7
+1/1 强效太阳水 LV7
+1/5 强效太阳水 LV7
+1/5 强效太阳水 LV7
+1/5 强效太阳水 LV7
+1/1 祝福油 LV7
 
 ;Weapons
 
 
 ;Weapons Rare
-1/370 MaleficBow LV7
-1/370 DragonSlayer LV7
-1/370 DragonStaff LV7
-1/370 SoulSabre LV7
-1/370 RoyalBlades LV7
+1/370 邪弓 LV7
+1/370 屠龙 LV7
+1/370 噬魂法杖 LV7
+1/370 龙纹剑 LV7
+1/370 修罗刀 LV7
 
 
 ;Armour
-1/20 StuddedArmour(M) LV7
-1/20 StuddedArmour(F) LV7
-1/20 SteelArmour(M) LV7
-1/20 SteelArmour(F) LV7
-1/20 DragonRobe(M) LV7
-1/20 DragonRobe(F) LV7
-1/20 TitanArmour(M) LV7
-1/20 TitanArmour(F) LV7
-1/20 RoyalArmour(M) LV7
-1/20 RoyalArmour(F) LV7
+1/20 镶钉铠甲(男) LV7
+1/20 镶钉铠甲(女) LV7
+1/20 鬼面甲胄(男) LV7
+1/20 鬼面甲胄(女) LV7
+1/20 火龙魔衣(男) LV7
+1/20 火龙魔衣(女) LV7
+1/20 玄天宝衣(男) LV7
+1/20 玄天宝衣(女) LV7
+1/20 修罗血衣(男) LV7
+1/20 修罗血衣(女) LV7
 
 
 ;Helmets
@@ -680,18 +680,18 @@
 1/190 TrophyShield LV7
 
 ;Gems/Orbs
-1/70 BraveryOrb LV7
-1/70 MagicOrb LV7
-1/70 SoulOrb LV7
-1/70 ProtectionOrb LV7
-1/70 EvilSlayerOrb LV7
-1/70 DurabilityOrb LV7
-1/90 PoisonOrb LV7
-1/90 FreezingOrb LV7
-1/90 AccuracyOrb LV7
-1/90 StormOrb LV7
-1/90 AgilityOrb LV7
-1/90 EnduranceOrb LV7
+1/70 勇猛神珠 LV7
+1/70 魔性神珠 LV7
+1/70 仙界神珠 LV7
+1/70 守护神珠 LV7
+1/70 制魔神珠 LV7
+1/70 强化神珠 LV7
+1/90 中毒神珠 LV7
+1/90 酷寒神珠 LV7
+1/90 集中神珠 LV7
+1/90 疾风神珠 LV7
+1/90 回避神珠 LV7
+1/90 忍耐神珠 LV7
 
 
 1/140 VanguardBlade LV7
@@ -709,40 +709,40 @@
 1/1 Gold 50000 LV8
 
 ;Pots + Other
-1/1 (HP)DrugXL LV8
-1/1 (MP)DrugXL LV8
-1/1 (HP)DrugXL LV8
-1/1 (MP)DrugXL LV8
-1/1 SunPotion(M) LV8
-1/1 SunPotion(M) LV8
-1/1 SunPotion(M) LV8
-1/5 SunPotion(M) LV8
-1/5 SunPotion(M) LV8
-1/5 SunPotion(M) LV8
-1/1 BenedictionOil LV8
+1/1 金疮药(特大) LV8
+1/1 魔法药(特大) LV8
+1/1 金疮药(特大) LV8
+1/1 魔法药(特大) LV8
+1/1 强效太阳水 LV8
+1/1 强效太阳水 LV8
+1/1 强效太阳水 LV8
+1/5 强效太阳水 LV8
+1/5 强效太阳水 LV8
+1/5 强效太阳水 LV8
+1/1 祝福油 LV8
 
 ;Weapons
 
 
 ;Weapons Rare
-1/370 MaleficBow LV8
-1/370 DragonSlayer LV8
-1/370 DragonStaff LV8
-1/370 SoulSabre LV8
-1/370 RoyalBlades LV8
+1/370 邪弓 LV8
+1/370 屠龙 LV8
+1/370 噬魂法杖 LV8
+1/370 龙纹剑 LV8
+1/370 修罗刀 LV8
 
 
 ;Armour
-1/20 StuddedArmour(M) LV8
-1/20 StuddedArmour(F) LV8
-1/20 SteelArmour(M) LV8
-1/20 SteelArmour(F) LV8
-1/20 DragonRobe(M) LV8
-1/20 DragonRobe(F) LV8
-1/20 TitanArmour(M) LV8
-1/20 TitanArmour(F) LV8
-1/20 RoyalArmour(M) LV8
-1/20 RoyalArmour(F) LV8
+1/20 镶钉铠甲(男) LV8
+1/20 镶钉铠甲(女) LV8
+1/20 鬼面甲胄(男) LV8
+1/20 鬼面甲胄(女) LV8
+1/20 火龙魔衣(男) LV8
+1/20 火龙魔衣(女) LV8
+1/20 玄天宝衣(男) LV8
+1/20 玄天宝衣(女) LV8
+1/20 修罗血衣(男) LV8
+1/20 修罗血衣(女) LV8
 
 
 ;Helmets
@@ -780,18 +780,18 @@
 1/190 TrophyShield LV8
 
 ;Gems/Orbs
-1/70 BraveryOrb LV8
-1/70 MagicOrb LV8
-1/70 SoulOrb LV8
-1/70 ProtectionOrb LV8
-1/70 EvilSlayerOrb LV8
-1/70 DurabilityOrb LV8
-1/90 PoisonOrb LV8
-1/90 FreezingOrb LV8
-1/90 AccuracyOrb LV8
-1/90 StormOrb LV8
-1/90 AgilityOrb LV8
-1/90 EnduranceOrb LV8
+1/70 勇猛神珠 LV8
+1/70 魔性神珠 LV8
+1/70 仙界神珠 LV8
+1/70 守护神珠 LV8
+1/70 制魔神珠 LV8
+1/70 强化神珠 LV8
+1/90 中毒神珠 LV8
+1/90 酷寒神珠 LV8
+1/90 集中神珠 LV8
+1/90 疾风神珠 LV8
+1/90 回避神珠 LV8
+1/90 忍耐神珠 LV8
 
 
 1/140 VanguardBlade LV8

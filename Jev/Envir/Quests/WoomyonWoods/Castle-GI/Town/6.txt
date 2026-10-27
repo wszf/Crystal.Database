@@ -1,17 +1,18 @@
 [@Description]
-Travel, I have another task. 
-I'm still worried by this threat. I have decided we 
-should send these creatures a message.
+旅行者，我还有另一个任务。
+我仍然担心这个威胁。我决定我们
+应该给这些生物一个警告。
 
 [@TaskDescription]
-Eliminate 20 {FlamingWooma's/Crimson} and 
-{WoomaFighter's/Crimson} in {WoomaTemple/Yellow}.
+消灭 {火焰沃玛/Crimson} 20只和
+{沃玛战士/Crimson} 20只在 {沃玛教主大殿/Yellow}。
 
 [@Completion]
 
+
 [@KillTasks]
-FlamingWooma 20
-WoomaFighter 20
+火焰沃玛 20
+沃玛战士 20
 
 [@ItemTasks]
 

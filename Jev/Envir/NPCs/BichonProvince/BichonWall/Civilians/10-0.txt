@@ -24,13 +24,13 @@ GOTO @Main-2
 
 [@Main-1]
 #SAY
-Greeting's Traveler. How are you doing on this fine day?
+欢迎旅行者。今天过得怎么样？
  
-<Close/@exit>
+<关闭/@exit>
 
 [@MAIN-2]
 #SAY
-Greeting's Traveler. I wish times could be better..
-The Emperor needs to visit his people.. 
+欢迎旅行者。我希望时局能更好一些..
+皇帝需要去看看他的子民…… 
  
-<Close/@exit>
+<关闭/@exit>

@@ -1,29 +1,28 @@
 [@Description]
-There are creatures named {Oma/Crimson} outside
-{BichonWall/Yellow} and other towns. 
-They are very strong and violent. They have 
-been attacking the merchants. Hey, would you 
-be able to help us eliminate the danager?
+在{比奇城/Yellow}和其它城镇外有叫{半兽人/Crimson}的生物。
+它们非常强悍又凶残。它们
+一直在攻击商贩们。嘿，你能不能帮我们消灭这些危险？
 
 [@TaskDescription]
-Please hunt {Oma's/Crimson} and bring back 10 
-{OmaTeeth's/LightSteelBlue}
+请猎杀{半兽人/Crimson}并带回10个
+{兽人牙齿/LightSteelBlue}
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-OmaTeeth 10
+兽人牙齿 10
 
 [@CarryItems]
 
 [@FixedRewards]
 
 [@SelectRewards]
-BronzeShortSword
-BronzeHoaSword
-ElkWoodenBow
+青铜短剑
+青铜虎牙刀
+鹿角木弓
 
 [@ExpReward]
 300

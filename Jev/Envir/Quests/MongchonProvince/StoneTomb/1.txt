@@ -1,18 +1,17 @@
 [@Description]
-Hello. There are to many Insects in 
-{MongchonProvince/Yellow} these days. I can't sleep 
-because of the noises at night. Could you 
-hunt these insects?
+你好。最近{盟重省/Yellow}的虫子太多了。晚上因为噪音我睡不着。你能
+帮我打掉这些虫子吗？
 
 [@TaskDescription]
-Travel to {Stone Tomb/Yellow} and Eliminate 10 
-{BlackMaggot/Crimson} and {WedgeMoth/Crimson}.
- 
+前往{石墓/Yellow}并消灭10只
+{黑色恶蛆/Crimson}和{楔蛾/Crimson}。
+
 [@Completion]
 
+
 [@KillTasks]
-BlackMaggot 10
-WedgeMoth 10
+黑色恶蛆 10
+楔蛾 10
 
 [@ItemTasks]
 

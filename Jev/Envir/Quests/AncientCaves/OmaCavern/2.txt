@@ -1,22 +1,23 @@
 [@Description]
-There seem's tobe a pattern to the Scyther..
-Maybe someone in {CastleBichon/Yellow} can scyther the
-ancient symbols.
+解密器似乎有规律……
+也许{比奇城堡/Yellow}的某人能破解
+这些古代符文。
 
 [@TaskDescription]
-Return to {CastleBichon/Yellow} Enquire about the symbols.
+回到{比奇城堡/Yellow}询问关于符文的事情。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
 
 [@FlagTasks]
-533 "Enquire at the Library."
-534 "Enquire at the Inn."
-535 "Finally Understand how the Scyther Works."
-536 "Return to the MysteriousStone in OmaCavern."
+533 "请到图书馆咨询。"
+534 "请到客栈咨询。"
+535 "终于明白了镰刀的工作原理。"
+536 "返回奥玛洞穴的神秘石块处。"
 
 [@CarryItems]
 

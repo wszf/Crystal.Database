@@ -2,10 +2,10 @@
 1/5 Gold 1650
 
 ;Potions
-1/5 (HP)DrugXL
-1/5 (MP)DrugXL
-1/10 SunPotion
-1/10 SunPotion
+1/5 金疮药(特大)
+1/5 魔法药(特大)
+1/10 太阳水
+1/10 太阳水
 
 1/15000 SmasherRing
 1/15000 BlizzardRing
@@ -13,10 +13,10 @@
 1/15000 SlicerRing
 
 ;Assassin
-1/45100 ZincBlades
-1/55250 ButcheringBlades
-1/55550 MadDragonBlades
-1/55650 TheRipper
+1/45100 月轮刀
+1/55250 黑乌刀
+1/55550 飞燕混月剑
+1/55650 撕裂者
 
 1/4000 HolyHealthStone
 1/4000 HolyMagicStone
@@ -27,5 +27,5 @@
 1/4000 HolyAcStone
 1/4000 HolyDefenseStone
 
-1/2000 BenedictionOil
+1/2000 祝福油
 

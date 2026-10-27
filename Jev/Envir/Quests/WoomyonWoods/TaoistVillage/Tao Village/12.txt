@@ -1,16 +1,17 @@
 [@Description]
-After searching the {CrushedBone's/LimeGreen} it's missing 
-the {TraineeRing/LightSteelBlue}.
+在搜寻了 {碎骨/LimeGreen} 后，发现它缺少了
+{见习戒指/LightSteelBlue}。
 
 [@TaskDescription]
-Retrieve the {TraineeRing/LightSteelBlue} by killing {VenomSpider/Crimson}.
+通过杀死 {天狼蜘蛛/Crimson} 来取回 {见习戒指/LightSteelBlue}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-TraineeRing 1
+见习戒指 1
 
 [@CarryItems]
 

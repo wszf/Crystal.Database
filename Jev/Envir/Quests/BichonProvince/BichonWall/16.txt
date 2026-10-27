@@ -1,21 +1,18 @@
 [@Description]
-Could you please help me. I need to restock my 
-supplies. Could you please find the materials 
-from the {Caves/Yellow} near {Bichon/Yellow}?
+能帮帮我吗。我需要补充物资。你能从{比奇/Yellow}附近的{洞穴/Yellow}找到材料吗？
 
 [@TaskDescription]
-Please collect 5 {BatTeeth/LightSteelBlue} and {Skull's/LightSteelBlue} from 
-{OmaCave/Yellow}, and {ZombieEye/LightSteelBlue} from {BichonDeadMine/Yellow}.
+请从{奥玛洞/Yellow}收集5个{蝙蝠牙/LightSteelBlue}和{骷髅头骨/LightSteelBlue}，并从{比奇废矿/Yellow}收集{僵尸之眼/LightSteelBlue}。
 
 [@Completion]
-Thankyou very much brave traveller.
+感谢勇敢的旅人。
 
 [@KillTasks]
 
 [@ItemTasks]
-BatTeeth 5
-Skull 5
-ZombieEye 5
+蝙蝠牙 5
+骷髅头骨 5
+僵尸之眼 5
 
 [@CarryItems]
 

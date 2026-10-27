@@ -1,15 +1,15 @@
 [@main]
 #SAY
-I will gladly die for the general, if I can protect
-him by doing so.
-<Talk/@talk>
-<Close/@exit>
+只要能保护，我愿为将军赴死
+通过这样做来让他。
+<聊天/@talk>
+<关闭/@exit>
 
 [@talk]
 #SAY
-You know what makes my life harder?
-Before the relief comes I can not leave the spot freely
-even for toilet. I wonder I might suffer from
-constipation one day...
-<close/@exit>
+你知道什么让我日子难过吗？
+在解除之前我不能自由离开这个地方
+就连上厕所。我怀疑我可能患有
+便秘一天……
+<关闭/@exit>
 

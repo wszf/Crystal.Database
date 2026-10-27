@@ -2,19 +2,20 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello <$USERNAME>, Are you a beginner in this game?
-Please press ('H') to bring up the help menu.
+<$USERNAME>，你是新手吗？
+请按（H）键调出帮助菜单。
+
  
-<Close/@exit>
+<关闭/@exit>
 
 [Quests]
 1

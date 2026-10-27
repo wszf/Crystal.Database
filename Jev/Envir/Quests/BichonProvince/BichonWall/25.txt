@@ -1,19 +1,19 @@
 [@Description]
-My Teacher asked me to find ingredients for 
-medicine. You can only get them from 
-{RoninGhoul/Crimson}, but I cannot get close to them. 
-Could you get some {CorpsFlower/LightSteelBlue} for me?
+我的老师让我寻找药材的材料。这些材料只能从
+{恶灵僵尸/Crimson}那里得到，但我无法靠近它们。
+你能帮我弄一些{尸灵花/LightSteelBlue}吗？
 
 [@TaskDescription]
-Travel to PrajnaIsland and Collect 10 {CorpsFlower/LightSteelBlue} by 
-hunting {RoninGhoul's/Crimson}
+前往苍月岛，猎杀{恶灵僵尸/Crimson}
+收集 10 个{尸灵花/LightSteelBlue}
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-CorpsFlower 10
+尸灵花 10
 
 [@CarryItems]
 

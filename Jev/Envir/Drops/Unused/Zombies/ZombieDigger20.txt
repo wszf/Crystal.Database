@@ -2,55 +2,55 @@
 1/5 Gold 165
 
 ;Pots + Other
-1/5 (HP)DrugSmall
-1/5 (MP)DrugSmall
-1/10 (HP)DrugMedium
-1/10 (MP)DrugMedium
+1/5 金疮药(小量)
+1/5 魔法药(小量)
+1/10 金疮药(中量)
+1/10 魔法药(中量)
 
 ;Weapons
-1/110 BronzeSword 
-1/110 ShortSword 
-1/110 IronSword 
-1/110 ShortBow
-1/110 BronzeAxe 
-1/210 HookedSword 
-1/210 Trident 
-1/210 Scimitar 
-1/280 SteelAxe 
-1/250 SteelSword 
-1/250 MartialSword 
-1/250 HookedSpear 
-1/250 KrissSword 
-1/200 BladesOfVelocity
-1/250 IronBlades
-1/110 CompoundBow
-1/250 LongBow
+1/110 青铜剑 
+1/110 短剑 
+1/110 铁剑 
+1/110 短弓
+1/110 青铜斧 
+1/210 八荒 
+1/210 海魂 
+1/210 半月 
+1/280 钢斧 
+1/250 凌风 
+1/250 斩马刀 
+1/250 偃月 
+1/250 降魔 
+1/200 音速刀
+1/250 墨铁刀
+1/110 复合弓
+1/250 长弓
 
 ;Armour
-1/200 LightArmour(M) 
-1/200 LightArmour(F) 
+1/200 轻型盔甲(男) 
+1/200 轻型盔甲(女) 
 
 ;Helmets
-1/100 BronzeHelmet 
-1/125 MagicHelmet 
+1/100 青铜头盔 
+1/125 魔法头盔 
 
 ;Necklace
-1/400 LanternNecklace 
-1/400 TigerNecklace 
-1/400 PlatinumNecklace 
-1/400 NagaNecklace 
-1/400 AmberNecklace 
-1/400 PhoenixBead 
+1/400 灯笼项链 
+1/400 白色虎齿项链 
+1/400 白金项链 
+1/400 魔鬼项链 
+1/400 琥珀项链 
+1/400 凤凰明珠 
 
 ;Bracelets
-1/400 MagicBracelet 
-1/550 HardGlove 
+1/400 魔法手镯 
+1/550 坚固手套 
 
 ;Rings
-1/300 BlueRing 
-1/400 BlackRing 
-1/400 SerpentEyeRing 
-1/400 PearlRing 
+1/300 蓝色水晶戒指 
+1/400 黑色水晶戒指 
+1/400 蛇眼戒指 
+1/400 珍珠戒指 
 
 ;Shoes
 
@@ -77,5 +77,5 @@
 
 
 ;Quests
-1/2 ZombiEeye Q
+1/2 僵尸之眼 Q
 1/2 Entrails Q

@@ -1,0 +1,12 @@
+[Recipe]
+Amount 1
+Chance 100
+Gold 100
+
+[Tools]
+
+
+[Ingredients]
+牛肉 
+万年雪霜 
+魔法药(大量) 

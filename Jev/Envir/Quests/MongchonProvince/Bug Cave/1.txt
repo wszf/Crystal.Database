@@ -1,20 +1,20 @@
 [@Description]
-Did anyone tell you about {Death Valley/Yellow}? It's a
-place with lots of cliffs and rocks. The insects in
-this area are growing abnormally big. I've been
-researching them for years. I was trying to get a
-{Specimen/LightSteelBlue} of {WhimperingBee/Crimson} a few days ago, but 
-I was attacked by them. 
+有人告诉你关于{死亡山谷/Yellow}吗？那里
+有很多悬崖和岩石。这里的昆虫
+异常地大。我研究它们已经好几年了。前几天我试图获取一个
+{昆虫标本/LightSteelBlue}的{跳跳蜂/Crimson}，但
+被它们袭击了。
 
 [@TaskDescription]
-Eliminate {WhimperingBee's/Crimson} to collect 
-{BugSpecimen/LightSteelBlue} which be found in {Death Valley/Yellow}
+消灭{跳跳蜂/Crimson}以收集
+{昆虫标本/LightSteelBlue}，可以在{死亡山谷/Yellow}找到
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-BugSpecimen 10
+昆虫标本 10
 
 [@CarryItems]
 

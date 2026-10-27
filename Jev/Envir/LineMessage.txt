@@ -1,4 +1,4 @@
-Welcome to Crystal Mir 2 released by Suprcode.
-Make sure to follow JevLomcn on github for the latest Database releases.
+欢迎来到 Suprcode 发布的 Crystal Mir 2。
+请关注 JevLomcn 的 GitHub 以获取最新的数据库版本。
 www.LOMCN.net
-Now in Net.8
+现已支持 .NET 8

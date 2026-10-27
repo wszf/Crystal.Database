@@ -2,106 +2,106 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello there <$USERNAME>,
-I'm currently on the look out for many types of materials
+<$USERNAME>，你好呀，
+我现在正在寻找各种材料。
  
-Did you know material's can make many wonderful items
-which can help on your travels?
-I pay well.. if ever wish to sell anything come back
-and ill take alook.
+你知道材料可以制作出很多神奇的物品
+能帮到您旅途上的什么？
+我出价很高..如果以后有任何东西想卖，随时回来
+我再看看。
  
-<Sell/@Sell> Materials.
+<出售/@Sell> 材料。
  
-<Close/@exit>
+<关闭/@exit>
 
 [@Sell]
 #SAY
-Show me the Material's..
+展示材料..
 
 [RECIPE]	
-(HP)DrugXL
-(MP)DrugXL
-AmuletOfRevival
-PeddlerTorch
+金疮药(特大)
+魔法药(特大)
+复活符
+大火把
 GrenPoison
-RedPoison
-BlackThread
-WhiteThread
-RedThread
-Dumpling
-BeefDumpling
-BoneDumpling
-ChickenDumpling
-EggDumpling
-BoneBroth
-ChickenBroth
-EggBroth
-HerbalTea
-MeatSoup
-ZerkSoup
-LargeBone
-SewingGoods
-BoneHammer
-FishBait
-BoneDecapitator
-BoneHood
-BoneRobe(M)
-BoneRobe(F)
-BugBracelet
-BugNecklace
-BugRing
-NephriteBelt
-NephriteBracelet
-NephriteNecklace
-NephriteRing
-NephriteShoes
-RedJadeBelt
-RedJadeBracelet
-RedJadeNecklace
-RedJadeRing
-RedJadeShoes
-WhiteGoldBelt
-WhiteGoldBracelet
-WhiteGoldNecklace
-WhiteGoldRing
-WhiteGoldShoes
-NephriteBelt(H)
-NephriteBracelet(H)
-NephriteNecklace(H)
-NephriteRing(H)
-NephriteShoes(H)
-RedJadeBelt(H)
-RedJadeBracelet(H)
-RedJadeNecklace(H)
-RedJadeRing(H)
-RedJadeShoes(H)
-WhiteGoldBelt(H)
-WhiteGoldBracelet(H)
-WhiteGoldNecklace(H)
-WhiteGoldRing(H)
-WhiteGoldShoes(H)
-AccuracyGem
-AgilityGem
-BraveryGem
-EnduranceGem
-DisillusionGem
-DurabilityGem
-EvilSlayerGem
-FreezingGem
-MagicGem
-PoisonGem
-ProtectionGem
-SoulGem
-StormGem
+黄色药粉
+黑线
+白线
+红线
+饺子
+牛肉饺
+大骨饺
+鸡肉饺
+蛋饺
+酸辣汤
+鸡汤
+蛋汤
+草药茶
+肉汤
+大骨汤
+大骨头
+针线
+锤子
+鱼饵
+龙骨刀
+龙骨盔
+龙骨甲(男)
+龙骨甲(女)
+虫眼手镯
+虫眼项链
+虫眼戒指
+软玉腰带
+软玉手镯
+软玉项链
+软玉戒指
+软玉战靴
+红玉腰带
+红玉手镯
+红玉项链
+红玉戒指
+红玉战靴
+雷霆腰带
+雷霆手镯
+雷霆项链
+雷霆战戒
+雷霆战靴
+软玉腰带(英雄)
+软玉手镯(英雄)
+软玉项链(英雄)
+软玉戒指(英雄)
+软玉战靴(英雄)
+红玉腰带(英雄)
+红玉手镯(英雄)
+红玉项链(英雄)
+红玉戒指(英雄)
+红玉战靴(英雄)
+雷霆腰带(英雄)
+雷霆手镯(英雄)
+雷霆项链(英雄)
+雷霆战戒(英雄)
+雷霆战靴(英雄)
+集中宝玉
+回避宝玉
+勇猛宝玉
+忍耐宝玉
+觉醒宝玉
+强化宝玉
+制魔宝玉
+酷寒宝玉
+魔性宝玉
+中毒宝玉
+守护宝玉
+仙界宝玉
+疾风宝玉
 
 [Types]
 16

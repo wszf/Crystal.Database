@@ -1,19 +1,18 @@
 [@Description]
-Please can you take this {Algea/LightSteelBlue} to 
-{MongchonProvince/Yellow}.
+请把这个{海藻药/LightSteelBlue}带到{盟重省/Yellow}。
 
 [@TaskDescription]
-Deliver the {Algea/LightSteelBlue} to {CraftsLady/LimeGreen} in 
-{MongchonProvince/Yellow}.
+将{海藻药/LightSteelBlue}送到{盟重省/Yellow}的{工艺夫人/LimeGreen}那里。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
 
 [@CarryItems]
-Algae 2
+海藻药 2
 
 [@FixedRewards]
 

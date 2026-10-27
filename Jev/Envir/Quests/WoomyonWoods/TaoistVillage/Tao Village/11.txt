@@ -1,11 +1,11 @@
 [@Description]
-Student's like to take risk's.. but there's one 
-missing.
+学生们喜欢冒险……但有一个人失踪了。
 
 [@TaskDescription]
-Search for the Missing Student. 
+寻找失踪的学生。
 
 [@Completion]
+
 
 [@KillTasks]
 

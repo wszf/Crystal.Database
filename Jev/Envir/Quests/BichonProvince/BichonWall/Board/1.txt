@@ -1,15 +1,16 @@
 [@Description]
-BichonWall Bounty, Has been submitted.
+比奇城墙的赏金，已提交。
 
 [@TaskDescription]
-Collect {5 GoldChestnuts/LightSteelBlue}. 
+收集{5 个金栗子/LightSteelBlue}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-GoldChestnut 5
+金栗子 5
 
 [@FlagTasks]
 

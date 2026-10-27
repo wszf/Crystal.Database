@@ -2,25 +2,25 @@
 #IF
 ISADMIN
 #SAY
-Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-You appear to have {<$GAMEGOLD>/ORANGE} gold coins to spend.
-<Buy/@Buy> Script
-<Sell/@Sell> Script
+{<$USERNAME>/KHAKI}，我叫{<$NPCNAME>/KHAKI}。
+你似乎有{<$GAMEGOLD>/ORANGE}金币可以花费。
+<购买/@Buy> 脚本
+<出售/@Sell> 脚本
 
 #ELSEACT
 MOVE 0 300 300
 
 [@Sell]
 #SAY
-Sell.
+出售。
  
-<Back/@Main>
+<返回/@Main>
 
 [@Buy]
 #SAY
-Buy.
+买。
  
-<Back/@Main>
+<返回/@Main>
 
 
 [Types]

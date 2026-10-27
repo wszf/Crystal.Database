@@ -1,28 +1,28 @@
 [@MAIN]
 #SAY
-I am the local hairdresser, specialized in the cutting hair.
-I have been sent here to check the living conditions of people.
-Unfortunately, it seems that many people are still suffering from
-poverty and can't afford to get a hair cut.
-I'm happy to do it for 20,000 gold.
+我是本地理发师，擅长剪发。
+我是被派到这里来检查人民的生活条件的。
+很遗憾，看来很多人仍然深受
+贫穷而付不起理发钱。
+我乐意出20,000金币帮你做。
 
-However I must warn you, you will need to relog after changing your hair.
+不过我得警告你，改了发型你需要重新登录。
 
-<Haircut/@Haircut>
+<理发/@Haircut>
 
 [@Haircut]
 #SAY
-What haircut would you like?
+你想剪什么发型？
 
-<Brown Hair/@Brown>
-<Long Blue Hair/@Blue>
-<Long Red Hair/@Red>
-<Brown Afro/@BAfro>
-<Red Afro/@RAfro>
-<Blue Afro/@BlAfro>
+<棕色短发/@Brown>
+<蓝色长发/@Blue>
+<红色长发/@Red>
+<棕色爆炸头/@BAfro>
+<红色爆炸头/@RAfro>
+<蓝色爆炸头/@BlAfro>
 
 
-<Exit/@exit>         <Back/@Main>
+<退出/@exit>         <返回/@Main>
 
 [@Brown]
 #IF
@@ -32,8 +32,8 @@ TAKEGOLD 20000
 CHANGEHAIR 0
 BREAK
 #ELSESAY
-You Dont Have enough {Gold/Gold} to use my Service!
-Be gone, don't waste my time again!
+你没有足够的{金币/Gold}来使用我的服务！
+滚开，别再浪费我的时间了！
 
 [@Blue]
 #IF
@@ -43,8 +43,8 @@ TAKEGOLD 20000
 CHANGEHAIR 1
 BREAK
 #ELSESAY
-You Dont Have enough {Gold/Gold} to use my Service!
-Be gone, don't waste my time again!
+你没有足够的{金币/Gold}来使用我的服务！
+滚开，别再浪费我的时间了！
 
 [@Red]
 #IF
@@ -54,8 +54,8 @@ TAKEGOLD 20000
 CHANGEHAIR 2
 BREAK
 #ELSESAY
-You Dont Have enough {Gold/Gold} to use my Service!
-Be gone, don't waste my time again!
+你没有足够的{金币/Gold}来使用我的服务！
+滚开，别再浪费我的时间了！
 
 [@BAfro]
 #IF
@@ -65,8 +65,8 @@ TAKEGOLD 20000
 CHANGEHAIR 3
 BREAK
 #ELSESAY
-You Dont Have enough {Gold/Gold} to use my Service!
-Be gone, don't waste my time again!
+你没有足够的{金币/Gold}来使用我的服务！
+滚开，别再浪费我的时间了！
 
 [@RAfro]
 #IF
@@ -76,8 +76,8 @@ TAKEGOLD 20000
 CHANGEHAIR 4
 BREAK
 #ELSESAY
-You Dont Have enough {Gold/Gold} to use my Service!
-Be gone, don't waste my time again!
+你没有足够的{金币/Gold}来使用我的服务！
+滚开，别再浪费我的时间了！
 
 [@BlAfro]
 #IF
@@ -87,5 +87,5 @@ TAKEGOLD 20000
 CHANGEHAIR 5
 BREAK
 #ELSESAY
-You Dont Have enough {Gold/Gold} to use my Service!
-Be gone, don't waste my time again!
+你没有足够的{金币/Gold}来使用我的服务！
+滚开，别再浪费我的时间了！

@@ -2,17 +2,17 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Soo many Monsters.. I hate Monsters, I wish they would all just die!
-I wonder... No that's crazy talk!
+怪物太多了..我讨厌怪物，真希望它们都能死掉！
+我怀疑...不，这太疯狂了！
 
 [Quests]
 85

@@ -1,24 +1,23 @@
 [@Description]
-Could you do a favour for me as well? I want to
-give a present to {Jane/LimeGreen} to show my gratitude.
-But i cannot leave here at the moment. 
+能帮我一个忙吗？我想给{简/LimeGreen}送个礼物，以示感谢。
+但我现在不能离开这里。
 
 [@TaskDescription]
-Find {GingerTea/LightSteelBlue} from {Scarecrows/Crimson} and Deliver
-to {Assistant Jane/LimeGreen} in {BorderVillage/Yellow}.
+从{稻草人/Crimson}那里找到{姜茶/LightSteelBlue}并送到{边境村/Yellow}的{助手_简/LimeGreen}那里。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-GingerTea 1 
+姜茶 1 
 
 [@CarryItems]
 
 [@FixedRewards]
-GoldenPendant
-CopperRing
+黄金吊坠
+古铜戒指
 
 [@SelectRewards]
 

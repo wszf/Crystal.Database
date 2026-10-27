@@ -1,15 +1,16 @@
 [@Description]
-Traveler. Please enter the {SerpentDeadMine/Yellow} 
-and eliminate the threat.
+旅人。请进入{毒蛇死矿/Yellow}
+并消除威胁。
 
 [@TaskDescription]
-Eliminate 10 {GhostZombie/Crimson} and {DarkPriestZombie/Crimson}.
+消灭 {幽灵僵尸/Crimson} 10只和 {暗之僵尸神父/Crimson}。
 
 [@Completion]
 
+
 [@KillTasks]
-GhostZombie 10
-DarkPriestZombie 10
+幽灵僵尸 10
+暗之僵尸神父 10
 
 [@ItemTasks]
 

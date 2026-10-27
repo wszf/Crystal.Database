@@ -1,12 +1,12 @@
 ;Gold
 1/10 Gold 1350
-1/5 SunPotion
-1/5 SunPotion
+1/5 太阳水
+1/5 太阳水
 
 ;Potions
-1/30 SunPotion
-1/50 SunPotion(M)
+1/30 太阳水
+1/50 强效太阳水
 
 
 ;Awakening Souls
-1/100 AwakeningSoul0
+1/100 觉醒之魂0

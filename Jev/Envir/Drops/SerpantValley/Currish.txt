@@ -27,8 +27,8 @@
 ;Ores
 
 ;Meat
-1/5 Meat 
-1/10 Meat 
+1/5 肉 
+1/10 肉 
 
 ;Crafting Materials
 
@@ -69,7 +69,7 @@
 ;Fish
 
 ;Quest
-1/1 JadeRing Q
+1/1 翡翠戒指 Q
 
 ;Awakening
 

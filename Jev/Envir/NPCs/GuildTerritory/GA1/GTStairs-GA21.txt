@@ -1,7 +1,7 @@
 [@main]
-<Move/@move3nd> to the 3rd floor.
-<Move/@move1st> to the 1st floor.
-<Close/@exit>
+<移动/@move3nd> 到三楼。
+<移动/@move1st> 到一楼。
+<关闭/@exit>
 
 
 [@move3nd]

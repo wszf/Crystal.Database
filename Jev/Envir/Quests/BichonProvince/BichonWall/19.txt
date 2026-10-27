@@ -1,17 +1,18 @@
 [@Description]
-I'm making special armour useing {RareCopperOre/LightSteelBlue}.
-You can find these from the {Zombies/Crimson} in the 
-{Dead mine/Yellow}. 
+我正在用{稀有铜矿/LightSteelBlue}制作特殊的盔甲。
+这些矿石可以在{死矿/Yellow}的
+{僵尸/Crimson}身上找到。
 
 [@TaskDescription]
-Find 10 {RareCopperOre/LightSteelBlue} by hunting {Zombies/Crimson}.
+通过猎杀{僵尸/Crimson}找到10个{稀有铜矿/LightSteelBlue}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-RareCopperOre 10
+稀有铜矿 10
 
 [@CarryItems]
 

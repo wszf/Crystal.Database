@@ -1,16 +1,16 @@
 [@Description]
-Hello Traveller. Have you heard of the
-Taoist Instructor in this region?
-He is the Master of all the Taoists. I hear
-hes been looking for a new disciple lately.
-It could be a rumor
+你好，旅人。你听说过
+这个区域的道士导师吗？
+他是所有道士的大师。我听说
+他最近在寻找新的弟子。
+这可能只是个传闻。
 
 [@TaskDescription]
-Speak with {HighTaoist/LimeGreen} he was last seen at
-Coordinates 546:559 but he was heading
-North West.
+与{高级道士/LimeGreen}交谈，他最后一次出现在
+坐标546:559，但他正朝西北方向走去。
 
 [@Completion]
+
 
 [@KillTasks]
 

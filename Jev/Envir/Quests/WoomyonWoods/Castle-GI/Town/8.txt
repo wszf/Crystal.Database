@@ -1,21 +1,21 @@
 [@Description]
-The Howling oh the Howling.. Search for the 
-Source and Kill the creature.
+呜咽声啊，呜咽声……寻找源头并杀死那生物。
 
 [@TaskDescription]
-Eliminate the {OmaWarrior/Crimson}.
+消灭 {半兽勇士/Crimson}。
 
 [@Completion]
 
+
 [@KillTasks]
-OmaWarrior 1
+半兽勇士 1
 
 [@ItemTasks]
 
 [@CarryItems]
 
 [@FixedRewards]
-BlackIronBelt
+黑铁腰带
 
 [@SelectRewards]
 

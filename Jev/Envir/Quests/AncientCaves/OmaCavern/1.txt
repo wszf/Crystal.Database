@@ -1,16 +1,17 @@
 [@Description]
-A Mysterious Stone... with unknown ancient symbols.
-There must be a way to scyther these symbols.
+一个神秘的石头……上面刻着未知的古代符文。
+一定有办法去破解这些符文。
 
 [@TaskDescription]
-Search {OmaCavern/Yellow} for the {AncientScyther/LightSteelBlue}.
+到{奥玛洞窟/Yellow}寻找{远古镰虫/LightSteelBlue}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-AncientScyther 1
+远古镰虫 1
 
 [@FlagTasks]
 

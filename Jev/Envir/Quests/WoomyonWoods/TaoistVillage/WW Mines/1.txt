@@ -1,17 +1,17 @@
 [@Description]
-Hello Mirian, We push these {Zombie's/Crimson} back quite 
-frequently. Could you render your assistance?
- 
+你好米瑞安，这些{僵尸/Crimson}我们经常需要清理。你能帮帮忙吗？
+
 [@TaskDescription]
-Eliminate {CursedZombie/Crimson}, {ShiZombie/Crimson} and 
-{HungryZombie's/Crimson} in {MineralMines/Yellow}.
+消灭{被诅咒的僵尸/Crimson}, {石化僵尸/Crimson}和
+{游荡恶鬼/Crimson}在{矿场/Yellow}。
 
 [@Completion]
 
+
 [@KillTasks]
-CursedZombie 50 "Eliminate the CursedZombie Threat"
-ShiZombie 30 "Reduce the ShiZombie's"
-HungryZombie 25 "Eliminate the HungryZombie Threat"
+被诅咒的僵尸 50 "消灭诅咒僵尸威胁"
+石化僵尸 30 "减少尸僵尸"
+游荡恶鬼 25 "消灭饥饿僵尸威胁"
 
 [@ItemTasks]
 

@@ -1,17 +1,14 @@
 [@Description]
-Traveler... Traveler. I'm in dire need of your 
-help... I've just received new's regarding a 
-very rare creature in {SerpentDeadMines/Yellow} 
-the {WhiteSerpent/Crimson} sound's interesting 
-does it not? 
+旅人……旅人。我急需你的帮助……我刚收到关于 {毒蛇死矿/Yellow}里一种非常稀有生物的消息，那只 {白蛇/Crimson}听起来很有意思，不是吗？
 
 [@TaskDescription]
-Eliminate {WhiteSerpent/Crimson} in {SerpentDeadMine/Yellow}.
+在 {毒蛇死矿/Yellow}消灭 {白蛇/Crimson}。
 
 [@Completion]
 
+
 [@KillTasks]
-WhiteSerpent 1
+白蛇 1
 
 [@ItemTasks]
 

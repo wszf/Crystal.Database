@@ -2,35 +2,35 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-If you really want to go back to the past, possess a piece
-of TimeStone. This piece of stone will help you to
-timetravel back to the past. But if your level is below 33,
-you can not timetravel even with the stone. I know it is
-expensive. If you don't want to buy it try the drops from
-monsters. It may take some time but you can save money...
-<Buy/@buystone> TimeStonePiece
-<Sell/@sell> TimeStonePiece
-<Close/@exit>
+如果你真的想回到过去，就拥有一样东西
+时间之石。这块石头能帮助你
+时间回溯到过去。但如果你的等级低于33，
+就算带着石头也无法时间旅行。我知道这是
+昂贵的。如果你不想买的话可以试试从
+怪物们。可能需要一些时间，但你可以省下金币……
+<购买/@buystone> 时间石碎片
+<出售/@sell> 时间石碎片
+<关闭/@exit>
 
 
 [@buystone]
 #say
-20000 Gold for one piece...You want it?
-<Yes/@buystonenow>\
-<No. too expensive/@exit>
+一件要20000金币……你要吗？
+<是/@buystonenow>\
+<太贵了/@exit>
 
 [@buystonenow]
 #IF
 CHECKGOLD > 20000
 #ACT
 TAKEGOLD 20000
-GIVEITEM TimeStonePiece 1
+GIVEITEM 时间之石 1

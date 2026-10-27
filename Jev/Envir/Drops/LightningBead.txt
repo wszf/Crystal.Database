@@ -41,16 +41,16 @@
 
 
 ;Gem/Orb
-1/1300 FreezingGem
-1/1300 DurabilityGem
-1/1300 BraveryGem
-1/1300 MagicGem
-1/1300 SoulGem
-1/1300 ProtectionGem
-1/1300 EvilSlayerGem
-1/1300 PoisonGem
-1/1300 AccuracyGem
-1/1300 AgilityGem
+1/1300 酷寒宝玉
+1/1300 强化宝玉
+1/1300 勇猛宝玉
+1/1300 魔性宝玉
+1/1300 仙界宝玉
+1/1300 守护宝玉
+1/1300 制魔宝玉
+1/1300 中毒宝玉
+1/1300 集中宝玉
+1/1300 回避宝玉
 
 ;Books
 

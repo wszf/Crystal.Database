@@ -2,39 +2,39 @@
 #IF
 ISADMIN
 #SAY
-Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-<Buy/@Buy> Nothing!
-<Sell/@Sell> Nothing!
+{<$USERNAME>/KHAKI}，我叫{<$NPCNAME>/KHAKI}。
+<购买/@Buy> 没有！
+<出售/@Sell> 没有东西！
 
 #ELSEACT
 MOVE 0 300 300
 
 [@Buy]
 #SAY
-Buy.
+买。
  
-<Back/@Main>
+<返回/@Main>
 
 
 [@Sell]
 #SAY
-Sell.
+出售。
  
-<Back/@Main>
+<返回/@Main>
 
 
 [Types]
 0
 
 [Trade]
-GoldBar
-GoldBarBundle
-GoldChest
-GambleChip
-Dice
-UnknownOrb
-AdmissionOrb
-ScrollOfSeal
-GuardianOrb
-BichonToken
-TimeStonePiece
+金条
+金砖
+金盒
+筹码
+骰子
+未知宝珠
+狐月神珠
+凭证
+守护宝珠
+比奇通用币
+时间之石

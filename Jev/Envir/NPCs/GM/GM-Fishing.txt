@@ -2,24 +2,24 @@
 #IF
 ISADMIN
 #SAY
-Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-<Buy/@Buy> Fishing Equipment
-<Sell/@Sell> Fishing Equipment
+{<$USERNAME>/KHAKI}，我叫{<$NPCNAME>/KHAKI}。
+<购买/@Buy> 渔具
+<出售/@Sell> 钓鱼装备
 
 #ELSEACT
 MOVE 0 300 300
 
 [@Sell]
 #SAY
-Sell.
+出售。
  
-<Back/@Main>
+<返回/@Main>
 
 [@Buy]
 #SAY
-Buy.
+买。
  
-<Back/@Main>
+<返回/@Main>
 
 
 [Types]
@@ -32,18 +32,18 @@ Buy.
 33
 
 [Trade]
-BlueFishingRod
+蓝色鱼竿
 RedFishingRod
-FishingHook
-FishingFloat
-PremiumFloat
-FishBait
-PremiumBait
-FishDetector
-PremiumFinder
-FishingReel
-PremiumReel
-Walleye
-SwordFish
-RockBass
-Trout
+鱼钩
+鱼漂
+高级鱼漂
+鱼饵
+高级鱼饵
+探鱼器
+高级探鱼器
+摇轮
+高级摇轮
+草鱼
+青鱼
+大马哈鱼
+鲈鱼

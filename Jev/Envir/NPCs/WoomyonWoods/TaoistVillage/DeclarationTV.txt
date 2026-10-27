@@ -2,17 +2,17 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello traveler. I have the lastest Mirian News.
-<Close/@exit>
+旅人，我有最新的米瑞安消息。
+<关闭/@exit>
 
 [Quests]
 130

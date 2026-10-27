@@ -1,19 +1,19 @@
 [@Description]
-The {Prajna Island/Yellow} {VillageChief/LimeGreen} has asked 
-for the {PrajnaHistory/LightSteelBlue} Book back..
-I'm sorry to inform you We have been ransacked 
-and many precious items have been stolen. 
-The Monster what attacked was a {Blue BigApe/Crimson}
+{苍月岛/Yellow}的{村长/LimeGreen}拜托你把{苍月史书/LightSteelBlue}书交还。
+很抱歉地通知你，我们被洗劫了
+很多宝贵的东西都被偷走了。
+攻击我们的怪物是{血巨人/Crimson}
 
 [@TaskDescription]
-Kill {EvilApeSobo/Crimson} and retrieve {PrajnaHistory/LightSteelBlue}.
-Travel to {RedValley/Yellow} and Search for the Attacker.
+杀死{邪恶巨人王/Crimson}并取回{苍月史书/LightSteelBlue}。
+前往{红谷/Yellow}寻找袭击者。
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-PrajnaHistory 1
+苍月史书 1
 
 [@CarryItems]
 

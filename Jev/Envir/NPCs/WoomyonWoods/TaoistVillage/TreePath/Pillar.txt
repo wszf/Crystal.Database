@@ -1,21 +1,21 @@
 [@main]
 #SAY
-I open the closed door to you. You are about to enter the land
-filled with Sin, Fear and Shame. Are you sure you want to enter into
-cursed land?
+我为你打开了这扇紧闭的大门。你即将进入大陆
+充满了罪恶、恐惧和羞耻。你确定要进入吗？
+诅咒之地？
  
-<Yes, I want to enter./@next>
-<Place Ancient Post Piece on the pillar/@next2>
-<Exit/@exit>
+<是的，我想进入。/@next>
+<将远古柱石碎片放置在柱子上/@next2>
+<退出/@exit>
 
 
 [@next]
 #SAY
-Your about to enter a world of death and frustration. My duty is to
-open the closed door. I can let you in, but you will not be able to
-return.
+你即将进入一个死亡和挫败的世界。我的职责是
+打开这扇门。我可以让你进去，但你将无法
+返回。
 
-<Move/@move1>
+<移动/@move1>
 #ACT
 MOVE hell301s 272 275
 BREAK

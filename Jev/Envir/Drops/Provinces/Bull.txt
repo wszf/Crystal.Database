@@ -27,8 +27,8 @@
 ;Ores
 
 ;Meat
-1/5 Beef 
-1/10 Beef 
+1/5 牛肉 
+1/10 牛肉 
 
 ;Crafting Materials
 

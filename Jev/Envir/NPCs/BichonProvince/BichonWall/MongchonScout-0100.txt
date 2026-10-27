@@ -2,25 +2,25 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-This alcohol tastes great...
-The drinks taster even better after the job is done.
-You know what the best wine is? The best wine is the {snakeWine/LightSteelBlue}.
-The wine that was made with a {Red Snake/Crimson} and {Tiger Snake/Crimson}
-tastes the best.
-That was about ... 20... 48... years ago....
+这酒味道真不错……
+喝完酒后感觉更棒了。
+你知道最好的酒是什么吗？最好的酒是{蛇酒/LightSteelBlue}。
+用{红蛇/Crimson}和{虎蛇/Crimson}酿造的酒。
+味道最好。
+那是在……大约……20……48……年前的事了……
  
-(He's a drunk... lets ignore hine.)
+(他是个酒鬼……我们忽略他。)
  
-<Close/@exit>
+<关闭/@exit>
 
 [Quests]
 -27

@@ -1,9 +1,9 @@
 [@Main]
 #SAY
-Current Bounty List:
+当前悬赏列表：
 
-                    === Special Bounty ===
-        <Newbie Guild Recruitment/@NR1> {Level 1~25./KHAKI}
+                    === 特殊赏金 ===
+        <新手公会招募/@NR1> {1~25级/KHAKI}
 
 
 [@NR1]
@@ -12,17 +12,18 @@ LEVEL <= 25
 #ACT
 GOTO @NR2
 #ELSESAY
-Sorry <$USERNAME>, You are to high level.
+抱歉<$USERNAME>，你的等级太高了。
  
-<Back/@Main>
+<返回/@Main>
 
 [@NR2]
 #IF
 INGUILD
 #SAY
-<$USERNAME>, You are currently in a guild.
-Please leave this guild before trying again.
+<$USERNAME>，你目前在一个公会里。
+请先退出公会再重试。
+
 #ELSEACT
 ADDTOGUILD NewbieGuild
 ADDNAMELIST ../NameLists/NewbieGuild.txt
-LocalMessage "Congratulations, You have joined the NewbieGuild." Hint
+LocalMessage "恭喜，你加入了新手公会。" Hint

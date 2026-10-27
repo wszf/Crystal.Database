@@ -2,21 +2,21 @@
 1/12 Gold 600
 
 ;Pots + Other
-1/30 (HP)DrugMedium
-1/30 (MP)DrugMedium
-1/70 (HP)DrugLarge
-1/70 (MP)DrugLarge
+1/30 金疮药(中量)
+1/30 魔法药(中量)
+1/70 金疮药(大量)
+1/70 魔法药(大量)
 
 ;Weapons
-1/4000 SilverBow
-1/4000 GreatAxe
-1/4000 MageStaff
-1/4000 SerpentSword
-1/4000 DoubleBlades
+1/4000 银弓
+1/4000 炼狱
+1/4000 魔杖
+1/4000 银蛇
+1/4000 双极刀
 
 ;Weapons Rare
-1/2650 DragonSword
-1/2650 BloodStealerSword
+1/2650 井中月
+1/2650 血饮
 1/2650 TaoistWidow
 1/2650 DragonSabers
 1/7700 VanguardBow
@@ -26,16 +26,16 @@
 1/7700 VanguardBlades
 
 ;Armour
-1/800 LightLeatherArmour(M)
-1/800 LightLeatherArmour(F)
-1/800 HeavyArmour(M) 
-1/800 HeavyArmour(F) 
-1/800 MagicRobe(M) 
-1/800 MagicRobe(F) 
-1/800 SoulArmour(M) 
-1/800 SoulArmour(F) 
-1/800 RelicArmour(M)
-1/800 RelicArmour(F)
+1/800 轻皮甲(男)
+1/800 轻皮甲(女)
+1/800 重盔甲(男) 
+1/800 重盔甲(女) 
+1/800 魔法长袍(男) 
+1/800 魔法长袍(女) 
+1/800 灵魂战衣(男) 
+1/800 灵魂战衣(女) 
+1/800 残影魔衣(男)
+1/800 残影魔衣(女)
 
 ;Armour Rare
 1/7900 VanguardArmour(M)
@@ -67,12 +67,12 @@
 
 
 ;Stone
-1/600 HealthStone(M)
-1/600 MagicStone(M)
-1/600 PowerStone(M)
-1/600 DCStone(M)
-1/600 MCStone(M)
-1/600 SCStone(M)
+1/600 生命守护石(中)
+1/600 魔力守护石(中)
+1/600 能力守护石(中)
+1/600 攻击守护石(中)
+1/600 魔法守护石(中)
+1/600 道术守护石(中)
 1/600 ACStone(M)
 1/600 AMCStone(M)
 1/600 DefenseStone(M)

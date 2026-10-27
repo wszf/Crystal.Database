@@ -2,31 +2,31 @@
 1/5 Gold 700
 
 ;Potions
-1/5 (HP)DrugLarge
-1/5 (HP)DrugLarge
-1/5 (MP)DrugLarge
-1/5 (MP)DrugLarge
-1/5 (HP)DrugLarge
-1/5 (MP)DrugLarge
-1/15 SunPotion
-1/30 SunPotion
-1/25 SunPotion(M)
-1/70 SunPotion(M)
-1/100 ImpactDrug(M)
-1/100 MagicDrug(M)
-1/110 TaoistDrug(M)
-1/110 StormDrug(S)
+1/5 金疮药(大量)
+1/5 金疮药(大量)
+1/5 魔法药(大量)
+1/5 魔法药(大量)
+1/5 金疮药(大量)
+1/5 魔法药(大量)
+1/15 太阳水
+1/30 太阳水
+1/25 强效太阳水
+1/70 强效太阳水
+1/100 攻击药水(中)
+1/100 魔法药水(中)
+1/110 道力药水(中)
+1/110 疾风药水(小)
 
 ;Stones
-1/250 HealthStone(L)
-1/250 MagicStone(L)
-1/350 PowerStone(L)
-1/350 DCStone(L)
-1/350 MCStone(L)
-1/350 SCStone(L)
-1/400 HealthStone(XL)
-1/400 MagicStone(XL)
-1/650 PowerStone(XL)
-1/650 DCStone(XL)
-1/650 MCStone(XL)
-1/650 SCStone(XL)
+1/250 生命守护石(大)
+1/250 魔力守护石(大)
+1/350 能力守护石(大)
+1/350 攻击守护石(大)
+1/350 魔法守护石(大)
+1/350 道术守护石(大)
+1/400 生命守护石(特大)
+1/400 魔力守护石(特大)
+1/650 能力守护石(特大)
+1/650 攻击守护石(特大)
+1/650 魔法守护石(特大)
+1/650 道术守护石(特大)

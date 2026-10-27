@@ -1,20 +1,19 @@
 [@Description]
-Thanks for the hard work!
-However there are still many dangerous monsters 
-in {RedCave/Yellow} The monsters {DreamDevourer/Crimson} 
-and {DarkSoulDevouer/Crimson} still roam the area. 
-These monsters have been troubing by 
-useing its abillties to stop the movement of our 
-people. Can you go rid these monsters for us?
+辛苦了！
+但是{红岩洞/Yellow}里仍然有很多危险的怪物。
+{梦魇/Crimson}和{怨恶/Crimson}还在游荡着。
+这些怪物一直在用它们的技能骚扰我们的
+族人。你能帮我们消灭这些怪物吗？
 
 [@TaskDescription]
-Travel to {RedCave/Yellow} and Eliminate 3 {DreamDevourer/Crimson} 
-and {DarkSoulDevourer/Crimson}.
+前往{红岩洞/Yellow}并消灭3个{梦魇/Crimson}
+和{怨恶/Crimson}。
 
 [@Completion]
 
+
 [@KillTasks]
-DreamDevourer 3
+梦魇 3
 DarkDevouer 3
 
 [@ItemTasks]

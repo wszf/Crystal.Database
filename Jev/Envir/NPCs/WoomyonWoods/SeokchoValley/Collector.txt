@@ -2,24 +2,24 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello Traveler. 
-Do you have anything for sale? 
-<Sell/@Sell> Items
+你好，旅人。 
+你有什么要卖的吗？ 
+<出售/@Sell> 物品
 
-<Close/@exit>
+<关闭/@exit>
 
 [@Sell]
 #SAY
-What do you have for trade?
+您有什么东西可以交易吗？
 
 [TYPES]
 5

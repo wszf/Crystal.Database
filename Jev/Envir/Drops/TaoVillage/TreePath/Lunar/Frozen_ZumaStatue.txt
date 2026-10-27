@@ -2,111 +2,111 @@
 1/5 Gold 20000
 
 ;Potions
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/1 (HP)DrugXL
-1/1 (MP)DrugXL
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/1 (HP)DrugXL
-1/1 (MP)DrugXL
-1/2 (HP)DrugLarge
-1/2 (MP)DrugLarge
-1/2 (HP)DrugXL
-1/2 (MP)DrugXL
-1/2 (HP)DrugLarge
-1/2 (MP)DrugLarge
-1/2 (HP)DrugXL
-1/2 (MP)DrugXL
-1/1 SunPotion
-1/1 SunPotion(M)
-1/1 SunPotion
-1/1 SunPotion(M)
-1/1 SunPotion
-1/1 SunPotion(M)
-1/1 SunPotion
-1/1 SunPotion(M)
-1/2 SunPotion
-1/2 SunPotion(M)
-1/2 SunPotion
-1/2 SunPotion(M)
-1/2 SunPotion
-1/2 SunPotion(M)
-1/2 SunPotion
-1/2 SunPotion(M)
-1/50 BenedictionOil
+1/1 金疮药(大量)
+1/1 魔法药(大量)
+1/1 金疮药(特大)
+1/1 魔法药(特大)
+1/1 金疮药(大量)
+1/1 魔法药(大量)
+1/1 金疮药(特大)
+1/1 魔法药(特大)
+1/2 金疮药(大量)
+1/2 魔法药(大量)
+1/2 金疮药(特大)
+1/2 魔法药(特大)
+1/2 金疮药(大量)
+1/2 魔法药(大量)
+1/2 金疮药(特大)
+1/2 魔法药(特大)
+1/1 太阳水
+1/1 强效太阳水
+1/1 太阳水
+1/1 强效太阳水
+1/1 太阳水
+1/1 强效太阳水
+1/1 太阳水
+1/1 强效太阳水
+1/2 太阳水
+1/2 强效太阳水
+1/2 太阳水
+1/2 强效太阳水
+1/2 太阳水
+1/2 强效太阳水
+1/2 太阳水
+1/2 强效太阳水
+1/50 祝福油
 
 ;Armours
-1/60 SteelArmour(M)
-1/60 SteelArmour(F)
-1/60 DragonRobe(M)
-1/60 DragonRobe(F)
-1/60 TitanArmour(M)
-1/60 TitanArmour(F)
-1/60 RoyalArmour(M)
-1/60 RoyalArmour(F)
-1/60 StuddedArmour(M)
-1/60 StuddedArmour(F)
+1/60 鬼面甲胄(男)
+1/60 鬼面甲胄(女)
+1/60 火龙魔衣(男)
+1/60 火龙魔衣(女)
+1/60 玄天宝衣(男)
+1/60 玄天宝衣(女)
+1/60 修罗血衣(男)
+1/60 修罗血衣(女)
+1/60 镶钉铠甲(男)
+1/60 镶钉铠甲(女)
 
 ;Weapons
-1/600 WarSpiritBlade
-1/600 MagicScythe
-1/600 StoneBambooFan
-1/600 FreezingBlades
-1/600 LitheBow
+1/600 龙牙
+1/600 怒斩
+1/600 逍遥扇
+1/600 冷月刀
+1/600 轻灵弓
 
 ;Belts
-1/300 GoldBelt
-1/300 AdamantineBelt
+1/300 黄金腰带
+1/300 金刚腰带
 
 ;Shoes
-1/200 BlackBoots
-1/500 DragonBoots
-1/700 RedScaleBoots
+1/200 避魂靴
+1/500 龙靴
+1/700 赤鳞靴
 
 ;Helmets
-1/600 GreatHelmet
-1/600 TaoCoronet
-1/600 WisdomCoronet
-1/600 RoyalHelmet
+1/600 英雄头盔
+1/600 通天冠
+1/600 贤者帽
+1/600 修罗头盔
 
 ;Rings
-1/400 NobleRing
-1/400 SoulRing
-1/400 OmaSpiritRing
-1/400 TaeGukRing
-1/400 ThunderRing
-1/400 BoundlessRing
+1/400 鬼刃环
+1/400 心意环
+1/400 奥玛环
+1/400 太极环
+1/400 雷霆环
+1/400 无极环
 
 ;Bracelets
-1/500 SteelGauntlet
-1/500 8TrigramWheel
-1/500 HangMaWheel
-1/500 BokMaWheel
-1/900 BaekTaGlove
-1/900 SpiritReformer
-1/900 HolyTaoWheel
+1/500 精钢手镯
+1/500 八极轮
+1/500 抗魔轮
+1/500 伏魔轮
+1/900 白驼手套
+1/900 魂锁轮
+1/900 太极轮
 
 ;Necklaces
-1/1100 HeroNecklace
-1/1100 AdamantineNecklace
-1/1100 RequiemNecklace
+1/1100 水波颈饰
+1/1100 金刚铃项链
+1/1100 镇魂项链
 
 ;Books
-1/3000 ProtectionField
-1/1000 BladeAvalanche 
-1/1000 Vampirism
-1/2000 Mirroring
-1/5000 Blizzard
-1/3000 Reincarnation
-1/3000 PoisonCloud
-1/1000 UltimateEnhancer
-1/1000 EnergyRepulsor
-1/1000 SoulShield
-1/1000 FireBurst
-1/1000 Trap
-1/2000 PoisonSword
-1/2000 Moonlight
-1/3000 MPEater
-1/5000 SwiftFeet
+1/3000 护身气幕
+1/1000 空破闪 
+1/1000 噬血术
+1/2000 分身术
+1/5000 天霜冰环
+1/3000 复活术
+1/3000 毒雾
+1/1000 终极强化
+1/1000 气功波
+1/1000 灵魂护盾
+1/1000 烈风击
+1/1000 捕缚术
+1/2000 猛毒剑气
+1/2000 月光
+1/3000 吸气
+1/5000 迅雷疾足
 

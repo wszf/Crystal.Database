@@ -1,23 +1,25 @@
 [@main]
 #SAY
-I can take you to the Dark Swamp.
-Please be careful, monsters are strong there.
-Are you ready?
+我可以带你去黑暗沼泽。
+请小心，那里的怪物很强。
+你准备好了吗？
 
-<Yes/@yes>  <No/@no>
+<是/@yes>  <否/@no>
 
 [@no]
 #SAY
-Please turn back and never come back.
+请回头，永不回来。
 
-<Exit/@exit>
+
+<退出/@exit>
 
 [@yes]
 #SAY
-You must prepare yourself
-Please let me know when you're ready and i'll take you.
+你必须做好准备
+请告诉我您准备好了，我带您去。
 
-<I'm ready/@transport> <I'm still not ready/@exit>
+
+<我准备好了/@transport> <我还没准备好/@exit>
 
 [@transport]
 #ACT

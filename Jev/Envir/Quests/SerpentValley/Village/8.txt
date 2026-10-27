@@ -1,21 +1,22 @@
 [@Description]
-Here's the {SnakeWine/LightSteelBlue} for {MongchonScout/LimeGreen} as 
-promised. Please enjoy.
+这是给{蒙冲斥候/LimeGreen}的{蛇酒/LightSteelBlue}，如期送达。
+请尽情享用。
 
 [@TaskDescription]
-Deliver the {SnakeWine/LightSteelBlue} to {MongchonScout/LimeGreen}.
+将{蛇酒/LightSteelBlue}送到{蒙冲斥候/LimeGreen}那里。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
 
 [@CarryItems]
-SnakeWine 2
+蛇酒 2
 
 [@FixedRewards]
-BrokenSword 
+破坏短剑 
 
 [@SelectRewards]
 

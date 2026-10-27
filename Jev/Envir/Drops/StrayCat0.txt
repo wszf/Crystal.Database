@@ -2,10 +2,10 @@
 1/2 Gold 1500
 
 ;Pots + Other
-1/2 (HP)DrugXL
-1/2 (MP)DrugXL
-1/5 SunPotion
-1/5 SunPotion
+1/2 金疮药(特大)
+1/2 魔法药(特大)
+1/5 太阳水
+1/5 太阳水
 
 ;Weapons
 

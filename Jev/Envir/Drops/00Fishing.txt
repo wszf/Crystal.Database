@@ -1,35 +1,35 @@
 ;Pots + Other
-1/4500 MossyBox
+1/4500 苔藓宝箱
 
 ;Fish Market
-1/500 Trout
-1/500 Walleye
-1/500 SwordFish
-1/500 RockBass
+1/500 鲈鱼
+1/500 草鱼
+1/500 青鱼
+1/500 大马哈鱼
 
 ;Armour
-1/200 ArmourBook(DC)
-1/200 ArmourBook(MC)
-1/200 ArmourBook(SC)
-1/200 ArmourBook(ACC)
-1/200 RustyArmour
-1/200 Translucent
-1/200 HavocCrystal
-1/200 BookofMana
-1/200 BookofSpirit
-1/200 ArmourCastTool
+1/200 盔甲之书(勇猛)
+1/200 盔甲之书(魔界)
+1/200 盔甲之书(仙术)
+1/200 铠甲附魔书(准确)
+1/200 锈蚀的古代盔甲
+1/200 透明符
+1/200 浩劫水晶
+1/200 魔力之书
+1/200 精神之书
+1/200 铠甲铸造工具
 
 ;Gems
-1/10000 BraveryGem
-1/10000 MagicGem
-1/10000 SoulGem
-1/10000 ProtectionGem
-1/10000 EvilSlayerGem
-1/10000 DurabilityGem
-1/10000 StormGem
-1/10000 AgilityGem
-1/10000 AccuracyGem
-1/10000 PoisonGem
-1/10000 FreezingGem
-1/10000 DisillusionGem
-1/10000 EnduranceGem
+1/10000 勇猛宝玉
+1/10000 魔性宝玉
+1/10000 仙界宝玉
+1/10000 守护宝玉
+1/10000 制魔宝玉
+1/10000 强化宝玉
+1/10000 疾风宝玉
+1/10000 回避宝玉
+1/10000 集中宝玉
+1/10000 中毒宝玉
+1/10000 酷寒宝玉
+1/10000 觉醒宝玉
+1/10000 忍耐宝玉

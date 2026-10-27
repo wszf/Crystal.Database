@@ -2,76 +2,76 @@
 1/1 Gold 30000
 
 ;Pots + Other
-1/1 (HP)DrugLarge
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/1 (MP)DrugLarge
-1/1 (HP)DrugXL
-1/1 (HP)DrugXL
-1/1 (MP)DrugXL
-1/1 (MP)DrugXL
+1/1 金疮药(大量)
+1/1 金疮药(大量)
+1/1 魔法药(大量)
+1/1 魔法药(大量)
+1/1 金疮药(特大)
+1/1 金疮药(特大)
+1/1 魔法药(特大)
+1/1 魔法药(特大)
 
-1/2 SunPotion
-1/5 SunPotion(M)
+1/2 太阳水
+1/5 强效太阳水
 
-1/10 ImpactDrug(L)
-1/10 MagicDrug(L)
-1/10 TaoistDrug(L)
-1/10 StormDrug(L)
+1/10 攻击药水(大)
+1/10 魔法药水(大)
+1/10 道力药水(大)
+1/10 疾风药水(大)
 
-1/15 BenedictionOil
+1/15 祝福油
 
-1/40 AwakeningSoul0
-1/40 AwakeningSoul0
+1/40 觉醒之魂0
+1/40 觉醒之魂0
 
 ;Weapons
-1/250 MaleficBow
-1/250 DragonSlayer
-1/250 DragonStaff
-1/250 SoulSabre
-1/450 BurstSword
-1/450 DreadBow
-1/450 HolyBloodSpear
-1/450 DragonBloodSword
+1/250 邪弓
+1/250 屠龙
+1/250 噬魂法杖
+1/250 龙纹剑
+1/450 魔血剑
+1/450 恐惧之弓
+1/450 神血枪
+1/450 龙血剑
 
 ;Armour
-1/20 StuddedArmour(M)
-1/20 StuddedArmour(F)
-1/20 SteelArmour(M)
-1/20 SteelArmour(F)
-1/20 DragonRobe(M)
-1/20 DragonRobe(F)
-1/20 TitanArmour(M)
-1/20 TitanArmour(F)
+1/20 镶钉铠甲(男)
+1/20 镶钉铠甲(女)
+1/20 鬼面甲胄(男)
+1/20 鬼面甲胄(女)
+1/20 火龙魔衣(男)
+1/20 火龙魔衣(女)
+1/20 玄天宝衣(男)
+1/20 玄天宝衣(女)
 
 ;Helmets
 1/545 ApesCrown
-1/550 SparklingHelmet
-1/560 HelmetOfDarkness
+1/550 贝玉头盔
+1/560 黑术冠
 
 ;Necklace
-1/100 CuspidNecklace
-1/100 SorceryAnchor
-1/100 PurifiedMirror
+1/100 破角
+1/100 针坠
+1/100 心如明镜
 
 ;Bracelets
-1/100 DualTitanAmulet
-1/100 SacredAngelAmulet
-1/100 EvilWhispAmulet
+1/100 铁魔双轮
+1/100 玉女天使
+1/100 曜火虹轮
 
 ;Rings
-1/100 PledgeRing
-1/100 FiveElementRing
-1/100 CrimsonRubyRing
+1/100 盟约戒指
+1/100 五行连环
+1/100 血玉环
 
 ;Shoes
 
 
 ;Belts
 1/40 BoneBelt
-1/150 FlamingGrasp
-1/260 SparklingBelt
-1/165 BeltOfDarkness
+1/150 烈焰之握
+1/260 贝玉腰带
+1/165 黑术腰
 
 ;Medals
 
@@ -87,31 +87,31 @@
 
 ;Books
 ;;Warrior
-1/500 BladeAvalanche
-1/700 ProtectionField
-1/900 Rage
-1/1500 CounterAttack
+1/500 空破闪
+1/700 护身气幕
+1/900 狂暴
+1/1500 反击
 
 ;;Wizard
-1/60 FlameDisruptor
-1/500 Mirroring
-1/900 MeteorStrike
-1/1500 MagicBooster
-1/1500 IceThrust
+1/60 灭天火
+1/500 分身术
+1/900 流星打击
+1/1500 魔力强化
+1/1500 冰刺术
 
 ;;Toaist
-1/60 UltimateEnhancer
-1/500 SummonHolyDeva
-1/700 Reincarnation
-1/900 PoisonCloud
-1/900 Plague
-1/1500 PetEnhancer
+1/60 终极强化
+1/500 召唤圣灵
+1/700 复活术
+1/900 毒雾
+1/900 瘟疫术
+1/1500 宠物强化
 
 ;;Assassion
-1/60 MPEater
-1/500 SwiftFeet
-1/900 DarkBody
-1/1500 Hemorrhage
+1/60 吸气
+1/500 迅雷疾足
+1/900 暗影替身
+1/1500 血凤击
 
 ;CraftingMaterials
 

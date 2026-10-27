@@ -2,28 +2,28 @@
 1/1 Gold 30000
 
 ;Pots + Other
-1/1 (HP)DrugXL
-1/2 (HP)DrugXL
-1/1 (MP)DrugXL
-1/2 (MP)DrugXL
-1/1 SunPotion
-1/1 SunPotion
-1/1 SunPotion(M)
-1/1 SunPotion(M)
-1/1 SunPotion
-1/1 SunPotion
-1/2 SunPotion
-1/2 SunPotion
-1/1 SunPotion
-1/2 SunPotion
+1/1 金疮药(特大)
+1/2 金疮药(特大)
+1/1 魔法药(特大)
+1/2 魔法药(特大)
+1/1 太阳水
+1/1 太阳水
+1/1 强效太阳水
+1/1 强效太阳水
+1/1 太阳水
+1/1 太阳水
+1/2 太阳水
+1/2 太阳水
+1/1 太阳水
+1/2 太阳水
 
 
-1/1 BenedictionOil
+1/1 祝福油
 1/10 GoldenBenedictionOil
 
 
-1/10 AwakeningSoul0
-1/10 AwakeningSoul0
+1/10 觉醒之魂0
+1/10 觉醒之魂0
 
 ;Weapons
 
@@ -62,37 +62,37 @@
 
 
 ;Gems/Orbs
-1/30 BraveryOrb
-1/30 MagicOrb
-1/30 SoulOrb
-1/25 ProtectionOrb
-1/25 EvilSlayerOrb
-1/20 DurabilityOrb
-1/40 PoisonOrb
-1/40 FreezingOrb
-1/40 AccuracyOrb
-1/40 StormOrb
-1/40 EnduranceOrb
+1/30 勇猛神珠
+1/30 魔性神珠
+1/30 仙界神珠
+1/25 守护神珠
+1/25 制魔神珠
+1/20 强化神珠
+1/40 中毒神珠
+1/40 酷寒神珠
+1/40 集中神珠
+1/40 疾风神珠
+1/40 忍耐神珠
 
 
 ;Books
 1/100 SliceNDice
-1/200 SummonHolyDeva
-1/200 Mirroring
-1/200 SwiftFeet
-1/200 BladeAvalanche
-1/500 ProtectionField
-1/500 Reincarnation
-1/500 MeteorStrike
-1/500 PoisonCloud
-1/500 Rage
-1/500 Plague
-1/500 MagicBooster
-1/500 Hemorrhage
-1/500 CounterAttack
-1/900 SlashingBurst
-1/900 MoonMist
-1/900 StormEscape
+1/200 召唤圣灵
+1/200 分身术
+1/200 迅雷疾足
+1/200 空破闪
+1/500 护身气幕
+1/500 复活术
+1/500 流星打击
+1/500 毒雾
+1/500 狂暴
+1/500 瘟疫术
+1/500 魔力强化
+1/500 血凤击
+1/500 反击
+1/900 日闪
+1/900 月影迷雾
+1/900 风暴逃脱
 1/700 LavaKing
 1/750 FrozenRains
 1/850 HeadShot
@@ -102,15 +102,15 @@
 1/1200 HolyShield
 
 ;Archer
-1/100 DelayedExplosion
-1/200 ElementalBarrier
-1/500 BindingShot
-1/750 SummonToad
-1/800 PoisonShot
-1/900  CrippleShot
-1/1200 SummonSnakes
-1/90 NapalmShot
-1/1200 OneWithNature
+1/100 延爆箭
+1/200 元素屏障
+1/500 束缚箭
+1/750 召唤蟾蜍
+1/800 毒箭
+1/900  致残射击
+1/1200 召唤毒蛇
+1/90 燃烧箭
+1/1200 天人合一
 
 ;CraftingMaterials
 

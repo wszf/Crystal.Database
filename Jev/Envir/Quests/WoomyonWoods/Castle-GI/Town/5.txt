@@ -1,17 +1,16 @@
 [@Description]
-We need to damage this threat quickly. Head to 
-South-West to the {Temple/Yellow} and try weaken 
-it's resolve.
+我们需要尽快削弱这个威胁。前往
+西南角的{沃玛寺庙/Yellow}，并试图削弱它的抵抗力。
 
 [@TaskDescription]
-Eliminate 20 {Dung/Crimson} and {WoomaSoldiers/Crimson}.
+消灭20个{粪虫/Crimson}和{沃玛军士/Crimson}。
 
 [@Completion]
-Your back, Let's hope your actions has weaken the threat.
+你身后，希望你的行动削弱了威胁。
 
 [@KillTasks]
-Dung 20
-WoomaSoldier 20
+粪虫 20
+沃玛军士 20
 
 [@ItemTasks]
 

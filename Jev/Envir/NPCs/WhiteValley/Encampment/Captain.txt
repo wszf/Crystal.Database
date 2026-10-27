@@ -8,13 +8,13 @@ GOTO @MAIN2
 
 [@MAIN1]
 #SAY
-SET [526] 1
+设置 [526] 1
 
 [@MAIN2]
 #SAY
-Hello <$USERNAME>, It's very strange to see new travelers.
-People tend to keep away because of the temperatures.
-Becarful the creatures are strong. If you like a challanege 
-follow the path North. It will lead to the SnowCavern from 
-rumours some kind of Ancient Creature lives within.
-<Close/@exit>
+<$USERNAME>，看到新来的旅人真是太奇怪了。
+大家习惯因为温度而避开。
+小心点，这里的生物很强。如果你喜欢挑战的话， 
+沿着北方的道路走。它会通往雪洞，从 
+有传言说这里生活着某种远古生物。
+<关闭/@exit>

@@ -1,28 +1,28 @@
 ;Level1
 ;Gold
 1/1 Gold 30000 LV1
-1/20 GoldBar LV1
+1/20 金条 LV1
 
 ;Pots + Other
-1/1 SunPotion LV1
-1/1 SunPotion LV1
-1/1 SunPotion LV1
-1/1 SunPotion LV1
-1/1 SunPotion LV1
-1/1 SunPotion LV1
-1/1 SunPotion LV1
-1/2 SunPotion LV1
-1/1 SunPotion LV1
-1/2 SunPotion LV1
-1/1 SunPotion LV1
-1/3 SunPotion LV1
+1/1 太阳水 LV1
+1/1 太阳水 LV1
+1/1 太阳水 LV1
+1/1 太阳水 LV1
+1/1 太阳水 LV1
+1/1 太阳水 LV1
+1/1 太阳水 LV1
+1/2 太阳水 LV1
+1/1 太阳水 LV1
+1/2 太阳水 LV1
+1/1 太阳水 LV1
+1/3 太阳水 LV1
 
-1/1 BenedictionOil LV1
+1/1 祝福油 LV1
 1/10 GoldenBenedictionOil LV1
 
 
-1/20 AwakeningSoul0 LV1
-1/20 AwakeningSoul0 LV1
+1/20 觉醒之魂0 LV1
+1/20 觉醒之魂0 LV1
 1/150 GonRyunCaptainRune LV1
 
 
@@ -69,29 +69,29 @@
 
 
 ;Gems/Orbs
-1/100 BraveryGem LV1
-1/100 SoulGem LV1
-1/100 StormGem LV1
-1/100 MagicGem LV1
-1/130 DurabilityGem LV1
-1/140 AccuracyGem LV1
-1/140 AgilityGem LV1
-1/300 PoisonGem LV1
-1/300 FreezingGem LV1
-1/200 EnduranceGem LV1
-1/200 DisillusionGem LV1
+1/100 勇猛宝玉 LV1
+1/100 仙界宝玉 LV1
+1/100 疾风宝玉 LV1
+1/100 魔性宝玉 LV1
+1/130 强化宝玉 LV1
+1/140 集中宝玉 LV1
+1/140 回避宝玉 LV1
+1/300 中毒宝玉 LV1
+1/300 酷寒宝玉 LV1
+1/200 忍耐宝玉 LV1
+1/200 觉醒宝玉 LV1
 
-1/100 BraveryOrb LV1
-1/100 SoulOrb LV1
-1/100 StormOrb LV1
-1/100 MagicOrb LV1
-1/130 DurabilityOrb LV1
-1/140 AccuracyOrb LV1
-1/140 AgilityOrb LV1
-1/300 PoisonOrb LV1
-1/300 FreezingOrb LV1
-1/200 EnduranceOrb LV1
-1/200 DisillusionOrb LV1
+1/100 勇猛神珠 LV1
+1/100 仙界神珠 LV1
+1/100 疾风神珠 LV1
+1/100 魔性神珠 LV1
+1/130 强化神珠 LV1
+1/140 集中神珠 LV1
+1/140 回避神珠 LV1
+1/300 中毒神珠 LV1
+1/300 酷寒神珠 LV1
+1/200 忍耐神珠 LV1
+1/200 觉醒神珠 LV1
 
 ;Runes
 1/400 MeleeDamageRune LV1
@@ -101,73 +101,73 @@
 
 ;Books
 ;Warrior
-1/25 FlamingSword LV1
-1/30 CrossHalfMoon LV1
-1/50 TwinDrakeBlade LV1
-1/50 LionRoar LV1
-1/50 Entrapment LV1
+1/25 烈火剑法 LV1
+1/30 狂风斩 LV1
+1/50 双龙斩 LV1
+1/50 狮子吼 LV1
+1/50 捕蝇剑 LV1
 1/60 BladeStorm LV1
-1/150 BladeAvalanche LV1
-1/1200 ProtectionField LV1
-1/1400 Rage LV1
-1/1600 Fury LV1
-1/2000 CounterAttack LV1
-1/2600 ImmortalSkin LV1
+1/150 空破闪 LV1
+1/1200 护身气幕 LV1
+1/1400 狂暴 LV1
+1/1600 嗜血 LV1
+1/2000 反击 LV1
+1/2600 不灭护体 LV1
 
 ;Wizard
-1/10 FrostCrunch LV1
-1/25 IceStorm LV1
-1/30 FlameDisruptor LV1
-1/50 Vampirism LV1
-1/150 Mirroring LV1
-1/400 FlameField LV1
-1/1200 Blizzard LV1
-1/1400 MagicBooster LV1
-1/1600 MeteorStrike LV1
-1/2000 FastMove LV1
-1/2200 IceThrust LV1
+1/10 寒冰掌 LV1
+1/25 冰咆哮 LV1
+1/30 灭天火 LV1
+1/50 噬血术 LV1
+1/150 分身术 LV1
+1/400 火龙气焰 LV1
+1/1200 天霜冰环 LV1
+1/1400 魔力强化 LV1
+1/1600 流星打击 LV1
+1/2000 快速移动 LV1
+1/2200 冰刺术 LV1
 1/2400 FrozenRains LV1
 1/2600 LavaKing LV1
-1/3000 StormEscape LV1
+1/3000 风暴逃脱 LV1
 
 
 ;Taosit
-1/25 SummonShinsu LV1
-1/30 UltimateEnhancer LV1
-1/30 EnergyRepulsor LV1
-1/50 Purification LV1
-1/50 Hallucination LV1
-1/100 HealingCircle LV1
-1/200 SummonHolyDeva LV1
-1/1200 Curse LV1
-1/1400 PoisonCloud LV1
-1/1800 PetEnhancer LV1
-1/2000 EnergyShield LV1
+1/25 召唤神兽 LV1
+1/30 终极强化 LV1
+1/30 气功波 LV1
+1/50 净化术 LV1
+1/50 迷魂术 LV1
+1/100 阴阳五行阵 LV1
+1/200 召唤圣灵 LV1
+1/1200 诅咒术 LV1
+1/1400 毒雾 LV1
+1/1800 宠物强化 LV1
+1/2000 能量护盾 LV1
 1/2300 HolyShield LV1
 1/2600 HeadShot LV1
 
 
 ;Assassin
-1/25 FireBurst LV1
-1/30 Trap LV1
+1/25 烈风击 LV1
+1/30 捕缚术 LV1
 1/30 CrescentSlash LV1
-1/30 PoisonSword LV1
-1/50 MoonLight LV1
-1/50 MPEater LV1
-1/1000 SwiftFeet LV1
-1/1400 DarkBody LV1
-1/1800 Hemorrhage LV1
-1/2000 MoonMist LV1
+1/30 猛毒剑气 LV1
+1/50 月光 LV1
+1/50 吸气 LV1
+1/1000 迅雷疾足 LV1
+1/1400 暗影替身 LV1
+1/1800 血凤击 LV1
+1/2000 月影迷雾 LV1
 1/2300 FuryWaves LV1
 1/2600 ShadowStep LV1
 
-1/25 ElementalBarrier LV1
-1/30 BindingShot LV1
-1/50 SummonToad LV1
-1/1000 PoisonShot LV1
-1/1400 CrippleShot LV1
-1/1800 SummonSnakes LV1
-1/100 NapalmShot LV1
+1/25 元素屏障 LV1
+1/30 束缚箭 LV1
+1/50 召唤蟾蜍 LV1
+1/1000 毒箭 LV1
+1/1400 致残射击 LV1
+1/1800 召唤毒蛇 LV1
+1/100 燃烧箭 LV1
 
 
 ;CraftingMaterials
@@ -179,28 +179,28 @@
 ;Level2
 ;Gold
 1/1 Gold 30000 LV2
-1/20 GoldBar LV2
+1/20 金条 LV2
 
 ;Pots + Other
-1/1 SunPotion LV2
-1/1 SunPotion LV2
-1/1 SunPotion LV2
-1/1 SunPotion LV2
-1/1 SunPotion LV2
-1/1 SunPotion LV2
-1/1 SunPotion LV2
-1/2 SunPotion LV2
-1/1 SunPotion LV2
-1/2 SunPotion LV2
-1/1 SunPotion LV2
-1/3 SunPotion LV2
+1/1 太阳水 LV2
+1/1 太阳水 LV2
+1/1 太阳水 LV2
+1/1 太阳水 LV2
+1/1 太阳水 LV2
+1/1 太阳水 LV2
+1/1 太阳水 LV2
+1/2 太阳水 LV2
+1/1 太阳水 LV2
+1/2 太阳水 LV2
+1/1 太阳水 LV2
+1/3 太阳水 LV2
 
-1/1 BenedictionOil LV2
+1/1 祝福油 LV2
 1/10 GoldenBenedictionOil LV2
 
 
-1/20 AwakeningSoul0 LV2
-1/20 AwakeningSoul0 LV2
+1/20 觉醒之魂0 LV2
+1/20 觉醒之魂0 LV2
 1/150 GonRyunCaptainRune LV2
 
 ;Weapons
@@ -246,29 +246,29 @@
 
 
 ;Gems/Orbs
-1/100 BraveryGem LV2
-1/100 SoulGem LV2
-1/100 StormGem LV2
-1/100 MagicGem LV2
-1/130 DurabilityGem LV2
-1/140 AccuracyGem LV2
-1/140 AgilityGem LV2
-1/300 PoisonGem LV2
-1/300 FreezingGem LV2
-1/200 EnduranceGem LV2
-1/200 DisillusionGem LV2
+1/100 勇猛宝玉 LV2
+1/100 仙界宝玉 LV2
+1/100 疾风宝玉 LV2
+1/100 魔性宝玉 LV2
+1/130 强化宝玉 LV2
+1/140 集中宝玉 LV2
+1/140 回避宝玉 LV2
+1/300 中毒宝玉 LV2
+1/300 酷寒宝玉 LV2
+1/200 忍耐宝玉 LV2
+1/200 觉醒宝玉 LV2
 
-1/100 BraveryOrb LV2
-1/100 SoulOrb LV2
-1/100 StormOrb LV2
-1/100 MagicOrb LV2
-1/130 DurabilityOrb LV2
-1/140 AccuracyOrb LV2
-1/140 AgilityOrb LV2
-1/300 PoisonOrb LV2
-1/300 FreezingOrb LV2
-1/200 EnduranceOrb LV2
-1/200 DisillusionOrb LV2
+1/100 勇猛神珠 LV2
+1/100 仙界神珠 LV2
+1/100 疾风神珠 LV2
+1/100 魔性神珠 LV2
+1/130 强化神珠 LV2
+1/140 集中神珠 LV2
+1/140 回避神珠 LV2
+1/300 中毒神珠 LV2
+1/300 酷寒神珠 LV2
+1/200 忍耐神珠 LV2
+1/200 觉醒神珠 LV2
 
 ;Runes
 1/400 MeleeDamageRune LV2
@@ -278,73 +278,73 @@
 
 ;Books
 ;Warrior
-1/25 FlamingSword LV2
-1/30 CrossHalfMoon LV2
-1/50 TwinDrakeBlade LV2
-1/50 LionRoar LV2
-1/50 Entrapment LV2
+1/25 烈火剑法 LV2
+1/30 狂风斩 LV2
+1/50 双龙斩 LV2
+1/50 狮子吼 LV2
+1/50 捕蝇剑 LV2
 1/60 BladeStorm LV2
-1/150 BladeAvalanche LV2
-1/1200 ProtectionField LV2
-1/1400 Rage LV2
-1/1600 Fury LV2
-1/2000 CounterAttack LV2
-1/2600 ImmortalSkin LV2
+1/150 空破闪 LV2
+1/1200 护身气幕 LV2
+1/1400 狂暴 LV2
+1/1600 嗜血 LV2
+1/2000 反击 LV2
+1/2600 不灭护体 LV2
 
 ;Wizard
-1/10 FrostCrunch LV2
-1/25 IceStorm LV2
-1/30 FlameDisruptor LV2
-1/50 Vampirism LV2
-1/150 Mirroring LV2
-1/400 FlameField LV2
-1/1200 Blizzard LV2
-1/1400 MagicBooster LV2
-1/1600 MeteorStrike LV2
-1/2000 FastMove LV2
-1/2200 IceThrust LV2
+1/10 寒冰掌 LV2
+1/25 冰咆哮 LV2
+1/30 灭天火 LV2
+1/50 噬血术 LV2
+1/150 分身术 LV2
+1/400 火龙气焰 LV2
+1/1200 天霜冰环 LV2
+1/1400 魔力强化 LV2
+1/1600 流星打击 LV2
+1/2000 快速移动 LV2
+1/2200 冰刺术 LV2
 1/2400 FrozenRains LV2
 1/2600 LavaKing LV2
-1/3000 StormEscape LV2
+1/3000 风暴逃脱 LV2
 
 
 ;Taosit
-1/25 SummonShinsu LV2
-1/30 UltimateEnhancer LV2
-1/30 EnergyRepulsor LV2
-1/50 Purification LV2
-1/50 Hallucination LV2
-1/100 HealingCircle LV2
-1/200 SummonHolyDeva LV2
-1/1200 Curse LV2
-1/1400 PoisonCloud LV2
-1/1800 PetEnhancer LV2
-1/2000 EnergyShield LV2
+1/25 召唤神兽 LV2
+1/30 终极强化 LV2
+1/30 气功波 LV2
+1/50 净化术 LV2
+1/50 迷魂术 LV2
+1/100 阴阳五行阵 LV2
+1/200 召唤圣灵 LV2
+1/1200 诅咒术 LV2
+1/1400 毒雾 LV2
+1/1800 宠物强化 LV2
+1/2000 能量护盾 LV2
 1/2300 HolyShield LV2
 1/2600 HeadShot LV2
 
 
 ;Assassin
-1/25 FireBurst LV2
-1/30 Trap LV2
+1/25 烈风击 LV2
+1/30 捕缚术 LV2
 1/30 CrescentSlash LV2
-1/30 PoisonSword LV2
-1/50 MoonLight LV2
-1/50 MPEater LV2
-1/1000 SwiftFeet LV2
-1/1400 DarkBody LV2
-1/1800 Hemorrhage LV2
-1/2000 MoonMist LV2
+1/30 猛毒剑气 LV2
+1/50 月光 LV2
+1/50 吸气 LV2
+1/1000 迅雷疾足 LV2
+1/1400 暗影替身 LV2
+1/1800 血凤击 LV2
+1/2000 月影迷雾 LV2
 1/2300 FuryWaves LV2
 1/2600 ShadowStep LV2
 
-1/25 ElementalBarrier LV2
-1/30 BindingShot LV2
-1/50 SummonToad LV2
-1/1000 PoisonShot LV2
-1/1400 CrippleShot LV2
-1/1800 SummonSnakes LV2
-1/100 NapalmShot LV2
+1/25 元素屏障 LV2
+1/30 束缚箭 LV2
+1/50 召唤蟾蜍 LV2
+1/1000 毒箭 LV2
+1/1400 致残射击 LV2
+1/1800 召唤毒蛇 LV2
+1/100 燃烧箭 LV2
 
 
 ;CraftingMaterials
@@ -356,28 +356,28 @@
 ;Level3
 ;Gold
 1/1 Gold 30000 LV3
-1/20 GoldBar LV3
+1/20 金条 LV3
 
 ;Pots + Other
-1/1 SunPotion LV3
-1/1 SunPotion LV3
-1/1 SunPotion LV3
-1/1 SunPotion LV3
-1/1 SunPotion LV3
-1/1 SunPotion LV3
-1/1 SunPotion LV3
-1/2 SunPotion LV3
-1/1 SunPotion LV3
-1/2 SunPotion LV3
-1/1 SunPotion LV3
-1/3 SunPotion LV3
+1/1 太阳水 LV3
+1/1 太阳水 LV3
+1/1 太阳水 LV3
+1/1 太阳水 LV3
+1/1 太阳水 LV3
+1/1 太阳水 LV3
+1/1 太阳水 LV3
+1/2 太阳水 LV3
+1/1 太阳水 LV3
+1/2 太阳水 LV3
+1/1 太阳水 LV3
+1/3 太阳水 LV3
 
-1/1 BenedictionOil LV3
+1/1 祝福油 LV3
 1/10 GoldenBenedictionOil LV3
 
 
-1/20 AwakeningSoul0 LV3
-1/20 AwakeningSoul0 LV3
+1/20 觉醒之魂0 LV3
+1/20 觉醒之魂0 LV3
 1/150 GonRyunCaptainRune LV3
 
 ;Weapons
@@ -423,29 +423,29 @@
 
 
 ;Gems/Orbs
-1/100 BraveryGem LV3
-1/100 SoulGem LV3
-1/100 StormGem LV3
-1/100 MagicGem LV3
-1/130 DurabilityGem LV3
-1/140 AccuracyGem LV3
-1/140 AgilityGem LV3
-1/300 PoisonGem LV3
-1/300 FreezingGem LV3
-1/200 EnduranceGem LV3
-1/200 DisillusionGem LV3
+1/100 勇猛宝玉 LV3
+1/100 仙界宝玉 LV3
+1/100 疾风宝玉 LV3
+1/100 魔性宝玉 LV3
+1/130 强化宝玉 LV3
+1/140 集中宝玉 LV3
+1/140 回避宝玉 LV3
+1/300 中毒宝玉 LV3
+1/300 酷寒宝玉 LV3
+1/200 忍耐宝玉 LV3
+1/200 觉醒宝玉 LV3
 
-1/100 BraveryOrb LV3
-1/100 SoulOrb LV3
-1/100 StormOrb LV3
-1/100 MagicOrb LV3
-1/130 DurabilityOrb LV3
-1/140 AccuracyOrb LV3
-1/140 AgilityOrb LV3
-1/300 PoisonOrb LV3
-1/300 FreezingOrb LV3
-1/200 EnduranceOrb LV3
-1/200 DisillusionOrb LV3
+1/100 勇猛神珠 LV3
+1/100 仙界神珠 LV3
+1/100 疾风神珠 LV3
+1/100 魔性神珠 LV3
+1/130 强化神珠 LV3
+1/140 集中神珠 LV3
+1/140 回避神珠 LV3
+1/300 中毒神珠 LV3
+1/300 酷寒神珠 LV3
+1/200 忍耐神珠 LV3
+1/200 觉醒神珠 LV3
 
 ;Runes
 1/400 MeleeDamageRune LV3
@@ -455,74 +455,74 @@
 
 ;Books
 ;Warrior
-1/25 FlamingSword LV3
-1/30 CrossHalfMoon LV3
-1/50 TwinDrakeBlade LV3
-1/50 LionRoar LV3
-1/50 Entrapment LV3
+1/25 烈火剑法 LV3
+1/30 狂风斩 LV3
+1/50 双龙斩 LV3
+1/50 狮子吼 LV3
+1/50 捕蝇剑 LV3
 1/60 BladeStorm LV3
-1/150 BladeAvalanche LV3
-1/1200 ProtectionField LV3
-1/1400 Rage LV3
-1/1600 Fury LV3
-1/2000 CounterAttack LV3
-1/2600 ImmortalSkin LV3
+1/150 空破闪 LV3
+1/1200 护身气幕 LV3
+1/1400 狂暴 LV3
+1/1600 嗜血 LV3
+1/2000 反击 LV3
+1/2600 不灭护体 LV3
 
 ;Wizard
-1/10 FrostCrunch LV3
-1/25 IceStorm LV3
-1/30 FlameDisruptor LV3
-1/50 Vampirism LV3
-1/150 Mirroring LV3
-1/400 FlameField LV3
-1/1200 Blizzard LV3
-1/1400 MagicBooster LV3
-1/1600 MeteorStrike LV3
-1/2000 FastMove LV3
-1/2200 IceThrust LV3
+1/10 寒冰掌 LV3
+1/25 冰咆哮 LV3
+1/30 灭天火 LV3
+1/50 噬血术 LV3
+1/150 分身术 LV3
+1/400 火龙气焰 LV3
+1/1200 天霜冰环 LV3
+1/1400 魔力强化 LV3
+1/1600 流星打击 LV3
+1/2000 快速移动 LV3
+1/2200 冰刺术 LV3
 1/2400 FrozenRains LV3
 1/2600 LavaKing LV3
-1/3000 StormEscape LV3
+1/3000 风暴逃脱 LV3
 
 
 ;Taosit
-1/25 SummonShinsu LV3
-1/30 UltimateEnhancer LV3
-1/30 EnergyRepulsor LV3
-1/50 Purification LV3
-1/50 Hallucination LV3
-1/100 HealingCircle LV3
-1/200 SummonHolyDeva LV3
-1/1200 Curse LV3
-1/1400 PoisonCloud LV3
-1/1800 PetEnhancer LV3
-1/2000 EnergyShield LV3
+1/25 召唤神兽 LV3
+1/30 终极强化 LV3
+1/30 气功波 LV3
+1/50 净化术 LV3
+1/50 迷魂术 LV3
+1/100 阴阳五行阵 LV3
+1/200 召唤圣灵 LV3
+1/1200 诅咒术 LV3
+1/1400 毒雾 LV3
+1/1800 宠物强化 LV3
+1/2000 能量护盾 LV3
 1/2300 HolyShield LV3
 1/2600 HeadShot LV3
 
 
 
 ;Assassin
-1/25 FireBurst LV3
-1/30 Trap LV3
+1/25 烈风击 LV3
+1/30 捕缚术 LV3
 1/30 CrescentSlash LV3
-1/30 PoisonSword LV3
-1/50 MoonLight LV3
-1/50 MPEater LV3
-1/1000 SwiftFeet LV3
-1/1400 DarkBody LV3
-1/1800 Hemorrhage LV3
-1/2000 MoonMist LV3
+1/30 猛毒剑气 LV3
+1/50 月光 LV3
+1/50 吸气 LV3
+1/1000 迅雷疾足 LV3
+1/1400 暗影替身 LV3
+1/1800 血凤击 LV3
+1/2000 月影迷雾 LV3
 1/2300 FuryWaves LV3
 1/2600 ShadowStep LV3
 
-1/25 ElementalBarrier LV3
-1/30 BindingShot LV3
-1/50 SummonToad LV3
-1/1000 PoisonShot LV3
-1/1400 CrippleShot LV3
-1/1800 SummonSnakes LV3
-1/100 NapalmShot LV3
+1/25 元素屏障 LV3
+1/30 束缚箭 LV3
+1/50 召唤蟾蜍 LV3
+1/1000 毒箭 LV3
+1/1400 致残射击 LV3
+1/1800 召唤毒蛇 LV3
+1/100 燃烧箭 LV3
 
 ;CraftingMaterials
 
@@ -533,28 +533,28 @@
 ;Level4
 ;Gold
 1/1 Gold 30000 LV4
-1/20 GoldBar LV4
+1/20 金条 LV4
 
 ;Pots + Other
-1/1 SunPotion LV4
-1/1 SunPotion LV4
-1/1 SunPotion LV4
-1/1 SunPotion LV4
-1/1 SunPotion LV4
-1/1 SunPotion LV4
-1/1 SunPotion LV4
-1/2 SunPotion LV4
-1/1 SunPotion LV4
-1/2 SunPotion LV4
-1/1 SunPotion LV4
-1/3 SunPotion LV4
+1/1 太阳水 LV4
+1/1 太阳水 LV4
+1/1 太阳水 LV4
+1/1 太阳水 LV4
+1/1 太阳水 LV4
+1/1 太阳水 LV4
+1/1 太阳水 LV4
+1/2 太阳水 LV4
+1/1 太阳水 LV4
+1/2 太阳水 LV4
+1/1 太阳水 LV4
+1/3 太阳水 LV4
 
-1/1 BenedictionOil LV4
+1/1 祝福油 LV4
 1/10 GoldenBenedictionOil LV4
 
 
-1/20 AwakeningSoul0 LV4
-1/20 AwakeningSoul0 LV4
+1/20 觉醒之魂0 LV4
+1/20 觉醒之魂0 LV4
 1/150 GonRyunCaptainRune LV4
 
 ;Weapons
@@ -600,29 +600,29 @@
 
 
 ;Gems/Orbs
-1/100 BraveryGem LV4
-1/100 SoulGem LV4
-1/100 StormGem LV4
-1/100 MagicGem LV4
-1/130 DurabilityGem LV4
-1/140 AccuracyGem LV4
-1/140 AgilityGem LV4
-1/300 PoisonGem LV4
-1/300 FreezingGem LV4
-1/200 EnduranceGem LV4
-1/200 DisillusionGem LV4
+1/100 勇猛宝玉 LV4
+1/100 仙界宝玉 LV4
+1/100 疾风宝玉 LV4
+1/100 魔性宝玉 LV4
+1/130 强化宝玉 LV4
+1/140 集中宝玉 LV4
+1/140 回避宝玉 LV4
+1/300 中毒宝玉 LV4
+1/300 酷寒宝玉 LV4
+1/200 忍耐宝玉 LV4
+1/200 觉醒宝玉 LV4
 
-1/100 BraveryOrb LV4
-1/100 SoulOrb LV4
-1/100 StormOrb LV4
-1/100 MagicOrb LV4
-1/130 DurabilityOrb LV4
-1/140 AccuracyOrb LV4
-1/140 AgilityOrb LV4
-1/300 PoisonOrb LV4
-1/300 FreezingOrb LV4
-1/200 EnduranceOrb LV4
-1/200 DisillusionOrb LV4
+1/100 勇猛神珠 LV4
+1/100 仙界神珠 LV4
+1/100 疾风神珠 LV4
+1/100 魔性神珠 LV4
+1/130 强化神珠 LV4
+1/140 集中神珠 LV4
+1/140 回避神珠 LV4
+1/300 中毒神珠 LV4
+1/300 酷寒神珠 LV4
+1/200 忍耐神珠 LV4
+1/200 觉醒神珠 LV4
 
 ;Runes
 1/400 MeleeDamageRune LV4
@@ -632,72 +632,72 @@
 
 ;Books
 ;Warrior
-1/25 FlamingSword LV4
-1/30 CrossHalfMoon LV4
-1/50 TwinDrakeBlade LV4
-1/50 LionRoar LV4
-1/50 Entrapment LV4
+1/25 烈火剑法 LV4
+1/30 狂风斩 LV4
+1/50 双龙斩 LV4
+1/50 狮子吼 LV4
+1/50 捕蝇剑 LV4
 1/60 BladeStorm LV4
-1/150 BladeAvalanche LV4
-1/1200 ProtectionField LV4
-1/1400 Rage LV4
-1/1600 Fury LV4
-1/2000 CounterAttack LV4
-1/2600 ImmortalSkin LV4
+1/150 空破闪 LV4
+1/1200 护身气幕 LV4
+1/1400 狂暴 LV4
+1/1600 嗜血 LV4
+1/2000 反击 LV4
+1/2600 不灭护体 LV4
 
 ;Wizard
-1/10 FrostCrunch LV4
-1/25 IceStorm LV4
-1/30 FlameDisruptor LV4
-1/50 Vampirism LV4
-1/150 Mirroring LV4
-1/400 FlameField LV4
-1/1200 Blizzard LV4
-1/1400 MagicBooster LV4
-1/1600 MeteorStrike LV4
-1/2000 FastMove LV4
-1/2200 IceThrust LV4
+1/10 寒冰掌 LV4
+1/25 冰咆哮 LV4
+1/30 灭天火 LV4
+1/50 噬血术 LV4
+1/150 分身术 LV4
+1/400 火龙气焰 LV4
+1/1200 天霜冰环 LV4
+1/1400 魔力强化 LV4
+1/1600 流星打击 LV4
+1/2000 快速移动 LV4
+1/2200 冰刺术 LV4
 1/2400 FrozenRains LV4
 1/2600 LavaKing LV4
-1/3000 StormEscape LV4
+1/3000 风暴逃脱 LV4
 
 
 ;Taosit
-1/25 SummonShinsu LV4
-1/30 UltimateEnhancer LV4
-1/30 EnergyRepulsor LV4
-1/50 Purification LV4
-1/50 Hallucination LV4
-1/100 HealingCircle LV4
-1/200 SummonHolyDeva LV4
-1/1200 Curse LV4
-1/1400 PoisonCloud LV4
-1/1800 PetEnhancer LV4
-1/2000 EnergyShield LV4
+1/25 召唤神兽 LV4
+1/30 终极强化 LV4
+1/30 气功波 LV4
+1/50 净化术 LV4
+1/50 迷魂术 LV4
+1/100 阴阳五行阵 LV4
+1/200 召唤圣灵 LV4
+1/1200 诅咒术 LV4
+1/1400 毒雾 LV4
+1/1800 宠物强化 LV4
+1/2000 能量护盾 LV4
 1/2300 HolyShield LV4
 1/2600 HeadShot LV4
 
 ;Assassin
-1/25 FireBurst LV4
-1/30 Trap LV4
+1/25 烈风击 LV4
+1/30 捕缚术 LV4
 1/30 CrescentSlash LV4
-1/30 PoisonSword LV4
-1/50 MoonLight LV4
-1/50 MPEater LV4
-1/1000 SwiftFeet LV4
-1/1400 DarkBody LV4
-1/1800 Hemorrhage LV4
-1/2000 MoonMist LV4
+1/30 猛毒剑气 LV4
+1/50 月光 LV4
+1/50 吸气 LV4
+1/1000 迅雷疾足 LV4
+1/1400 暗影替身 LV4
+1/1800 血凤击 LV4
+1/2000 月影迷雾 LV4
 1/2300 FuryWaves LV4
 1/2600 ShadowStep LV4
 
-1/25 ElementalBarrier LV4
-1/30 BindingShot LV4
-1/50 SummonToad LV4
-1/1000 PoisonShot LV4
-1/1400 CrippleShot LV4
-1/1800 SummonSnakes LV4
-1/100 NapalmShot LV4
+1/25 元素屏障 LV4
+1/30 束缚箭 LV4
+1/50 召唤蟾蜍 LV4
+1/1000 毒箭 LV4
+1/1400 致残射击 LV4
+1/1800 召唤毒蛇 LV4
+1/100 燃烧箭 LV4
 
 
 ;CraftingMaterials
@@ -709,28 +709,28 @@
 ;Level5
 ;Gold
 1/1 Gold 30000 LV5
-1/20 GoldBar LV5
+1/20 金条 LV5
 
 ;Pots + Other
-1/1 SunPotion LV5
-1/1 SunPotion LV5
-1/1 SunPotion LV5
-1/1 SunPotion LV5
-1/1 SunPotion LV5
-1/1 SunPotion LV5
-1/1 SunPotion LV5
-1/2 SunPotion LV5
-1/1 SunPotion LV5
-1/2 SunPotion LV5
-1/1 SunPotion LV5
-1/3 SunPotion LV5
+1/1 太阳水 LV5
+1/1 太阳水 LV5
+1/1 太阳水 LV5
+1/1 太阳水 LV5
+1/1 太阳水 LV5
+1/1 太阳水 LV5
+1/1 太阳水 LV5
+1/2 太阳水 LV5
+1/1 太阳水 LV5
+1/2 太阳水 LV5
+1/1 太阳水 LV5
+1/3 太阳水 LV5
 
-1/1 BenedictionOil LV5
+1/1 祝福油 LV5
 1/10 GoldenBenedictionOil LV5
 
 
-1/20 AwakeningSoul0 LV5
-1/20 AwakeningSoul0 LV5
+1/20 觉醒之魂0 LV5
+1/20 觉醒之魂0 LV5
 1/150 GonRyunCaptainRune LV5
 
 ;Weapons
@@ -776,29 +776,29 @@
 
 
 ;Gems/Orbs
-1/100 BraveryGem LV5
-1/100 SoulGem LV5
-1/100 StormGem LV5
-1/100 MagicGem LV5
-1/130 DurabilityGem LV5
-1/140 AccuracyGem LV5
-1/140 AgilityGem LV5
-1/300 PoisonGem LV5
-1/300 FreezingGem LV5
-1/200 EnduranceGem LV5
-1/200 DisillusionGem LV5
+1/100 勇猛宝玉 LV5
+1/100 仙界宝玉 LV5
+1/100 疾风宝玉 LV5
+1/100 魔性宝玉 LV5
+1/130 强化宝玉 LV5
+1/140 集中宝玉 LV5
+1/140 回避宝玉 LV5
+1/300 中毒宝玉 LV5
+1/300 酷寒宝玉 LV5
+1/200 忍耐宝玉 LV5
+1/200 觉醒宝玉 LV5
 
-1/100 BraveryOrb LV5
-1/100 SoulOrb LV5
-1/100 StormOrb LV5
-1/100 MagicOrb LV5
-1/130 DurabilityOrb LV5
-1/140 AccuracyOrb LV5
-1/140 AgilityOrb LV5
-1/300 PoisonOrb LV5
-1/300 FreezingOrb LV5
-1/200 EnduranceOrb LV5
-1/200 DisillusionOrb LV5
+1/100 勇猛神珠 LV5
+1/100 仙界神珠 LV5
+1/100 疾风神珠 LV5
+1/100 魔性神珠 LV5
+1/130 强化神珠 LV5
+1/140 集中神珠 LV5
+1/140 回避神珠 LV5
+1/300 中毒神珠 LV5
+1/300 酷寒神珠 LV5
+1/200 忍耐神珠 LV5
+1/200 觉醒神珠 LV5
 
 ;Runes
 1/400 MeleeDamageRune LV5
@@ -808,74 +808,74 @@
 
 ;Books
 ;Warrior
-1/25 FlamingSword LV5
-1/30 CrossHalfMoon LV5
-1/50 TwinDrakeBlade LV5
-1/50 LionRoar LV5
-1/50 Entrapment LV5
+1/25 烈火剑法 LV5
+1/30 狂风斩 LV5
+1/50 双龙斩 LV5
+1/50 狮子吼 LV5
+1/50 捕蝇剑 LV5
 1/60 BladeStorm LV5
-1/150 BladeAvalanche LV5
-1/1200 ProtectionField LV5
-1/1400 Rage LV5
-1/1600 Fury LV5
-1/2000 CounterAttack LV5
-1/2600 ImmortalSkin LV5
+1/150 空破闪 LV5
+1/1200 护身气幕 LV5
+1/1400 狂暴 LV5
+1/1600 嗜血 LV5
+1/2000 反击 LV5
+1/2600 不灭护体 LV5
 
 ;Wizard
-1/10 FrostCrunch LV5
-1/25 IceStorm LV5
-1/30 FlameDisruptor LV5
-1/50 Vampirism LV5
-1/150 Mirroring LV5
-1/400 FlameField LV5
-1/1200 Blizzard LV5
-1/1400 MagicBooster LV5
-1/1600 MeteorStrike LV5
-1/2000 FastMove LV5
-1/2200 IceThrust LV5
+1/10 寒冰掌 LV5
+1/25 冰咆哮 LV5
+1/30 灭天火 LV5
+1/50 噬血术 LV5
+1/150 分身术 LV5
+1/400 火龙气焰 LV5
+1/1200 天霜冰环 LV5
+1/1400 魔力强化 LV5
+1/1600 流星打击 LV5
+1/2000 快速移动 LV5
+1/2200 冰刺术 LV5
 1/2400 FrozenRains LV5
 1/2600 LavaKing LV5
-1/3000 StormEscape LV5
+1/3000 风暴逃脱 LV5
 
 
 ;Taosit
-1/25 SummonShinsu LV5
-1/30 UltimateEnhancer LV5
-1/30 EnergyRepulsor LV5
-1/50 Purification LV5
-1/50 Hallucination LV5
-1/100 HealingCircle LV5
-1/200 SummonHolyDeva LV5
-1/1200 Curse LV5
-1/1400 PoisonCloud LV5
-1/1800 PetEnhancer LV5
-1/2000 EnergyShield LV5
+1/25 召唤神兽 LV5
+1/30 终极强化 LV5
+1/30 气功波 LV5
+1/50 净化术 LV5
+1/50 迷魂术 LV5
+1/100 阴阳五行阵 LV5
+1/200 召唤圣灵 LV5
+1/1200 诅咒术 LV5
+1/1400 毒雾 LV5
+1/1800 宠物强化 LV5
+1/2000 能量护盾 LV5
 1/2300 HolyShield LV5
 1/2600 HeadShot LV5
 
 
 ;Assassin
-1/25 FireBurst LV5
-1/30 Trap LV5
+1/25 烈风击 LV5
+1/30 捕缚术 LV5
 1/30 CrescentSlash LV5
-1/30 PoisonSword LV5
-1/50 MoonLight LV5
-1/50 MPEater LV5
-1/1000 SwiftFeet LV5
-1/1400 DarkBody LV5
-1/1800 Hemorrhage LV5
-1/2000 MoonMist LV5
+1/30 猛毒剑气 LV5
+1/50 月光 LV5
+1/50 吸气 LV5
+1/1000 迅雷疾足 LV5
+1/1400 暗影替身 LV5
+1/1800 血凤击 LV5
+1/2000 月影迷雾 LV5
 1/2300 FuryWaves LV5
 1/2600 ShadowStep LV5
 
 
-1/25 ElementalBarrier LV5
-1/30 BindingShot LV5
-1/50 SummonToad LV5
-1/1000 PoisonShot LV5
-1/1400 CrippleShot LV5
-1/1800 SummonSnakes LV5
-1/100 NapalmShot LV5
+1/25 元素屏障 LV5
+1/30 束缚箭 LV5
+1/50 召唤蟾蜍 LV5
+1/1000 毒箭 LV5
+1/1400 致残射击 LV5
+1/1800 召唤毒蛇 LV5
+1/100 燃烧箭 LV5
 
 ;CraftingMaterials
 
@@ -886,27 +886,27 @@
 ;Level6
 ;Gold
 1/1 Gold 30000 LV6
-1/20 GoldBar LV6
+1/20 金条 LV6
 
 ;Pots + Other
-1/1 SunPotion LV6
-1/1 SunPotion LV6
-1/1 SunPotion LV6
-1/1 SunPotion LV6
-1/1 SunPotion LV6
-1/1 SunPotion LV6
-1/1 SunPotion LV6
-1/2 SunPotion LV6
-1/1 SunPotion LV6
-1/2 SunPotion LV6
-1/1 SunPotion LV6
-1/3 SunPotion LV6
+1/1 太阳水 LV6
+1/1 太阳水 LV6
+1/1 太阳水 LV6
+1/1 太阳水 LV6
+1/1 太阳水 LV6
+1/1 太阳水 LV6
+1/1 太阳水 LV6
+1/2 太阳水 LV6
+1/1 太阳水 LV6
+1/2 太阳水 LV6
+1/1 太阳水 LV6
+1/3 太阳水 LV6
 
-1/1 BenedictionOil LV6
+1/1 祝福油 LV6
 1/10 GoldenBenedictionOil LV6
 
-1/20 AwakeningSoul0 LV6
-1/20 AwakeningSoul0 LV6
+1/20 觉醒之魂0 LV6
+1/20 觉醒之魂0 LV6
 1/150 GonRyunCaptainRune LV6
 
 ;Weapons
@@ -952,29 +952,29 @@
 
 
 ;Gems/Orbs
-1/100 BraveryGem LV6
-1/100 SoulGem LV6
-1/100 StormGem LV6
-1/100 MagicGem LV6
-1/130 DurabilityGem LV6
-1/140 AccuracyGem LV6
-1/140 AgilityGem LV6
-1/300 PoisonGem LV6
-1/300 FreezingGem LV6
-1/200 EnduranceGem LV6
-1/200 DisillusionGem LV6
+1/100 勇猛宝玉 LV6
+1/100 仙界宝玉 LV6
+1/100 疾风宝玉 LV6
+1/100 魔性宝玉 LV6
+1/130 强化宝玉 LV6
+1/140 集中宝玉 LV6
+1/140 回避宝玉 LV6
+1/300 中毒宝玉 LV6
+1/300 酷寒宝玉 LV6
+1/200 忍耐宝玉 LV6
+1/200 觉醒宝玉 LV6
 
-1/100 BraveryOrb LV6
-1/100 SoulOrb LV6
-1/100 StormOrb LV6
-1/100 MagicOrb LV6
-1/130 DurabilityOrb LV6
-1/140 AccuracyOrb LV6
-1/140 AgilityOrb LV6
-1/300 PoisonOrb LV6
-1/300 FreezingOrb LV6
-1/200 EnduranceOrb LV6
-1/200 DisillusionOrb LV6
+1/100 勇猛神珠 LV6
+1/100 仙界神珠 LV6
+1/100 疾风神珠 LV6
+1/100 魔性神珠 LV6
+1/130 强化神珠 LV6
+1/140 集中神珠 LV6
+1/140 回避神珠 LV6
+1/300 中毒神珠 LV6
+1/300 酷寒神珠 LV6
+1/200 忍耐神珠 LV6
+1/200 觉醒神珠 LV6
 
 ;Runes
 1/400 MeleeDamageRune LV6
@@ -984,73 +984,73 @@
 
 ;Books
 ;Warrior
-1/25 FlamingSword LV6
-1/30 CrossHalfMoon LV6
-1/50 TwinDrakeBlade LV6
-1/50 LionRoar LV6
-1/50 Entrapment LV6
+1/25 烈火剑法 LV6
+1/30 狂风斩 LV6
+1/50 双龙斩 LV6
+1/50 狮子吼 LV6
+1/50 捕蝇剑 LV6
 1/60 BladeStorm LV6
-1/150 BladeAvalanche LV6
-1/1200 ProtectionField LV6
-1/1400 Rage LV6
-1/1600 Fury LV6
-1/2000 CounterAttack LV6
-1/2600 ImmortalSkin LV6
+1/150 空破闪 LV6
+1/1200 护身气幕 LV6
+1/1400 狂暴 LV6
+1/1600 嗜血 LV6
+1/2000 反击 LV6
+1/2600 不灭护体 LV6
 
 ;Wizard
-1/10 FrostCrunch LV6
-1/25 IceStorm LV6
-1/30 FlameDisruptor LV6
-1/50 Vampirism LV6
-1/150 Mirroring LV6
-1/400 FlameField LV6
-1/1200 Blizzard LV6
-1/1400 MagicBooster LV6
-1/1600 MeteorStrike LV6
-1/2000 FastMove LV6
-1/2200 IceThrust LV6
+1/10 寒冰掌 LV6
+1/25 冰咆哮 LV6
+1/30 灭天火 LV6
+1/50 噬血术 LV6
+1/150 分身术 LV6
+1/400 火龙气焰 LV6
+1/1200 天霜冰环 LV6
+1/1400 魔力强化 LV6
+1/1600 流星打击 LV6
+1/2000 快速移动 LV6
+1/2200 冰刺术 LV6
 1/2400 FrozenRains LV6
 1/2600 LavaKing LV6
-1/3000 StormEscape LV6
+1/3000 风暴逃脱 LV6
 
 
 ;Taosit
-1/25 SummonShinsu LV6
-1/30 UltimateEnhancer LV6
-1/30 EnergyRepulsor LV6
-1/50 Purification LV6
-1/50 Hallucination LV6
-1/100 HealingCircle LV6
-1/200 SummonHolyDeva LV6
-1/1200 Curse LV6
-1/1400 PoisonCloud LV6
-1/1800 PetEnhancer LV6
-1/2000 EnergyShield LV6
+1/25 召唤神兽 LV6
+1/30 终极强化 LV6
+1/30 气功波 LV6
+1/50 净化术 LV6
+1/50 迷魂术 LV6
+1/100 阴阳五行阵 LV6
+1/200 召唤圣灵 LV6
+1/1200 诅咒术 LV6
+1/1400 毒雾 LV6
+1/1800 宠物强化 LV6
+1/2000 能量护盾 LV6
 1/2300 HolyShield LV6
 1/2600 HeadShot LV6
 
 
 ;Assassin
-1/25 FireBurst LV6
-1/30 Trap LV6
+1/25 烈风击 LV6
+1/30 捕缚术 LV6
 1/30 CrescentSlash LV6
-1/30 PoisonSword LV6
-1/50 MoonLight LV6
-1/50 MPEater LV6
-1/1000 SwiftFeet LV6
-1/1400 DarkBody LV6
-1/1800 Hemorrhage LV6
-1/2000 MoonMist LV6
+1/30 猛毒剑气 LV6
+1/50 月光 LV6
+1/50 吸气 LV6
+1/1000 迅雷疾足 LV6
+1/1400 暗影替身 LV6
+1/1800 血凤击 LV6
+1/2000 月影迷雾 LV6
 1/2300 FuryWaves LV6
 1/2600 ShadowStep LV6
 
-1/25 ElementalBarrier LV6
-1/30 BindingShot LV6
-1/50 SummonToad LV6
-1/1000 PoisonShot LV6
-1/1400 CrippleShot LV6
-1/1800 SummonSnakes LV6
-1/100 NapalmShot LV6
+1/25 元素屏障 LV6
+1/30 束缚箭 LV6
+1/50 召唤蟾蜍 LV6
+1/1000 毒箭 LV6
+1/1400 致残射击 LV6
+1/1800 召唤毒蛇 LV6
+1/100 燃烧箭 LV6
 
 ;CraftingMaterials
 
@@ -1061,27 +1061,27 @@
 ;Level7
 ;Gold
 1/1 Gold 30000 LV7
-1/20 GoldBar LV7
+1/20 金条 LV7
 
 ;Pots + Other
-1/1 SunPotion LV7
-1/1 SunPotion LV7
-1/1 SunPotion LV7
-1/1 SunPotion LV7
-1/1 SunPotion LV7
-1/1 SunPotion LV7
-1/1 SunPotion LV7
-1/2 SunPotion LV7
-1/1 SunPotion LV7
-1/2 SunPotion LV7
-1/1 SunPotion LV7
-1/3 SunPotion LV7
+1/1 太阳水 LV7
+1/1 太阳水 LV7
+1/1 太阳水 LV7
+1/1 太阳水 LV7
+1/1 太阳水 LV7
+1/1 太阳水 LV7
+1/1 太阳水 LV7
+1/2 太阳水 LV7
+1/1 太阳水 LV7
+1/2 太阳水 LV7
+1/1 太阳水 LV7
+1/3 太阳水 LV7
 
-1/1 BenedictionOil LV7
+1/1 祝福油 LV7
 1/10 GoldenBenedictionOil LV7
 
-1/20 AwakeningSoul0 LV7
-1/20 AwakeningSoul0 LV7
+1/20 觉醒之魂0 LV7
+1/20 觉醒之魂0 LV7
 1/150 GonRyunCaptainRune LV7
 
 ;Weapons
@@ -1127,29 +1127,29 @@
 
 
 ;Gems/Orbs
-1/100 BraveryGem LV7
-1/100 SoulGem LV7
-1/100 StormGem LV7
-1/100 MagicGem LV7
-1/130 DurabilityGem LV7
-1/140 AccuracyGem LV7
-1/140 AgilityGem LV7
-1/300 PoisonGem LV7
-1/300 FreezingGem LV7
-1/200 EnduranceGem LV7
-1/200 DisillusionGem LV7
+1/100 勇猛宝玉 LV7
+1/100 仙界宝玉 LV7
+1/100 疾风宝玉 LV7
+1/100 魔性宝玉 LV7
+1/130 强化宝玉 LV7
+1/140 集中宝玉 LV7
+1/140 回避宝玉 LV7
+1/300 中毒宝玉 LV7
+1/300 酷寒宝玉 LV7
+1/200 忍耐宝玉 LV7
+1/200 觉醒宝玉 LV7
 
-1/100 BraveryOrb LV7
-1/100 SoulOrb LV7
-1/100 StormOrb LV7
-1/100 MagicOrb LV7
-1/130 DurabilityOrb LV7
-1/140 AccuracyOrb LV7
-1/140 AgilityOrb LV7
-1/300 PoisonOrb LV7
-1/300 FreezingOrb LV7
-1/200 EnduranceOrb LV7
-1/200 DisillusionOrb LV7
+1/100 勇猛神珠 LV7
+1/100 仙界神珠 LV7
+1/100 疾风神珠 LV7
+1/100 魔性神珠 LV7
+1/130 强化神珠 LV7
+1/140 集中神珠 LV7
+1/140 回避神珠 LV7
+1/300 中毒神珠 LV7
+1/300 酷寒神珠 LV7
+1/200 忍耐神珠 LV7
+1/200 觉醒神珠 LV7
 
 ;Runes
 1/400 MeleeDamageRune LV7
@@ -1159,73 +1159,73 @@
 
 ;Books
 ;Warrior
-1/25 FlamingSword LV7
-1/30 CrossHalfMoon LV7
-1/50 TwinDrakeBlade LV7
-1/50 LionRoar LV7
-1/50 Entrapment LV7
+1/25 烈火剑法 LV7
+1/30 狂风斩 LV7
+1/50 双龙斩 LV7
+1/50 狮子吼 LV7
+1/50 捕蝇剑 LV7
 1/60 BladeStorm LV7
-1/150 BladeAvalanche LV7
-1/1200 ProtectionField LV7
-1/1400 Rage LV7
-1/1600 Fury LV7
-1/2000 CounterAttack LV7
-1/2600 ImmortalSkin LV7
+1/150 空破闪 LV7
+1/1200 护身气幕 LV7
+1/1400 狂暴 LV7
+1/1600 嗜血 LV7
+1/2000 反击 LV7
+1/2600 不灭护体 LV7
 
 ;Wizard
-1/10 FrostCrunch LV7
-1/25 IceStorm LV7
-1/30 FlameDisruptor LV7
-1/50 Vampirism LV7
-1/150 Mirroring LV7
-1/400 FlameField LV7
-1/1200 Blizzard LV7
-1/1400 MagicBooster LV7
-1/1600 MeteorStrike LV7
-1/2000 FastMove LV7
-1/2200 IceThrust LV7
+1/10 寒冰掌 LV7
+1/25 冰咆哮 LV7
+1/30 灭天火 LV7
+1/50 噬血术 LV7
+1/150 分身术 LV7
+1/400 火龙气焰 LV7
+1/1200 天霜冰环 LV7
+1/1400 魔力强化 LV7
+1/1600 流星打击 LV7
+1/2000 快速移动 LV7
+1/2200 冰刺术 LV7
 1/2400 FrozenRains LV7
 1/2600 LavaKing LV7
-1/3000 StormEscape LV7
+1/3000 风暴逃脱 LV7
 
 
 ;Taosit
-1/25 SummonShinsu LV7
-1/30 UltimateEnhancer LV7
-1/30 EnergyRepulsor LV7
-1/50 Purification LV7
-1/50 Hallucination LV7
-1/100 HealingCircle LV7
-1/200 SummonHolyDeva LV7
-1/1200 Curse LV7
-1/1400 PoisonCloud LV7
-1/1800 PetEnhancer LV7
-1/2000 EnergyShield LV7
+1/25 召唤神兽 LV7
+1/30 终极强化 LV7
+1/30 气功波 LV7
+1/50 净化术 LV7
+1/50 迷魂术 LV7
+1/100 阴阳五行阵 LV7
+1/200 召唤圣灵 LV7
+1/1200 诅咒术 LV7
+1/1400 毒雾 LV7
+1/1800 宠物强化 LV7
+1/2000 能量护盾 LV7
 1/2300 HolyShield LV7
 1/2600 HeadShot LV7
 
 
 ;Assassin
-1/25 FireBurst LV7
-1/30 Trap LV7
+1/25 烈风击 LV7
+1/30 捕缚术 LV7
 1/30 CrescentSlash LV7
-1/30 PoisonSword LV7
-1/50 MoonLight LV7
-1/50 MPEater LV7
-1/1000 SwiftFeet LV7
-1/1400 DarkBody LV7
-1/1800 Hemorrhage LV7
-1/2000 MoonMist LV7
+1/30 猛毒剑气 LV7
+1/50 月光 LV7
+1/50 吸气 LV7
+1/1000 迅雷疾足 LV7
+1/1400 暗影替身 LV7
+1/1800 血凤击 LV7
+1/2000 月影迷雾 LV7
 1/2300 FuryWaves LV7
 1/2600 ShadowStep LV7
 
-1/25 ElementalBarrier LV7
-1/30 BindingShot LV7
-1/50 SummonToad LV7
-1/1000 PoisonShot LV7
-1/1400 CrippleShot LV7
-1/1800 SummonSnakes LV7
-1/100 NapalmShot LV7
+1/25 元素屏障 LV7
+1/30 束缚箭 LV7
+1/50 召唤蟾蜍 LV7
+1/1000 毒箭 LV7
+1/1400 致残射击 LV7
+1/1800 召唤毒蛇 LV7
+1/100 燃烧箭 LV7
 
 ;CraftingMaterials
 
@@ -1236,27 +1236,27 @@
 ;Level8
 ;Gold
 1/1 Gold 30000 LV8
-1/20 GoldBar LV8
+1/20 金条 LV8
 
 ;Pots + Other
-1/1 SunPotion LV8
-1/1 SunPotion LV8
-1/1 SunPotion LV8
-1/1 SunPotion LV8
-1/1 SunPotion LV8
-1/1 SunPotion LV8
-1/1 SunPotion LV8
-1/2 SunPotion LV8
-1/1 SunPotion LV8
-1/2 SunPotion LV8
-1/1 SunPotion LV8
-1/3 SunPotion LV8
+1/1 太阳水 LV8
+1/1 太阳水 LV8
+1/1 太阳水 LV8
+1/1 太阳水 LV8
+1/1 太阳水 LV8
+1/1 太阳水 LV8
+1/1 太阳水 LV8
+1/2 太阳水 LV8
+1/1 太阳水 LV8
+1/2 太阳水 LV8
+1/1 太阳水 LV8
+1/3 太阳水 LV8
 
-1/1 BenedictionOil LV8
+1/1 祝福油 LV8
 1/10 GoldenBenedictionOil LV8
 
-1/20 AwakeningSoul0 LV8
-1/20 AwakeningSoul0 LV8
+1/20 觉醒之魂0 LV8
+1/20 觉醒之魂0 LV8
 1/150 GonRyunCaptainRune LV8
 
 ;Weapons
@@ -1302,29 +1302,29 @@
 
 
 ;Gems/Orbs
-1/100 BraveryGem LV8
-1/100 SoulGem LV8
-1/100 StormGem LV8
-1/100 MagicGem LV8
-1/130 DurabilityGem LV8
-1/140 AccuracyGem LV8
-1/140 AgilityGem LV8
-1/300 PoisonGem LV8
-1/300 FreezingGem LV8
-1/200 EnduranceGem LV8
-1/200 DisillusionGem LV8
+1/100 勇猛宝玉 LV8
+1/100 仙界宝玉 LV8
+1/100 疾风宝玉 LV8
+1/100 魔性宝玉 LV8
+1/130 强化宝玉 LV8
+1/140 集中宝玉 LV8
+1/140 回避宝玉 LV8
+1/300 中毒宝玉 LV8
+1/300 酷寒宝玉 LV8
+1/200 忍耐宝玉 LV8
+1/200 觉醒宝玉 LV8
 
-1/100 BraveryOrb LV8
-1/100 SoulOrb LV8
-1/100 StormOrb LV8
-1/100 MagicOrb LV8
-1/130 DurabilityOrb LV8
-1/140 AccuracyOrb LV8
-1/140 AgilityOrb LV8
-1/300 PoisonOrb LV8
-1/300 FreezingOrb LV8
-1/200 EnduranceOrb LV8
-1/200 DisillusionOrb LV8
+1/100 勇猛神珠 LV8
+1/100 仙界神珠 LV8
+1/100 疾风神珠 LV8
+1/100 魔性神珠 LV8
+1/130 强化神珠 LV8
+1/140 集中神珠 LV8
+1/140 回避神珠 LV8
+1/300 中毒神珠 LV8
+1/300 酷寒神珠 LV8
+1/200 忍耐神珠 LV8
+1/200 觉醒神珠 LV8
 
 ;Runes
 1/400 MeleeDamageRune LV8
@@ -1334,72 +1334,72 @@
 
 ;Books
 ;Warrior
-1/25 FlamingSword LV8
-1/30 CrossHalfMoon LV8
-1/50 TwinDrakeBlade LV8
-1/50 LionRoar LV8
-1/50 Entrapment LV8
+1/25 烈火剑法 LV8
+1/30 狂风斩 LV8
+1/50 双龙斩 LV8
+1/50 狮子吼 LV8
+1/50 捕蝇剑 LV8
 1/60 BladeStorm LV8
-1/150 BladeAvalanche LV8
-1/1200 ProtectionField LV8
-1/1400 Rage LV8
-1/1600 Fury LV8
-1/2000 CounterAttack LV8
-1/2600 ImmortalSkin LV8
+1/150 空破闪 LV8
+1/1200 护身气幕 LV8
+1/1400 狂暴 LV8
+1/1600 嗜血 LV8
+1/2000 反击 LV8
+1/2600 不灭护体 LV8
 
 ;Wizard
-1/10 FrostCrunch LV8
-1/25 IceStorm LV8
-1/30 FlameDisruptor LV8
-1/50 Vampirism LV8
-1/150 Mirroring LV8
-1/400 FlameField LV8
-1/1200 Blizzard LV8
-1/1400 MagicBooster LV8
-1/1600 MeteorStrike LV8
-1/2000 FastMove LV8
-1/2200 IceThrust LV8
+1/10 寒冰掌 LV8
+1/25 冰咆哮 LV8
+1/30 灭天火 LV8
+1/50 噬血术 LV8
+1/150 分身术 LV8
+1/400 火龙气焰 LV8
+1/1200 天霜冰环 LV8
+1/1400 魔力强化 LV8
+1/1600 流星打击 LV8
+1/2000 快速移动 LV8
+1/2200 冰刺术 LV8
 1/2400 FrozenRains LV8
 1/2600 LavaKing LV8
-1/3000 StormEscape LV8
+1/3000 风暴逃脱 LV8
 
 
 ;Taosit
-1/25 SummonShinsu LV8
-1/30 UltimateEnhancer LV8
-1/30 EnergyRepulsor LV8
-1/50 Purification LV8
-1/50 Hallucination LV8
-1/100 HealingCircle LV8
-1/200 SummonHolyDeva LV8
-1/1200 Curse LV8
-1/1400 PoisonCloud LV8
-1/1800 PetEnhancer LV8
-1/2000 EnergyShield LV8
+1/25 召唤神兽 LV8
+1/30 终极强化 LV8
+1/30 气功波 LV8
+1/50 净化术 LV8
+1/50 迷魂术 LV8
+1/100 阴阳五行阵 LV8
+1/200 召唤圣灵 LV8
+1/1200 诅咒术 LV8
+1/1400 毒雾 LV8
+1/1800 宠物强化 LV8
+1/2000 能量护盾 LV8
 1/2300 HolyShield LV8
 1/2600 HeadShot LV8
 
 ;Assassin
-1/25 FireBurst LV8
-1/30 Trap LV8
+1/25 烈风击 LV8
+1/30 捕缚术 LV8
 1/30 CrescentSlash LV8
-1/30 PoisonSword LV8
-1/50 MoonLight LV8
-1/50 MPEater LV8
-1/1000 SwiftFeet LV8
-1/1400 DarkBody LV8
-1/1800 Hemorrhage LV8
-1/2000 MoonMist LV8
+1/30 猛毒剑气 LV8
+1/50 月光 LV8
+1/50 吸气 LV8
+1/1000 迅雷疾足 LV8
+1/1400 暗影替身 LV8
+1/1800 血凤击 LV8
+1/2000 月影迷雾 LV8
 1/2300 FuryWaves LV8
 1/2600 ShadowStep LV8
 
-1/25 ElementalBarrier LV8
-1/30 BindingShot LV8
-1/50 SummonToad LV8
-1/1000 PoisonShot LV8
-1/1400 CrippleShot LV8
-1/1800 SummonSnakes LV8
-1/100 NapalmShot LV8
+1/25 元素屏障 LV8
+1/30 束缚箭 LV8
+1/50 召唤蟾蜍 LV8
+1/1000 毒箭 LV8
+1/1400 致残射击 LV8
+1/1800 召唤毒蛇 LV8
+1/100 燃烧箭 LV8
 
 ;CraftingMaterials
 

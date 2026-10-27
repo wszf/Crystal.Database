@@ -2,43 +2,43 @@
 1/1 Gold 22000
 
 ;Pots + Other
-1/1 (HP)DrugLarge
-1/1 (HP)DrugLarge
-1/1 (HP)DrugLarge
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/1 (MP)DrugLarge
-1/1 (MP)DrugLarge
-1/1 (MP)DrugLarge
-1/1 Sunpotion
-1/1 Sunpotion
-1/2 Sunpotion
-1/1 Sunpotion(M)
-1/1 Sunpotion(M)
-1/2 Sunpotion(M)
+1/1 金疮药(大量)
+1/1 金疮药(大量)
+1/1 金疮药(大量)
+1/1 金疮药(大量)
+1/1 魔法药(大量)
+1/1 魔法药(大量)
+1/1 魔法药(大量)
+1/1 魔法药(大量)
+1/1 太阳水
+1/1 太阳水
+1/2 太阳水
+1/1 强效太阳水
+1/1 强效太阳水
+1/2 强效太阳水
 
-1/2 BenedictionOil
+1/2 祝福油
 
 
 1/1 Awakeningbox 
-1/1 AwakeningSoul0 
+1/1 觉醒之魂0 
 
 ;Weapons
-1/90 DragonSlayer
-1/90 MaleficBow
-1/90 RoyalBlades
-1/90 DragonStaff
-1/90 SoulSabre
-1/165 BladesOfMagi
-1/115 SwordOfWarGod
-1/115 BowOfForce
-1/115 BladeOfSorcery
-1/115 HeavenSword
-1/215 BlackTigerHammer
-1/215 LethalBow
-1/215 StaffOfLotus
-1/215 FanOfCrane
-1/215 ButcheringBlades
+1/90 屠龙
+1/90 邪弓
+1/90 修罗刀
+1/90 噬魂法杖
+1/90 龙纹剑
+1/165 暗真魔刀
+1/115 开天
+1/115 力量之弓
+1/115 镇天
+1/115 玄天
+1/215 黑虎斧
+1/215 致命之弓
+1/215 火莲杖
+1/215 鹤羽扇
+1/215 黑乌刀
 1/3000 LordSlayerBlade
 1/3000 LordSlayerStaff
 1/3000 LordSlayerFan
@@ -52,55 +52,55 @@
 1/3000 LordSlayerHelmet
 
 ;Necklace
-1/45 ClawNecklace
-1/45 LifeNecklace
-1/45 PearlNecklace
-1/60 GreenBead
-1/60 DemonicBells
-1/60 SoulNecklace
-1/95 CuspidNecklace
-1/95 SorceryAnchor
-1/95 PurifiedMirror
-1/197 EvilTriangle
-1/197 CrossPurified
-1/197 AdamantNecklace
+1/45 幽灵项链
+1/45 生命项链
+1/45 天珠项链
+1/60 绿色项链
+1/60 恶魔铃铛
+1/60 灵魂项链
+1/95 破角
+1/95 针坠
+1/95 心如明镜
+1/197 曜紫天坠
+1/197 秀女十字盘
+1/197 金刚陶坠
 
 ;Necklace Rare
 1/1400 TerrapinNecklace
 1/3000 LordSlayerNecklace
 
 ;Bracelets
-1/10 HangMaWheel
-1/10 BokMaWheel
-1/10 8TrigramWheel
-1/25 SpiritReformer
-1/25 HolyTaoWheel
-1/25 BaekTaGlove
-1/95 DualTitanAmulet
-1/95 SacredAngelAmulet
-1/95 EvilWhispAmulet
-1/195 WildTitanAmulet
-1/195 EnchantedAmulet
-1/195 FiveElementAmulet
+1/10 抗魔轮
+1/10 伏魔轮
+1/10 八极轮
+1/25 魂锁轮
+1/25 太极轮
+1/25 白驼手套
+1/95 铁魔双轮
+1/95 玉女天使
+1/95 曜火虹轮
+1/195 暴虎归山
+1/195 曜宝探魔轮
+1/195 五行悟思轮
 
 ;Bracelets Rare
 1/1300 TerrapinBracelet
 1/3000 LordSlayerBracelet
 
 ;Rings
-1/10 OmaSpiritRing
+1/10 奥玛环
 1/10 DestinyRing 
-1/10 NobleRing
-1/10 SoulRing
-1/15 BoundlessRing
-1/15 ThunderRing
-1/15 TaeGukRing
-1/95 PledgeRing
-1/95 FiveElementRing
-1/95 CrimsonRubyRing
-1/195 DemonRubyRing
-1/195 EvilExpelRing
-1/195 GoldDragonRing
+1/10 鬼刃环
+1/10 心意环
+1/15 无极环
+1/15 雷霆环
+1/15 太极环
+1/95 盟约戒指
+1/95 五行连环
+1/95 血玉环
+1/195 飞曜环
+1/195 金刚伏魔环
+1/195 金龙戒指
 
 ;Rings Rare
 1/1300 TerrapinRing
@@ -110,10 +110,10 @@
 1/1300 TerrapinShield
 
 ;Shoes
-1/15 SilkBoots
-1/20 BlackBoots
-1/30 DragonBoots
-1/60 RedScaleBoots
+1/15 紫绸靴
+1/20 避魂靴
+1/30 龙靴
+1/60 赤鳞靴
 1/3000 LordSlayerBoots
 
 ;Belt
@@ -132,63 +132,63 @@
 ;Books
 ;Warrior
 1/60 BladeStorm
-1/65 FlamingSword
-1/70 LionRoar
+1/65 烈火剑法
+1/70 狮子吼
 1/75 BladeStorm
-1/80 CrossHalfMoon
-1/85 BladeAvalanche
-1/90 ProtectionField
-1/95 Rage
-1/100 Fury
-1/220 CounterAttack
+1/80 狂风斩
+1/85 空破闪
+1/90 护身气幕
+1/95 狂暴
+1/100 嗜血
+1/220 反击
 
 ;Wizard
-1/60 MagicShield
-1/65 IceStorm
-1/70 FlameDisruptor
-1/75 Mirroring
-1/80 FlameField
-1/85 Blizzard
-1/220 MagicBooster
+1/60 魔法护盾
+1/65 冰咆哮
+1/70 灭天火
+1/75 分身术
+1/80 火龙气焰
+1/85 天霜冰环
+1/220 魔力强化
 
 ;Taoist
-1/60 UltimateEnhancer
-1/65 HealingCircle
-1/70 SummonShinsu
-1/75 Reincarnation
-1/80 SummonHolyDeva
-1/85 Curse
-1/90 PoisonCloud
-1/95 PetEnhancer
-1/220 EnergyShield
+1/60 终极强化
+1/65 阴阳五行阵
+1/70 召唤神兽
+1/75 复活术
+1/80 召唤圣灵
+1/85 诅咒术
+1/90 毒雾
+1/95 宠物强化
+1/220 能量护盾
 
 ;Assassin
-1/40 Haste
-1/45 FlashDash
-1/50 LightBody
-1/55 HeavenlySword
-1/60 FireBurst
+1/40 急速
+1/45 拔刀术
+1/50 轻身术
+1/55 天剑
+1/60 烈风击
 1/65 CrescentSlash
-1/70 Trap
-1/75 PoisonSword
-1/80 MoonLight
-1/120 MPEater
-1/210 SwiftFeet
+1/70 捕缚术
+1/75 猛毒剑气
+1/80 月光
+1/120 吸气
+1/210 迅雷疾足
 
 ;Archer
-1/40 DoubleShot
-1/45 Meditation
-1/50 ElementalShot
-1/55 ExplosiveTrap
-1/60 Concentration
-1/65 VampireShot
-1/70 SummonVampire
-1/75 BackStep
-1/80 DelayedExplosion
-1/120 ElementalBarrier
-1/120 BindingShot
-1/210 SummonToad
-1/210 PoisonShot
+1/40 连射
+1/45 冥想
+1/50 元素射击
+1/55 爆炸陷阱
+1/60 专注
+1/65 吸血箭
+1/70 召唤吸血蜘蛛
+1/75 后撤步
+1/80 延爆箭
+1/120 元素屏障
+1/120 束缚箭
+1/210 召唤蟾蜍
+1/210 毒箭
 
 ;CraftingMaterials
 1/25 BraveryFragment

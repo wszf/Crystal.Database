@@ -2,36 +2,36 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello traveller, How may I help you?
+旅人，我能帮你什么？
 
-I see you're holding: {<$TORCH>/CORAL}
-I see you're holding: {<$AMULET>/CORAL}
+我看到你拿着: {<$TORCH>/CORAL}
+我看到你拿着: {<$AMULET>/CORAL}
 
-<View/@BuySell> Store. 
+<查看/@BuySell> 商店。 
  
-<Close/@exit>
+<关闭/@exit>
 
 [@BuySell]
 #SAY
-What Item would you like to buy or sell?
-<BuyBack/@BuyBack>
+您想买卖什么物品？
+<回购/@BuyBack>
  
-<Back/@Main>
+<返回/@Main>
 
 [@BuyBack]
 #SAY
-These are the items still available to purchase back.
+这些是仍然可以购买的物品。
  
-<Back/@Main>
+<返回/@Main>
 
 [Types]
 8
@@ -39,23 +39,23 @@ These are the items still available to purchase back.
 13
 
 [Trade]
-(HP)DrugMedium 1
-(HP)DrugMedium 5
-(HP)DrugMedium 10
-(MP)DrugMedium 1
-(MP)DrugMedium 5
-(MP)DrugMedium 10
-(HP)DrugLarge 1
-(HP)DrugLarge 5
-(HP)DrugLarge 10
-(MP)DrugLarge 1
-(MP)DrugLarge 5
-(MP)DrugLarge 10
-Candle
-Torch
-RandomTeleport
-TownTeleport
-DungeonEscape
-Amulet
-GreenPoison
-RedPoison
+金疮药(中量) 1
+金疮药(中量) 5
+金疮药(中量) 10
+魔法药(中量) 1
+魔法药(中量) 5
+魔法药(中量) 10
+金疮药(大量) 1
+金疮药(大量) 5
+金疮药(大量) 10
+魔法药(大量) 1
+魔法药(大量) 5
+魔法药(大量) 10
+蜡烛
+火把
+随机传送卷
+回城卷
+地牢逃脱卷
+护身符
+灰色药粉
+黄色药粉

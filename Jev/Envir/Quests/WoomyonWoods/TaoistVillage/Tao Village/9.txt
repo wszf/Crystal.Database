@@ -1,18 +1,19 @@
 [@Description]
-Traveler.. Alittle help please. I was in {TreePath/Yellow}.
-Chopping {Wood/LightSteelBlue} when i was starteld and dropped 
-my {Axe/LightSteelBlue}
+旅人..帮个小忙。我当时在{丛林迷宫/Yellow}。
+正在砍{木头/LightSteelBlue}时，被吓到了，把
+我的{斧头/LightSteelBlue}掉了。
 
 [@TaskDescription]
-Locate and Kill {BloodyLureSpider/Crimson} and retrieve 
-the {WornAxe/LightSteelBlue}
+找到并击杀{血之花吻蛛/Crimson}并回收
+{旧斧子/LightSteelBlue}
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-WornAxe 1
+旧斧子 1
 
 [@CarryItems]
 

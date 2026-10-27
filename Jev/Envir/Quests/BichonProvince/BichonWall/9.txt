@@ -1,31 +1,28 @@
 [@Description]
-{OmaCave/Yellow} are located in the west part of 
-{BichonProvince/Yellow}. This cave is filled with strong 
-monsters. It's very dark and almost like a maze 
-inside. Do you think you are ready to show your 
-courage?
+{奥玛洞/Yellow}位于{比奇省/Yellow}的西部。这个洞穴里充满了强大的怪物。这里非常黑，里面几乎像个迷宫。
+你觉得你准备好展现你的勇气了吗？
 
 [@TaskDescription]
-Kill {Skeleton's/Crimson} in {OmaCave/Yellow} and Collect 
-{SkeletonBone's/LightSteelBlue}
+在{奥玛洞/Yellow}杀死{骷髅/Crimson}并收集{骷髅骨/LightSteelBlue}
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-SkeletonBone 15
+骷髅骨 15
 
 [@CarryItems]
 
 [@FixedRewards]
 
 [@SelectRewards]
-SharpSword
-SharpTrident
-SharpScimitar
-SharpSabre
-ToughBow
+六合
+锋锐海魂
+锋锐半月
+锋锐军刀
+坚韧弓
 
 [@ExpReward]
 1400

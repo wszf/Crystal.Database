@@ -1,11 +1,11 @@
 [@Main]
 {
 #IF
-CHECKITEM GuardRental[7d]
+CHECKITEM 随身护卫[7天]
 #ACT
 GOTO @Next-2
 #ELSEACT
-LocalMessage "You don't own a Guard Rental Scroll" Hint
+LocalMessage "你没有护卫租赁卷轴" Hint
 
 [@Next-2]
 #IF
@@ -13,6 +13,6 @@ PETCOUNT > 0
 #ACT
 CLEARPETS
 #ELSEACT
-GIVEPET GameShop_Guard
-LocalMessage "A Guard as been summoned to assist you in your battle" Hint
+GIVEPET 随身护卫
+LocalMessage "一名护卫已召唤来协助你的战斗" Hint
 }

@@ -1,18 +1,19 @@
 [@Description]
-I'm a fool! I've lost the Oldest Book's around.
-I was visiting {SabukWall/Yellow} and fell then the
-next thing i knew. I was surround by {Zombies/Crimson}.
+我真是个傻瓜！我把最古老的书弄丢了。
+我当时在逛{沙巴克城墙/Yellow}，然后就
+眼前一黑。我被一群{僵尸/Crimson}包围了。
 
 [@TaskDescription]
-Find the Hidden Entrance in {SabukWall/Yellow} and find 
-the {BichonTales/LightSteelBlue}.
+在{沙巴克城墙/Yellow}找到隐藏的入口并找到
+{比奇令牌(1)/LightSteelBlue}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-BichonTales(3) 1
+比奇令牌(3) 1
 
 [@CarryItems]
 

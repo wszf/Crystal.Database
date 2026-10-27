@@ -2,11 +2,11 @@
 #IF
 CHECKQUEST 110 0
 #SAY
-What a mysterious pillar.
+多么神秘的石柱啊。
 #ELSESAY
-You get an eerie feeling when touching then pillar..
+你触摸到那根石柱时有一种诡异的感觉……
 #ELSEACT
 SET [523] 1
-LOCALMESSAGE "MysteriousPillar has been found!" Hint
+LOCALMESSAGE "神秘石柱已发现！" Hint
 BREAK
 CLOSE

@@ -2,43 +2,43 @@
 1/5 Gold 950
 
 ;Pots + Other
-1/20 (HP)DrugLarge
-1/20 (MP)DrugLarge
-1/20 (HP)DrugXL
-1/20 (MP)DrugXL
+1/20 金疮药(大量)
+1/20 魔法药(大量)
+1/20 金疮药(特大)
+1/20 魔法药(特大)
 
 ;Weapons
-1/16000 LitheBow
-1/16000 WarSpiritBlade
-1/16000 MagicScythe
-1/16000 StoneBambooFan
-1/16000 FreezingBlades
-1/18000 MaleficBow
-1/18000 DragonSlayer
-1/18000 DragonStaff
-1/18000 SoulSabre
-1/18000 RoyalBlades
+1/16000 轻灵弓
+1/16000 龙牙
+1/16000 怒斩
+1/16000 逍遥扇
+1/16000 冷月刀
+1/18000 邪弓
+1/18000 屠龙
+1/18000 噬魂法杖
+1/18000 龙纹剑
+1/18000 修罗刀
 
 
 ;Weapon Rare
-1/19500 SwordOfWarGod
-1/19500 BowOfForce
-1/19500 BladeOfSorcery
-1/19500 HeavenSword
-1/19500 BladesOfMagi
+1/19500 开天
+1/19500 力量之弓
+1/19500 镇天
+1/19500 玄天
+1/19500 暗真魔刀
 
 
 ;Armour
-1/3000 StuddedArmour(M)
-1/3000 StuddedArmour(F)
-1/3000 SteelArmour(M)
-1/3000 SteelArmour(F)
-1/3000 DragonRobe(M)
-1/3000 DragonRobe(F)
-1/3000 TitanArmour(M)
-1/3000 TitanArmour(F)
-1/3000 RoyalArmour(M)
-1/3000 RoyalArmour(F)
+1/3000 镶钉铠甲(男)
+1/3000 镶钉铠甲(女)
+1/3000 鬼面甲胄(男)
+1/3000 鬼面甲胄(女)
+1/3000 火龙魔衣(男)
+1/3000 火龙魔衣(女)
+1/3000 玄天宝衣(男)
+1/3000 玄天宝衣(女)
+1/3000 修罗血衣(男)
+1/3000 修罗血衣(女)
 
 ;Helmets
 

@@ -3,22 +3,22 @@
 1/1 Gold 1500 LV1
 
 ;Pots + Other
-1/1 (HP)DrugMedium LV1
-1/1 (MP)DrugMedium LV1
-1/1 (HP)DrugMedium LV1
-1/1 (MP)DrugMedium LV1 
-1/2 SunPotion LV1
-1/2 SunPotion(M) LV1
+1/1 金疮药(中量) LV1
+1/1 魔法药(中量) LV1
+1/1 金疮药(中量) LV1
+1/1 魔法药(中量) LV1 
+1/2 太阳水 LV1
+1/2 强效太阳水 LV1
  
-1/30 ImpactDrug(S) LV1 
-1/30 MagicDrug(S) LV1 
-1/30 TaoistDrug(S) LV1 
-1/30 StormDrug(S) LV1 
-1/30 StaminaAid(S) LV1
-1/30 MagicAid(S) LV1
+1/30 攻击药水(小) LV1 
+1/30 魔法药水(小) LV1 
+1/30 道力药水(小) LV1 
+1/30 疾风药水(小) LV1 
+1/30 体力药水(小) LV1
+1/30 魔力药水(小) LV1
 
 1/30 Awakeningbox LV1
-1/50 AwakeningSoul0 LV1
+1/50 觉醒之魂0 LV1
 
 1/30 BoneEliteRune LV1
 
@@ -65,8 +65,8 @@
 
 
 ;CraftingMaterials
-1/5 Bone LV1
-1/10 LargeBone LV1
+1/5 骨头 LV1
+1/10 大骨头 LV1
 1/8  BraveryFragment LV1
 1/8  MagicFragment LV1
 1/8  SoulFragment LV1
@@ -83,22 +83,22 @@
 1/1 Gold 1500 LV2
 
 ;Pots + Other
-1/1 (HP)DrugMedium LV2
-1/1 (MP)DrugMedium LV2
-1/1 (HP)DrugMedium LV2
-1/1 (MP)DrugMedium LV2 
-1/2 SunPotion LV2
-1/2 SunPotion(M) LV2
+1/1 金疮药(中量) LV2
+1/1 魔法药(中量) LV2
+1/1 金疮药(中量) LV2
+1/1 魔法药(中量) LV2 
+1/2 太阳水 LV2
+1/2 强效太阳水 LV2
  
-1/30 ImpactDrug(S) LV2 
-1/30 MagicDrug(S) LV2 
-1/30 TaoistDrug(S) LV2 
-1/30 StormDrug(S) LV2 
-1/30 StaminaAid(S) LV2
-1/30 MagicAid(S) LV2
+1/30 攻击药水(小) LV2 
+1/30 魔法药水(小) LV2 
+1/30 道力药水(小) LV2 
+1/30 疾风药水(小) LV2 
+1/30 体力药水(小) LV2
+1/30 魔力药水(小) LV2
 
 1/30 Awakeningbox LV2
-1/50 AwakeningSoul0 LV2
+1/50 觉醒之魂0 LV2
 
 1/30 BoneEliteRune LV2
 
@@ -145,8 +145,8 @@
 
 
 ;CraftingMaterials
-1/5 Bone LV2
-1/10 LargeBone LV2
+1/5 骨头 LV2
+1/10 大骨头 LV2
 1/8  BraveryFragment LV2
 1/8  MagicFragment LV2
 1/8  SoulFragment LV2
@@ -163,22 +163,22 @@
 1/1 Gold 1500 LV3
 
 ;Pots + Other
-1/1 (HP)DrugMedium LV3
-1/1 (MP)DrugMedium LV3
-1/1 (HP)DrugMedium LV3
-1/1 (MP)DrugMedium LV3 
-1/2 SunPotion LV3
-1/2 SunPotion(M) LV3
+1/1 金疮药(中量) LV3
+1/1 魔法药(中量) LV3
+1/1 金疮药(中量) LV3
+1/1 魔法药(中量) LV3 
+1/2 太阳水 LV3
+1/2 强效太阳水 LV3
  
-1/30 ImpactDrug(S) LV3 
-1/30 MagicDrug(S) LV3 
-1/30 TaoistDrug(S) LV3 
-1/30 StormDrug(S) LV3 
-1/30 StaminaAid(S) LV3
-1/30 MagicAid(S) LV3
+1/30 攻击药水(小) LV3 
+1/30 魔法药水(小) LV3 
+1/30 道力药水(小) LV3 
+1/30 疾风药水(小) LV3 
+1/30 体力药水(小) LV3
+1/30 魔力药水(小) LV3
 
 1/30 Awakeningbox LV3
-1/50 AwakeningSoul0 LV3
+1/50 觉醒之魂0 LV3
 
 1/30 BoneEliteRune LV3
 
@@ -225,8 +225,8 @@
 
 
 ;CraftingMaterials
-1/5 Bone LV3
-1/10 LargeBone LV3
+1/5 骨头 LV3
+1/10 大骨头 LV3
 1/8  BraveryFragment LV3
 1/8  MagicFragment LV3
 1/8  SoulFragment LV3
@@ -243,22 +243,22 @@
 1/1 Gold 1500 LV4
 
 ;Pots + Other
-1/1 (HP)DrugMedium LV4
-1/1 (MP)DrugMedium LV4
-1/1 (HP)DrugMedium LV4
-1/1 (MP)DrugMedium LV4 
-1/2 SunPotion LV4
-1/2 SunPotion(M) LV4
+1/1 金疮药(中量) LV4
+1/1 魔法药(中量) LV4
+1/1 金疮药(中量) LV4
+1/1 魔法药(中量) LV4 
+1/2 太阳水 LV4
+1/2 强效太阳水 LV4
  
-1/30 ImpactDrug(S) LV4 
-1/30 MagicDrug(S) LV4 
-1/30 TaoistDrug(S) LV4 
-1/30 StormDrug(S) LV4 
-1/30 StaminaAid(S) LV4
-1/30 MagicAid(S) LV4
+1/30 攻击药水(小) LV4 
+1/30 魔法药水(小) LV4 
+1/30 道力药水(小) LV4 
+1/30 疾风药水(小) LV4 
+1/30 体力药水(小) LV4
+1/30 魔力药水(小) LV4
 
 1/30 Awakeningbox LV4
-1/50 AwakeningSoul0 LV4
+1/50 觉醒之魂0 LV4
 
 1/30 BoneEliteRune LV4
 
@@ -305,8 +305,8 @@
 
 
 ;CraftingMaterials
-1/5 Bone LV4
-1/10 LargeBone LV4
+1/5 骨头 LV4
+1/10 大骨头 LV4
 1/8  BraveryFragment LV4
 1/8  MagicFragment LV4
 1/8  SoulFragment LV4
@@ -323,22 +323,22 @@
 1/1 Gold 1500 LV5
 
 ;Pots + Other
-1/1 (HP)DrugMedium LV5
-1/1 (MP)DrugMedium LV5
-1/1 (HP)DrugMedium LV5
-1/1 (MP)DrugMedium LV5 
-1/2 SunPotion LV5
-1/2 SunPotion(M) LV5
+1/1 金疮药(中量) LV5
+1/1 魔法药(中量) LV5
+1/1 金疮药(中量) LV5
+1/1 魔法药(中量) LV5 
+1/2 太阳水 LV5
+1/2 强效太阳水 LV5
  
-1/30 ImpactDrug(S) LV5 
-1/30 MagicDrug(S) LV5 
-1/30 TaoistDrug(S) LV5 
-1/30 StormDrug(S) LV5 
-1/30 StaminaAid(S) LV5
-1/30 MagicAid(S) LV5
+1/30 攻击药水(小) LV5 
+1/30 魔法药水(小) LV5 
+1/30 道力药水(小) LV5 
+1/30 疾风药水(小) LV5 
+1/30 体力药水(小) LV5
+1/30 魔力药水(小) LV5
 
 1/30 Awakeningbox LV5
-1/50 AwakeningSoul0 LV5
+1/50 觉醒之魂0 LV5
 
 1/30 BoneEliteRune LV5
 
@@ -385,8 +385,8 @@
 
 
 ;CraftingMaterials
-1/5 Bone LV5
-1/10 LargeBone LV5
+1/5 骨头 LV5
+1/10 大骨头 LV5
 1/8  BraveryFragment LV5
 1/8  MagicFragment LV5
 1/8  SoulFragment LV5
@@ -403,22 +403,22 @@
 1/1 Gold 1500 LV6
 
 ;Pots + Other
-1/1 (HP)DrugMedium LV6
-1/1 (MP)DrugMedium LV6
-1/1 (HP)DrugMedium LV6
-1/1 (MP)DrugMedium LV6 
-1/2 SunPotion LV6
-1/2 SunPotion(M) LV6
+1/1 金疮药(中量) LV6
+1/1 魔法药(中量) LV6
+1/1 金疮药(中量) LV6
+1/1 魔法药(中量) LV6 
+1/2 太阳水 LV6
+1/2 强效太阳水 LV6
  
-1/30 ImpactDrug(S) LV6 
-1/30 MagicDrug(S) LV6 
-1/30 TaoistDrug(S) LV6 
-1/30 StormDrug(S) LV6 
-1/30 StaminaAid(S) LV6
-1/30 MagicAid(S) LV6
+1/30 攻击药水(小) LV6 
+1/30 魔法药水(小) LV6 
+1/30 道力药水(小) LV6 
+1/30 疾风药水(小) LV6 
+1/30 体力药水(小) LV6
+1/30 魔力药水(小) LV6
 
 1/30 Awakeningbox LV6
-1/50 AwakeningSoul0 LV6
+1/50 觉醒之魂0 LV6
 
 1/30 BoneEliteRune LV6
 
@@ -465,8 +465,8 @@
 
 
 ;CraftingMaterials
-1/5 Bone LV6
-1/10 LargeBone LV6
+1/5 骨头 LV6
+1/10 大骨头 LV6
 1/8  BraveryFragment LV6
 1/8  MagicFragment LV6
 1/8  SoulFragment LV6
@@ -483,22 +483,22 @@
 1/1 Gold 1500 LV7
 
 ;Pots + Other
-1/1 (HP)DrugMedium LV7
-1/1 (MP)DrugMedium LV7
-1/1 (HP)DrugMedium LV7
-1/1 (MP)DrugMedium LV7 
-1/2 SunPotion LV7
-1/2 SunPotion(M) LV7
+1/1 金疮药(中量) LV7
+1/1 魔法药(中量) LV7
+1/1 金疮药(中量) LV7
+1/1 魔法药(中量) LV7 
+1/2 太阳水 LV7
+1/2 强效太阳水 LV7
  
-1/30 ImpactDrug(S) LV7 
-1/30 MagicDrug(S) LV7 
-1/30 TaoistDrug(S) LV7 
-1/30 StormDrug(S) LV7 
-1/30 StaminaAid(S) LV7
-1/30 MagicAid(S) LV7
+1/30 攻击药水(小) LV7 
+1/30 魔法药水(小) LV7 
+1/30 道力药水(小) LV7 
+1/30 疾风药水(小) LV7 
+1/30 体力药水(小) LV7
+1/30 魔力药水(小) LV7
 
 1/30 Awakeningbox LV7
-1/50 AwakeningSoul0 LV7
+1/50 觉醒之魂0 LV7
 
 1/30 BoneEliteRune LV7
 
@@ -545,8 +545,8 @@
 
 
 ;CraftingMaterials
-1/5 Bone LV7
-1/10 LargeBone LV7
+1/5 骨头 LV7
+1/10 大骨头 LV7
 1/8  BraveryFragment LV7
 1/8  MagicFragment LV7
 1/8  SoulFragment LV7
@@ -563,22 +563,22 @@
 1/1 Gold 1500 LV8
 
 ;Pots + Other
-1/1 (HP)DrugMedium LV8
-1/1 (MP)DrugMedium LV8
-1/1 (HP)DrugMedium LV8
-1/1 (MP)DrugMedium LV8 
-1/2 SunPotion LV8
-1/2 SunPotion(M) LV8
+1/1 金疮药(中量) LV8
+1/1 魔法药(中量) LV8
+1/1 金疮药(中量) LV8
+1/1 魔法药(中量) LV8 
+1/2 太阳水 LV8
+1/2 强效太阳水 LV8
  
-1/30 ImpactDrug(S) LV8 
-1/30 MagicDrug(S) LV8 
-1/30 TaoistDrug(S) LV8 
-1/30 StormDrug(S) LV8 
-1/30 StaminaAid(S) LV8
-1/30 MagicAid(S) LV8
+1/30 攻击药水(小) LV8 
+1/30 魔法药水(小) LV8 
+1/30 道力药水(小) LV8 
+1/30 疾风药水(小) LV8 
+1/30 体力药水(小) LV8
+1/30 魔力药水(小) LV8
 
 1/30 Awakeningbox LV8
-1/50 AwakeningSoul0 LV8
+1/50 觉醒之魂0 LV8
 
 1/30 BoneEliteRune LV8
 
@@ -625,8 +625,8 @@
 
 
 ;CraftingMaterials
-1/5 Bone LV8
-1/10 LargeBone LV8
+1/5 骨头 LV8
+1/10 大骨头 LV8
 1/8  BraveryFragment LV8
 1/8  MagicFragment LV8
 1/8  SoulFragment LV8

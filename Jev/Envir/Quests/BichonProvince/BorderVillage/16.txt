@@ -1,14 +1,15 @@
 [@Description]
-Hello Traveller. Have you heard of the
-Assassin Instructor in this region?
-He is the Master of all the Assassins. I hear
-hes been looking for a new disciple lately.
-It could be a rumor
+你好，旅人。你听说过
+这个区域的刺客导师吗？
+他是所有刺客的大师。我听说
+他最近在寻找新的弟子。
+这可能只是个传闻。
 
 [@TaskDescription]
-Speak with {Cloud/LimeGreen} at Coordinates 101:411
+与{克劳德/LimeGreen}在坐标101:411交谈
 
 [@Completion]
+
 
 [@KillTasks]
 

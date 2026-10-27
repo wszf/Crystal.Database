@@ -12,7 +12,7 @@
 [@_MAPCOORD(3,861,686)]
 #INCLUDE [SystemScripts\00Default\MapCoords\PenalCavern.txt] @Main
 
-;;DogYoArena
+;;狗妖竞技场
 [@_MAPCOORD(DogYoArena2,117,26)]
 #INCLUDE [SystemScripts\00Default\MapCoords\DogYoArena.txt] @Main
 

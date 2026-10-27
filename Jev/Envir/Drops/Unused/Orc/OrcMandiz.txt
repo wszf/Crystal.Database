@@ -2,30 +2,30 @@
 1/6 Gold 2650
 
 ;Potions
-1/5 (HP)DrugXL
-1/5 (MP)DrugXL
-1/10 SunPotion
-1/10 SunPotion
+1/5 金疮药(特大)
+1/5 魔法药(特大)
+1/10 太阳水
+1/10 太阳水
 
 ;Wizard
-1/45100 ConquerorSpear
-1/55250 StaffOfLotus
-1/55550 RawSword
+1/45100 月轮枪
+1/55250 火莲杖
+1/55550 虹玄混地剑
 
 ;Taoist
-1/45100 BastardSword
-1/55250 FanOfCrane
-1/55550 BoneCarvedFan
+1/45100 月轮剑
+1/55250 鹤羽扇
+1/55550 翊仙混真扇
 
-1/25000 BlackTigerArmour(M)
-1/25000 BlackTigerArmour(F)
-1/25000 LotusArmour(M)
-1/25000 LotusArmour(F)
-1/25000 CraneArmour(M)
-1/25000 CraneArmour(F)
-1/25000 StealthArmour(M)
-1/25000 StealthArmour(F)
-1/25000 LightTemperedArmour(M)
-1/25000 LightTemperedArmour(F)
+1/25000 黑虎甲胄(男)
+1/25000 黑虎甲胄(女)
+1/25000 莲盛魔衣(男)
+1/25000 莲盛魔衣(女)
+1/25000 鹤羽圣衣(男)
+1/25000 鹤羽圣衣(女)
+1/25000 黑乌飞甲(男)
+1/25000 黑乌飞甲(女)
+1/25000 轻型精炼甲(男)
+1/25000 轻型精炼甲(女)
 
 

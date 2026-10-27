@@ -1,13 +1,13 @@
 [@Description]
-My friend went to {InsectCave/Yellow} to find herbs, but
-hasn't returned yet. Do you think you can go 
-find {Soho/LimeGreen} in {InsectCave/Yellow}?
+我朋友去了{虫洞/Yellow}找草药，可
+还没回来。你觉得你能去
+在{虫洞/Yellow}找到{索霍/LimeGreen}吗？
 
 [@TaskDescription]
-Search for {Soho/LimeGreen} in the Second Floor of 
-{InsectCave/Yellow}.
+在{虫洞/Yellow}二层寻找{索霍/LimeGreen}。
 
 [@Completion]
+
 
 [@KillTasks]
 

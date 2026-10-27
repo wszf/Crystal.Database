@@ -1,12 +1,12 @@
 [@Description]
-Thankyou for your assistance brave traveller. 
-Please can you return to {Helen/LimeGreen} and tell her the 
-news.
+感谢你勇敢的旅行者。请你回到 {海伦/LimeGreen} 并告诉她
+消息。
 
 [@TaskDescription]
-Speak to {Heleny/LimeGreen} in {WoomyonWood's/Yellow}
+在 {沃玛森林/Yellow} 与 {海伦妮/LimeGreen} 交谈
 
 [@Completion]
+
 
 [@KillTasks]
 

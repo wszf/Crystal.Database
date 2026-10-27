@@ -1,16 +1,17 @@
 [@Description]
-We have been getting more attacks from the monsters lately. 
-Do you think you can eliminate the threat? 
+最近怪物攻击越来越频繁了。
+你觉得能消除这个威胁吗？
 
 [@TaskDescription]
-Travel the Island and Eliminate 15 {ToxicGhoul's/Crimson} 
-and 10 {RoninGhoul's/Crimson}.
+游历岛屿，消灭15个{恶灵尸王/Crimson}
+和10个{恶灵僵尸/Crimson}。
 
 [@Completion]
 
+
 [@KillTasks]
-ToxicGhoul 15
-RoninGhoul 10
+恶灵尸王 15
+恶灵僵尸 10
 
 [@ItemTasks]
 

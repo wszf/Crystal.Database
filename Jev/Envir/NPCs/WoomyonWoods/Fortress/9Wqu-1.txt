@@ -1,9 +1,9 @@
 ;MasterShok Woomyon Woods
 [@main]
 #SAY
-I had to seek refuge in this town.. My Cabin is gone.
+我不得不躲到这个镇子来.. 我的小屋没了。
 
-<Close/@exit>
+<关闭/@exit>
 
 [Quests]
 -39

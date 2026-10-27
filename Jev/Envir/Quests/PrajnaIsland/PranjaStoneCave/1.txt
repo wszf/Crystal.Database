@@ -1,20 +1,18 @@
 [@Description]
-{Prajna Cave/Yellow} is where lots of Warriors died
-fighting the monsters. A couple years ago, 
-we have seen these dead Warriors brought back to 
-life, but they do not remember a thing and 
-attack everyone that enters the cave. 
-Please help Eliminate them.
+{般若洞/Yellow}是很多战士与怪物战斗过的地方。几年前，
+我们看到这些死去的战士被复活了，但他们什么都不记得了，
+会攻击进入洞穴的每一个人。
+请帮忙消灭他们。
 
 [@TaskDescription]
-Head East to the {PrajnaStoneCave/Yellow} and Eliminate 
-15 {BoneArcher's/Crimson} and 15 {BoneSpearman/Crimson}
+向东前往{般若石洞/Yellow}，消灭15个{骷髅弓箭手/Crimson}和15个{骷髅长枪兵/Crimson}
 
 [@Completion]
 
+
 [@KillTasks]
-BoneArcher 15
-BoneSpearman 15
+骷髅弓箭手 15
+骷髅长枪兵 15
 
 [@ItemTasks]
 

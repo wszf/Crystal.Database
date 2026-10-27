@@ -1,26 +1,25 @@
 [@Description]
-Thankyou, I remember this Ring it used to 
-belong to my grandmother. Please take this Gift 
-back to {Bradly/LimeGreen} to show my gratitude.
+谢谢你，我记得这枚戒指以前属于我祖母。请把这个礼物带回{布拉德利/LimeGreen}，以表达我的谢意。
 
 [@TaskDescription]
-Please take this {BluePill/LightSteelBlue} to {Bradly/LimeGreen}
+请把{蓝色药丸/LightSteelBlue}带到{布拉德利/LimeGreen}那里。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
 
 [@CarryItems]
-BluePill 1
+蓝色药丸 1
 
 [@FixedRewards]
 
 [@SelectRewards]
-BlackCrystalPendant
-EbonyPendant
-YellowCrystalPendant
+黑水晶吊坠
+黑檀吊坠
+黄水晶吊坠
 
 [@ExpReward]
 219

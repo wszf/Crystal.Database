@@ -2,197 +2,198 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome, How many i help you?
+欢迎，我能帮您什么？
  
-<View/@BuySell> Store.
-Listen to the <explanation/@helpbooks> about skills.
+<查看/@BuySell> 商店。
+听听关于 <说明/@helpbooks> 的技能介绍吧。
  
-<Close/@exit>
+<关闭/@exit>
 
 [@BuySell]
 #SAY
-Please select the Book you either want to Buy or Sell.
-<Buy Back/@BuyBack>
+请选择您想要买卖的书籍。
+
+<回购/@BuyBack>
  
-<Back/@Main>
+<返回/@Main>
 
 [@helpbooks]
 #SAY
-What kind of Books are you interested in?
+你对哪种书籍感兴趣？
  
-Warrior:  <Skill List/@War1>
-Wizard:   <Skill List/@Wiz1>
-Taoist:   <Skill List/@Tao1>
-Assassin: <Skill List/@Assa1>
-Archer:   <Skill List/@Arc1>
+战士：<技能列表/@War1>
+法师：   <技能列表/@Wiz1>
+道家：   <技能列表/@Tao1>
+刺客： <技能列表/@Assa1>
+弓箭手： <技能列表/@Arc1>
 
 
 [@War1]
 #SAY
-Level  7: Fencing
-Level 15: Slaying
-Level 22: Thrusting
-Level 26: HalfMoon
-Level 30: ShoulderDash
-Level 32: TwinDragonBlade
-Level 32: Entrapment
-<More/@War2> <Back/@helpbooks>
+等级 7: 格斗
+等级 15: 弑魂
+22级：突刺
+26级：半月
+30级：肩冲
+32级：双龙之刃
+32级：禁锢
+<更多/@War2> <返回/@helpbooks>
 
 [@War2]
 #SAY
-Level 35: FlamingSword
-Level 36: LionRoar
-Level 38: CrossHalfMoon
-Level 38: BladeAvalanche
-Level 39: ProtectionField
-Level 44: Rage
-Level 50: SlashingBurst
-<Back/@helpbooks>
+35级：烈焰之剑
+36级：狮吼
+38级：十字半月
+38级：刀崩
+39级：护盾
+44级：狂怒
+50级：斩击爆发
+<返回/@helpbooks>
 
 [@Wiz1]
 #SAY
-Level  7: FireBall
-Level 12: Repulsion
-Level 13: ElectricShock
-Level 15: GreatFireball
-Level 16: Hellfire
-Level 17: Thunderbolt
-<More/@Wiz2> <Back/@helpbooks>
+等级 7: 火球术
+等级 12: 斥力
+等级 13: 电击
+等级 15: 大火球术
+等级 16: 地狱之火
+等级 17: 雷霆
+<更多/@Wiz2> <返回/@helpbooks>
 
 [@Wiz2]
 #SAY
-Level 19: Teleport
-Level 22: FireBang
-Level 24: FireWall
-Level 26: Lightning
-Level 28: FrostCrunch
-Level 30: Thunderstorm
-Level 31: MagicShield
-Level 32: TurnUndead
-<More/@Wiz3> <Back/@helpBooks>
+19级：传送
+22级：火球术
+24级：火墙
+26级：闪电
+28级：霜噬
+30级：雷暴
+31级：魔法护盾
+32级：转不死
+<更多/@Wiz3> <返回/@helpBooks>
 
 [@Wiz3]
 #SAY
-Level 33: Vampirism
-Level 35: IceStrom
-Level 38: FlameDisruptor
-Level 41: Mirroring
-Level 42: FlameField
-Level 44: Blizzard
-Level 49: MeteorStrike
-Level 53: IceFreeze
-<Back/@helpBooks>
+33级：吸血鬼化
+35级：冰之洪流
+38级：火焰破坏者
+等级41：镜像
+等级42：火焰领域
+44级：冰雪暴风
+49级：流星打击
+53级：冰封
+<返回/@helpBooks>
 
 [@Tao1]
 #SAY
-Level  7: Healing
-Level  9: SpiritSword
-Level 14: Poisoning
-Level 18: SoulFireBall
-Level 19: SummonSkeletonton
-Level 20: Hiding
-<More/@Tao2> <Back/@helpbooks>
+等级 7: 治疗
+等级 9: 灵魂之剑
+等级 14: 毒伤
+等级 18: 灵魂火球
+19级：召唤骷髅
+20级：隐身
+<更多/@Tao2> <返回/@helpbooks>
 
 [@Tao2]
 #SAY
-Level 21: MassHiding
-Level 22: SoulShield
-Level 23: Revelation
-Level 25: BlessedArmour
-Level 27: EnergyRepulsor
-Level 28: TrapHexagon
-Level 30: Purification
-<More/@Tao3> <Back/@helpBooks>
+21级：群体隐身
+22级：灵魂护盾
+23级：启示
+25级：祝福铠甲
+27级：能量斥力
+28级：陷阱六边形
+30级：净化
+<更多/@Tao3> <返回/@helpBooks>
 
 [@Tao3]
 #SAY
-Level 31: MassHealing
-Level 31: Hallucination
-Level 33: UltimateEnhancer
-Level 35: SummonShinsu
-Level 37: Reincarnation
-Level 38: SummonHolyDeva
-Level 40: Curse
-Level 43: PoisonCloud
-Level 48: CelestalShield
-<Back/@helpBooks>
+31级：群体治疗
+31级：幻觉
+33级：终极增强器
+35级：召唤神识
+37级：轮回
+38级：召唤圣神
+等级40：诅咒
+等级43：毒云
+48级：天盾
+<返回/@helpBooks>
 
 
 [@Assa1]
 #SAY
-Level  7: FatalSword
-Level 15: DoubleSlash
-Level 20: Haste
-Level 25: FlashDash
-Level 27: LightBody
-Level 30: HeavenlySword
-Level 33: FireBurst
-<More/@Assa2> <Back/@helpBooks>
+等级 7: 致命之剑
+等级 15: 双斩
+20级：疾速
+25级：闪现
+27级：光体
+30级：天剑
+33级：火爆
+<更多/@Assa2> <返回/@helpBooks>
 
 [@Assa2]
 #SAY
-Level 33: Trap
-Level 34: PoisonSword
-Level 36: MoonLight
-Level 38: MPEater
-Level 40: SwiftFeet
-Level 46: DarkBody
-Level 50: MoonBlade
-<Back/@helpBooks>
+33级：陷阱
+34级：毒剑
+36级：月光
+38级：吸魔者
+40级：疾步
+46级：暗体
+50级：月刃
+<返回/@helpBooks>
 
 
 [@Arc1]
 #SAY
-Level  7: Focus
-Level  9: StraightShot
-Level 11: MentalState
-Level 14: DoubleShot
-Level 19: Meditation
-Level 20: ElementalShot
-Level 22: ExplosiveTrap
-<More/@Arc2> <Back/@helpBooks>
+等级 7: 专注
+等级 9: 直射
+等级 11: 心灵状态
+等级 14: 双射
+19级：冥想
+20级：元素射击
+22级：爆炸陷阱
+<更多/@Arc2> <返回/@helpBooks>
 
 [@Arc2]
 #SAY
-Level 23: Concentration
-Level 26: VampireShot
-Level 28: SummonVampire
-Level 30: BackStep
-Level 31: DelayedExplosion
-Level 33: ElementalBarrier
-Level 35: BindingShot
-<More/@Arc3> <Back/@helpBooks>
+23级：集中
+26级：吸血射击
+28级：召唤吸血鬼
+30级：后退步
+31级：延迟爆炸
+33级：元素屏障
+35级：束缚射击
+<更多/@Arc3> <返回/@helpBooks>
 
 [@Arc3]
 #SAY
-Level 37: SummonToad
-Level 40: PoisonShot
-Level 43: CrippleShot
-Level 46: SummonSnakes
-Level 48: NapalmShot
-Level 50: OneWithNature
-<Back/@helpBooks>
+37级：召唤蟾蜍
+等级40：毒箭
+等级 43：残废射击
+46级：召唤毒蛇
+48级：燃油弹射
+等级50：与自然合一
+<返回/@helpBooks>
 
 [Types]
 20
 
 [Trade]
-Fencing
-Slaying
-FireBall
-Repulsion
-Healing
-SpiritSword
-FatalSword
-DoubleSlash
-Focus
-StraightShot
+基本剑术
+攻杀剑术
+火球术
+抗拒火环
+治愈术
+精神力战法
+绝命剑法
+风剑术
+聚焦
+直射

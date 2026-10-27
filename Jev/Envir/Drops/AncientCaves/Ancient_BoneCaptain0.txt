@@ -2,11 +2,11 @@
 1/10 Gold 2200
 
 ;Pots + Other
-1/10 (HP)DrugXL
-1/10 (MP)DrugXL
-1/30 (HP)DrugLarge
-1/30 (MP)DrugLarge
-1/100 RepairOil
-1/800 WarGodOil
-1/15000 BenedictionOil
+1/10 金疮药(特大)
+1/10 魔法药(特大)
+1/30 金疮药(大量)
+1/30 魔法药(大量)
+1/100 修复油
+1/800 战神油
+1/15000 祝福油
 

@@ -1,11 +1,11 @@
 [@Description]
-Please report to my Commanding Officer in 
-{BichonProvince/Yellow}.
+请到{比奇省/Yellow}向我的指挥官报到。
 
 [@TaskDescription]
-Report to {SubjugationManager/LimeGreen} 
+向{讨伐管理员/LimeGreen}报到
 
 [@Completion]
+
 
 [@KillTasks]
 
@@ -16,11 +16,11 @@ Report to {SubjugationManager/LimeGreen}
 [@FixedRewards]
 
 [@SelectRewards]
-SolidGreatAxe
-SolidBronzeStaff
-SolidSerpentSword
-SolidTwinBlades
-SolidSilverBow
+精锐炼狱
+精锐魔杖
+精锐银蛇
+精锐双极刀
+精制银弓
 
 [@ExpReward]
 6688

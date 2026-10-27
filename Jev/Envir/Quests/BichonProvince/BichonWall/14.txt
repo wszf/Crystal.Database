@@ -1,21 +1,21 @@
 [@Description]
-Here is the Tea you asked for. Please deliver this 
-before it gets cold.
+这是你要求的茶。请在它变凉之前送去。
 
 [@TaskDescription]
-Deliver the {CanniTea/LightSteelBlue} to {MirGuide/LimeGreen}
+将{食人花茶(材料)/LightSteelBlue}送到{米尔向导/LimeGreen}
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
 
 [@CarryItems]
-CanniTea 2
+食人花茶(材料) 2
 
 [@FixedRewards]
-SteelBuckle
+钢扣带
 
 [@SelectRewards]
 

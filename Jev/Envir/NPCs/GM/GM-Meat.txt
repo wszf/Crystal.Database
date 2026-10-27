@@ -2,31 +2,31 @@
 #IF
 ISADMIN
 #Say
-Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-<Buy/@Buy> Meat
-<Sell/@Sell> Meat
+{<$USERNAME>/KHAKI}，我叫{<$NPCNAME>/KHAKI}。
+<购买/@Buy> 肉
+<出售/@Sell> 肉
 
 #ELSEACT
 MOVE 0 300 300
  
 [@Sell]
 #SAY
-Sell.
+出售。
  
-<Back/@Main>
+<返回/@Main>
 
 [@Buy]
 #SAY
-Buy.
+买。
  
-<Back/@Main>
+<返回/@Main>
 
 
 [Types]
 15
 
 [Trade]
-Chicken
-Meat
+鸡肉
+肉
 Jerk
-DeerMeat
+野鹿肉

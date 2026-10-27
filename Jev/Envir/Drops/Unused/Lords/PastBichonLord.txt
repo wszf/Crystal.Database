@@ -1,38 +1,38 @@
 ;Gold
 1/1 Gold 90000 
 
-1/1 (HP)DrugXL 
-1/1 (HP)DrugXL 
-1/1 (MP)DrugXL 
-1/1 (MP)DrugXL 
-1/1 SunPotion 
-1/2 SunPotion 
-1/1 SunPotion(M) 
-1/2 SunPotion(M) 
-1/1 SunPotion 
-1/1 SunPotion 
-1/1 SunPotion 
-1/1 SunPotion 
-1/1 SunPotion 
-1/1 SunPotion 
-1/1 SunPotion 
-1/2 SunPotion 
+1/1 金疮药(特大) 
+1/1 金疮药(特大) 
+1/1 魔法药(特大) 
+1/1 魔法药(特大) 
+1/1 太阳水 
+1/2 太阳水 
+1/1 强效太阳水 
+1/2 强效太阳水 
+1/1 太阳水 
+1/1 太阳水 
+1/1 太阳水 
+1/1 太阳水 
+1/1 太阳水 
+1/1 太阳水 
+1/1 太阳水 
+1/2 太阳水 
 
-1/1 BenedictionOil 
+1/1 祝福油 
 
 
 1/1 Awakeningbox 
-1/1 AwakeningSoul0 
+1/1 觉醒之魂0 
 
 ;Weapons
-1/50 FrozenSabre 
-1/50 GrimBow
-1/50 ConquerorSpear 
-1/50 BastardSword 
-1/100 BlackTigerHammer 
-1/100 StaffOfLotus 
-1/100 LethalBow
-1/100 FanOfCrane 
+1/50 寒霜剑 
+1/50 冷酷之弓
+1/50 月轮枪 
+1/50 月轮剑 
+1/100 黑虎斧 
+1/100 火莲杖 
+1/100 致命之弓
+1/100 鹤羽扇 
 
 ;Weapon Rare
 1/3000 EvilMirSword
@@ -45,22 +45,22 @@
 1/3000 LordSlayerBlades
 
 ;Armour
-1/100 BlackTigerArmour(M) 
-1/100 BlackTigerArmour(F) 
-1/100 LotusArmour(M) 
-1/100 LotusArmour(F) 
-1/100 CraneArmour(M) 
-1/100 CraneArmour(F) 
+1/100 黑虎甲胄(男) 
+1/100 黑虎甲胄(女) 
+1/100 莲盛魔衣(男) 
+1/100 莲盛魔衣(女) 
+1/100 鹤羽圣衣(男) 
+1/100 鹤羽圣衣(女) 
 1/200 WatcherSuit(M) 
 1/200 WatcherSuit(F) 
 
 ;Armour Rare
-1/700 HeavenArmour(M) 
-1/700 HeavenArmour(F) 
+1/700 天衣无缝(男) 
+1/700 天衣无缝(女) 
 1/700 HeavenArcheyRobe(M)
 1/700 HeavenArcheyRobe(F)
-1/750 HeavenArmour(M) 
-1/750 HeavenArmour(F) 
+1/750 天衣无缝(男) 
+1/750 天衣无缝(女) 
 1/750 HeavenRedArmour(M) 
 1/750 HeavenRedArmour(F) 
 1/750 HeavenGrnArmour(M) 
@@ -73,7 +73,7 @@
 1/3000 LordSlayerArmour(F)
 
 ;Helmets
-1/20 SparklingHelmet 
+1/20 贝玉头盔 
 1/25 PuiYuHelmet 
 
 ;Helmets Rare
@@ -81,24 +81,24 @@
 1/3000 LordSlayerHelmet 
 
 ;Necklace
-1/75 CuspidNecklace 
-1/75 SorceryAnchor 
-1/75 PurifiedMirror 
-1/150 EvilTriangle 
-1/150 CrossPurified 
-1/150 AdamantNecklace 
+1/75 破角 
+1/75 针坠 
+1/75 心如明镜 
+1/150 曜紫天坠 
+1/150 秀女十字盘 
+1/150 金刚陶坠 
 
 ;Necklace Rare
 1/3000 EvilMirNecklace 
 1/3000 LordSlayerNecklace
 
 ;Bracelets
-1/50 DualTitanAmulet 
-1/50 SacredAngelAmulet 
-1/50 EvilWhispAmulet 
-1/100 WildTitanAmulet 
-1/100 EnchantedAmulet 
-1/100 FiveElementAmulet 
+1/50 铁魔双轮 
+1/50 玉女天使 
+1/50 曜火虹轮 
+1/100 暴虎归山 
+1/100 曜宝探魔轮 
+1/100 五行悟思轮 
 
 
 ;Bracelets Rare
@@ -106,12 +106,12 @@
 1/3000 LordSlayerBracelet 
 
 ;Rings
-1/50 PledgeRing 
-1/50 FiveElementRing 
-1/50 CrimsonRubyRing 
-1/100 DemonRubyRing 
-1/100 EvilExpelRing 
-1/100 GoldDragonRing 
+1/50 盟约戒指 
+1/50 五行连环 
+1/50 血玉环 
+1/100 飞曜环 
+1/100 金刚伏魔环 
+1/100 金龙戒指 
 
 
 ;Rings Rare
@@ -120,7 +120,7 @@
 
 
 ;Shoes
-1/20 SparklingBoots
+1/20 贝玉靴子
 
 
 ;Shoes Rare
@@ -129,7 +129,7 @@
 
 
 ;Belts
-1/20 SparklingBelt 
+1/20 贝玉腰带 
 
 ;Belts Rare
 1/3000 EvilMirBoots 
@@ -164,83 +164,83 @@
 
 ;Books
 ;Warrior
-1/105 FlamingSword 
-1/110 LionRoar 
+1/105 烈火剑法 
+1/110 狮子吼 
 1/115 BladeStorm 
-1/120 CrossHalfMoon 
-1/125 BladeAvalanche 
-1/130 ProtectionField 
-1/135 Rage 
-1/140 CounterAttack 
-1/145 SlashingBurst 
-1/150 Fury 
-1/155 ImmortalSkin 
+1/120 狂风斩 
+1/125 空破闪 
+1/130 护身气幕 
+1/135 狂暴 
+1/140 反击 
+1/145 日闪 
+1/150 嗜血 
+1/155 不灭护体 
 
 
 ;Wizard
-1/90 Vampirism 
-1/105 IceStorm 
-1/110 FlameDisruptor 
-1/115 Mirroring 
-1/120 FlameField 
-1/125 Blizzard 
+1/90 噬血术 
+1/105 冰咆哮 
+1/110 灭天火 
+1/115 分身术 
+1/120 火龙气焰 
+1/125 天霜冰环 
 1/130 FrozenRains 
-1/135 MagicBooster 
-1/140 MeteorStrike 
+1/135 魔力强化 
+1/140 流星打击 
 1/145 LavaKing 
-1/150 IceThrust 
-1/155 StormEscape 
-1/160 FastMove 
+1/150 冰刺术 
+1/155 风暴逃脱 
+1/160 快速移动 
 
 
 ;Taoist
-1/90 UltimateEnhancer 
-1/100 HealingCircle 
-1/105 SummonShinsu 
-1/110 Reincarnation 
-1/115 SummonHolyDeva 
-1/120 Curse 
-1/125 Plague 
-1/130 PoisonCloud 
-1/135 EnergyShield 
-1/140 PetEnhancer 
+1/90 终极强化 
+1/100 阴阳五行阵 
+1/105 召唤神兽 
+1/110 复活术 
+1/115 召唤圣灵 
+1/120 诅咒术 
+1/125 瘟疫术 
+1/130 毒雾 
+1/135 能量护盾 
+1/140 宠物强化 
 1/145 HeadShot 
 1/150 HolyShield 
 
 
 ;Assassin
-1/80 FireBurst 
+1/80 烈风击 
 1/85 CrescentSlash 
-1/105 Trap 
-1/110 PoisonSword 
-1/115 MoonLight 
-1/120 MPEater 
-1/125 SwiftFeet 
-1/150 DarkBody 
+1/105 捕缚术 
+1/110 猛毒剑气 
+1/115 月光 
+1/120 吸气 
+1/125 迅雷疾足 
+1/150 暗影替身 
 
-1/80 ElementalBarrier
-1/85 BindingShot
-1/110 SummonToad
-1/120 PoisonShot
-1/125 CrippleShot
-1/150 SummonSnakes
+1/80 元素屏障
+1/85 束缚箭
+1/110 召唤蟾蜍
+1/120 毒箭
+1/125 致残射击
+1/150 召唤毒蛇
 
 ;Gems/Orbs
 
-1/10 BraveryOrb 
-1/10 MagicOrb 
-1/10 SoulOrb 
-1/10 ProtectionOrb 
-1/10 EvilSlayerOrb 
-1/25 AccuracyOrb 
-1/25 AgilityOrb 
-1/25 PoisonOrb 
-1/25 FreezingOrb 
-1/25 StormOrb 
-1/25 EnduranceOrb 
-1/25 DisillusionOrb 
+1/10 勇猛神珠 
+1/10 魔性神珠 
+1/10 仙界神珠 
+1/10 守护神珠 
+1/10 制魔神珠 
+1/25 集中神珠 
+1/25 回避神珠 
+1/25 中毒神珠 
+1/25 酷寒神珠 
+1/25 疾风神珠 
+1/25 忍耐神珠 
+1/25 觉醒神珠 
 
 
 ;CraftingMaterials
 1/2 LunarPiece 
-1/2 DragonScale 
+1/2 龙鳞 

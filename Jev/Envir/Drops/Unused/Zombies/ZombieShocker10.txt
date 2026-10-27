@@ -2,55 +2,55 @@
 1/5 Gold 185
 
 ;Pots + Other
-1/8 (HP)DrugSmall
-1/8 (MP)DrugSmall
-1/30 (HP)DrugMedium
-1/30 (MP)DrugMedium
+1/8 金疮药(小量)
+1/8 魔法药(小量)
+1/30 金疮药(中量)
+1/30 魔法药(中量)
 
 ;Weapons
-1/110 BronzeSword 
-1/110 ShortSword
-1/110 ShortBow 
-1/110 IronSword 
-1/110 BronzeAxe 
-1/210 HookedSword 
-1/210 Trident 
-1/210 Scimitar 
-1/280 SteelAxe 
-1/250 SteelSword 
-1/250 MartialSword 
-1/250 HookedSpear 
-1/250 KrissSword 
-1/200 BladesOfVelocity
-1/250 IronBlades
-1/110 CompoundBow
-1/250 LongBow
+1/110 青铜剑 
+1/110 短剑
+1/110 短弓 
+1/110 铁剑 
+1/110 青铜斧 
+1/210 八荒 
+1/210 海魂 
+1/210 半月 
+1/280 钢斧 
+1/250 凌风 
+1/250 斩马刀 
+1/250 偃月 
+1/250 降魔 
+1/200 音速刀
+1/250 墨铁刀
+1/110 复合弓
+1/250 长弓
 
 ;Armour
-1/200 LightArmour(M) 
-1/200 LightArmour(F) 
+1/200 轻型盔甲(男) 
+1/200 轻型盔甲(女) 
 
 ;Helmets
-1/100 BronzeHelmet 
-1/125 MagicHelmet 
+1/100 青铜头盔 
+1/125 魔法头盔 
 
 ;Necklace
-1/400 LanternNecklace 
-1/400 TigerNecklace 
-1/400 PlatinumNecklace 
-1/400 NagaNecklace 
-1/400 AmberNecklace 
-1/400 PhoenixBead 
+1/400 灯笼项链 
+1/400 白色虎齿项链 
+1/400 白金项链 
+1/400 魔鬼项链 
+1/400 琥珀项链 
+1/400 凤凰明珠 
 
 ;Bracelets
-1/400 MagicBracelet 
-1/550 HardGlove 
+1/400 魔法手镯 
+1/550 坚固手套 
 
 ;Rings
-1/300 BlueRing 
-1/400 BlackRing 
-1/400 SerpentEyeRing 
-1/400 PearlRing 
+1/300 蓝色水晶戒指 
+1/400 黑色水晶戒指 
+1/400 蛇眼戒指 
+1/400 珍珠戒指 
 
 ;Shoes
 
@@ -72,49 +72,49 @@
 
 ;Books
 ;Warrior
-1/105 Fencing
-1/110 Slaying 
-1/115 Thrusting
-1/200 HalfMoon 
+1/105 基本剑术
+1/110 攻杀剑术 
+1/115 刺杀剑术
+1/200 半月弯刀 
 
 ;Wizard
-1/105 FireBall 
-1/110 Repulsion
-1/115 ElectricShock
-1/120 GreatFireball
-1/125 Hellfire
-1/130 Thunderbolt
-1/200 Teleport 
-1/300 FireBang
+1/105 火球术 
+1/110 抗拒火环
+1/115 诱惑之光
+1/120 大火球
+1/125 地狱火
+1/130 雷电术
+1/200 瞬息移动 
+1/300 爆裂火焰
 
 ;Taoist
-1/105 Healing 
-1/110 SpiritSword
-1/115 Poisoning 
-1/120 SoulFireBall 
-1/125 SummonSkeleton
-1/130 Hiding
-1/200 MassHiding
-1/300 SoulShield
+1/105 治愈术 
+1/110 精神力战法
+1/115 施毒术 
+1/120 灵魂火符 
+1/125 召唤骷髅
+1/130 隐身术
+1/200 群体隐身术
+1/300 灵魂护盾
 
 ;Assassin
-1/105 FatalSword
-1/110 DoubleSlash
-1/115 Haste
-1/200 FlashDash
-1/300 HeavenlySword
+1/105 绝命剑法
+1/110 风剑术
+1/115 急速
+1/200 拔刀术
+1/300 天剑
 
 ;Archer
-1/105 Focus
-1/110 StraightShot
-1/115 MentalState
-1/200 DoubleShot
-1/300 Meditation
+1/105 聚焦
+1/110 直射
+1/115 凝神
+1/200 连射
+1/300 冥想
 
 
 ;CraftingMaterials
 
 
 ;Quests
-1/2 ZombiEeye Q
+1/2 僵尸之眼 Q
 1/2 Entrails Q

@@ -1,19 +1,18 @@
 [@Description]
-Have you ever heard of {TreePath/Yellow}? It's such a 
-great place to gather resources. Please travel 
-there and collect the materials I require.
+你听说过{丛林迷宫/Yellow}吗？那里是收集资源的绝佳地点。请前往
+那里收集我需要的材料。
 
 [@TaskDescription]
-Please collect 10 {RedThread's/LightSteelBlue} and {BlackThread's/LightSteelBlue}
-by killing {VenomSpider's/Crimson} and {GreatSpider's/Crimson}
+请通过杀死{天狼蜘蛛/Crimson}和{黑锷蜘蛛/Crimson}，收集10个{红线/LightSteelBlue}和{黑线/LightSteelBlue}
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-RedThread 10
-BlackThread 10
+红线 10
+黑线 10
 
 [@CarryItems]
 

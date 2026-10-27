@@ -2,113 +2,113 @@
 #IF
 ISADMIN
 #SAY
-Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-I see you're wearing: {L: <$BRACELET_L> R: <$BRACELET_R>/CORAL}
-<Buy/@Buy> Bracelet
-<Sell/@Sell> Bracelet
-<Repair/@Repair> Bracelet
-<Special Repair/@SRepair> Bracelet
+{<$USERNAME>/KHAKI}，我叫{<$NPCNAME>/KHAKI}。
+我看到你穿着: {L: <$BRACELET_L> R: <$BRACELET_R>/CORAL}
+<购买/@Buy> 手镯
+<出售/@Sell> 手镯
+<修理/@Repair> 手镯
+<特殊修理/@SRepair> 手镯
 
 #ELSEACT
 MOVE 0 300 300
 
 [@Buy]
 #SAY
-Buy.
+买。
  
-<Back/@Main>
+<返回/@Main>
 
 [@Sell]
 #SAY
-Sell.
+出售。
  
-<Back/@Main>
+<返回/@Main>
 
 [@Repair]
 #SAY
-Repair.
+修理。
  
-<Back/@Main>
+<返回/@Main>
 
 [@SRepair]
 #SAY
-Special repair.
+特殊修理。
  
-<Back/@Main>
+<返回/@Main>
 
 
 [Types]
 6
 
 [Trade]
-SpiritBracelet
-RecallBracelet
-RedOrchidBracelet
-RedFlowerBracelet
-SmashWheel
-HwanDevilBracelet
-PurityBracelet
-FiveStringBracelet
-MundaneGlove
-NokChiWheel
-TaoProtectBracelet
-MirWheel
-BugBracelet
-WhiteGoldBracelet
-WhiteGoldBracelet(H)
-RedJadeBracelet
-RedJadeBracelet(H)
-NephriteBracelet
-NephriteBracelet(H)
-MysteryWheel
-TarragonBracelet
-RaidersGlove
-BraceletOfAgony
-IronBracelet
-ThinBracelet
-LeatherGlove
-SilverBracelet
-SteelBracelet
-LargeBracelet
-SharpBracelet
-HardGlove
-MagicBracelet
-EvadeBracelet
-EbonyBracelet
-MonkBracelet
-StrainBracelet
-DeathGauntlet
-GoldBracelet
-3rdEyeBracelet
-BronzeGlove
-SpellBracelet
-KnightBracelet
-DragonBracelet
-SoulSpringBracelet
-BlackIronBracelet
-SteelGlove
-BracerOfMagic
-TaoPowerBracelet
-SteelGauntlet
-8TrigramWheel
-HangMaWheel
-BokMaWheel
-BaekTaGlove
-SpiritReformer
-HolyTaoWheel
-DualTitanAmulet
-EvilWhispAmulet
-SacredAngelAmulet
-WildTitanAmulet
-EnchantedAmulet
-FiveElementAmulet
-PurpleFoxBracelet
-RedFoxBracelet
-BlueFoxBracelet
-GreatPurpleFoxBrace
-GreatRedFoxBrace
-GreatBlueFoxBrace
-SurvivalBracelet
-LunarBracelet
-GoldenDragonBrace
-EvilDragonBracelet
+祈祷手镯
+记忆手镯
+虹魔手镯
+魔血手镯
+破碎手镯
+青魔手镯
+灵玉手镯
+五玄手镯
+平凡护腕
+天音轮
+道力手镯
+天龙狂魔轮
+虫眼手镯
+雷霆手镯
+雷霆手镯(英雄)
+红玉手镯
+红玉手镯(英雄)
+软玉手镯
+软玉手镯(英雄)
+神秘手镯
+血龙手镯
+监视者手套
+痛苦护腕
+铁手镯
+小手镯
+皮制手套
+银手镯
+钢手镯
+大手镯
+夏普儿手镯
+坚固手套
+魔法手镯
+辟邪手镯
+黑檀手镯
+道士手镯
+尽力手镯
+死神手套
+金手镯
+三眼手镯
+幽灵手套
+思贝尔手镯
+骑士手镯
+龙之手镯
+心灵手镯
+黑铁手镯
+阎罗手套
+魔鬼手镯
+雪玉手镯
+精钢手镯
+八极轮
+抗魔轮
+伏魔轮
+白驼手套
+魂锁轮
+太极轮
+铁魔双轮
+曜火虹轮
+玉女天使
+暴虎归山
+曜宝探魔轮
+五行悟思轮
+黑狐套袖
+红狐套袖
+蓝狐套袖
+黑月套袖
+紫缎套袖
+苍绸套袖
+求生手镯
+太阴手镯
+金龙手镯
+邪龙手镯

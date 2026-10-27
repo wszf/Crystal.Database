@@ -2,31 +2,31 @@
 1/1 Gold 17500
 
 ;Pots + Other
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/2 (HP)DrugLarge
-1/2 (MP)DrugLarge
-1/3 (HP)DrugLarge
-1/3 (MP)DrugLarge
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/2 (HP)DrugLarge
-1/2 (MP)DrugLarge
-1/3 (HP)DrugLarge
-1/3 (MP)DrugLarge
-1/1 SunPotion
-1/2 SunPotion
-1/1 SunPotion(M)
-1/2 SunPotion(M)
+1/1 金疮药(大量)
+1/1 魔法药(大量)
+1/2 金疮药(大量)
+1/2 魔法药(大量)
+1/3 金疮药(大量)
+1/3 魔法药(大量)
+1/1 金疮药(大量)
+1/1 魔法药(大量)
+1/2 金疮药(大量)
+1/2 魔法药(大量)
+1/3 金疮药(大量)
+1/3 魔法药(大量)
+1/1 太阳水
+1/2 太阳水
+1/1 强效太阳水
+1/2 强效太阳水
 
 
 
 ;Other
-1/15 BenedictionOil
+1/15 祝福油
 1/1 AncientStoneCrystal
 
-1/40 AwakeningSoul0
-1/40 AwakeningSoul0
+1/40 觉醒之魂0
+1/40 觉醒之魂0
 
 
 ;Weapons

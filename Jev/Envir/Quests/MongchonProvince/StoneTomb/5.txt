@@ -1,19 +1,19 @@
 [@Description]
-From the rumours going around you have found
-the {Ancient Layer/Yellow} in {Stone Temple/Yellow} Return and 
-Collect {RelicRock's/LightSteelBlue} from the Ancient Layer of 
-{StoneTemple/Yellow}
+根据流传的传言，你在{石庙/Yellow}找到了
+{远古之地/Yellow}。请返回并
+从{石庙/Yellow}的古代层收集{岩石标本/LightSteelBlue}。
 
 [@TaskDescription]
-Kill {AncientRedBoars/Crimson}, {AncientBlackBoars/Crimson} and 
-{AncientWhiteBoar's/Crimson} for {RelicRock's/LightSteelBlue}.
+杀死{远古红猪/Crimson}、{远古黑猪/Crimson}和
+{远古白猪/Crimson}以获取{岩石标本/LightSteelBlue}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-RelicRock 20
+岩石标本 20
 
 [@CarryItems]
 

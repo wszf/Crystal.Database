@@ -2,40 +2,40 @@
 1/2 Gold 50000 LV1
 
 ;Potions
-1/1 SunPotion LV1
-1/1 SunPotion LV1
-1/1 SunPotion LV1
-1/1 SunPotion LV1
-1/2 SunPotion LV1
-1/2 SunPotion LV1
-1/2 SunPotion LV1
-1/2 SunPotion LV1
-1/2 SunPotion LV1
-1/2 SunPotion LV1
-1/1 SunPotion LV1
-1/1 SunPotion LV1
-1/2 SunPotion LV1
-1/2 SunPotion LV1
-1/2 SunPotion LV1
-1/2 SunPotion LV1
-1/2 SunPotion LV1
-1/1  BenedictionOil LV1
+1/1 太阳水 LV1
+1/1 太阳水 LV1
+1/1 太阳水 LV1
+1/1 太阳水 LV1
+1/2 太阳水 LV1
+1/2 太阳水 LV1
+1/2 太阳水 LV1
+1/2 太阳水 LV1
+1/2 太阳水 LV1
+1/2 太阳水 LV1
+1/1 太阳水 LV1
+1/1 太阳水 LV1
+1/2 太阳水 LV1
+1/2 太阳水 LV1
+1/2 太阳水 LV1
+1/2 太阳水 LV1
+1/2 太阳水 LV1
+1/1  祝福油 LV1
 1/10 GoldenBenedictionOil LV1
 
 
 ;Weapons
-1/200 GrimBow LV1
-1/200 FrozenSabre LV1
-1/200 ConquerorSpear LV1
-1/200 BastardSword LV1
-1/250 BlackTigerHammer LV1
-1/250 LethalBow LV1
-1/250 StaffOfLotus LV1
-1/250 FanOfCrane LV1
-1/550 BarbarianSword LV1
-1/550 RawSword LV1
-1/550 ApusBow LV1
-1/550 BoneCarvedFan LV1
+1/200 冷酷之弓 LV1
+1/200 寒霜剑 LV1
+1/200 月轮枪 LV1
+1/200 月轮剑 LV1
+1/250 黑虎斧 LV1
+1/250 致命之弓 LV1
+1/250 火莲杖 LV1
+1/250 鹤羽扇 LV1
+1/550 碧血混水剑 LV1
+1/550 虹玄混地剑 LV1
+1/550 神燕弓 LV1
+1/550 翊仙混真扇 LV1
 1/2000 WinterSlayer LV1
 1/2000 WinterStaff LV1
 1/2000 SnowFeather LV1
@@ -46,10 +46,10 @@
 
 1/150 WatcherHelmet LV1
 1/200 PuiYuHelmet LV1
-1/200 HelmetOfDarkness LV1
-1/100 SparklingHelmet LV1
-1/100 SparklingBelt LV1
-1/100 SparklingBoots LV1
+1/200 黑术冠 LV1
+1/100 贝玉头盔 LV1
+1/100 贝玉腰带 LV1
+1/100 贝玉靴子 LV1
  
 1/100 (H)DemonMask LV1
 1/100 (H)VioletOrb LV1
@@ -80,25 +80,25 @@
 
 
 ;Books
-1/500 PoisonCloud LV1
-1/500 Rage LV1
-1/700 Plague LV1
-1/700 MagicBooster LV1
-1/700 CounterAttack LV1
-1/800 IceThrust LV1
-1/800 PetEnhancer LV1
-1/800 SlashingBurst LV1
+1/500 毒雾 LV1
+1/500 狂暴 LV1
+1/700 瘟疫术 LV1
+1/700 魔力强化 LV1
+1/700 反击 LV1
+1/800 冰刺术 LV1
+1/800 宠物强化 LV1
+1/800 日闪 LV1
 1/900 LavaKing LV1
 1/900 FrozenRains LV1
 1/900 HeadShot LV1
 1/950 HolyShield LV1
 
-1/500 DarkBody LV1
-1/700 Hemorrhage LV1
+1/500 暗影替身 LV1
+1/700 血凤击 LV1
 1/800 ShadowStep LV1
 
-1/500 SummonSnakes  LV1
-1/110 NapalmShot  LV1
+1/500 召唤毒蛇  LV1
+1/110 燃烧箭  LV1
 
 
 
@@ -114,72 +114,72 @@
 1/700 AscendedBoots LV1
 1/700 AscendedBelt LV1
 
-1/200 NecklaceOfAgony LV1
-1/200 BraceletOfAgony LV1
-1/200 RingOfAgony LV1
+1/200 痛苦项链 LV1
+1/200 痛苦护腕 LV1
+1/200 痛苦戒指 LV1
 
 
 
 ;Other
-1/25 BraveryGem LV1
-1/25 MagicGem LV1
-1/25 SoulGem LV1
-1/20 ProtectionGem LV1
-1/20 EvilSlayerGem LV1
-1/32 PoisonGem LV1
-1/32 FreezingGem LV1
-1/80 StormGem LV1
-1/80 AccuracyGem LV1
-1/80 AgilityGem LV1
-1/25 BraveryOrb LV1
-1/25 MagicOrb LV1
-1/25 SoulOrb LV1
-1/20 ProtectionOrb LV1
-1/20 EvilSlayerOrb LV1
-1/32 PoisonOrb LV1
-1/32 FreezingOrb LV1
-1/80 StormOrb LV1
-1/80 AccuracyOrb LV1
-1/80 AgilityOrb LV1
+1/25 勇猛宝玉 LV1
+1/25 魔性宝玉 LV1
+1/25 仙界宝玉 LV1
+1/20 守护宝玉 LV1
+1/20 制魔宝玉 LV1
+1/32 中毒宝玉 LV1
+1/32 酷寒宝玉 LV1
+1/80 疾风宝玉 LV1
+1/80 集中宝玉 LV1
+1/80 回避宝玉 LV1
+1/25 勇猛神珠 LV1
+1/25 魔性神珠 LV1
+1/25 仙界神珠 LV1
+1/20 守护神珠 LV1
+1/20 制魔神珠 LV1
+1/32 中毒神珠 LV1
+1/32 酷寒神珠 LV1
+1/80 疾风神珠 LV1
+1/80 集中神珠 LV1
+1/80 回避神珠 LV1
 
 ;Gold 
 1/2 Gold 50000 LV2
 
 ;Potions
-1/1 SunPotion LV2
-1/1 SunPotion LV2
-1/1 SunPotion LV2
-1/1 SunPotion LV2
-1/2 SunPotion LV2
-1/2 SunPotion LV2
-1/2 SunPotion LV2
-1/2 SunPotion LV2
-1/2 SunPotion LV2
-1/2 SunPotion LV2
-1/1 SunPotion LV2
-1/1 SunPotion LV2
-1/2 SunPotion LV2
-1/2 SunPotion LV2
-1/2 SunPotion LV2
-1/2 SunPotion LV2
-1/2 SunPotion LV2
-1/1  BenedictionOil LV2
+1/1 太阳水 LV2
+1/1 太阳水 LV2
+1/1 太阳水 LV2
+1/1 太阳水 LV2
+1/2 太阳水 LV2
+1/2 太阳水 LV2
+1/2 太阳水 LV2
+1/2 太阳水 LV2
+1/2 太阳水 LV2
+1/2 太阳水 LV2
+1/1 太阳水 LV2
+1/1 太阳水 LV2
+1/2 太阳水 LV2
+1/2 太阳水 LV2
+1/2 太阳水 LV2
+1/2 太阳水 LV2
+1/2 太阳水 LV2
+1/1  祝福油 LV2
 1/10 GoldenBenedictionOil LV2
 
 
 ;Weapons
-1/200 FrozenSabre LV2
-1/200 GrimBow LV2
-1/200 ConquerorSpear LV2
-1/200 BastardSword LV2
-1/250 BlackTigerHammer LV2
-1/250 LethalBow LV2
-1/250 StaffOfLotus LV2
-1/250 FanOfCrane LV2
-1/550 ApusBow LV2
-1/550 BarbarianSword LV2
-1/550 RawSword LV2
-1/550 BoneCarvedFan LV2
+1/200 寒霜剑 LV2
+1/200 冷酷之弓 LV2
+1/200 月轮枪 LV2
+1/200 月轮剑 LV2
+1/250 黑虎斧 LV2
+1/250 致命之弓 LV2
+1/250 火莲杖 LV2
+1/250 鹤羽扇 LV2
+1/550 神燕弓 LV2
+1/550 碧血混水剑 LV2
+1/550 虹玄混地剑 LV2
+1/550 翊仙混真扇 LV2
 1/2000 WinterSlayer LV2
 1/2000 WinterStaff LV2
 1/2000 SnowFeather LV2
@@ -190,10 +190,10 @@
 
 1/150 WatcherHelmet LV2
 1/200 PuiYuHelmet LV2
-1/200 HelmetOfDarkness LV2
-1/100 SparklingHelmet LV2
-1/100 SparklingBelt LV2
-1/100 SparklingBoots LV2
+1/200 黑术冠 LV2
+1/100 贝玉头盔 LV2
+1/100 贝玉腰带 LV2
+1/100 贝玉靴子 LV2
  
 1/100 (H)DemonMask LV2
 1/100 (H)VioletOrb LV2
@@ -224,25 +224,25 @@
 
 
 ;Books
-1/500 PoisonCloud LV2
-1/500 Rage LV2
-1/700 Plague LV2
-1/700 MagicBooster LV2
-1/700 CounterAttack LV2
-1/800 IceThrust LV2
-1/800 PetEnhancer LV2
-1/800 SlashingBurst LV2
+1/500 毒雾 LV2
+1/500 狂暴 LV2
+1/700 瘟疫术 LV2
+1/700 魔力强化 LV2
+1/700 反击 LV2
+1/800 冰刺术 LV2
+1/800 宠物强化 LV2
+1/800 日闪 LV2
 1/900 LavaKing LV2
 1/900 FrozenRains LV2
 1/900 HeadShot LV2
 1/950 HolyShield LV2
 
-1/500 DarkBody LV2
-1/700 Hemorrhage LV2
+1/500 暗影替身 LV2
+1/700 血凤击 LV2
 1/800 ShadowStep LV2
 
-1/500 SummonSnakes  LV2
-1/110 NapalmShot  LV2
+1/500 召唤毒蛇  LV2
+1/110 燃烧箭  LV2
 
 ;Random
 1/600 DefenderRing LV2
@@ -256,72 +256,72 @@
 1/700 AscendedBoots LV2
 1/700 AscendedBelt LV2
 
-1/200 NecklaceOfAgony LV2
-1/200 BraceletOfAgony LV2
-1/200 RingOfAgony LV2
+1/200 痛苦项链 LV2
+1/200 痛苦护腕 LV2
+1/200 痛苦戒指 LV2
 
 
 
 ;Other
-1/25 BraveryGem LV2
-1/25 MagicGem LV2
-1/25 SoulGem LV2
-1/20 ProtectionGem LV2
-1/20 EvilSlayerGem LV2
-1/32 PoisonGem LV2
-1/32 FreezingGem LV2
-1/80 StormGem LV2
-1/80 AccuracyGem LV2
-1/80 AgilityGem LV2
-1/25 BraveryOrb LV2
-1/25 MagicOrb LV2
-1/25 SoulOrb LV2
-1/20 ProtectionOrb LV2
-1/20 EvilSlayerOrb LV2
-1/32 PoisonOrb LV2
-1/32 FreezingOrb LV2
-1/80 StormOrb LV2
-1/80 AccuracyOrb LV2
-1/80 AgilityOrb LV2
+1/25 勇猛宝玉 LV2
+1/25 魔性宝玉 LV2
+1/25 仙界宝玉 LV2
+1/20 守护宝玉 LV2
+1/20 制魔宝玉 LV2
+1/32 中毒宝玉 LV2
+1/32 酷寒宝玉 LV2
+1/80 疾风宝玉 LV2
+1/80 集中宝玉 LV2
+1/80 回避宝玉 LV2
+1/25 勇猛神珠 LV2
+1/25 魔性神珠 LV2
+1/25 仙界神珠 LV2
+1/20 守护神珠 LV2
+1/20 制魔神珠 LV2
+1/32 中毒神珠 LV2
+1/32 酷寒神珠 LV2
+1/80 疾风神珠 LV2
+1/80 集中神珠 LV2
+1/80 回避神珠 LV2
 
 ;Gold 
 1/2 Gold 50000 LV3
 
 ;Potions
-1/1 SunPotion LV3
-1/1 SunPotion LV3
-1/1 SunPotion LV3
-1/1 SunPotion LV3
-1/2 SunPotion LV3
-1/2 SunPotion LV3
-1/2 SunPotion LV3
-1/2 SunPotion LV3
-1/2 SunPotion LV3
-1/2 SunPotion LV3
-1/1 SunPotion LV3
-1/1 SunPotion LV3
-1/2 SunPotion LV3
-1/2 SunPotion LV3
-1/2 SunPotion LV3
-1/2 SunPotion LV3
-1/2 SunPotion LV3
-1/1  BenedictionOil LV3
+1/1 太阳水 LV3
+1/1 太阳水 LV3
+1/1 太阳水 LV3
+1/1 太阳水 LV3
+1/2 太阳水 LV3
+1/2 太阳水 LV3
+1/2 太阳水 LV3
+1/2 太阳水 LV3
+1/2 太阳水 LV3
+1/2 太阳水 LV3
+1/1 太阳水 LV3
+1/1 太阳水 LV3
+1/2 太阳水 LV3
+1/2 太阳水 LV3
+1/2 太阳水 LV3
+1/2 太阳水 LV3
+1/2 太阳水 LV3
+1/1  祝福油 LV3
 1/10 GoldenBenedictionOil LV3
 
 
 ;Weapons
-1/200 FrozenSabre LV3
-1/200 GrimBow LV3
-1/200 ConquerorSpear LV3
-1/200 BastardSword LV3
-1/250 BlackTigerHammer LV3
-1/250 LethalBow LV3
-1/250 StaffOfLotus LV3
-1/250 FanOfCrane LV3
-1/550 BarbarianSword LV3
-1/550 ApusBow LV3
-1/550 RawSword LV3
-1/550 BoneCarvedFan LV3
+1/200 寒霜剑 LV3
+1/200 冷酷之弓 LV3
+1/200 月轮枪 LV3
+1/200 月轮剑 LV3
+1/250 黑虎斧 LV3
+1/250 致命之弓 LV3
+1/250 火莲杖 LV3
+1/250 鹤羽扇 LV3
+1/550 碧血混水剑 LV3
+1/550 神燕弓 LV3
+1/550 虹玄混地剑 LV3
+1/550 翊仙混真扇 LV3
 1/2000 WinterSlayer LV3
 1/2000 WinterStaff LV3
 1/2000 SnowFeather LV3
@@ -332,10 +332,10 @@
 
 1/150 WatcherHelmet LV3
 1/200 PuiYuHelmet LV3
-1/200 HelmetOfDarkness LV3
-1/100 SparklingHelmet LV3
-1/100 SparklingBelt LV3
-1/100 SparklingBoots LV3
+1/200 黑术冠 LV3
+1/100 贝玉头盔 LV3
+1/100 贝玉腰带 LV3
+1/100 贝玉靴子 LV3
  
 1/100 (H)DemonMask LV3
 1/100 (H)VioletOrb LV3
@@ -366,25 +366,25 @@
 
 
 ;Books
-1/500 PoisonCloud LV3
-1/500 Rage LV3
-1/700 Plague LV3
-1/700 MagicBooster LV3
-1/700 CounterAttack LV3
-1/800 IceThrust LV3
-1/800 PetEnhancer LV3
-1/800 SlashingBurst LV3
+1/500 毒雾 LV3
+1/500 狂暴 LV3
+1/700 瘟疫术 LV3
+1/700 魔力强化 LV3
+1/700 反击 LV3
+1/800 冰刺术 LV3
+1/800 宠物强化 LV3
+1/800 日闪 LV3
 1/900 LavaKing LV3
 1/900 FrozenRains LV3
 1/900 HeadShot LV3
 1/950 HolyShield LV3
 
-1/500 DarkBody LV3
-1/700 Hemorrhage LV3
+1/500 暗影替身 LV3
+1/700 血凤击 LV3
 1/800 ShadowStep LV3
 
-1/500 SummonSnakes  LV3
-1/110 NapalmShot  LV3
+1/500 召唤毒蛇  LV3
+1/110 燃烧箭  LV3
 
 ;Random
 1/600 DefenderRing LV3
@@ -398,72 +398,72 @@
 1/700 AscendedBoots LV3
 1/700 AscendedBelt LV3
 
-1/200 NecklaceOfAgony LV3
-1/200 BraceletOfAgony LV3
-1/200 RingOfAgony LV3
+1/200 痛苦项链 LV3
+1/200 痛苦护腕 LV3
+1/200 痛苦戒指 LV3
 
 
 
 ;Other
-1/25 BraveryGem LV3
-1/25 MagicGem LV3
-1/25 SoulGem LV3
-1/20 ProtectionGem LV3
-1/20 EvilSlayerGem LV3
-1/32 PoisonGem LV3
-1/32 FreezingGem LV3
-1/80 StormGem LV3
-1/80 AccuracyGem LV3
-1/80 AgilityGem LV3
-1/25 BraveryOrb LV3
-1/25 MagicOrb LV3
-1/25 SoulOrb LV3
-1/20 ProtectionOrb LV3
-1/20 EvilSlayerOrb LV3
-1/32 PoisonOrb LV3
-1/32 FreezingOrb LV3
-1/80 StormOrb LV3
-1/80 AccuracyOrb LV3
-1/80 AgilityOrb LV3
+1/25 勇猛宝玉 LV3
+1/25 魔性宝玉 LV3
+1/25 仙界宝玉 LV3
+1/20 守护宝玉 LV3
+1/20 制魔宝玉 LV3
+1/32 中毒宝玉 LV3
+1/32 酷寒宝玉 LV3
+1/80 疾风宝玉 LV3
+1/80 集中宝玉 LV3
+1/80 回避宝玉 LV3
+1/25 勇猛神珠 LV3
+1/25 魔性神珠 LV3
+1/25 仙界神珠 LV3
+1/20 守护神珠 LV3
+1/20 制魔神珠 LV3
+1/32 中毒神珠 LV3
+1/32 酷寒神珠 LV3
+1/80 疾风神珠 LV3
+1/80 集中神珠 LV3
+1/80 回避神珠 LV3
 
 ;Gold 
 1/2 Gold 50000 LV4
 
 ;Potions
-1/1 SunPotion LV4
-1/1 SunPotion LV4
-1/1 SunPotion LV4
-1/1 SunPotion LV4
-1/2 SunPotion LV4
-1/2 SunPotion LV4
-1/2 SunPotion LV4
-1/2 SunPotion LV4
-1/2 SunPotion LV4
-1/2 SunPotion LV4
-1/1 SunPotion LV4
-1/1 SunPotion LV4
-1/2 SunPotion LV4
-1/2 SunPotion LV4
-1/2 SunPotion LV4
-1/2 SunPotion LV4
-1/2 SunPotion LV4
-1/1  BenedictionOil LV4
+1/1 太阳水 LV4
+1/1 太阳水 LV4
+1/1 太阳水 LV4
+1/1 太阳水 LV4
+1/2 太阳水 LV4
+1/2 太阳水 LV4
+1/2 太阳水 LV4
+1/2 太阳水 LV4
+1/2 太阳水 LV4
+1/2 太阳水 LV4
+1/1 太阳水 LV4
+1/1 太阳水 LV4
+1/2 太阳水 LV4
+1/2 太阳水 LV4
+1/2 太阳水 LV4
+1/2 太阳水 LV4
+1/2 太阳水 LV4
+1/1  祝福油 LV4
 1/10 GoldenBenedictionOil LV4
 
 
 ;Weapons
-1/200 FrozenSabre LV4
-1/200 GrimBow LV4
-1/200 ConquerorSpear LV4
-1/200 BastardSword LV4
-1/250 BlackTigerHammer LV4
-1/250 LethalBow LV4
-1/250 StaffOfLotus LV4
-1/250 FanOfCrane LV4
-1/550 BarbarianSword LV4
-1/550 ApusBow LV4
-1/550 RawSword LV4
-1/550 BoneCarvedFan LV4
+1/200 寒霜剑 LV4
+1/200 冷酷之弓 LV4
+1/200 月轮枪 LV4
+1/200 月轮剑 LV4
+1/250 黑虎斧 LV4
+1/250 致命之弓 LV4
+1/250 火莲杖 LV4
+1/250 鹤羽扇 LV4
+1/550 碧血混水剑 LV4
+1/550 神燕弓 LV4
+1/550 虹玄混地剑 LV4
+1/550 翊仙混真扇 LV4
 1/2000 WinterSlayer LV4
 1/2000 WinterStaff LV4
 1/2000 SnowFeather LV4
@@ -474,10 +474,10 @@
 
 1/150 WatcherHelmet LV4
 1/200 PuiYuHelmet LV4
-1/200 HelmetOfDarkness LV4
-1/100 SparklingHelmet LV4
-1/100 SparklingBelt LV4
-1/100 SparklingBoots LV4
+1/200 黑术冠 LV4
+1/100 贝玉头盔 LV4
+1/100 贝玉腰带 LV4
+1/100 贝玉靴子 LV4
  
 1/100 (H)DemonMask LV4
 1/100 (H)VioletOrb LV4
@@ -508,15 +508,15 @@
 
 
 ;Books
-1/500 PoisonCloud LV4
-1/500 Rage LV4
-1/700 Plague LV4
-1/700 MagicBooster LV4
-1/700 CounterAttack LV4
-1/800 IceThrust LV4
-1/800 PetEnhancer LV4
-1/800 SlashingBurst LV4
-1/900 MoonMist LV4
+1/500 毒雾 LV4
+1/500 狂暴 LV4
+1/700 瘟疫术 LV4
+1/700 魔力强化 LV4
+1/700 反击 LV4
+1/800 冰刺术 LV4
+1/800 宠物强化 LV4
+1/800 日闪 LV4
+1/900 月影迷雾 LV4
 1/900 LavaKing LV4
 1/900 FrozenRains LV4
 1/900 HeadShot LV4
@@ -524,12 +524,12 @@
 1/900 FuryWaves LV4
 1/950 HolyShield LV4
 
-1/500 DarkBody LV4
-1/700 Hemorrhage LV4
+1/500 暗影替身 LV4
+1/700 血凤击 LV4
 1/800 ShadowStep LV4
 
-1/500 SummonSnakes  LV4
-1/110 NapalmShot  LV4
+1/500 召唤毒蛇  LV4
+1/110 燃烧箭  LV4
 
 ;Random
 1/600 DefenderRing LV4
@@ -543,71 +543,71 @@
 1/700 AscendedBoots LV4
 1/700 AscendedBelt LV4
 
-1/200 NecklaceOfAgony LV4
-1/200 BraceletOfAgony LV4
-1/200 RingOfAgony LV4
+1/200 痛苦项链 LV4
+1/200 痛苦护腕 LV4
+1/200 痛苦戒指 LV4
 
 
 
 ;Other
-1/25 BraveryGem LV4
-1/25 MagicGem LV4
-1/25 SoulGem LV4
-1/20 ProtectionGem LV4
-1/20 EvilSlayerGem LV4
-1/32 PoisonGem LV4
-1/32 FreezingGem LV4
-1/80 StormGem LV4
-1/80 AccuracyGem LV4
-1/80 AgilityGem LV4
-1/25 BraveryOrb LV4
-1/25 MagicOrb LV4
-1/25 SoulOrb LV4
-1/20 ProtectionOrb LV4
-1/20 EvilSlayerOrb LV4
-1/32 PoisonOrb LV4
-1/32 FreezingOrb LV4
-1/80 StormOrb LV4
-1/80 AccuracyOrb LV4
-1/80 AgilityOrb LV4
+1/25 勇猛宝玉 LV4
+1/25 魔性宝玉 LV4
+1/25 仙界宝玉 LV4
+1/20 守护宝玉 LV4
+1/20 制魔宝玉 LV4
+1/32 中毒宝玉 LV4
+1/32 酷寒宝玉 LV4
+1/80 疾风宝玉 LV4
+1/80 集中宝玉 LV4
+1/80 回避宝玉 LV4
+1/25 勇猛神珠 LV4
+1/25 魔性神珠 LV4
+1/25 仙界神珠 LV4
+1/20 守护神珠 LV4
+1/20 制魔神珠 LV4
+1/32 中毒神珠 LV4
+1/32 酷寒神珠 LV4
+1/80 疾风神珠 LV4
+1/80 集中神珠 LV4
+1/80 回避神珠 LV4
 
 ;Gold 
 1/2 Gold 50000 LV5
 
 ;Potions
-1/1 SunPotion LV5
-1/1 SunPotion LV5
-1/1 SunPotion LV5
-1/1 SunPotion LV5
-1/2 SunPotion LV5
-1/2 SunPotion LV5
-1/2 SunPotion LV5
-1/2 SunPotion LV5
-1/2 SunPotion LV5
-1/2 SunPotion LV5
-1/1 SunPotion LV5
-1/1 SunPotion LV5
-1/2 SunPotion LV5
-1/2 SunPotion LV5
-1/2 SunPotion LV5
-1/2 SunPotion LV5
-1/2 SunPotion LV5
-1/1  BenedictionOil LV5
+1/1 太阳水 LV5
+1/1 太阳水 LV5
+1/1 太阳水 LV5
+1/1 太阳水 LV5
+1/2 太阳水 LV5
+1/2 太阳水 LV5
+1/2 太阳水 LV5
+1/2 太阳水 LV5
+1/2 太阳水 LV5
+1/2 太阳水 LV5
+1/1 太阳水 LV5
+1/1 太阳水 LV5
+1/2 太阳水 LV5
+1/2 太阳水 LV5
+1/2 太阳水 LV5
+1/2 太阳水 LV5
+1/2 太阳水 LV5
+1/1  祝福油 LV5
 1/10 GoldenBenedictionOil LV5
 
 ;Weapons
-1/200 FrozenSabre LV5
-1/200 GrimBow LV5
-1/200 ConquerorSpear LV5
-1/200 BastardSword LV5
-1/250 BlackTigerHammer LV5
-1/250 LethalBow LV5
-1/250 StaffOfLotus LV5
-1/250 FanOfCrane LV5
-1/550 BarbarianSword LV5
-1/550 ApusBow LV5
-1/550 RawSword LV5
-1/550 BoneCarvedFan LV5
+1/200 寒霜剑 LV5
+1/200 冷酷之弓 LV5
+1/200 月轮枪 LV5
+1/200 月轮剑 LV5
+1/250 黑虎斧 LV5
+1/250 致命之弓 LV5
+1/250 火莲杖 LV5
+1/250 鹤羽扇 LV5
+1/550 碧血混水剑 LV5
+1/550 神燕弓 LV5
+1/550 虹玄混地剑 LV5
+1/550 翊仙混真扇 LV5
 1/2000 WinterSlayer LV5
 1/2000 WinterStaff LV5
 1/2000 SnowFeather LV5
@@ -618,10 +618,10 @@
 
 1/150 WatcherHelmet LV5
 1/200 PuiYuHelmet LV5
-1/200 HelmetOfDarkness LV5
-1/100 SparklingHelmet LV5
-1/100 SparklingBelt LV5
-1/100 SparklingBoots LV5
+1/200 黑术冠 LV5
+1/100 贝玉头盔 LV5
+1/100 贝玉腰带 LV5
+1/100 贝玉靴子 LV5
  
 1/100 (H)DemonMask LV5
 1/100 (H)VioletOrb LV5
@@ -652,25 +652,25 @@
 
 
 ;Books
-1/500 PoisonCloud LV5
-1/500 Rage LV5
-1/700 Plague LV5
-1/700 MagicBooster LV5
-1/700 CounterAttack LV5
-1/800 IceThrust LV5
-1/800 PetEnhancer LV5
-1/800 SlashingBurst LV5
+1/500 毒雾 LV5
+1/500 狂暴 LV5
+1/700 瘟疫术 LV5
+1/700 魔力强化 LV5
+1/700 反击 LV5
+1/800 冰刺术 LV5
+1/800 宠物强化 LV5
+1/800 日闪 LV5
 1/900 LavaKing LV5
 1/900 FrozenRains LV5
 1/900 HeadShot LV5
 1/950 HolyShield LV5
 
-1/500 DarkBody LV5
-1/700 Hemorrhage LV5
+1/500 暗影替身 LV5
+1/700 血凤击 LV5
 1/800 ShadowStep LV5
 
-1/500 SummonSnakes  LV5
-1/110 NapalmShot  LV5
+1/500 召唤毒蛇  LV5
+1/110 燃烧箭  LV5
 
 ;Random
 1/600 DefenderRing LV5
@@ -684,72 +684,72 @@
 1/700 AscendedBoots LV5
 1/700 AscendedBelt LV5
 
-1/200 NecklaceOfAgony LV5
-1/200 BraceletOfAgony LV5
-1/200 RingOfAgony LV5
+1/200 痛苦项链 LV5
+1/200 痛苦护腕 LV5
+1/200 痛苦戒指 LV5
 
 
 
 ;Other
-1/25 BraveryGem LV5
-1/25 MagicGem LV5
-1/25 SoulGem LV5
-1/20 ProtectionGem LV5
-1/20 EvilSlayerGem LV5
-1/32 PoisonGem LV5
-1/32 FreezingGem LV5
-1/80 StormGem LV5
-1/80 AccuracyGem LV5
-1/80 AgilityGem LV5
-1/25 BraveryOrb LV5
-1/25 MagicOrb LV5
-1/25 SoulOrb LV5
-1/20 ProtectionOrb LV5
-1/20 EvilSlayerOrb LV5
-1/32 PoisonOrb LV5
-1/32 FreezingOrb LV5
-1/80 StormOrb LV5
-1/80 AccuracyOrb LV5
-1/80 AgilityOrb LV5
+1/25 勇猛宝玉 LV5
+1/25 魔性宝玉 LV5
+1/25 仙界宝玉 LV5
+1/20 守护宝玉 LV5
+1/20 制魔宝玉 LV5
+1/32 中毒宝玉 LV5
+1/32 酷寒宝玉 LV5
+1/80 疾风宝玉 LV5
+1/80 集中宝玉 LV5
+1/80 回避宝玉 LV5
+1/25 勇猛神珠 LV5
+1/25 魔性神珠 LV5
+1/25 仙界神珠 LV5
+1/20 守护神珠 LV5
+1/20 制魔神珠 LV5
+1/32 中毒神珠 LV5
+1/32 酷寒神珠 LV5
+1/80 疾风神珠 LV5
+1/80 集中神珠 LV5
+1/80 回避神珠 LV5
 
 ;Gold 
 1/2 Gold 50000 LV6
 
 ;Potions
-1/1 SunPotion LV6
-1/1 SunPotion LV6
-1/1 SunPotion LV6
-1/1 SunPotion LV6
-1/2 SunPotion LV6
-1/2 SunPotion LV6
-1/2 SunPotion LV6
-1/2 SunPotion LV6
-1/2 SunPotion LV6
-1/2 SunPotion LV6
-1/1 SunPotion LV6
-1/1 SunPotion LV6
-1/2 SunPotion LV6
-1/2 SunPotion LV6
-1/2 SunPotion LV6
-1/2 SunPotion LV6
-1/2 SunPotion LV6
-1/1  BenedictionOil LV6
+1/1 太阳水 LV6
+1/1 太阳水 LV6
+1/1 太阳水 LV6
+1/1 太阳水 LV6
+1/2 太阳水 LV6
+1/2 太阳水 LV6
+1/2 太阳水 LV6
+1/2 太阳水 LV6
+1/2 太阳水 LV6
+1/2 太阳水 LV6
+1/1 太阳水 LV6
+1/1 太阳水 LV6
+1/2 太阳水 LV6
+1/2 太阳水 LV6
+1/2 太阳水 LV6
+1/2 太阳水 LV6
+1/2 太阳水 LV6
+1/1  祝福油 LV6
 1/10 GoldenBenedictionOil LV6
 
 
 ;Weapons
-1/200 FrozenSabre LV6
-1/200 GrimBow LV6
-1/200 ConquerorSpear LV6
-1/200 BastardSword LV6
-1/250 BlackTigerHammer LV6
-1/250 LethalBow LV6
-1/250 StaffOfLotus LV6
-1/250 FanOfCrane LV6
-1/550 BarbarianSword LV6
-1/550 RawSword LV6
-1/550 ApusBow LV6
-1/550 BoneCarvedFan LV6
+1/200 寒霜剑 LV6
+1/200 冷酷之弓 LV6
+1/200 月轮枪 LV6
+1/200 月轮剑 LV6
+1/250 黑虎斧 LV6
+1/250 致命之弓 LV6
+1/250 火莲杖 LV6
+1/250 鹤羽扇 LV6
+1/550 碧血混水剑 LV6
+1/550 虹玄混地剑 LV6
+1/550 神燕弓 LV6
+1/550 翊仙混真扇 LV6
 1/2000 WinterSlayer LV6
 1/2000 WinterStaff LV6
 1/2000 SnowFeather LV6
@@ -760,10 +760,10 @@
 
 1/150 WatcherHelmet LV6
 1/200 PuiYuHelmet LV6
-1/200 HelmetOfDarkness LV6
-1/100 SparklingHelmet LV6
-1/100 SparklingBelt LV6
-1/100 SparklingBoots LV6
+1/200 黑术冠 LV6
+1/100 贝玉头盔 LV6
+1/100 贝玉腰带 LV6
+1/100 贝玉靴子 LV6
  
 1/100 (H)DemonMask LV6
 1/100 (H)VioletOrb LV6
@@ -794,25 +794,25 @@
 
 
 ;Books
-1/500 PoisonCloud LV6
-1/500 Rage LV6
-1/700 Plague LV6
-1/700 MagicBooster LV6
-1/700 CounterAttack LV6
-1/800 IceThrust LV6
-1/800 PetEnhancer LV6
-1/800 SlashingBurst LV6
+1/500 毒雾 LV6
+1/500 狂暴 LV6
+1/700 瘟疫术 LV6
+1/700 魔力强化 LV6
+1/700 反击 LV6
+1/800 冰刺术 LV6
+1/800 宠物强化 LV6
+1/800 日闪 LV6
 1/900 LavaKing LV6
 1/900 FrozenRains LV6
 1/900 HeadShot LV6
 1/950 HolyShield LV6
 
-1/500 DarkBody LV6
-1/700 Hemorrhage LV6
+1/500 暗影替身 LV6
+1/700 血凤击 LV6
 1/800 ShadowStep LV6
 
-1/500 SummonSnakes  LV6
-1/110 NapalmShot  LV6
+1/500 召唤毒蛇  LV6
+1/110 燃烧箭  LV6
 
 ;Random
 1/600 DefenderRing LV6
@@ -826,72 +826,72 @@
 1/700 AscendedBoots LV6
 1/700 AscendedBelt LV6
 
-1/200 NecklaceOfAgony LV6
-1/200 BraceletOfAgony LV6
-1/200 RingOfAgony LV6
+1/200 痛苦项链 LV6
+1/200 痛苦护腕 LV6
+1/200 痛苦戒指 LV6
 
 
 
 ;Other
-1/25 BraveryGem LV6
-1/25 MagicGem LV6
-1/25 SoulGem LV6
-1/20 ProtectionGem LV6
-1/20 EvilSlayerGem LV6
-1/32 PoisonGem LV6
-1/32 FreezingGem LV6
-1/80 StormGem LV6
-1/80 AccuracyGem LV6
-1/80 AgilityGem LV6
-1/25 BraveryOrb LV6
-1/25 MagicOrb LV6
-1/25 SoulOrb LV6
-1/20 ProtectionOrb LV6
-1/20 EvilSlayerOrb LV6
-1/32 PoisonOrb LV6
-1/32 FreezingOrb LV6
-1/80 StormOrb LV6
-1/80 AccuracyOrb LV6
-1/80 AgilityOrb LV6
+1/25 勇猛宝玉 LV6
+1/25 魔性宝玉 LV6
+1/25 仙界宝玉 LV6
+1/20 守护宝玉 LV6
+1/20 制魔宝玉 LV6
+1/32 中毒宝玉 LV6
+1/32 酷寒宝玉 LV6
+1/80 疾风宝玉 LV6
+1/80 集中宝玉 LV6
+1/80 回避宝玉 LV6
+1/25 勇猛神珠 LV6
+1/25 魔性神珠 LV6
+1/25 仙界神珠 LV6
+1/20 守护神珠 LV6
+1/20 制魔神珠 LV6
+1/32 中毒神珠 LV6
+1/32 酷寒神珠 LV6
+1/80 疾风神珠 LV6
+1/80 集中神珠 LV6
+1/80 回避神珠 LV6
 
 ;Gold 
 1/2 Gold 50000 LV7
 
 ;Potions
-1/1 SunPotion LV7
-1/1 SunPotion LV7
-1/1 SunPotion LV7
-1/1 SunPotion LV7
-1/2 SunPotion LV7
-1/2 SunPotion LV7
-1/2 SunPotion LV7
-1/2 SunPotion LV7
-1/2 SunPotion LV7
-1/2 SunPotion LV7
-1/1 SunPotion LV7
-1/1 SunPotion LV7
-1/2 SunPotion LV7
-1/2 SunPotion LV7
-1/2 SunPotion LV7
-1/2 SunPotion LV7
-1/2 SunPotion LV7
-1/1  BenedictionOil LV7
+1/1 太阳水 LV7
+1/1 太阳水 LV7
+1/1 太阳水 LV7
+1/1 太阳水 LV7
+1/2 太阳水 LV7
+1/2 太阳水 LV7
+1/2 太阳水 LV7
+1/2 太阳水 LV7
+1/2 太阳水 LV7
+1/2 太阳水 LV7
+1/1 太阳水 LV7
+1/1 太阳水 LV7
+1/2 太阳水 LV7
+1/2 太阳水 LV7
+1/2 太阳水 LV7
+1/2 太阳水 LV7
+1/2 太阳水 LV7
+1/1  祝福油 LV7
 1/10 GoldenBenedictionOil LV7
 
 
 ;Weapons
-1/200 FrozenSabre LV7
-1/200 GrimBow LV7
-1/200 ConquerorSpear LV7
-1/200 BastardSword LV7
-1/250 BlackTigerHammer LV7
-1/250 StaffOfLotus LV7
-1/250 LethalBow LV7
-1/250 FanOfCrane LV7
-1/550 BarbarianSword LV7
-1/550 ApusBow LV7
-1/550 RawSword LV7
-1/550 BoneCarvedFan LV7
+1/200 寒霜剑 LV7
+1/200 冷酷之弓 LV7
+1/200 月轮枪 LV7
+1/200 月轮剑 LV7
+1/250 黑虎斧 LV7
+1/250 火莲杖 LV7
+1/250 致命之弓 LV7
+1/250 鹤羽扇 LV7
+1/550 碧血混水剑 LV7
+1/550 神燕弓 LV7
+1/550 虹玄混地剑 LV7
+1/550 翊仙混真扇 LV7
 1/2000 WinterSlayer LV7
 1/2000 WinterStaff LV7
 1/2000 SnowFeather LV7
@@ -902,10 +902,10 @@
 
 1/150 WatcherHelmet LV7
 1/200 PuiYuHelmet LV7
-1/200 HelmetOfDarkness LV7
-1/100 SparklingHelmet LV7
-1/100 SparklingBelt LV7
-1/100 SparklingBoots LV7
+1/200 黑术冠 LV7
+1/100 贝玉头盔 LV7
+1/100 贝玉腰带 LV7
+1/100 贝玉靴子 LV7
  
 1/100 (H)DemonMask LV7
 1/100 (H)VioletOrb LV7
@@ -936,25 +936,25 @@
 
 
 ;Books
-1/500 PoisonCloud LV7
-1/500 Rage LV7
-1/700 Plague LV7
-1/700 MagicBooster LV7
-1/700 CounterAttack LV7
-1/800 IceThrust LV7
-1/800 PetEnhancer LV7
-1/800 SlashingBurst LV7
+1/500 毒雾 LV7
+1/500 狂暴 LV7
+1/700 瘟疫术 LV7
+1/700 魔力强化 LV7
+1/700 反击 LV7
+1/800 冰刺术 LV7
+1/800 宠物强化 LV7
+1/800 日闪 LV7
 1/900 LavaKing LV7
 1/900 FrozenRains LV7
 1/900 HeadShot LV7
 1/950 HolyShield LV7
 
-1/500 DarkBody LV7
-1/700 Hemorrhage LV7
+1/500 暗影替身 LV7
+1/700 血凤击 LV7
 1/800 ShadowStep LV7
 
-1/500 SummonSnakes  LV7
-1/110 NapalmShot  LV7
+1/500 召唤毒蛇  LV7
+1/110 燃烧箭  LV7
 
 ;Random
 1/600 DefenderRing LV7
@@ -968,72 +968,72 @@
 1/700 AscendedBoots LV7
 1/700 AscendedBelt LV7
 
-1/200 NecklaceOfAgony LV7
-1/200 BraceletOfAgony LV7
-1/200 RingOfAgony LV7
+1/200 痛苦项链 LV7
+1/200 痛苦护腕 LV7
+1/200 痛苦戒指 LV7
 
 
 
 ;Other
-1/25 BraveryGem LV7
-1/25 MagicGem LV7
-1/25 SoulGem LV7
-1/20 ProtectionGem LV7
-1/20 EvilSlayerGem LV7
-1/32 PoisonGem LV7
-1/32 FreezingGem LV7
-1/80 StormGem LV7
-1/80 AccuracyGem LV7
-1/80 AgilityGem LV7
-1/25 BraveryOrb LV7
-1/25 MagicOrb LV7
-1/25 SoulOrb LV7
-1/20 ProtectionOrb LV7
-1/20 EvilSlayerOrb LV7
-1/32 PoisonOrb LV7
-1/32 FreezingOrb LV7
-1/80 StormOrb LV7
-1/80 AccuracyOrb LV7
-1/80 AgilityOrb LV7
+1/25 勇猛宝玉 LV7
+1/25 魔性宝玉 LV7
+1/25 仙界宝玉 LV7
+1/20 守护宝玉 LV7
+1/20 制魔宝玉 LV7
+1/32 中毒宝玉 LV7
+1/32 酷寒宝玉 LV7
+1/80 疾风宝玉 LV7
+1/80 集中宝玉 LV7
+1/80 回避宝玉 LV7
+1/25 勇猛神珠 LV7
+1/25 魔性神珠 LV7
+1/25 仙界神珠 LV7
+1/20 守护神珠 LV7
+1/20 制魔神珠 LV7
+1/32 中毒神珠 LV7
+1/32 酷寒神珠 LV7
+1/80 疾风神珠 LV7
+1/80 集中神珠 LV7
+1/80 回避神珠 LV7
 
 ;Gold 
 1/2 Gold 50000 LV8
 
 ;Potions
-1/1 SunPotion LV8
-1/1 SunPotion LV8
-1/1 SunPotion LV8
-1/1 SunPotion LV8
-1/2 SunPotion LV8
-1/2 SunPotion LV8
-1/2 SunPotion LV8
-1/2 SunPotion LV8
-1/2 SunPotion LV8
-1/2 SunPotion LV8
-1/1 SunPotion LV8
-1/1 SunPotion LV8
-1/2 SunPotion LV8
-1/2 SunPotion LV8
-1/2 SunPotion LV8
-1/2 SunPotion LV8
-1/2 SunPotion LV8
-1/1  BenedictionOil LV8
+1/1 太阳水 LV8
+1/1 太阳水 LV8
+1/1 太阳水 LV8
+1/1 太阳水 LV8
+1/2 太阳水 LV8
+1/2 太阳水 LV8
+1/2 太阳水 LV8
+1/2 太阳水 LV8
+1/2 太阳水 LV8
+1/2 太阳水 LV8
+1/1 太阳水 LV8
+1/1 太阳水 LV8
+1/2 太阳水 LV8
+1/2 太阳水 LV8
+1/2 太阳水 LV8
+1/2 太阳水 LV8
+1/2 太阳水 LV8
+1/1  祝福油 LV8
 1/10 GoldenBenedictionOil LV8
 
 
 ;Weapons
-1/200 FrozenSabre LV8
-1/200 GrimBow LV8
-1/200 ConquerorSpear LV8
-1/200 BastardSword LV8
-1/250 BlackTigerHammer LV8
-1/250 LethalBow LV8
-1/250 StaffOfLotus LV8
-1/250 FanOfCrane LV8
-1/550 BarbarianSword LV8
-1/550 RawSword LV8
-1/550 ApusBow LV8
-1/550 BoneCarvedFan LV8
+1/200 寒霜剑 LV8
+1/200 冷酷之弓 LV8
+1/200 月轮枪 LV8
+1/200 月轮剑 LV8
+1/250 黑虎斧 LV8
+1/250 致命之弓 LV8
+1/250 火莲杖 LV8
+1/250 鹤羽扇 LV8
+1/550 碧血混水剑 LV8
+1/550 虹玄混地剑 LV8
+1/550 神燕弓 LV8
+1/550 翊仙混真扇 LV8
 1/2000 WinterSlayer LV8
 1/2000 WinterStaff LV8
 1/2000 SnowFeather LV8
@@ -1045,10 +1045,10 @@
 
 1/150 WatcherHelmet LV8
 1/200 PuiYuHelmet LV8
-1/200 HelmetOfDarkness LV8
-1/100 SparklingHelmet LV8
-1/100 SparklingBelt LV8
-1/100 SparklingBoots LV8
+1/200 黑术冠 LV8
+1/100 贝玉头盔 LV8
+1/100 贝玉腰带 LV8
+1/100 贝玉靴子 LV8
  
 1/100 (H)DemonMask LV8
 1/100 (H)VioletOrb LV8
@@ -1079,25 +1079,25 @@
 
 
 ;Books
-1/500 PoisonCloud LV8
-1/500 Rage LV8
-1/700 Plague LV8
-1/700 MagicBooster LV8
-1/700 CounterAttack LV8
-1/800 IceThrust LV8
-1/800 PetEnhancer LV8
-1/800 SlashingBurst LV8
+1/500 毒雾 LV8
+1/500 狂暴 LV8
+1/700 瘟疫术 LV8
+1/700 魔力强化 LV8
+1/700 反击 LV8
+1/800 冰刺术 LV8
+1/800 宠物强化 LV8
+1/800 日闪 LV8
 1/900 LavaKing LV8
 1/900 FrozenRains LV8
 1/900 HeadShot LV8
 1/950 HolyShield LV8
 
-1/500 DarkBody LV8
-1/700 Hemorrhage LV8
+1/500 暗影替身 LV8
+1/700 血凤击 LV8
 1/800 ShadowStep LV8
 
-1/500 SummonSnakes  LV8
-1/110 NapalmShot  LV8
+1/500 召唤毒蛇  LV8
+1/110 燃烧箭  LV8
 
 ;Random
 1/600 DefenderRing LV8
@@ -1111,33 +1111,33 @@
 1/700 AscendedBoots LV8
 1/700 AscendedBelt LV8
 
-1/200 NecklaceOfAgony LV8
-1/200 BraceletOfAgony LV8
-1/200 RingOfAgony LV8
+1/200 痛苦项链 LV8
+1/200 痛苦护腕 LV8
+1/200 痛苦戒指 LV8
 
 
 
 ;Other
-1/25 BraveryGem LV8
-1/25 MagicGem LV8
-1/25 SoulGem LV8
-1/20 ProtectionGem LV8
-1/20 EvilSlayerGem LV8
-1/32 PoisonGem LV8
-1/32 FreezingGem LV8
-1/80 StormGem LV8
-1/80 AccuracyGem LV8
-1/80 AgilityGem LV8
-1/25 BraveryOrb LV8
-1/25 MagicOrb LV8
-1/25 SoulOrb LV8
-1/20 ProtectionOrb LV8
-1/20 EvilSlayerOrb LV8
-1/32 PoisonOrb LV8
-1/32 FreezingOrb LV8
-1/80 StormOrb LV8
-1/80 AccuracyOrb LV8
-1/80 AgilityOrb LV8
+1/25 勇猛宝玉 LV8
+1/25 魔性宝玉 LV8
+1/25 仙界宝玉 LV8
+1/20 守护宝玉 LV8
+1/20 制魔宝玉 LV8
+1/32 中毒宝玉 LV8
+1/32 酷寒宝玉 LV8
+1/80 疾风宝玉 LV8
+1/80 集中宝玉 LV8
+1/80 回避宝玉 LV8
+1/25 勇猛神珠 LV8
+1/25 魔性神珠 LV8
+1/25 仙界神珠 LV8
+1/20 守护神珠 LV8
+1/20 制魔神珠 LV8
+1/32 中毒神珠 LV8
+1/32 酷寒神珠 LV8
+1/80 疾风神珠 LV8
+1/80 集中神珠 LV8
+1/80 回避神珠 LV8
 
 1/1600 YetiProtector LV1
 1/1600 YetiProtector LV2

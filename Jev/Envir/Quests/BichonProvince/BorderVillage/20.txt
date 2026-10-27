@@ -1,25 +1,26 @@
 [@Description]
-A Recommendation.. Thats a first.
-We need all that is able to help with this war.
-Whether they join the Guard or not.
-Please can you assist me with something.
+一个推荐……真是难得。
+我们需要所有能帮助这场战争的人。
+不管他们是否加入卫队。
+能请你帮我做件事吗。
 
 [@TaskDescription]
-Eliminate 10 {Oma's/Crimson} and {RakingCat's/Crimson}
+消灭 10 个 {半兽人/Crimson}和 {钉耙猫/Crimson}
 
 [@Completion]
 
+
 [@KillTasks]
-Oma 10
-RakingCat 10
+半兽人 10
+钉耙猫 10
 
 [@ItemTasks]
 
 [@CarryItems]
 
 [@FixedRewards]
-OldLoafer
-Focus
+旧布鞋
+聚焦
 
 [@SelectRewards]
 

@@ -1,22 +1,22 @@
 0 Gold 1000
-0 DurabilityOrb
+0 强化神珠
 0 Gold 10000
-0 ProtectionOrb
+0 守护神珠
 0 Gold 50000
-0 EvilSlayerOrb
+0 制魔神珠
 0 Gold 100000
-0 BraveryOrb
+0 勇猛神珠
 0 Gold 250000
-0 SoulOrb
+0 仙界神珠
 0 Gold 400000
-0 MagicOrb
+0 魔性神珠
 0 Gold 550000
-0 PoisonOrb
+0 中毒神珠
 0 Gold 700000
-0 FreezingOrb
+0 酷寒神珠
 0 Gold 850000
-0 EnduranceOrb
+0 忍耐神珠
 0 Gold 1000000
-0 DisillusionOrb
+0 觉醒神珠
 0 Gold 1050000
-0 StormOrb
+0 疾风神珠

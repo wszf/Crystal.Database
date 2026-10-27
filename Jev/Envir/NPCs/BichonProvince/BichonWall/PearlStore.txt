@@ -2,30 +2,31 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Greetings! How can i help you?
-<Trade/@PEARLBUY> Creature Pearls.
+欢迎！有什么可以帮您的吗？
+<交易/@PEARLBUY> 妖兽珍珠。
  
-<Close/@exit>
+<关闭/@exit>
  
 [@PEARLBUY]
 #SAY
-Please select the item you want to buy.
+请选择您想要购买的物品。
+
  
-<Back/@Main>
+<返回/@Main>
 
 [Types]
 36
 
 [Trade]
-WonderBox(L)
-WonderBox(M)
+奇异宝盒(大)
+奇异宝盒(中)
 WonderBox(H)

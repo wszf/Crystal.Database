@@ -2,28 +2,28 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome Traveller, my name is Bill I'm a Master Artisan.. 
-I have specialized in Weaponry for many year's now.
+欢迎旅人，我叫比尔，我是大师级工匠…… 
+我已经专精于武器制作很多年了。
  
-<Special/@SRepair> Repair Weapon.
+<特殊/@SRepair> 修理武器。
  
-<Close/@exit>
+<关闭/@exit>
 
 [@SRepair]
 #SAY
-Traveller, You are lucky... We have the materials to do Special repairs.
+过客，你运气不错……我们有材料可以进行特殊修理。
  
  
-<Close/@exit>
+<关闭/@exit>
 
 [Types]
 1

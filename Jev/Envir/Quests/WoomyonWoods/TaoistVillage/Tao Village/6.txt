@@ -1,10 +1,11 @@
 [@Description]
-Report that the Carriage was attacked.
+报告马车被袭击了。
 
 [@TaskDescription]
-Return to the {LeadTrainer/LimeGreen}.
+返回{首席训练师/LimeGreen}。
 
 [@Completion]
+
 
 [@KillTasks]
 

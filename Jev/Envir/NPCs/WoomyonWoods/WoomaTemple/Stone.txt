@@ -5,29 +5,29 @@ CHECKQUEST 153 1
 #ACT
 GOTO @MAIN-1
 #ELSESAY
-Nothing happens.
+什么也不会发生。
 
 [@MAIN-1]
 #IF
 LEVEL > 42
 LEVEL < 48
 #SAY
-A Mysterious Stone. With Ancient symbols.
-"Banished Creatures <within./@Woomaa>"
-{WoomaHeart/LightSteelBlue} Required {Level 43~48./KHAI}
+一块带有古老铭文的神秘石头。
+被放逐的生物 <内部。/@Woomaa>
+{沃玛之心/LightSteelBlue} 需要 {43~48级/KHAI}
  
-<Close/@exit>
+<关闭/@exit>
 #ELSESAY
-Nothing happens.
+什么也不会发生。
  
  
-<Close/@Exit>
+<关闭/@Exit>
 
 [@Woomaa]
 #IF
-CHECKITEM WoomaHeart 1
+CHECKITEM 沃玛之心 1
 #ACT
-TAKEITEM WoomaHeart 1
+TAKEITEM 沃玛之心 1
 MOVE D022A 340 358
 #ELSESAY
-Nothing happens.
+什么也不会发生。

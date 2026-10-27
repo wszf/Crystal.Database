@@ -1,19 +1,19 @@
 [@Description]
-You.. Sir.. You.. Help I'm trapped.
-
-Last thing I remember is dying further in the valley.
-Then i was back here.
+你..先生..你..帮帮我，我被困住了。
+我最后记得的是在山谷更深处死去。
+然后我就回到了这里。
 
 [@TaskDescription]
-Investigate why the {Soul/LimeGreen}, has returned.
+调查一下{灵魂/LimeGreen}为什么会回来。
 
 [@Completion]
+
 
 [@KillTasks]
 
 
 [@FlagTasks]
-524 "Find the LostSouls Body"
+524 "找到迷失的灵魂尸体"
 
 [@ItemTasks]
 

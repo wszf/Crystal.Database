@@ -1,16 +1,15 @@
 [@Description]
-Hello Mirian, there is a Darker Evil within 
-{Stone Temple/Yellow} There is a stone 
-within the layer's which cliams to have the capability
-to enter a passage into {Ancient Layer/Yellow}
+你好米里安，{石庙/Yellow}内有更深的邪恶。层里有一个石头
+据说能进入通往{远古之地/Yellow}的通道
 
 [@TaskDescription]
-Find the Stone within {Stone Temple/Yellow}
+在{石庙/Yellow}找到石头
 
 [@Completion]
 
+
 [@FlagTasks]
-525 "Find the Stone in Stone Temple"
+525 "在石庙中寻找石头"
 
 [@KillTasks]
 

@@ -1,11 +1,11 @@
 [@Description]
-Speak to {CaveGuide/LimeGreen} in {TaoVillage/Yellow}
+到{道士村/Yellow}的{洞穴向导/LimeGreen}那里说话
 
 [@TaskDescription]
-Head West of {TaoVillage/Yellow} and Speak 
-with {CaveGuide/LimeGreen}.
+向西走到{道士村/Yellow}，与{洞穴向导/LimeGreen}交谈。
 
 [@Completion]
+
 
 [@KillTasks]
 

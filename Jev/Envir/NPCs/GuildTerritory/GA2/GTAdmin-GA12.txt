@@ -1,45 +1,46 @@
 [@Main]
 #SAY
-How are you. <$USERNAME>. I am the 'Guild Territory Steward'.
-How can I help you?
-Rental days remaining: <$GUILDGTRENTALDAYSLEFT>.
-I want to <Extend/@extend> the rental period.
-I want to <Summon/@summon> members to the territory.
-I want to <Apply or Cancel/@appcancel> sale of my guild territory.
+你好。<$USERNAME>。我是'公会领地管理员'。
+我能帮你什么？
+剩余租用天数：<$GUILDGTRENTALDAYSLEFT>。
+我想<延长/@extend>租期。
+我想<召唤/@summon>成员到这个地盘。
+我想<应用或取消/@appcancel>我的公会领地出售。
 
 [@summon]
 #SAY
-I will summon the members scattered in the Mir continent now.
-<Total summon/@agitrecall>
-<Individual summon/@agitonerecall>
-<Back/@main>
+我现在就召集散布在传奇大陆的成员。
+<总召唤/@agitrecall>
+<单体召唤/@agitonerecall>
+<返回/@main>
 
 [@extend]
 #SAY
-<$GUILDEXTENDFEE> gold is required. 
-To extend the rental period of this territory for 7 additional days.
-After the rental period expiration, the guild is given 7 days
-to extend. If no fee is paid even within the additional 7 days,
-the ownership of the guild territory will be completely removed.
-<Extend rental period/@agitextend>
-<Back/@main>
+<$GUILDEXTENDFEE> 需要金币。 
+延长此地盘的租期7天。
+
+租期结束后，公会有7天时间
+延长。如果在额外的7天内没有交费，
+公会领地的所有权将被彻底移除。
+<延长租期/@agitextend>
+<返回/@main>
 
 #ELSEACT
-LocalMessage "Come back when you own this territory!" Hint
+LocalMessage "等你占了这片地盘再回来！" Hint
 
 [@agitextend]
 #IF
 HASGT
 #ACT
 EXTENDGT
-LOCALMESSAGE "Rental extend 7 additional days." Hint
+LOCALMESSAGE "租期延长7天。" Hint
 
 [@agitrecall]
 #ACT
 AGITRECALL
 
 [@agitonerecall]
-<Who do you wish to summon?/@@summontest>
+<你想召唤谁？/@@summontest>
 
 [@@summontest]
 #ACT
@@ -48,11 +49,11 @@ AGITONERRECALL <$OUTPUT(A1)>
 
 [@appcancel]
 #SAY
-I will start & cancel the sale of guild territory.
-After a successful transaction, the ownership shall be
-transferred to the buyer 24 hours later.
-The master and members of the guild that sold the territory
-willbe booted out automatically.
-<Apply for sale of Guild territory/@@agitforsale>
-<Cancel sale of Guild territory/@agitforsalecancel>
-<Back/@main>
+我要开始&取消公会地盘的出售。
+交易成功后，所有权将属于
+转让给买家24小时后。
+出卖地盘的公会会长和成员
+会自动踢出。
+<申请出售公会领地/@@agitforsale>
+<取消出售公会领地/@agitforsalecancel>
+<返回/@main>

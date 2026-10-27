@@ -1,22 +1,18 @@
 [@Description]
-Are you going to {Bichon/Yellow} anytime soon? If you 
-go there, could you deliver this {SercetRecipe/LightSteelBlue} 
-to {CraftsLady/LimeGreen}? I hear the {CraftsLady/LimeGreen} in {Bichon/Yellow} 
-wants my {SecretRecipe/LightSteelBlue}. I'm too busy to go 
-there myself.
+你近期会去{比奇/Yellow}吗？如果你去的话，能把这个{秘方/LightSteelBlue}带给{工艺夫人/LimeGreen}吗？我听说{工艺夫人/LimeGreen}在{比奇/Yellow}想要我的{秘方/LightSteelBlue}。我自己太忙了没空去。
 
 [@TaskDescription]
-Please delivery this recipe to {CraftsLady/LimeGreen} in
-{BichonWall/Yellow}.
+请把这个秘方送到{工艺夫人/LimeGreen}在{比奇城/Yellow}那里。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
 
 [@CarryItems]
-SecretRecipe 2
+秘方 2
 
 [@FixedRewards]
 

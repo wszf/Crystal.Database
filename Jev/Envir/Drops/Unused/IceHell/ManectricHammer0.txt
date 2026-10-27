@@ -2,12 +2,12 @@
 1/10 Gold 3000
 
 ;Potions
-1/10 SunPotion
-1/10 SunPotion
-1/100 SunPotion
-1/150 ImpactDrug(M)
-1/150 MagicDrug(M)
-1/150 TaoistDrug(M)
-1/150 StormDrug(S)
+1/10 太阳水
+1/10 太阳水
+1/100 太阳水
+1/150 攻击药水(中)
+1/150 魔法药水(中)
+1/150 道力药水(中)
+1/150 疾风药水(小)
 
 

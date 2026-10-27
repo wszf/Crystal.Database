@@ -2,20 +2,20 @@
 1/15 Gold 1600
 
 ;Potions
-1/5 (HP)DrugLarge 
-1/5 (MP)DrugLarge 
-1/5 (HP)DrugLarge 
-1/5 (MP)DrugLarge 
+1/5 金疮药(大量) 
+1/5 魔法药(大量) 
+1/5 金疮药(大量) 
+1/5 魔法药(大量) 
  
-1/25 ImpactDrug(M) 
-1/25 MagicDrug(M) 
-1/25 TaoistDrug(M) 
-1/25 StormDrug(M) 
-1/25 StaminaAid(M) 
-1/25 MagicAid(M) 
+1/25 攻击药水(中) 
+1/25 魔法药水(中) 
+1/25 道力药水(中) 
+1/25 疾风药水(中) 
+1/25 体力药水(中) 
+1/25 魔力药水(中) 
 
 ;Nothing
-1/100 AdmissionOrb
+1/100 狐月神珠
 
 ;Weapons
 

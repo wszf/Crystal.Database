@@ -1,12 +1,13 @@
 [@Description]
-Hello traveller..
-{Butcher John/LimeGreen} is loooking for some help.
-I think its an urgent matter.
+你好，旅人..
+{屠夫约翰/LimeGreen}需要一些帮助。
+我想这是一个紧急的事情。
 
 [@TaskDescription]
-Speak to {Butcher John/LimeGreen} at Coordinates 293:603
+与{屠夫约翰/LimeGreen}在坐标 293:603交谈
 
 [@Completion]
+
 
 [@KillTasks]
 
@@ -17,9 +18,9 @@ Speak to {Butcher John/LimeGreen} at Coordinates 293:603
 [@FixedRewards]
 
 [@SelectRewards]
-SharpDagger
-ToughHoaSword
-StiffWoodenBow
+锋锐之匕
+猛虎刀(强化)
+硬木弓
 
 [@ExpReward]
 10

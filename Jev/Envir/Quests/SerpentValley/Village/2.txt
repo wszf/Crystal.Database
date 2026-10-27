@@ -1,19 +1,19 @@
 [@Description]
-The Ring still look's perfect.
-Please can you deliver the ring to my Daughter 
-{Melissa/LimeGreen}. She also requires some help.
+戒指看起来还很完美。
+能麻烦你把戒指送到我女儿{梅利莎/LimeGreen}那里吗。她也需要一些帮助。
 
 [@TaskDescription]
-Please take the {JadeRing/LightSteelBlue} to {Melissa/LimeGreen}.
+请把{翡翠戒指/LightSteelBlue}带到{梅利莎/LimeGreen}那里。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
 
 [@CarryItems]
-JadeRing 1
+翡翠戒指 1
 
 [@FixedRewards]
 

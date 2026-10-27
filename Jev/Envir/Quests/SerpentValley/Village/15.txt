@@ -1,20 +1,18 @@
 [@Description]
-Good to see you again traveler. Please can you 
-take this order to {Sam/LimeGreen} the Drapery Merchant in 
-{TaoVillage/Yellow}.
+很高兴再次见到你旅行者。能麻烦你把这个订单带到{山姆/LimeGreen}在{道士村/Yellow}的裁缝商那里。
 
 [@TaskDescription]
-Head North through {WoomyonWoods/Yellow} and deliver 
-the {TraineeSuit/LightSteelBlue} to {Drapery Sam/LimeGreen}.
+向北穿过{沃玛森林/Yellow}，把{见习套装/LightSteelBlue}送到{布商山姆/LimeGreen}那里。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
 
 [@CarryItems]
-TraineeSuit 2
+见习套装 2
 
 [@FixedRewards]
 

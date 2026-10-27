@@ -2,15 +2,15 @@
 1/5 Gold 1650
 
 ;Potions
-1/5 (HP)DrugXL
-1/5 (MP)DrugXL
-1/10 SunPotion
-1/10 SunPotion
+1/5 金疮药(特大)
+1/5 魔法药(特大)
+1/10 太阳水
+1/10 太阳水
 
 
-1/45100 GrimBow
-1/55550 LethalBow
-1/55650 ApusBow
+1/45100 冷酷之弓
+1/55550 致命之弓
+1/55650 神燕弓
 
 1/15000 SmasherNecklace
 1/15000 SmasherGlove

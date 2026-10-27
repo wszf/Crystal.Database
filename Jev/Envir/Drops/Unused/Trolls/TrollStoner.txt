@@ -1,26 +1,26 @@
 ;Gold
 1/10 Gold 1950
-1/10 SunPotion
-1/10 SunPotion
+1/10 太阳水
+1/10 太阳水
 
 ;Potions
-1/30 SunPotion
-1/50 SunPotion(M)
+1/30 太阳水
+1/50 强效太阳水
 
 
 
-1/40000 SparklingBelt
-1/40000 SparklingBoots
-1/40000 SparklingHelmet
+1/40000 贝玉腰带
+1/40000 贝玉靴子
+1/40000 贝玉头盔
 1/60000 PuiYuHelmet
 
-1/25000 BlackTigerArmour(M)
-1/25000 BlackTigerArmour(F)
-1/25000 LotusArmour(M)
-1/25000 LotusArmour(F)
-1/25000 CraneArmour(M)
-1/25000 CraneArmour(F)
-1/25000 StealthArmour(M)
-1/25000 StealthArmour(F)
-1/25000 LightTemperedArmour(M)
-1/25000 LightTemperedArmour(F)
+1/25000 黑虎甲胄(男)
+1/25000 黑虎甲胄(女)
+1/25000 莲盛魔衣(男)
+1/25000 莲盛魔衣(女)
+1/25000 鹤羽圣衣(男)
+1/25000 鹤羽圣衣(女)
+1/25000 黑乌飞甲(男)
+1/25000 黑乌飞甲(女)
+1/25000 轻型精炼甲(男)
+1/25000 轻型精炼甲(女)

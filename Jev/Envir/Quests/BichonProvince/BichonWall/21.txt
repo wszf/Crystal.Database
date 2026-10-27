@@ -1,25 +1,24 @@
 [@Description]
-That body seems to be one {Vincent/LimeGreen} is looking 
-for. The necklace matches the description 
-{Vincent/LimeGreen} gave.
+那具尸体似乎是{文森特/LimeGreen}要找的。项链和{文森特/LimeGreen}描述的一致。
 
 [@TaskDescription]
-Return the {OldNecklace/LightSteelBlue} to {Vincent/LimeGreen}.
+将{老旧的项链/LightSteelBlue}交还给{文森特/LimeGreen}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
 
 [@CarryItems]
-OldNecklace 1
+老旧的项链 1
 
 [@FixedRewards]
 
 [@SelectRewards]
-ToughGlove
-MagicBangle
+坚韧手套
+魔法神镯
 
 [@ExpReward]
 3616

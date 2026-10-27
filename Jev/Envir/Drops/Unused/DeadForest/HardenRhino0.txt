@@ -1,12 +1,12 @@
 ;Potions
-1/15 (HP)DrugLarge
-1/15 (MP)DrugLarge
-1/150 (HP)DrugLarge
-1/150 (MP)DrugLarge
-1/250 SunPotion
-1/500 SunPotion(M)
+1/15 金疮药(大量)
+1/15 魔法药(大量)
+1/150 金疮药(大量)
+1/150 魔法药(大量)
+1/250 太阳水
+1/500 强效太阳水
 
 
 ;Crafting Material
-1/60 RhinoLeather
-1/80 LargeBone
+1/60 犀牛皮
+1/80 大骨头

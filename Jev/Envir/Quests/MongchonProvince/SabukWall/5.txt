@@ -1,21 +1,22 @@
 [@Description]
-So for once the rumours are true.
-Please return to the {Hidden Entrance/Yellow}. 
- 
+看来传言是真的了。
+请返回{隐藏入口/Yellow}。
+
 [@TaskDescription]
-Eliminate some {CrawlerZombies/Crimson}.
+消灭一些{爬行僵尸/Crimson}。
 
 [@Completion]
 
+
 [@KillTasks]
-CrawlerZombie 50 "Eliminate some CrawlerZombies"
+爬行僵尸 50 "消灭一些爬行僵尸"
 
 [@ItemTasks]
 
 [@CarryItems]
 
 [@FixedRewards]
-ExorcistRing 
+降魔环 
 
 [@SelectRewards]
 

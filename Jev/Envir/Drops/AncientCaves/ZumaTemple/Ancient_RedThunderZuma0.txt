@@ -2,21 +2,21 @@
 1/1 Gold 1000
 
 ;Pots + Other
-1/1 (HP)DrugLarge 
-1/1 (MP)DrugLarge 
-1/1 (HP)DrugLarge 
-1/1 (MP)DrugLarge 
-1/1 (HP)DrugXL 
-1/1 (MP)DrugXL 
-1/1 (HP)DrugXL 
-1/1 (MP)DrugXL
-1/1 SunPotion(M)
-1/1 SunPotion(M)
-1/1 SunPotion(M)
-1/1 SunPotion(M)
+1/1 金疮药(大量) 
+1/1 魔法药(大量) 
+1/1 金疮药(大量) 
+1/1 魔法药(大量) 
+1/1 金疮药(特大) 
+1/1 魔法药(特大) 
+1/1 金疮药(特大) 
+1/1 魔法药(特大)
+1/1 强效太阳水
+1/1 强效太阳水
+1/1 强效太阳水
+1/1 强效太阳水
 
-1/40 AwakeningSoul0
-1/50 AwakeningSoul0
+1/40 觉醒之魂0
+1/50 觉醒之魂0
 
 
 ;Weapons

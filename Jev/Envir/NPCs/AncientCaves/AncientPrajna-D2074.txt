@@ -5,32 +5,32 @@ CHECKQUEST 153 1
 #ACT
 GOTO @MAIN-1
 #ELSESAY
-Nothing happens.
+什么也不会发生。
 
 [@MAIN-1]
 #IF
 LEVEL > 47
 LEVEL < 56
 #SAY
-A Mysterious Stone with Ancient symbols.
-"The Bones are crunching the Fear is <within/@prajnacavea>"
-{PrajnaHeart/LightSteelBlue} Required {Level48~55./KHAKI}
+一块带有古老铭文的神秘石头。
+骨头在嘎吱作响，恐惧就在 <内部/@prajnacavea>
+{苍月之心/LightSteelBlue} 需要 {48~55级/KHAKI}
  
-<Close/@exit>
+<关闭/@exit>
 #ELSESAY
-Nothing happens. 
+什么也不会发生。 
  
  
-<Close/@exit>
+<关闭/@exit>
 
 [@prajnacavea]
 #IF
-CHECKITEM PrajnaHeart 1
+CHECKITEM 苍月之心 1
 #ACT
-TAKEITEM PrajnaHeart 1
+TAKEITEM 苍月之心 1
 MOVE D2051A 113 174
 #ELSESAY
-Nothing happens.
+什么也不会发生。
  
  
-<Close/@exit>
+<关闭/@exit>

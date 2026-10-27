@@ -2,21 +2,21 @@
 1/2 Gold 1800
 
 ;Pots + Other
-1/30 (HP)DrugMedium
-1/30 (MP)DrugMedium
-1/70 (HP)DrugLarge
-1/70 (MP)DrugLarge
+1/30 金疮药(中量)
+1/30 魔法药(中量)
+1/70 金疮药(大量)
+1/70 魔法药(大量)
 
 ;Weapons
-1/3000 GreatAxe
-1/3000 SilverBow
-1/3000 MageStaff
-1/3000 SerpentSword
-1/3000 DoubleBlades
+1/3000 炼狱
+1/3000 银弓
+1/3000 魔杖
+1/3000 银蛇
+1/3000 双极刀
 
 ;Weapons Rare
-1/2550 DragonSword
-1/2550 BloodStealerSword
+1/2550 井中月
+1/2550 血饮
 1/5600 VanguardBow
 1/5600 VanguardBlade
 1/5600 VanguardStaff
@@ -24,16 +24,16 @@
 1/5600 VanguardBlades
 
 ;Armour
-1/400 LightLeatherArmour(M)
-1/400 LightLeatherArmour(F)
-1/400 HeavyArmour(M) 
-1/400 HeavyArmour(F) 
-1/400 MagicRobe(M) 
-1/400 MagicRobe(F) 
-1/400 SoulArmour(M) 
-1/400 SoulArmour(F) 
-1/400 RelicArmour(M)
-1/400 RelicArmour(F)
+1/400 轻皮甲(男)
+1/400 轻皮甲(女)
+1/400 重盔甲(男) 
+1/400 重盔甲(女) 
+1/400 魔法长袍(男) 
+1/400 魔法长袍(女) 
+1/400 灵魂战衣(男) 
+1/400 灵魂战衣(女) 
+1/400 残影魔衣(男)
+1/400 残影魔衣(女)
 
 ;Armour Rare
 1/6600 VanguardArmour(M)

@@ -1,22 +1,22 @@
 [@Main]
 #SAY
-Hello traveller. How can i help you?
+欢迎过客。有什么可以帮您？
  
-<Access/@Storage> Storage
+<进入/@Storage> 仓库
 
-You have <$PARCELAMOUNT> parcels awaiting collection.
+你有<$PARCELAMOUNT>个等待领取包裹。
 
-<Send/@SendParcel> Parcel
+<发送/@SendParcel> 包裹
 
-<Collect/@CollectParcel> Parcels
+<领取/@CollectParcel> 包裹
  
-<Close/@exit>
+<关闭/@exit>
 
 
 
 [@Storage]
 #SAY
-What item do you want to store or withdraw?
+你想存入或取出什么物品？
  
-<Back/@Main> - <Close/@exit>
+<返回/@Main> - <关闭/@exit>
 

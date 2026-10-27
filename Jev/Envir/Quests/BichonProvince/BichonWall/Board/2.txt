@@ -1,15 +1,16 @@
 [@Description]
-BichonWall Bounty, Has been submitted.
+比奇城墙的赏金，已提交。
 
 [@TaskDescription]
-Travel to {OmaCave/Yellow} and collect {Skeleton Bone's/LightSteelBlue}.
+前往{奥玛洞/Yellow}收集{骷髅骨/LightSteelBlue}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-SkeletonBone 15
+骷髅骨 15
 
 [@FlagTasks]
 

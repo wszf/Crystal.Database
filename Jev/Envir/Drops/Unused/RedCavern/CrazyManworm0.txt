@@ -2,10 +2,10 @@
 1/5 Gold 850
 
 ;Pots + Other
-1/20 (HP)DrugLarge
-1/20 (MP)DrugLarge
-1/25 (HP)DrugXL
-1/25 (MP)DrugXL
+1/20 金疮药(大量)
+1/20 魔法药(大量)
+1/25 金疮药(特大)
+1/25 魔法药(特大)
 
 ;Weapons
 
@@ -17,47 +17,47 @@
 
 
 ;Necklace
-1/15000 HeroNecklace
+1/15000 水波颈饰
 1/15000 MeteoriteOfArchey 
-1/15000 AdamantineNecklace
-1/15000 RequiemNecklace
+1/15000 金刚铃项链
+1/15000 镇魂项链
 
 
 ;Necklace Rare
-1/18000 CuspidNecklace
-1/18000 SorceryAnchor
-1/18000 PurifiedMirror
+1/18000 破角
+1/18000 针坠
+1/18000 心如明镜
 
 ;Bracelets
-1/2800 SteelGauntlet
-1/3900 8TrigramWheel
-1/3900 HangMaWheel
-1/3900 BokMaWheel
-1/4500 BaekTaGlove
-1/4500 SpiritReformer
-1/4500 HolyTaoWheel
+1/2800 精钢手镯
+1/3900 八极轮
+1/3900 抗魔轮
+1/3900 伏魔轮
+1/4500 白驼手套
+1/4500 魂锁轮
+1/4500 太极轮
 
 
 ;Bracelets Rare
-1/18000 DualTitanAmulet
-1/18000 SacredAngelAmulet
-1/18000 EvilWhispAmulet
+1/18000 铁魔双轮
+1/18000 玉女天使
+1/18000 曜火虹轮
 
 
 ;Rings
-1/4000 TaeGukRing
-1/4000 ThunderRing
-1/4000 BoundlessRing
-1/5500 NobleRing
-1/5500 SoulRing
-1/5500 OmaSpiritRing
+1/4000 太极环
+1/4000 雷霆环
+1/4000 无极环
+1/5500 鬼刃环
+1/5500 心意环
+1/5500 奥玛环
 1/5500 DestinyRing 
 
 
 ;Rings Rare
-1/18000 PledgeRing
-1/18000 FiveElementRing
-1/18000 CrimsonRubyRing
+1/18000 盟约戒指
+1/18000 五行连环
+1/18000 血玉环
 
 ;Shoes
 

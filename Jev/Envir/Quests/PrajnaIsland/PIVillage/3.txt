@@ -1,10 +1,11 @@
 [@Description]
-The {VillageChief/LimeGreen} is looking for you. 
+{村长/LimeGreen}在找你。
 
 [@TaskDescription]
-Speak to the {VillageChief/LimeGreen} in {Prajna Island/Yellow}
+到{苍月岛/Yellow}找{村长/LimeGreen}谈谈
 
 [@Completion]
+
 
 [@KillTasks]
 

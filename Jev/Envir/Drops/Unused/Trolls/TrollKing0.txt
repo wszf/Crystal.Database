@@ -1,26 +1,26 @@
 ;Gold
 1/1 Gold 35000
-1/10 GoldBar
+1/10 金条
 
 ;Pots + Other
-1/1 (HP)DrugXL
-1/2 (HP)DrugXL
-1/1 (MP)DrugXL
-1/2 (MP)DrugXL
-1/1 SunPotion
-1/1 SunPotion
-1/1 SunPotion(M)
-1/1 SunPotion(M)
-1/1 SunPotion
-1/1 SunPotion
-1/2 SunPotion
-1/2 SunPotion
-1/1 SunPotion
-1/2 SunPotion
+1/1 金疮药(特大)
+1/2 金疮药(特大)
+1/1 魔法药(特大)
+1/2 魔法药(特大)
+1/1 太阳水
+1/1 太阳水
+1/1 强效太阳水
+1/1 强效太阳水
+1/1 太阳水
+1/1 太阳水
+1/2 太阳水
+1/2 太阳水
+1/1 太阳水
+1/2 太阳水
 
 
-1/1 BenedictionOil
+1/1 祝福油
 1/10 GoldenBenedictionOil
 
-1/10 AwakeningSoul0
-1/10 AwakeningSoul0
+1/10 觉醒之魂0
+1/10 觉醒之魂0

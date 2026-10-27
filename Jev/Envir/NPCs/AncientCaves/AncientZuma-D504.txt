@@ -5,29 +5,29 @@ CHECKQUEST 153 1
 #ACT
 GOTO @MAIN-1
 #ELSESAY
-Nothing happens.
+什么也不会发生。
 
 [@MAIN-1]
 #IF
 LEVEL > 54
 LEVEL < 70
 #SAY
-A Mysterious Stone with Ancient symbols.
-"The still dont remain still for <long./@zumatemplea>"
-{ZumaHeart/LightSteelBlue} Required {Level55~70./KHAKI}
+一块带有古老铭文的神秘石头。
+这里没有地方能保持 <远方。/@zumatemplea>
+{祖玛之心/LightSteelBlue} 需要 {55~70级/KHAKI}
  
-<Close/@exit>
+<关闭/@exit>
 #ELSESAY
-Nothing happens.
+什么也不会发生。
  
  
-<Close/@exit>
+<关闭/@exit>
 
 [@zumatemplea]
 #IF
-CHECKITEM ZumaHeart 1
+CHECKITEM 祖玛之心 1
 #ACT
-TAKEITEM ZumaHeart 1
+TAKEITEM 祖玛之心 1
 MOVE 0157A 18 17
 #ELSESAY
-Nothing happens.
+什么也不会发生。

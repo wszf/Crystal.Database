@@ -2,11 +2,11 @@
 1/10 Gold 300
 
 ;Potions
-1/10 (HP)DrugMedium
-1/10 (MP)DrugMedium
-1/35 (HP)DrugLarge
-1/35 (MP)DrugLarge
-1/10000  BenedictionOil
+1/10 金疮药(中量)
+1/10 魔法药(中量)
+1/35 金疮药(大量)
+1/35 魔法药(大量)
+1/10000  祝福油
 
 
 ;Crafting Materials

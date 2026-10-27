@@ -2,7 +2,7 @@
 [@_UseItem(1)]
 #INCLUDE [SystemScripts\00Default\TestServerScroll.txt] @Main
 
-;;PK Point Reduction
+;;PK点数减免
 [@_UseItem(2)]
 #ACT
 REDUCEPKPOINT 100
@@ -13,48 +13,48 @@ REDUCEPKPOINT 100
 CHECKGENDER Male
 #ACT
 CHANGEGENDER
-LocalMessage "Gender Changed to Female. Please relog to take effect." Hint
+LocalMessage "性别已更改为女性。请重新登录生效。" Hint
 #ELSEACT
 CHANGEGENDER
-LocalMessage "Gender Changed to Male. Please relog to take effect." Hint
+LocalMessage "性别已更改为男性。请重新登录生效。" Hint
 
 ;;ExtraDrop 24Hour
 [@_UseItem(6)]
 #ACT
 GIVEBUFF Drop 86400 20
-LocalMessage "Drop Increased by 20% for 1 Day." Hint
+LocalMessage "掉落率提升20%，持续1天。" Hint
 
 ;;BlueOctagonalBox
 [@_UseItem(7)]
 #ACT
-GIVEITEM EXP30%3 1
-GIVEITEM HealthWine 1
-GIVEITEM DestructionLiquor 1
-GIVEITEM DCTorch3 1
-GIVEITEM GalePotion 1
-GIVEITEM ResurrectionScroll 1
+GIVEITEM 经验丹30%(3时) 1
+GIVEITEM 鸡腿 1
+GIVEITEM 破坏圣水 1
+GIVEITEM 攻击火炬3 1
+GIVEITEM 狂风水 1
+GIVEITEM 复活卷轴 1
 
 ;;RedOctagonalBox
 [@_UseItem(8)]
 #ACT
-GIVEITEM EXP30%3 1
-GIVEITEM HealthWine 1
-GIVEITEM MagicalLiquor 1
-GIVEITEM MCTorch3 1
-GIVEITEM ResurrectionScroll 1
+GIVEITEM 经验丹30%(3时) 1
+GIVEITEM 鸡腿 1
+GIVEITEM 魔法圣水 1
+GIVEITEM 魔力火炬3 1
+GIVEITEM 复活卷轴 1
 
 ;;GreenOctagonalBox
 [@_UseItem(9)]
 #ACT
-GIVEITEM EXP30%3 1
-GIVEITEM HealthWine 1
-GIVEITEM SoulLiquor 1
-GIVEITEM SCTorch3 1
-GIVEITEM ResurrectionScroll 1
+GIVEITEM 经验丹30%(3时) 1
+GIVEITEM 鸡腿 1
+GIVEITEM 道术圣水 1
+GIVEITEM 道力火炬3 1
+GIVEITEM 复活卷轴 1
 
 [@_UseItem(10)]
 #ACT
-GIVEITEM AMULET 3000
+GIVEITEM 护身符 3000
 
 ;;PK Point Medicine
 [@_UseItem(11)]
@@ -64,19 +64,19 @@ REDUCEPKPOINT 10
 ;;BoxOfHolyWater 1 Day
 [@_UseItem(12)]
 #ACT
-GIVEITEM ElixirOfMight[1d] 1
-GIVEITEM ElixirOfDefensive[1d] 1
-GIVEITEM ElixirOfGinseng[1d] 1
-GIVEITEM EXP20%[1d] 1
+GIVEITEM 力量圣水[1天] 1
+GIVEITEM 防御圣水[1天] 1
+GIVEITEM 千年雪霜圣水[1天] 1
+GIVEITEM 经验丹20%[1天] 1
 
 ;;FishingPackage
 [@_UseItem(13)]
 #ACT
-GIVEITEM RedFishingRod[6M] 1
-GIVEITEM PremiumReel 1
-GIVEITEM PremiumFloat 1
-GIVEITEM PremiumFinder 1
-GIVEITEM PremiumBait 7200
+GIVEITEM 红色鱼竿[6米] 1
+GIVEITEM 高级摇轮 1
+GIVEITEM 高级鱼漂 1
+GIVEITEM 高级探鱼器 1
+GIVEITEM 高级鱼饵 7200
 
 ;;GoldBar/GoldBarBundle/GoldChest
 [@_UseItem(500)]
@@ -84,24 +84,24 @@ GIVEITEM PremiumBait 7200
 CHECKGOLD <= 4293967295
 #ACT
 GIVEGOLD 1000000
-LocalMessage "Gained 1 Million Gold" Hint
+LocalMessage "获得100万金币" Hint
 #ELSEACT
-GIVEITEM GoldBar 1
+GIVEITEM 金条 1
 
 [@_UseItem(501)]
 #IF
 CHECKGOLD <= 4289967295
 #ACT
 GIVEGOLD 5000000
-LocalMessage "Gained 5 Million Gold" Hint
+LocalMessage "获得500万金币" Hint
 #ELSEACT
-GIVEITEM GoldBarBundle 1
+GIVEITEM 金砖 1
 
 [@_UseItem(502)]
 #IF
 CHECKGOLD <= 4284967295
 #ACT
 GIVEGOLD 10000000
-LocalMessage "Gained 10 Million Gold" Hint
+LocalMessage "获得1000万金币" Hint
 #ELSEACT
-GIVEITEM GoldChest 1
+GIVEITEM 金盒 1

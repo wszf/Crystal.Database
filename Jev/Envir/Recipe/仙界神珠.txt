@@ -1,0 +1,13 @@
+[Recipe]
+Amount 1
+Chance 20
+Gold 10000
+
+[Tools]
+工艺书
+
+[Ingredients]
+道术守护石 
+道力药水(大) 
+魔法药(大量) 
+金疮药(大量) 

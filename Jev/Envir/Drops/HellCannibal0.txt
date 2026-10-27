@@ -2,10 +2,10 @@
 1/2 Gold 3750
 
 ;Pots + Other
-1/4 (HP)DrugXL
-1/4 (MP)DrugXL
-1/10 (HP)DrugXL
-1/10 (MP)DrugXL
+1/4 金疮药(特大)
+1/4 魔法药(特大)
+1/10 金疮药(特大)
+1/10 魔法药(特大)
 
 ;Weapons
 
@@ -45,21 +45,21 @@
 
 ;Books
 ;Warrior
-1/16000 CounterAttack
+1/16000 反击
 
 ;Taoist
-1/16000 Plague
-1/16000 PetEnhancer
+1/16000 瘟疫术
+1/16000 宠物强化
 
 ;Wizard
-1/16000 MagicBooster
-1/16000 IceThrust
+1/16000 魔力强化
+1/16000 冰刺术
 
 ;Assassin
-1/16000 Hemorrhage
+1/16000 血凤击
 
 ;CraftingMaterials
-1/100 FocusMarble
+1/100 准确珠
 
 ;Quests
 1/1 CannibalStomach Q

@@ -1,14 +1,11 @@
 [@Description]
-My grandpa lives in {WoomyonWoods/Yellow}. I used 
-to visit him offen, but I've just been too busy. 
-Could you visit {MasterShok/LimeGreen} in {WoomyonWoods/Yellow}
-and see how he's doing?
+我爷爷住在 {沃玛森林/Yellow}。我经常去探望他，但最近太忙了。你能去 {沃玛森林/Yellow}拜访一下 {师傅_肖克/LimeGreen}，看看他过得怎么样吗？
 
 [@TaskDescription]
-Visit {MasterShok/LimeGreen} Coordinates 312:73 
-{WoomyonWood's/Yellow}
+拜访 {师傅_肖克/LimeGreen} 坐标 312:73 {沃玛森林/Yellow}。
 
 [@Completion]
+
 
 [@KillTasks]
 

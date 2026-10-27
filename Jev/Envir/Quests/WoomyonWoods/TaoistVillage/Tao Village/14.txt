@@ -1,10 +1,11 @@
 [@Description]
-Please report back to the {BichonExaminer/LimeGreen} 
+请向 {比奇考官/LimeGreen} 报告
 
 [@TaskDescription]
-Talk to {BichonExaminer/LimeGreen} in {BichonProvince/Yellow}
+和{比奇考官/LimeGreen}在{比奇省/Yellow}交谈
 
 [@Completion]
+
 
 [@KillTasks]
 
@@ -13,7 +14,7 @@ Talk to {BichonExaminer/LimeGreen} in {BichonProvince/Yellow}
 [@CarryItems]
 
 [@FixedRewards]
-BlackIronBangle
+黑铁之镯
 
 [@SelectRewards]
 

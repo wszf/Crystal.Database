@@ -10,16 +10,16 @@ GOTO @MAIN-2
 #ACT
 SET [540] 0
 #SAY
-Ah your the traveler.. Ive been hearing about.
-Well I refuse to tell anyone about the Emperor!
+啊，你是旅行者……我听说过你。
+哎，我可不会告诉别人的！
  
-<Close/exit>
+<关闭/exit>
 
 [@MAIN-2]
 #SAY
-Have you ever heard about the Emperor? 
-Hes such a lazy good for nothing fool. Sooner we remove him
-from the throne the better. Its time for the free folk to 
-govern these lands.
+您听说过皇帝吗？ 
+真是个懒骨头的废物。早点把他踢掉
+王座更适合。是自由的人民该 
+治理这些土地。
  
-<Close/@exit>
+<关闭/@exit>

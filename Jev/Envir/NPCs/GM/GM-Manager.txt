@@ -2,14 +2,14 @@
 #IF
 ISADMIN
 #SAY
-Managing the affairs of a Game Master like you is a pleasure.
-What function would you like me to perform today <$DATE>
+管理像你这样的游戏管理员真是件乐事。
+今天想让我帮你做哪个功能 <$DATE>
 
-<Guild Application/@CreateGuildCheck> , <View Market/@MARKET> , <Hero Management/@Hero>
-<Kill my Pets/@KillPets> , <Open my Storage/@STORAGE> , <Reset Quest Flags/@ResetQuestFlags>
-<Rebirth Panel/@RebirthPanel> , <Event Management Page/@EventManagement> , <Guild Territory/@GT>
+<公会申请/@CreateGuildCheck> , <查看市场/@MARKET> , <英雄管理/@Hero>
+<收回宠物/@KillPets> , <打开我的仓库/@STORAGE> , <重置任务标记/@ResetQuestFlags>
+<转生面板/@RebirthPanel> , <活动管理/@EventManagement> , <公会领地/@GT>
  
-<Exit/@Exit>
+<退出/@Exit>
 #ELSEACT
 MOVE 0 300 300
 
@@ -33,8 +33,8 @@ GOTO @GiveHorn
 
 [@GiveHorn]
 #ACT
-CHECKITEM WoomaHorn 1
-GIVEITEM WoomaHorn 1
+CHECKITEM 沃玛号角 1
+GIVEITEM 沃玛号角 1
 GOTO @CREATEGUILD
 #ELSEACT
 GOTO @CREATEGUILD
@@ -43,20 +43,20 @@ GOTO @CREATEGUILD
 [@KillPets]
 #ACT
 CLEARPETS
-LINEMESSAGE "Your pets are now dead as you requested." Hint
+LINEMESSAGE "你的宠物已经按照你的要求死亡了。" Hint
 
 
 [@CREATEGUILD]
 
 [@STORAGE]
 #SAY
-Trust me, I'm looking after your stuff.
+相信我，我帮你保管东西。
  
  
  
  
  
-Menu: <Main Menu/@Main> - <Exit/@Exit>
+菜单: <主菜单/@Main> - <退出/@Exit>
 
 
 [@ResetQuestFlags]
@@ -72,34 +72,34 @@ SET [507] 0
 SET [508] 0
 SET [509] 0
 SET [510] 0
-LINEMESSAGE "All quest flags have been reset." Hint
+LINEMESSAGE "所有任务标记都已重置。" Hint
 
 [@EventManagement]
 #SAY
-This could be used for starting global events and other stuff as the
-server develops and adds in more functionality over time.
+这个可以用于开启全球事件和其他用途的……
+服务器会随着时间不断开发和增加更多功能。
 
-<<SabukWall/@Sabuk>>
+<<沙巴克城墙/@Sabuk>>
  
  
  
  
  
-<Back/@Main>
+<返回/@Main>
 
 [@Sabuk]
 #SAY
-Sabuk Wall Management Panel
+沙巴克城墙管理面板
 
-<Start War/End War/@StartWar>             <Statistics/@SWStatistics>
-<Teleport to InnerWall/@InnerWall>
-<Guard Check/@Guards>
-<Gate/Wall Check/@Gates>
-<Repair All/@SWReset>
+<开始战争/End War/@StartWar>             <统计/@SWStatistics>
+<传送到内城/@InnerWall>
+<守卫检查/@Guards>
+<传送/Wall Check/@Gates>
+<全部修理/@SWReset>
 
-Current Owner of SabukWall is: <$CONQUESTOWNER(1)>
+沙堡的当前拥有者是：<$CONQUESTOWNER(1)>
 
-<Back/@EventManagement>     <Exit/@Exit>
+<返回/@EventManagement>     <退出/@Exit>
 
 [@StartWar]
 #ACT
@@ -112,74 +112,74 @@ MOVE 0150 12 15
 [@Guards]
 #SAY
 
-<Revive All/@RepairAll>
+<全部复活/@RepairAll>
 
-<$CONQUESTGUARD(1,1)>   <Repair/@Guard1>
-<$CONQUESTGUARD(1,2)>   <Repair/@Guard2>
-<$CONQUESTGUARD(1,3)>   <Repair/@Guard3>
-<$CONQUESTGUARD(1,4)>   <Repair/@Guard4>
-<$CONQUESTGUARD(1,5)>   <Repair/@Guard5>
-<$CONQUESTGUARD(1,6)>   <Repair/@Guard6>
-<$CONQUESTGUARD(1,7)>   <Repair/@Guard7>
-<$CONQUESTGUARD(1,8)>   <Repair/@Guard8>
-<$CONQUESTGUARD(1,9)>   <Repair/@Guard9>
-<$CONQUESTGUARD(1,10)>   <Repair/@Guard10>
-<$CONQUESTGUARD(1,11)>   <Repair/@Guard11>
-<$CONQUESTGUARD(1,12)>   <Repair/@Guard12>
+<$CONQUESTGUARD(1,1)>   <修理/@Guard1>
+<$CONQUESTGUARD(1,2)>   <修理/@Guard2>
+<$CONQUESTGUARD(1,3)>   <修理/@Guard3>
+<$CONQUESTGUARD(1,4)>   <修理/@Guard4>
+<$CONQUESTGUARD(1,5)>   <修理/@Guard5>
+<$CONQUESTGUARD(1,6)>   <修理/@Guard6>
+<$CONQUESTGUARD(1,7)>   <修理/@Guard7>
+<$CONQUESTGUARD(1,8)>   <修理/@Guard8>
+<$CONQUESTGUARD(1,9)>   <修理/@Guard9>
+<$CONQUESTGUARD(1,10)>   <修理/@Guard10>
+<$CONQUESTGUARD(1,11)>   <修理/@Guard11>
+<$CONQUESTGUARD(1,12)>   <修理/@Guard12>
 
-<Back/@Sabuk>     <Exit/@Exit>
+<返回/@Sabuk>     <退出/@Exit>
 
 [@Gates]
 #SAY
 
-<Repair All Walls/@RepairAllWalls>
+<修理全部城墙/@RepairAllWalls>
 
-Walls and Gates
-<$CONQUESTWALL(1,1)>   <Repair/@Wall1>
-<$CONQUESTWALL(1,2)>   <Repair/@Wall2>
-<$CONQUESTWALL(1,3)>   <Repair/@Wall3>
-<$CONQUESTGATE(1,1)>   <Repair/@Gate1>
+城墙与大门
+<$CONQUESTWALL(1,1)>   <修理/@Wall1>
+<$CONQUESTWALL(1,2)>   <修理/@Wall2>
+<$CONQUESTWALL(1,3)>   <修理/@Wall3>
+<$CONQUESTGATE(1,1)>   <修理/@Gate1>
 
-<Open Gate/@OpenGate> <Close Gate/@CloseGate>
+<打开城门/@OpenGate> <关闭城门/@CloseGate>
 
-<Back/@Sabuk>     <Exit/@Exit>
+<返回/@Sabuk>     <退出/@Exit>
 
 [@OpenGate]
 #ACT
 OPENGATE 1 1
-LocalMessage "Gate Opened." Hint
+LocalMessage "大门开启。" Hint
 
 [@CloseGate]
 #ACT
 CLOSEGATE 1 1
-LocalMessage "Gate Closed." Hint
+LocalMessage "大门关闭。" Hint
 
 [@RepairAllWalls]
 #ACT
 CONQUESTWALL 1 1
 CONQUESTWALL 1 2
 CONQUESTWALL 1 3
-LocalMessage "All Walls Repaired." Hint
+LocalMessage "所有城墙已修复。" Hint
 
 [@Wall1]
 #ACT
 CONQUESTWALL 1 1
-LocalMessage "You have Repaired Left Wall!" Hint
+LocalMessage "你修理了左墙！" Hint
 
 [@Wall2]
 #ACT
 CONQUESTWALL 1 2
-LocalMessage "Center Wall Repaired." Hint
+LocalMessage "中心城墙已修复。" Hint
 
 [@Wall3]
 #ACT
 CONQUESTWALL 1 3
-LocalMessage "Right Wall Repaired." Hint
+LocalMessage "右侧城墙已修复。" Hint
 
 [@Gate1]
 #ACT
 CONQUESTGATE 1 1
-LocalMessage "Gate Repaired." Hint
+LocalMessage "大门已修复。" Hint
 
 [@RepairAll]
 #ACT
@@ -195,94 +195,94 @@ CONQUESTGUARD 1 9
 CONQUESTGUARD 1 10
 CONQUESTGUARD 1 11
 CONQUESTGUARD 1 12
-LocalMessage "All Guards Revived." Hint
+LocalMessage "所有看守复活。" Hint
 
 [@Guard1]
 #ACT
 CONQUESTGUARD 1 1
-LocalMessage "Guard 1 Revived." Hint
+LocalMessage "看守1复活。" Hint
 
 [@Guard2]
 #ACT
 CONQUESTGUARD 1 2
-LocalMessage "Guard 2 Revived." Hint
+LocalMessage "看守2复活。" Hint
 
 [@Guard3]
 #ACT
 CONQUESTGUARD 1 3
-LocalMessage "Guard 3 Revived." Hint
+LocalMessage "看守3复活。" Hint
 
 [@Guard4]
 #ACT
 CONQUESTGUARD 1 4
-LocalMessage "Guard 4 Revived." Hint
+LocalMessage "看守4复活。" Hint
 
 [@Guard5]
 #ACT
 CONQUESTGUARD 1 5
-LocalMessage "Guard 5 Revived." Hint
+LocalMessage "守卫5复活了。" Hint
 
 [@Guard6]
 #ACT
 CONQUESTGUARD 1 6
-LocalMessage "Guard 6 Revived." Hint
+LocalMessage "守卫6复活了。" Hint
 
 [@Guard7]
 #ACT
 CONQUESTGUARD 1 7
-LocalMessage "Guard 7 Revived." Hint
+LocalMessage "守卫7复活了。" Hint
 
 [@Guard8]
 #ACT
 CONQUESTGUARD 1 8
-LocalMessage "Guard 8 Revived." Hint
+LocalMessage "守卫8复活了。" Hint
 
 [@Guard9]
 #ACT
 CONQUESTGUARD 1 9
-LocalMessage "Guard 9 Revived." Hint
+LocalMessage "守卫9复活了。" Hint
 
 [@Guard10]
 #ACT
 CONQUESTGUARD 1 10
-LocalMessage "Guard 10 Revived." Hint
+LocalMessage "守卫10复活了。" Hint
 
 [@Guard11]
 #ACT
 CONQUESTGUARD 1 11
-LocalMessage "Guard 11 Revived." Hint
+LocalMessage "守卫11复活了。" Hint
 
 [@Guard12]
 #ACT
 CONQUESTGUARD 1 12
-LocalMessage "Guard 12 Revived." Hint
+LocalMessage "守卫12复活了。" Hint
 
 [@SWReset]
 #ACT
 CONQUESTREPAIRALL 1
-LocalMessage "SabukWall Walls/Gate/Guards Repaired/Revived" Hint
+LocalMessage "沙巴克城墙/城门/守卫已修理/复活" Hint
 
 [@SWStatistics]
 #SAY
-Below are some Sabuk Statistics.
+下面是一些沙巴克属性。
 ‎ 
 
-Conquest Gold Stored: <$CONQUESTGOLD(1)>
-Conquest Intrest Rate: <$CONQUESTRATE(1)>
-Next Conquest Date: <$CONQUESTSCHEDULE(1)>
+征服金币存储：<$CONQUESTGOLD(1)>
+征服利息率：<$CONQUESTRATE(1)>
+下次征服日期：<$CONQUESTSCHEDULE(1)>]
 ‎ 
-<Back/@Sabuk>     <Exit/@Exit>
+<返回/@Sabuk>     <退出/@Exit>
 
 [@Hero]
 #SAY
-Hero Management page 
+英雄管理页面 
 
-<Back/@Main>
+<返回/@Main>
 
-<<Create Hero/@CreateHero/Green>>
-<<ReviveHero/@ReviveHero/Red>>
-<<SealHero/@SealHero/Yellow>>
-<<DeleteHero/@DeleteHero/Blue>>
+<<创建角色/@CreateHero/Green>>
+<<复活角色/@ReviveHero/Red>>
+<<封印角色/@SealHero/Yellow>>
+<<删除角色/@DeleteHero/Blue>>
 
 [@ReviveHero]
 #ACT
@@ -294,59 +294,59 @@ SealHero
 
 [@DeleteHero]
 #IF
-CHECKITEM SealedHero
+CHECKITEM 封印英雄
 #ACT
 GOTO @Found
 #ELSESAY
-You don't currently have a Sealed Hero.
+你没有封印英雄。
 
 [@Found]
 #ACT
-TAKEITEM SealedHero
+TAKEITEM 封印英雄
 #SAY
-Hero had now passed over to the gods.
+这位英雄已经升天了。
 
 [@RebirthPanel]
 #SAY
-Here you can set your Rebirth.
+您可以在这里设置您的重生点。
 
-Apply Rebirth          Delete Rebirth             Check Rebirth
+使用重生 移除重生 检查重生
 
-<Rebirth 1/@RB1>                 <Rebirth 1/@RB1DEL>                       <Rebirth 1/@RB1CHK>
-<Rebirth 2/@RB2>                 <Rebirth 2/@RB2DEL>                       <Rebirth 2/@RB2CHK>
-<Rebirth 3/@RB3>                 <Rebirth 3/@RB3DEL>                       <Rebirth 3/@RB3CHK>
-<All/@RB123>                             <All/@DEL123>
+<转生1/@RB1>                 <转生1/@RB1DEL>                       <转生1/@RB1CHK>
+<转生2/@RB2>                 <转生2/@RB2DEL>                       <转生2/@RB2CHK>
+<转生3/@RB3>                 <转生3/@RB3DEL>                       <转生3/@RB3CHK>
+<全部/@RB123>                             <全部/@DEL123>
 ‎ 
-<Check Main Rebirth Flag/@RBMAIN>      <Delete Main Rebirth Flag/@RBMAINDEL>      <Apply Main Rebirth Flag/@RBMAINADD>
+<检查主转生标记/@RBMAIN>      <删除主转生标记/@RBMAINDEL>      <设置主转生标记/@RBMAINADD>
 
-<Back/@Main>
+<返回/@Main>
 [@RB1]
 #ACT
 SET [993] 1
 #SAY
-Rebirth 1 granted.
-<Back/@RebirthPanel>    <Exit/@Exit>
+重生1已授予。
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB2]
 #ACT
 SET [994] 1
 #SAY
-Rebirth 2 granted.
-<Back/@RebirthPanel>    <Exit/@Exit>
+重生2已授予。
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB3]
 #ACT
 SET [995] 1
 #SAY
-Rebirth 3 granted.
-<Back/@RebirthPanel>    <Exit/@Exit>
+重生3已授予。
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RBMAINADD]
 #ACT
 SET [1000] 1
 #SAY
-Main Rebirth Flag granted.
-<Back/@RebirthPanel>    <Exit/@Exit>
+主重生旗帜已授予。
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB123]
 #ACT
@@ -355,29 +355,29 @@ SET [994] 1
 SET [995] 1
 SET [1000] 1
 #SAY
-All rebirth flags applied.
-<Back/@RebirthPanel>    <Exit/@Exit>
+所有重生标记已激活。
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB1DEL]
 #ACT
 SET [993] 0
 #SAY
-Rebirth 1 cleared.
-<Back/@RebirthPanel>    <Exit/@Exit>
+重生1已清除。
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB2DEL]
 #ACT
 SET [994] 0
 #SAY
-Rebirth 2 cleared.
-<Back/@RebirthPanel>    <Exit/@Exit>
+重生2已清除。
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB3DEL]
 #ACT
 SET [995] 0
 #SAY
-Rebirth 3 cleared.
-<Back/@RebirthPanel>    <Exit/@Exit>
+重生3已清除。
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@DEL123]
 #ACT
@@ -386,74 +386,75 @@ SET [994] 0
 SET [995] 0
 SET [1000] 0
 #SAY
-All rebirth flags cleared.
-<Back/@RebirthPanel>    <Exit/@Exit>
+所有重生标记已清除。
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RBMAINDEL]
 #ACT
 SET [1000] 0
 #SAY
-Main Rebirth cleared.
-<Back/@RebirthPanel>    <Exit/@Exit>
+主重生已清除。
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RBMAIN]
 #IF
 CHECK [1000] 1
 #SAY
-You currently have Main Rebirth Effect.
-<Back/@RebirthPanel>    <Exit/@Exit>
+你目前拥有主重生效果。
+<返回/@RebirthPanel>    <退出/@Exit>
 #ELSESAY
-You do not have Main Rebirth Effect.
-<Back/@RebirthPanel>    <Exit/@Exit>
+你没有主重生效果。
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB1CHK]
 #IF
 CHECK [993] 1
 #SAY
-You currently have Rebirth 1.
-<Back/@RebirthPanel>    <Exit/@Exit>
+你目前拥有重生1。
+<返回/@RebirthPanel>    <退出/@Exit>
 #ELSESAY
-You do not have Rebirth 1.
-<Back/@RebirthPanel>    <Exit/@Exit>
+你没有重生1。
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB2CHK]
 #IF
 CHECK [994] 1
 #SAY
-You currently have Rebirth 2.
-<Back/@RebirthPanel>    <Exit/@Exit>
+你目前拥有重生2。
+<返回/@RebirthPanel>    <退出/@Exit>
 #ELSESAY
-You do not have Rebirth 2.
-<Back/@RebirthPanel>    <Exit/@Exit>
+你没有重生2。
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@RB3CHK]
 #IF
 CHECK [995] 1
 #SAY
-You currently have Rebirth 3.
-<Back/@RebirthPanel>    <Exit/@Exit>
+你目前拥有重生3。
+<返回/@RebirthPanel>    <退出/@Exit>
 #ELSESAY
-You do not have Rebirth 3.
-<Back/@RebirthPanel>    <Exit/@Exit>
+你没有重生3。
+<返回/@RebirthPanel>    <退出/@Exit>
 
 [@GT]
 #SAY
-Welcome to the Guild Territory Panel.
+欢迎来到公会领地面板。
 
-Please select what GT you would like to teleport to.
+请选择您想要传送到哪个地点。
 
-<Guild Territory 1/@GT1>
-<Guild Territory 2/@GT2>
-<Guild Territory 3/@GT3>
-<Guild Territory 4/@GT4>
-<Guild Territory 5/@GT5>
-<Guild Territory 6/@GT6>
-<Guild Territory 7/@GT7>
-<Guild Territory 8/@GT8>
-<Guild Territory 9/@GT9>
-<Guild Territory 10/@GT10>
 
-<Back/@Main>  <Exit/@Exit>
+<公会领地1/@GT1>
+<公会领地2/@GT2>
+<公会领地3/@GT3>
+<公会领地4/@GT4>
+<公会领地5/@GT5>
+<公会领地6/@GT6>
+<公会领地7/@GT7>
+<公会领地8/@GT8>
+<公会领地9/@GT9>
+<公会领地10/@GT10>
+
+<返回/@Main>  <退出/@Exit>
 [@GT1]
 #ACT
 MOVE GA0 54 55

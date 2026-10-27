@@ -2,44 +2,44 @@
 1/1 Gold 50000
 
 ;Pots + Other
-1/1 SunPotion
-1/1 SunPotion
-1/1 SunPotion
-1/1 SunPotion
-1/1 SunPotion
-1/1 SunPotion
-1/1 SunPotion
-1/1 SunPotion
-1/1 BenedictionOil
+1/1 太阳水
+1/1 太阳水
+1/1 太阳水
+1/1 太阳水
+1/1 太阳水
+1/1 太阳水
+1/1 太阳水
+1/1 太阳水
+1/1 祝福油
 1/10 GoldenBenedictionOil
 
-1/1 AwakeningSoul0
-1/1 AwakeningSoul0
+1/1 觉醒之魂0
+1/1 觉醒之魂0
 
 
 
 ;Weapons
-1/100 FrozenSabre
-1/100 GrimBow
-1/100 ConquerorSpear
-1/100 BastardSword
-1/200 BlackTigerHammer
-1/200 LethalBow
-1/200 StaffOfLotus
-1/200 FanOfCrane
-1/300 SwordOfWarGod
-1/300 BowOfForce
-1/300 BladeOfSorcery
-1/300 HeavenSword
-1/400 BurstSword
-1/400 DreadBow
-1/400 HolyBloodSpear
-1/400 DragonBloodSword
-1/600 ApusBow
-1/600 BarbarianSword
-1/600 RawSword
-1/900 BoneCarvedFan
-1/1300 HellYamaBlade
+1/100 寒霜剑
+1/100 冷酷之弓
+1/100 月轮枪
+1/100 月轮剑
+1/200 黑虎斧
+1/200 致命之弓
+1/200 火莲杖
+1/200 鹤羽扇
+1/300 开天
+1/300 力量之弓
+1/300 镇天
+1/300 玄天
+1/400 魔血剑
+1/400 恐惧之弓
+1/400 神血枪
+1/400 龙血剑
+1/600 神燕弓
+1/600 碧血混水剑
+1/600 虹玄混地剑
+1/900 翊仙混真扇
+1/1300 阎狱之剑
 1/2000 PriestSlayer
 1/2000 PriestStaff
 1/2000 PriestFan
@@ -51,16 +51,16 @@
 
 
 ;Armour
-1/1000 HeavenArmour(M)
-1/1000 HeavenArmour(F)
+1/1000 天衣无缝(男)
+1/1000 天衣无缝(女)
 1/1000 HeavenArcheyRobe(M)
 1/1000 HeavenArcheyRobe(F)
 1/1200 HeavenGrnArmour(M)
 1/1200 HeavenGrnArmour(F)
 1/1200 HeavenRedArmour(M)
 1/1200 HeavenRedArmour(F)
-1/1200 HeavenArmour(M)
-1/1200 HeavenArmour(F)
+1/1200 天衣无缝(男)
+1/1200 天衣无缝(女)
 1/1200 HeavenGoldArmour(M)
 1/1200 HeavenGoldArmour(F)
 1/650 BloodDragonArmour(M)
@@ -90,51 +90,51 @@
 ;Helmets
 1/2000 MantisHelmet
 1/90 ApesCrown
-1/60 SparklingHelmet
-1/520 HelmetOfDarkness
+1/60 贝玉头盔
+1/520 黑术冠
 1/100 PuiYuHelmet
 1/450 BloodDragonHelmet
 1/6000 LordSlayerHelmet
 
 ;Necklace
 1/2000 RhinoChains
-1/100 EvilTriangle
-1/100 CrossPurified
-1/100 AdamantNecklace
-1/150 DemonMask
-1/150 VioletOrb
-1/150 KunroonTear
+1/100 曜紫天坠
+1/100 秀女十字盘
+1/100 金刚陶坠
+1/150 魔神鬼影
+1/150 魔玉电影
+1/150 昆仑眼泪
 1/200 (H)DemonMask
 1/200 (H)VioletOrb
 1/200 (H)KunroonTear
 1/500 BloodDragonNecklace
-1/600 NecklaceOfAgony
+1/600 痛苦项链
 1/6000 LordSlayerNecklace
 
 ;Bracelets
 1/2000 SlimeBracelet
-1/155 WildTitanAmulet
-1/155 EnchantedAmulet
-1/155 FiveElementAmulet
+1/155 暴虎归山
+1/155 曜宝探魔轮
+1/155 五行悟思轮
 1/250 WheelOfLunar
 1/300 (H)WheelOfLunar
 1/500 BloodDragonBrace
-1/600 BraceletOfAgony
+1/600 痛苦护腕
 1/6000 LordSlayerBracelet
 
 ;Rings
 1/2000 BirdRing
-1/155 DemonRubyRing
-1/155 EvilExpelRing
-1/155 GoldDragonRing
-1/120 RedDemonRing
-1/120 CloudRing
-1/120 PoisonRing
+1/155 飞曜环
+1/155 金刚伏魔环
+1/155 金龙戒指
+1/120 战魔戒指
+1/120 柔云戒指
+1/120 毒素戒指
 1/200 (H)RedDemonRing
 1/200 (H)CloudRing
 1/200 (H)PoisonRing
 1/450 BloodDragonRing
-1/600 RingOfAgony
+1/600 痛苦戒指
 1/6000 LordSlayerRing
 
 ;Shoes
@@ -176,67 +176,67 @@
 1/400 SpeedyMagicianRune
 
 ;Gems/Orbs
-1/25 BraveryGem
-1/25 MagicGem
-1/25 SoulGem
-1/20 ProtectionGem
-1/20 EvilSlayerGem
-1/32 PoisonGem
-1/32 FreezingGem
-1/80 StormGem
-1/80 AccuracyGem
-1/80 AgilityGem
-1/25 BraveryOrb
-1/25 MagicOrb
-1/25 SoulOrb
-1/20 ProtectionOrb
-1/20 EvilSlayerOrb
-1/32 PoisonOrb
-1/32 FreezingOrb
-1/80 StormOrb
-1/80 AccuracyOrb
-1/80 AgilityOrb
+1/25 勇猛宝玉
+1/25 魔性宝玉
+1/25 仙界宝玉
+1/20 守护宝玉
+1/20 制魔宝玉
+1/32 中毒宝玉
+1/32 酷寒宝玉
+1/80 疾风宝玉
+1/80 集中宝玉
+1/80 回避宝玉
+1/25 勇猛神珠
+1/25 魔性神珠
+1/25 仙界神珠
+1/20 守护神珠
+1/20 制魔神珠
+1/32 中毒神珠
+1/32 酷寒神珠
+1/80 疾风神珠
+1/80 集中神珠
+1/80 回避神珠
 
 ;Books
 ;Warrior
-1/500 CounterAttack
-1/500 ImmortalSkin
-1/250 Fury
-1/80 ProtectionField
-1/80 Rage
+1/500 反击
+1/500 不灭护体
+1/250 嗜血
+1/80 护身气幕
+1/80 狂暴
 
 ;Wizard
-1/80 MeteorStrike
-1/120 MagicBooster
-1/200 StormEscape
-1/250 FastMove
-1/500 IceThrust
+1/80 流星打击
+1/120 魔力强化
+1/200 风暴逃脱
+1/250 快速移动
+1/500 冰刺术
 1/500 LavaKing
 1/500 FrozenRains
 
 ;Taoist
-1/80 MeteorStrike
-1/120 MagicBooster
-1/200 StormEscape
-1/250 FastMove
-1/400 Plague
+1/80 流星打击
+1/120 魔力强化
+1/200 风暴逃脱
+1/250 快速移动
+1/400 瘟疫术
 1/500 HeadShot
 1/500 HolyShield
 1/2000 FortuneTeller
 
 ;Assassin
-1/500 Hemorrhage
-1/800 SwiftFeet
-1/800 DarkBody
-1/1200 MoonMist
+1/500 血凤击
+1/800 迅雷疾足
+1/800 暗影替身
+1/1200 月影迷雾
 1/1650 FuryWaves
 1/2000 BackStab
 1/2200 ShadowStep
 
-1/500 PoisonShot
-1/800 CrippleShot
-1/1200 SummonSnakes
-1/1650 NapalmShot
-1/2000 OneWithNature
+1/500 毒箭
+1/800 致残射击
+1/1200 召唤毒蛇
+1/1650 燃烧箭
+1/2000 天人合一
 
 ;CraftingMaterials

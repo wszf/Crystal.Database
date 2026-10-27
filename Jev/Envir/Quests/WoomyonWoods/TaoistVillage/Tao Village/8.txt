@@ -1,16 +1,17 @@
 [@Description]
-Please head back to {TreePath/Yellow} and gather more 
-{Materials/LightSteelBlue}.
+请返回{丛林迷宫/Yellow}收集更多的
+{材料/LightSteelBlue}。
 
 [@TaskDescription]
-Find 5 {AncientTree/LightSteelBlue} by killing {RootSpider's/Crimson}.
+通过杀死{幻影蜘蛛/Crimson}找到5个{老树根/LightSteelBlue}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-AncientTree 5
+老树根 5
 
 [@CarryItems]
 

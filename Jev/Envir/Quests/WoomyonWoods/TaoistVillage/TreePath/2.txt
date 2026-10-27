@@ -1,13 +1,14 @@
 [@Description]
-Are you interested in a Bounty?
+对赏金感兴趣吗？
 
 [@TaskDescription]
-Find and Eliminate {EvilBigApe/LightSteelBlue} in {RedValley/Yellow}.
+在{红谷/Yellow}找到并消灭{邪恶血巨人/LightSteelBlue}。
 
 [@Completion]
 
+
 [@KillTasks]
-EvilBigApe 1
+邪恶血巨人 1
 
 [@ItemTasks]
 

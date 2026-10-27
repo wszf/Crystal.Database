@@ -1,23 +1,12 @@
 [@Description]
-You have been very helpful to many people in 
-{Bichon/Yellow}. Do you have any spare time to help me 
-as well? A long time ago, I had a friend that I 
-went hunting with. We went to {BichonDeadMine/Yellow} 
-one day when we where suuounded by 
-dangerous creatures. We tried to escape, but 
-there where just to many of them. My friend got 
-hurt in battle, and he decided to stay behide 
-while I escaped to get some help. I wanted 
-to get some help but no one was brave enough 
-to go help him with me. It's already to late 
-but can you go find the remains of my friend? 
-He always had his necklace on him.
+你在{比奇/Yellow}帮过很多人。你有没有空帮帮我？很久以前，我有个朋友，
+我们一起去狩猎。有一次我们去了{比奇废矿/Yellow}，结果被可疑的生物包围了。我们想逃跑，但它们太多了。我朋友在战斗中受伤了，他决定留下来，等我逃出去叫人帮忙。我想寻求帮助，但没人有勇气陪我一起去。已经太晚了，但你能去寻找我朋友的遗骸吗？他一直戴着项链。
 
 [@TaskDescription]
-Try find {Vincent's/LimeGreen} friend he was last seen on
-{B2 of DeadMine/Yellow}.
+试着找到{文森特/LimeGreen}最后在一个{矿区通道二/Yellow}出现的朋友。
 
 [@Completion]
+
 
 [@KillTasks]
 

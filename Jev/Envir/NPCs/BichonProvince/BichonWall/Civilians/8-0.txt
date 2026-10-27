@@ -8,20 +8,21 @@ GOTO @MAIN-2
 
 [@MAIN-1]
 #SAY
-Traveler Traveler.. There's people going around ruining everything.
+旅人。到处都是破坏一切的人。
+
  
-<Close/@exit>
+<关闭/@exit>
 
 [@MAIN-2]
 #SAY
-Oh.. Sorry.. You startled me. Well Hello there..
-"Can you be of any assistance?"
-"I'm trying to spread a good word around about the <Emperor/@emperor>."
+哦……抱歉……你吓到我了。那么你好啊……
+能帮上什么忙吗？
+我正努力散播关于 <皇帝/@emperor>的好消息。
  
-<Close/@exit>
+<关闭/@exit>
 
 [@emperor]
 #ACT
 SET [540] 1
 #SAY
-Oh sure <$USERNAME> but please visit me again soon.
+哦，当然<$USERNAME>，但请记得再来找我。

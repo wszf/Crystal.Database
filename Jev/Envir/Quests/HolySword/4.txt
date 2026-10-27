@@ -1,18 +1,19 @@
 [@Description]
-Travel through {TreePath/Yellow} and enter the {RedValley/Yellow}
+穿过{丛林迷宫/Yellow}进入{红谷/Yellow}
 
 [@TaskDescription]
-Retrieve the {JadeCrystal/LightSteelBlue} by killing {BigApes/Crimson}.
+杀死{血巨人/Crimson}，取回{翡翠晶/LightSteelBlue}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-JadeCrystal 1
+翡翠晶 1
 
 [@FlagTasks]
-530 "Travel to RedValley_5F and Take the JadeCrystal to BigTaoist"
+530 "前往红谷5层，并将玉晶交给大道士"
 
 [@CarryItems]
 

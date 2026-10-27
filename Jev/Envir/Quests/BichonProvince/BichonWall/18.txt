@@ -1,19 +1,20 @@
 [@Description]
-Hmm.. The information seems to refer to the 
-{BoneElite/Crimson}. Can you help us and hunt 
-this monster? We cannot leave our town since 
-we are under attack as well. 
+嗯……这些情报似乎指向了
+{骷髅精灵/Crimson}。你能帮我们猎杀
+这只怪物吗？我们现在无法离开城镇，因为
+我们也正遭受攻击。
 
 [@TaskDescription]
-Please eliminate the {BoneElite/Crimson} and bring back his 
-{Head/LightSteelBlue}.
+请消灭{骷髅精灵/Crimson}并带回它的
+{头颅/LightSteelBlue}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
-SkeletonHead 1
+骷髅头 1
 
 [@CarryItems]
 

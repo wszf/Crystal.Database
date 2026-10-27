@@ -2,13 +2,13 @@
 #IF
 CHECKHUM 1 D10071
 #SAY 
-There is already someone trying before you!
-<Come back later/@exit>
+前面已经有人在尝试了！
+<稍后再来/@exit>
 #ELSEACT
 MONCLEAR D10071
 PARAM1 D10071
 PARAM2 17
 PARAM3 21
-MONGEN RedMoonEvil1 1
+MONGEN 赤月恶魔1 1
 MOVE D10071
-LocalMessage "Go slay him!" Hint
+LocalMessage "快去杀了他！" Hint

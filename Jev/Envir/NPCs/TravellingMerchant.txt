@@ -15,24 +15,24 @@
 #IF
 CHECKPKPOINT > 199
 #SAY
-I will not help an evil person like you...
+我不会帮像你这样的坏人...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Greetings {<$USERNAME>/GREENYELLOW}, I am {<$NPCNAME>/SEAGREEN} i travel all across 
-these lands. Do you have anything for sale?
+欢迎 {<$USERNAME>/GREENYELLOW}，我是 {<$NPCNAME>/SEAGREEN} 我游历天下 
+这些地盘。你有什么东西卖吗？
  
-<Sell/@Sell> Items.
-<Close/@exit>
+<出售/@Sell> 物品。
+<关闭/@exit>
 
 [@Sell]
 #SAY
-What do you have for trade?
+您有什么东西可以交易吗？
 
 [TYPES]
 5

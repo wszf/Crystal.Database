@@ -3,100 +3,100 @@
 1/1 Gold 22000 LV1
 
 ;Pots + Other
-1/1 (HP)DrugLarge LV1
-1/1 (HP)DrugLarge LV1
-1/1 (HP)DrugLarge LV1
-1/1 (HP)DrugLarge LV1
-1/1 (MP)DrugLarge LV1
-1/1 (MP)DrugLarge LV1
-1/1 (MP)DrugLarge LV1
-1/1 (MP)DrugLarge LV1
-1/1 Sunpotion(M) LV1
-1/1 Sunpotion(M) LV1
-1/1 Sunpotion(M) LV1
-1/1 Sunpotion(M) LV1
-1/1 Sunpotion(M) LV1
-1/1 Sunpotion(M) LV1
-1/1 Sunpotion LV1
-1/1 Sunpotion LV1
-1/1 Sunpotion LV1
+1/1 金疮药(大量) LV1
+1/1 金疮药(大量) LV1
+1/1 金疮药(大量) LV1
+1/1 金疮药(大量) LV1
+1/1 魔法药(大量) LV1
+1/1 魔法药(大量) LV1
+1/1 魔法药(大量) LV1
+1/1 魔法药(大量) LV1
+1/1 强效太阳水 LV1
+1/1 强效太阳水 LV1
+1/1 强效太阳水 LV1
+1/1 强效太阳水 LV1
+1/1 强效太阳水 LV1
+1/1 强效太阳水 LV1
+1/1 太阳水 LV1
+1/1 太阳水 LV1
+1/1 太阳水 LV1
 
-1/2 BenedictionOil LV1
+1/2 祝福油 LV1
 
 
-1/20 AwakeningSoul0 LV1
+1/20 觉醒之魂0 LV1
 
 ;Weapons
-1/900 DragonSlayer LV1
-1/900 MaleficBow LV1
-1/900 RoyalBlades LV1
-1/900 DragonStaff LV1
-1/900 SoulSabre LV1
-1/1650 BladesOfMagi LV1
-1/1150 SwordOfWarGod LV1
-1/1150 BowOfForce LV1
-1/1150 BladeOfSorcery LV1
-1/1150 HeavenSword LV1
-1/2150 BlackTigerHammer LV1
-1/2150 LethalBow LV1
-1/2150 StaffOfLotus LV1
-1/2150 FanOfCrane LV1
-1/2150 ButcheringBlades LV1
+1/900 屠龙 LV1
+1/900 邪弓 LV1
+1/900 修罗刀 LV1
+1/900 噬魂法杖 LV1
+1/900 龙纹剑 LV1
+1/1650 暗真魔刀 LV1
+1/1150 开天 LV1
+1/1150 力量之弓 LV1
+1/1150 镇天 LV1
+1/1150 玄天 LV1
+1/2150 黑虎斧 LV1
+1/2150 致命之弓 LV1
+1/2150 火莲杖 LV1
+1/2150 鹤羽扇 LV1
+1/2150 黑乌刀 LV1
 
 
 ;Necklace
-1/950 CuspidNecklace LV1
-1/950 SorceryAnchor LV1
-1/950 PurifiedMirror LV1
-1/975 EvilTriangle LV1
-1/975 CrossPurified LV1
-1/975 AdamantNecklace LV1
-1/45 ClawNecklace LV1
-1/45 LifeNecklace LV1
-1/45 PearlNecklace LV1
-1/80 GreenBead LV1
-1/80 DemonicBells LV1
-1/80 SoulNecklace LV1
+1/950 破角 LV1
+1/950 针坠 LV1
+1/950 心如明镜 LV1
+1/975 曜紫天坠 LV1
+1/975 秀女十字盘 LV1
+1/975 金刚陶坠 LV1
+1/45 幽灵项链 LV1
+1/45 生命项链 LV1
+1/45 天珠项链 LV1
+1/80 绿色项链 LV1
+1/80 恶魔铃铛 LV1
+1/80 灵魂项链 LV1
 
 ;Necklace Rare
 1/1900 TerrapinNecklace LV1
 
 ;Bracelets
-1/950 DualTitanAmulet LV1
-1/950 SacredAngelAmulet LV1
-1/950 EvilWhispAmulet LV1
-1/975 WildTitanAmulet LV1
-1/975 EnchantedAmulet LV1
-1/975 FiveElementAmulet LV1
-1/30 SteelGlove LV1
-1/30 SpellBracelet LV1
-1/30 3rdEyeBracelet LV1
-1/100 HangMaWheel LV1
-1/100 BokMaWheel LV1
-1/100 8TrigramWheel LV1
-1/250 SpiritReformer LV1
-1/250 HolyTaoWheel LV1
-1/250 BaekTaGlove LV1
+1/950 铁魔双轮 LV1
+1/950 玉女天使 LV1
+1/950 曜火虹轮 LV1
+1/975 暴虎归山 LV1
+1/975 曜宝探魔轮 LV1
+1/975 五行悟思轮 LV1
+1/30 阎罗手套 LV1
+1/30 思贝尔手镯 LV1
+1/30 三眼手镯 LV1
+1/100 抗魔轮 LV1
+1/100 伏魔轮 LV1
+1/100 八极轮 LV1
+1/250 魂锁轮 LV1
+1/250 太极轮 LV1
+1/250 白驼手套 LV1
 
 ;Bracelets Rare
 1/1900 TerrapinBracelet LV1
 
 ;Rings
-1/950 PledgeRing LV1
-1/950 FiveElementRing LV1
-1/950 CrimsonRubyRing LV1
-1/975 DemonRubyRing LV1
-1/975 EvilExpelRing LV1
-1/975 GoldDragonRing LV1
-1/30 PowerRing LV1
-1/30 VioletRing LV1
-1/30 TitanRing LV1
-1/100 OmaSpiritRing LV1
-1/100 NobleRing LV1
-1/100 SoulRing LV1
-1/150 BoundlessRing LV1
-1/150 ThunderRing LV1
-1/150 TaeGukRing LV1
+1/950 盟约戒指 LV1
+1/950 五行连环 LV1
+1/950 血玉环 LV1
+1/975 飞曜环 LV1
+1/975 金刚伏魔环 LV1
+1/975 金龙戒指 LV1
+1/30 力量戒指 LV1
+1/30 紫碧螺 LV1
+1/30 泰坦戒指 LV1
+1/100 奥玛环 LV1
+1/100 鬼刃环 LV1
+1/100 心意环 LV1
+1/150 无极环 LV1
+1/150 雷霆环 LV1
+1/150 太极环 LV1
 
 
 1/150 DestinyRing LV1
@@ -114,10 +114,10 @@
 1/1900 TerrapinShield LV1
 
 ;Shoes
-1/15 SilkBoots LV1
-1/20 BlackBoots LV1
-1/30 DragonBoots LV1
-1/60 RedScaleBoots LV1
+1/15 紫绸靴 LV1
+1/20 避魂靴 LV1
+1/30 龙靴 LV1
+1/60 赤鳞靴 LV1
 
 ;Stone
 1/50 HolyDCStone LV1
@@ -130,52 +130,52 @@
 1/50 HolyDefenseStone LV1
 
 ;Books
-1/10 FrostCrunch LV1
-1/25 IceStorm LV1
-1/30 FlameDisruptor LV1
-1/400 FlameField LV1
-1/50 Vampirism LV1
-1/150 Mirroring LV1
-1/1200 Blizzard LV1
-1/1400 MagicBooster LV1
-1/1600 MeteorStrike LV1
-1/2000 FastMove LV1
-1/2200 IceThrust LV1
+1/10 寒冰掌 LV1
+1/25 冰咆哮 LV1
+1/30 灭天火 LV1
+1/400 火龙气焰 LV1
+1/50 噬血术 LV1
+1/150 分身术 LV1
+1/1200 天霜冰环 LV1
+1/1400 魔力强化 LV1
+1/1600 流星打击 LV1
+1/2000 快速移动 LV1
+1/2200 冰刺术 LV1
 1/2400 FrozenRains LV1
 1/2600 LavaKing LV1
-1/3000 StormEscape LV1
+1/3000 风暴逃脱 LV1
 
-1/25 FlamingSword LV1
-1/30 CrossHalfMoon LV1
-1/50 TwinDrakeBlade LV1
-1/50 LionRoar LV1
-1/50 Entrapment LV1
+1/25 烈火剑法 LV1
+1/30 狂风斩 LV1
+1/50 双龙斩 LV1
+1/50 狮子吼 LV1
+1/50 捕蝇剑 LV1
 1/60 BladeStorm LV1
-1/150 BladeAvalanche LV1
-1/1200 ProtectionField LV1
-1/1400 Rage LV1
-1/1600 Fury LV1
-1/2000 CounterAttack LV1
-1/2600 ImmortalSkin LV1
+1/150 空破闪 LV1
+1/1200 护身气幕 LV1
+1/1400 狂暴 LV1
+1/1600 嗜血 LV1
+1/2000 反击 LV1
+1/2600 不灭护体 LV1
 
-1/25 MoonLight LV1
-1/30 MPEater LV1
-1/50 SwiftFeet LV1
-1/1400 DarkBody LV1
+1/25 月光 LV1
+1/30 吸气 LV1
+1/50 迅雷疾足 LV1
+1/1400 暗影替身 LV1
 1/100 CrescentSlash LV1
 
 
-1/25 SummonShinsu LV1
-1/30 UltimateEnhancer LV1
-1/30 EnergyRepulsor LV1
-1/50 Purification LV1
-1/50 Hallucination LV1
-1/100 HealingCircle LV1
-1/200 SummonHolyDeva LV1
-1/1200 Curse LV1
-1/1400 PoisonCloud LV1
-1/1800 PetEnhancer LV1
-1/2000 EnergyShield LV1
+1/25 召唤神兽 LV1
+1/30 终极强化 LV1
+1/30 气功波 LV1
+1/50 净化术 LV1
+1/50 迷魂术 LV1
+1/100 阴阳五行阵 LV1
+1/200 召唤圣灵 LV1
+1/1200 诅咒术 LV1
+1/1400 毒雾 LV1
+1/1800 宠物强化 LV1
+1/2000 能量护盾 LV1
 1/2300 HolyShield LV1
 1/2600 HeadShot LV1
 
@@ -201,100 +201,100 @@
 1/1 Gold 22000 LV2
 
 ;Pots + Other
-1/1 (HP)DrugLarge LV2
-1/1 (HP)DrugLarge LV2
-1/1 (HP)DrugLarge LV2
-1/1 (HP)DrugLarge LV2
-1/1 (MP)DrugLarge LV2
-1/1 (MP)DrugLarge LV2
-1/1 (MP)DrugLarge LV2
-1/1 (MP)DrugLarge LV2
-1/1 Sunpotion(M) LV2
-1/1 Sunpotion(M) LV2
-1/1 Sunpotion(M) LV2
-1/1 Sunpotion(M) LV2
-1/1 Sunpotion(M) LV2
-1/1 Sunpotion(M) LV2
-1/1 Sunpotion LV2
-1/1 Sunpotion LV2
-1/1 Sunpotion LV2
+1/1 金疮药(大量) LV2
+1/1 金疮药(大量) LV2
+1/1 金疮药(大量) LV2
+1/1 金疮药(大量) LV2
+1/1 魔法药(大量) LV2
+1/1 魔法药(大量) LV2
+1/1 魔法药(大量) LV2
+1/1 魔法药(大量) LV2
+1/1 强效太阳水 LV2
+1/1 强效太阳水 LV2
+1/1 强效太阳水 LV2
+1/1 强效太阳水 LV2
+1/1 强效太阳水 LV2
+1/1 强效太阳水 LV2
+1/1 太阳水 LV2
+1/1 太阳水 LV2
+1/1 太阳水 LV2
 
-1/2 BenedictionOil LV2
+1/2 祝福油 LV2
 
 
-1/20 AwakeningSoul0 LV2
+1/20 觉醒之魂0 LV2
 
 ;Weapons
-1/900 DragonSlayer LV2
-1/900 MaleficBow LV2
-1/900 RoyalBlades LV2
-1/900 DragonStaff LV2
-1/900 SoulSabre LV2
-1/1650 BladesOfMagi LV2
-1/1150 SwordOfWarGod LV2
-1/1150 BladeOfSorcery LV2
-1/1150 HeavenSword LV2
-1/1150 BowOfForce LV2
-1/2150 BlackTigerHammer LV2
-1/2150 LethalBow LV2
-1/2150 StaffOfLotus LV2
-1/2150 FanOfCrane LV2
-1/2150 ButcheringBlades LV2
+1/900 屠龙 LV2
+1/900 邪弓 LV2
+1/900 修罗刀 LV2
+1/900 噬魂法杖 LV2
+1/900 龙纹剑 LV2
+1/1650 暗真魔刀 LV2
+1/1150 开天 LV2
+1/1150 镇天 LV2
+1/1150 玄天 LV2
+1/1150 力量之弓 LV2
+1/2150 黑虎斧 LV2
+1/2150 致命之弓 LV2
+1/2150 火莲杖 LV2
+1/2150 鹤羽扇 LV2
+1/2150 黑乌刀 LV2
 
 
 ;Necklace
-1/950 CuspidNecklace LV2
-1/950 SorceryAnchor LV2
-1/950 PurifiedMirror LV2
-1/975 EvilTriangle LV2
-1/975 CrossPurified LV2
-1/975 AdamantNecklace LV2
-1/45 ClawNecklace LV2
-1/45 LifeNecklace LV2
-1/45 PearlNecklace LV2
-1/80 GreenBead LV2
-1/80 DemonicBells LV2
-1/80 SoulNecklace LV2
+1/950 破角 LV2
+1/950 针坠 LV2
+1/950 心如明镜 LV2
+1/975 曜紫天坠 LV2
+1/975 秀女十字盘 LV2
+1/975 金刚陶坠 LV2
+1/45 幽灵项链 LV2
+1/45 生命项链 LV2
+1/45 天珠项链 LV2
+1/80 绿色项链 LV2
+1/80 恶魔铃铛 LV2
+1/80 灵魂项链 LV2
 
 ;Necklace Rare
 1/1900 TerrapinNecklace LV2
 
 ;Bracelets
-1/950 DualTitanAmulet LV2
-1/950 SacredAngelAmulet LV2
-1/950 EvilWhispAmulet LV2
-1/975 WildTitanAmulet LV2
-1/975 EnchantedAmulet LV2
-1/975 FiveElementAmulet LV2
-1/30 SteelGlove LV2
-1/30 SpellBracelet LV2
-1/30 3rdEyeBracelet LV2
-1/100 HangMaWheel LV2
-1/100 BokMaWheel LV2
-1/100 8TrigramWheel LV2
-1/250 SpiritReformer LV2
-1/250 HolyTaoWheel LV2
-1/250 BaekTaGlove LV2
+1/950 铁魔双轮 LV2
+1/950 玉女天使 LV2
+1/950 曜火虹轮 LV2
+1/975 暴虎归山 LV2
+1/975 曜宝探魔轮 LV2
+1/975 五行悟思轮 LV2
+1/30 阎罗手套 LV2
+1/30 思贝尔手镯 LV2
+1/30 三眼手镯 LV2
+1/100 抗魔轮 LV2
+1/100 伏魔轮 LV2
+1/100 八极轮 LV2
+1/250 魂锁轮 LV2
+1/250 太极轮 LV2
+1/250 白驼手套 LV2
 
 ;Bracelets Rare
 1/1900 TerrapinBracelet LV2
 
 ;Rings
-1/950 PledgeRing LV2
-1/950 FiveElementRing LV2
-1/950 CrimsonRubyRing LV2
-1/975 DemonRubyRing LV2
-1/975 EvilExpelRing LV2
-1/975 GoldDragonRing LV2
-1/30 PowerRing LV2
-1/30 VioletRing LV2
-1/30 TitanRing LV2
-1/100 OmaSpiritRing LV2
-1/100 NobleRing LV2
-1/100 SoulRing LV2
-1/150 BoundlessRing LV2
-1/150 ThunderRing LV2
-1/150 TaeGukRing LV2
+1/950 盟约戒指 LV2
+1/950 五行连环 LV2
+1/950 血玉环 LV2
+1/975 飞曜环 LV2
+1/975 金刚伏魔环 LV2
+1/975 金龙戒指 LV2
+1/30 力量戒指 LV2
+1/30 紫碧螺 LV2
+1/30 泰坦戒指 LV2
+1/100 奥玛环 LV2
+1/100 鬼刃环 LV2
+1/100 心意环 LV2
+1/150 无极环 LV2
+1/150 雷霆环 LV2
+1/150 太极环 LV2
 
 ;Rings Rare
 1/1900 TerrapinRing LV2
@@ -303,10 +303,10 @@
 1/1900 TerrapinShield LV2
 
 ;Shoes
-1/15 SilkBoots LV2
-1/20 BlackBoots LV2
-1/30 DragonBoots LV2
-1/60 RedScaleBoots LV2
+1/15 紫绸靴 LV2
+1/20 避魂靴 LV2
+1/30 龙靴 LV2
+1/60 赤鳞靴 LV2
 
 ;Stone
 1/50 HolyDCStone LV2
@@ -319,52 +319,52 @@
 1/50 HolyDefenseStone LV2
 
 ;Books
-1/10 FrostCrunch LV2
-1/25 IceStorm LV2
-1/30 FlameDisruptor LV2
-1/400 FlameField LV2
-1/50 Vampirism LV2
-1/150 Mirroring LV2
-1/1200 Blizzard LV2
-1/1400 MagicBooster LV2
-1/1600 MeteorStrike LV2
-1/2000 FastMove LV2
-1/2200 IceThrust LV2
+1/10 寒冰掌 LV2
+1/25 冰咆哮 LV2
+1/30 灭天火 LV2
+1/400 火龙气焰 LV2
+1/50 噬血术 LV2
+1/150 分身术 LV2
+1/1200 天霜冰环 LV2
+1/1400 魔力强化 LV2
+1/1600 流星打击 LV2
+1/2000 快速移动 LV2
+1/2200 冰刺术 LV2
 1/2400 FrozenRains LV2
 1/2600 LavaKing LV2
-1/3000 StormEscape LV2
+1/3000 风暴逃脱 LV2
 
-1/25 FlamingSword LV2
-1/30 CrossHalfMoon LV2
-1/50 TwinDrakeBlade LV2
-1/50 LionRoar LV2
-1/50 Entrapment LV2
+1/25 烈火剑法 LV2
+1/30 狂风斩 LV2
+1/50 双龙斩 LV2
+1/50 狮子吼 LV2
+1/50 捕蝇剑 LV2
 1/60 BladeStorm LV2
-1/150 BladeAvalanche LV2
-1/1200 ProtectionField LV2
-1/1400 Rage LV2
-1/1600 Fury LV2
-1/2000 CounterAttack LV2
-1/2600 ImmortalSkin LV2
+1/150 空破闪 LV2
+1/1200 护身气幕 LV2
+1/1400 狂暴 LV2
+1/1600 嗜血 LV2
+1/2000 反击 LV2
+1/2600 不灭护体 LV2
 
-1/25 MoonLight LV2
-1/30 MPEater LV2
-1/50 SwiftFeet LV2
-1/1400 DarkBody LV2
+1/25 月光 LV2
+1/30 吸气 LV2
+1/50 迅雷疾足 LV2
+1/1400 暗影替身 LV2
 1/100 CrescentSlash LV2
 
 
-1/25 SummonShinsu LV2
-1/30 UltimateEnhancer LV2
-1/30 EnergyRepulsor LV2
-1/50 Purification LV2
-1/50 Hallucination LV2
-1/100 HealingCircle LV2
-1/200 SummonHolyDeva LV2
-1/1200 Curse LV2
-1/1400 PoisonCloud LV2
-1/1800 PetEnhancer LV2
-1/2000 EnergyShield LV2
+1/25 召唤神兽 LV2
+1/30 终极强化 LV2
+1/30 气功波 LV2
+1/50 净化术 LV2
+1/50 迷魂术 LV2
+1/100 阴阳五行阵 LV2
+1/200 召唤圣灵 LV2
+1/1200 诅咒术 LV2
+1/1400 毒雾 LV2
+1/1800 宠物强化 LV2
+1/2000 能量护盾 LV2
 1/2300 HolyShield LV2
 1/2600 HeadShot LV2
 
@@ -390,100 +390,100 @@
 1/1 Gold 22000 LV3
 
 ;Pots + Other
-1/1 (HP)DrugLarge LV3
-1/1 (HP)DrugLarge LV3
-1/1 (HP)DrugLarge LV3
-1/1 (HP)DrugLarge LV3
-1/1 (MP)DrugLarge LV3
-1/1 (MP)DrugLarge LV3
-1/1 (MP)DrugLarge LV3
-1/1 (MP)DrugLarge LV3
-1/1 Sunpotion(M) LV3
-1/1 Sunpotion(M) LV3
-1/1 Sunpotion(M) LV3
-1/1 Sunpotion(M) LV3
-1/1 Sunpotion(M) LV3
-1/1 Sunpotion(M) LV3
-1/1 Sunpotion LV3
-1/1 Sunpotion LV3
-1/1 Sunpotion LV3
+1/1 金疮药(大量) LV3
+1/1 金疮药(大量) LV3
+1/1 金疮药(大量) LV3
+1/1 金疮药(大量) LV3
+1/1 魔法药(大量) LV3
+1/1 魔法药(大量) LV3
+1/1 魔法药(大量) LV3
+1/1 魔法药(大量) LV3
+1/1 强效太阳水 LV3
+1/1 强效太阳水 LV3
+1/1 强效太阳水 LV3
+1/1 强效太阳水 LV3
+1/1 强效太阳水 LV3
+1/1 强效太阳水 LV3
+1/1 太阳水 LV3
+1/1 太阳水 LV3
+1/1 太阳水 LV3
 
-1/2 BenedictionOil LV3
+1/2 祝福油 LV3
 
 
-1/20 AwakeningSoul0 LV3
+1/20 觉醒之魂0 LV3
 
 ;Weapons
-1/900 DragonSlayer LV3
-1/900 RoyalBlades LV3
-1/900 MaleficBow LV3
-1/900 DragonStaff LV3
-1/900 SoulSabre LV3
-1/1650 BladesOfMagi LV3
-1/1150 SwordOfWarGod LV3
-1/1150 BowOfForce LV3
-1/1150 BladeOfSorcery LV3
-1/1150 HeavenSword LV3
-1/2150 BlackTigerHammer LV3
-1/2150 LethalBow LV3
-1/2150 StaffOfLotus LV3
-1/2150 FanOfCrane LV3
-1/2150 ButcheringBlades LV3
+1/900 屠龙 LV3
+1/900 修罗刀 LV3
+1/900 邪弓 LV3
+1/900 噬魂法杖 LV3
+1/900 龙纹剑 LV3
+1/1650 暗真魔刀 LV3
+1/1150 开天 LV3
+1/1150 力量之弓 LV3
+1/1150 镇天 LV3
+1/1150 玄天 LV3
+1/2150 黑虎斧 LV3
+1/2150 致命之弓 LV3
+1/2150 火莲杖 LV3
+1/2150 鹤羽扇 LV3
+1/2150 黑乌刀 LV3
 
 
 ;Necklace
-1/950 CuspidNecklace LV3
-1/950 SorceryAnchor LV3
-1/950 PurifiedMirror LV3
-1/975 EvilTriangle LV3
-1/975 CrossPurified LV3
-1/975 AdamantNecklace LV3
-1/45 ClawNecklace LV3
-1/45 LifeNecklace LV3
-1/45 PearlNecklace LV3
-1/80 GreenBead LV3
-1/80 DemonicBells LV3
-1/80 SoulNecklace LV3
+1/950 破角 LV3
+1/950 针坠 LV3
+1/950 心如明镜 LV3
+1/975 曜紫天坠 LV3
+1/975 秀女十字盘 LV3
+1/975 金刚陶坠 LV3
+1/45 幽灵项链 LV3
+1/45 生命项链 LV3
+1/45 天珠项链 LV3
+1/80 绿色项链 LV3
+1/80 恶魔铃铛 LV3
+1/80 灵魂项链 LV3
 
 ;Necklace Rare
 1/1900 TerrapinNecklace LV3
 
 ;Bracelets
-1/950 DualTitanAmulet LV3
-1/950 SacredAngelAmulet LV3
-1/950 EvilWhispAmulet LV3
-1/975 WildTitanAmulet LV3
-1/975 EnchantedAmulet LV3
-1/975 FiveElementAmulet LV3
-1/30 SteelGlove LV3
-1/30 SpellBracelet LV3
-1/30 3rdEyeBracelet LV3
-1/100 HangMaWheel LV3
-1/100 BokMaWheel LV3
-1/100 8TrigramWheel LV3
-1/250 SpiritReformer LV3
-1/250 HolyTaoWheel LV3
-1/250 BaekTaGlove LV3
+1/950 铁魔双轮 LV3
+1/950 玉女天使 LV3
+1/950 曜火虹轮 LV3
+1/975 暴虎归山 LV3
+1/975 曜宝探魔轮 LV3
+1/975 五行悟思轮 LV3
+1/30 阎罗手套 LV3
+1/30 思贝尔手镯 LV3
+1/30 三眼手镯 LV3
+1/100 抗魔轮 LV3
+1/100 伏魔轮 LV3
+1/100 八极轮 LV3
+1/250 魂锁轮 LV3
+1/250 太极轮 LV3
+1/250 白驼手套 LV3
 
 ;Bracelets Rare
 1/1900 TerrapinBracelet LV3
 
 ;Rings
-1/950 PledgeRing LV3
-1/950 FiveElementRing LV3
-1/950 CrimsonRubyRing LV3
-1/975 DemonRubyRing LV3
-1/975 EvilExpelRing LV3
-1/975 GoldDragonRing LV3
-1/30 PowerRing LV3
-1/30 VioletRing LV3
-1/30 TitanRing LV3
-1/100 OmaSpiritRing LV3
-1/100 NobleRing LV3
-1/100 SoulRing LV3
-1/150 BoundlessRing LV3
-1/150 ThunderRing LV3
-1/150 TaeGukRing LV3
+1/950 盟约戒指 LV3
+1/950 五行连环 LV3
+1/950 血玉环 LV3
+1/975 飞曜环 LV3
+1/975 金刚伏魔环 LV3
+1/975 金龙戒指 LV3
+1/30 力量戒指 LV3
+1/30 紫碧螺 LV3
+1/30 泰坦戒指 LV3
+1/100 奥玛环 LV3
+1/100 鬼刃环 LV3
+1/100 心意环 LV3
+1/150 无极环 LV3
+1/150 雷霆环 LV3
+1/150 太极环 LV3
 
 ;Rings Rare
 1/1900 TerrapinRing LV3
@@ -492,10 +492,10 @@
 1/1900 TerrapinShield LV3
 
 ;Shoes
-1/15 SilkBoots LV3
-1/20 BlackBoots LV3
-1/30 DragonBoots LV3
-1/60 RedScaleBoots LV3
+1/15 紫绸靴 LV3
+1/20 避魂靴 LV3
+1/30 龙靴 LV3
+1/60 赤鳞靴 LV3
 
 ;Stone
 1/50 HolyDCStone LV3
@@ -508,52 +508,52 @@
 1/50 HolyDefenseStone LV3
 
 ;Books
-1/10 FrostCrunch LV3
-1/25 IceStorm LV3
-1/30 FlameDisruptor LV3
-1/400 FlameField LV3
-1/50 Vampirism LV3
-1/150 Mirroring LV3
-1/1200 Blizzard LV3
-1/1400 MagicBooster LV3
-1/1600 MeteorStrike LV3
-1/2000 FastMove LV3
-1/2200 IceThrust LV3
+1/10 寒冰掌 LV3
+1/25 冰咆哮 LV3
+1/30 灭天火 LV3
+1/400 火龙气焰 LV3
+1/50 噬血术 LV3
+1/150 分身术 LV3
+1/1200 天霜冰环 LV3
+1/1400 魔力强化 LV3
+1/1600 流星打击 LV3
+1/2000 快速移动 LV3
+1/2200 冰刺术 LV3
 1/2400 FrozenRains LV3
 1/2600 LavaKing LV3
-1/3000 StormEscape LV3
+1/3000 风暴逃脱 LV3
 
-1/25 FlamingSword LV3
-1/30 CrossHalfMoon LV3
-1/50 TwinDrakeBlade LV3
-1/50 LionRoar LV3
-1/50 Entrapment LV3
+1/25 烈火剑法 LV3
+1/30 狂风斩 LV3
+1/50 双龙斩 LV3
+1/50 狮子吼 LV3
+1/50 捕蝇剑 LV3
 1/60 BladeStorm LV3
-1/150 BladeAvalanche LV3
-1/1200 ProtectionField LV3
-1/1400 Rage LV3
-1/1600 Fury LV3
-1/2000 CounterAttack LV3
-1/2600 ImmortalSkin LV3
+1/150 空破闪 LV3
+1/1200 护身气幕 LV3
+1/1400 狂暴 LV3
+1/1600 嗜血 LV3
+1/2000 反击 LV3
+1/2600 不灭护体 LV3
 
-1/25 MoonLight LV3
-1/30 MPEater LV3
-1/50 SwiftFeet LV3
-1/1400 DarkBody LV3
+1/25 月光 LV3
+1/30 吸气 LV3
+1/50 迅雷疾足 LV3
+1/1400 暗影替身 LV3
 1/100 CrescentSlash LV3
 
 
-1/25 SummonShinsu LV3
-1/30 UltimateEnhancer LV3
-1/30 EnergyRepulsor LV3
-1/50 Purification LV3
-1/50 Hallucination LV3
-1/100 HealingCircle LV3
-1/200 SummonHolyDeva LV3
-1/1200 Curse LV3
-1/1400 PoisonCloud LV3
-1/1800 PetEnhancer LV3
-1/2000 EnergyShield LV3
+1/25 召唤神兽 LV3
+1/30 终极强化 LV3
+1/30 气功波 LV3
+1/50 净化术 LV3
+1/50 迷魂术 LV3
+1/100 阴阳五行阵 LV3
+1/200 召唤圣灵 LV3
+1/1200 诅咒术 LV3
+1/1400 毒雾 LV3
+1/1800 宠物强化 LV3
+1/2000 能量护盾 LV3
 1/2300 HolyShield LV3
 1/2600 HeadShot LV3
 
@@ -579,100 +579,100 @@
 1/1 Gold 22000 LV4
 
 ;Pots + Other
-1/1 (HP)DrugLarge LV4
-1/1 (HP)DrugLarge LV4
-1/1 (HP)DrugLarge LV4
-1/1 (HP)DrugLarge LV4
-1/1 (MP)DrugLarge LV4
-1/1 (MP)DrugLarge LV4
-1/1 (MP)DrugLarge LV4
-1/1 (MP)DrugLarge LV4
-1/1 Sunpotion(M) LV4
-1/1 Sunpotion(M) LV4
-1/1 Sunpotion(M) LV4
-1/1 Sunpotion(M) LV4
-1/1 Sunpotion(M) LV4
-1/1 Sunpotion(M) LV4
-1/1 Sunpotion LV4
-1/1 Sunpotion LV4
-1/1 Sunpotion LV4
+1/1 金疮药(大量) LV4
+1/1 金疮药(大量) LV4
+1/1 金疮药(大量) LV4
+1/1 金疮药(大量) LV4
+1/1 魔法药(大量) LV4
+1/1 魔法药(大量) LV4
+1/1 魔法药(大量) LV4
+1/1 魔法药(大量) LV4
+1/1 强效太阳水 LV4
+1/1 强效太阳水 LV4
+1/1 强效太阳水 LV4
+1/1 强效太阳水 LV4
+1/1 强效太阳水 LV4
+1/1 强效太阳水 LV4
+1/1 太阳水 LV4
+1/1 太阳水 LV4
+1/1 太阳水 LV4
 
-1/2 BenedictionOil LV4
+1/2 祝福油 LV4
 
 
-1/20 AwakeningSoul0 LV4
+1/20 觉醒之魂0 LV4
 
 ;Weapons
-1/900 DragonSlayer LV4
-1/900 MaleficBow LV4
-1/900 RoyalBlades LV4
-1/900 DragonStaff LV4
-1/900 SoulSabre LV4
-1/1650 BladesOfMagi LV4
-1/1150 SwordOfWarGod LV4
-1/1150 BowOfForce LV4
-1/1150 BladeOfSorcery LV4
-1/1150 HeavenSword LV4
-1/2150 BlackTigerHammer LV4
-1/2150 LethalBow LV4
-1/2150 StaffOfLotus LV4
-1/2150 FanOfCrane LV4
-1/2150 ButcheringBlades LV4
+1/900 屠龙 LV4
+1/900 邪弓 LV4
+1/900 修罗刀 LV4
+1/900 噬魂法杖 LV4
+1/900 龙纹剑 LV4
+1/1650 暗真魔刀 LV4
+1/1150 开天 LV4
+1/1150 力量之弓 LV4
+1/1150 镇天 LV4
+1/1150 玄天 LV4
+1/2150 黑虎斧 LV4
+1/2150 致命之弓 LV4
+1/2150 火莲杖 LV4
+1/2150 鹤羽扇 LV4
+1/2150 黑乌刀 LV4
 
 
 ;Necklace
-1/950 CuspidNecklace LV4
-1/950 SorceryAnchor LV4
-1/950 PurifiedMirror LV4
-1/975 EvilTriangle LV4
-1/975 CrossPurified LV4
-1/975 AdamantNecklace LV4
-1/45 ClawNecklace LV4
-1/45 LifeNecklace LV4
-1/45 PearlNecklace LV4
-1/80 GreenBead LV4
-1/80 DemonicBells LV4
-1/80 SoulNecklace LV4
+1/950 破角 LV4
+1/950 针坠 LV4
+1/950 心如明镜 LV4
+1/975 曜紫天坠 LV4
+1/975 秀女十字盘 LV4
+1/975 金刚陶坠 LV4
+1/45 幽灵项链 LV4
+1/45 生命项链 LV4
+1/45 天珠项链 LV4
+1/80 绿色项链 LV4
+1/80 恶魔铃铛 LV4
+1/80 灵魂项链 LV4
 
 ;Necklace Rare
 1/1900 TerrapinNecklace LV4
 
 ;Bracelets
-1/950 DualTitanAmulet LV4
-1/950 SacredAngelAmulet LV4
-1/950 EvilWhispAmulet LV4
-1/975 WildTitanAmulet LV4
-1/975 EnchantedAmulet LV4
-1/975 FiveElementAmulet LV4
-1/30 SteelGlove LV4
-1/30 SpellBracelet LV4
-1/30 3rdEyeBracelet LV4
-1/100 HangMaWheel LV4
-1/100 BokMaWheel LV4
-1/100 8TrigramWheel LV4
-1/250 SpiritReformer LV4
-1/250 HolyTaoWheel LV4
-1/250 BaekTaGlove LV4
+1/950 铁魔双轮 LV4
+1/950 玉女天使 LV4
+1/950 曜火虹轮 LV4
+1/975 暴虎归山 LV4
+1/975 曜宝探魔轮 LV4
+1/975 五行悟思轮 LV4
+1/30 阎罗手套 LV4
+1/30 思贝尔手镯 LV4
+1/30 三眼手镯 LV4
+1/100 抗魔轮 LV4
+1/100 伏魔轮 LV4
+1/100 八极轮 LV4
+1/250 魂锁轮 LV4
+1/250 太极轮 LV4
+1/250 白驼手套 LV4
 
 ;Bracelets Rare
 1/1900 TerrapinBracelet LV4
 
 ;Rings
-1/950 PledgeRing LV4
-1/950 FiveElementRing LV4
-1/950 CrimsonRubyRing LV4
-1/975 DemonRubyRing LV4
-1/975 EvilExpelRing LV4
-1/975 GoldDragonRing LV4
-1/30 PowerRing LV4
-1/30 VioletRing LV4
-1/30 TitanRing LV4
-1/100 OmaSpiritRing LV4
-1/100 NobleRing LV4
-1/100 SoulRing LV4
-1/150 BoundlessRing LV4
-1/150 ThunderRing LV4
-1/150 TaeGukRing LV4
+1/950 盟约戒指 LV4
+1/950 五行连环 LV4
+1/950 血玉环 LV4
+1/975 飞曜环 LV4
+1/975 金刚伏魔环 LV4
+1/975 金龙戒指 LV4
+1/30 力量戒指 LV4
+1/30 紫碧螺 LV4
+1/30 泰坦戒指 LV4
+1/100 奥玛环 LV4
+1/100 鬼刃环 LV4
+1/100 心意环 LV4
+1/150 无极环 LV4
+1/150 雷霆环 LV4
+1/150 太极环 LV4
 
 ;Rings Rare
 1/1900 TerrapinRing LV4
@@ -681,10 +681,10 @@
 1/1900 TerrapinShield LV4
 
 ;Shoes
-1/15 SilkBoots LV4
-1/20 BlackBoots LV4
-1/30 DragonBoots LV4
-1/60 RedScaleBoots LV4
+1/15 紫绸靴 LV4
+1/20 避魂靴 LV4
+1/30 龙靴 LV4
+1/60 赤鳞靴 LV4
 
 ;Stone
 1/50 HolyDCStone LV4
@@ -697,52 +697,52 @@
 1/50 HolyDefenseStone LV4
 
 ;Books
-1/10 FrostCrunch LV4
-1/25 IceStorm LV4
-1/30 FlameDisruptor LV4
-1/400 FlameField LV4
-1/50 Vampirism LV4
-1/150 Mirroring LV4
-1/1200 Blizzard LV4
-1/1400 MagicBooster LV4
-1/1600 MeteorStrike LV4
-1/2000 FastMove LV4
-1/2200 IceThrust LV4
+1/10 寒冰掌 LV4
+1/25 冰咆哮 LV4
+1/30 灭天火 LV4
+1/400 火龙气焰 LV4
+1/50 噬血术 LV4
+1/150 分身术 LV4
+1/1200 天霜冰环 LV4
+1/1400 魔力强化 LV4
+1/1600 流星打击 LV4
+1/2000 快速移动 LV4
+1/2200 冰刺术 LV4
 1/2400 FrozenRains LV4
 1/2600 LavaKing LV4
-1/3000 StormEscape LV4
+1/3000 风暴逃脱 LV4
 
-1/25 FlamingSword LV4
-1/30 CrossHalfMoon LV4
-1/50 TwinDrakeBlade LV4
-1/50 LionRoar LV4
-1/50 Entrapment LV4
+1/25 烈火剑法 LV4
+1/30 狂风斩 LV4
+1/50 双龙斩 LV4
+1/50 狮子吼 LV4
+1/50 捕蝇剑 LV4
 1/60 BladeStorm LV4
-1/150 BladeAvalanche LV4
-1/1200 ProtectionField LV4
-1/1400 Rage LV4
-1/1600 Fury LV4
-1/2000 CounterAttack LV4
-1/2600 ImmortalSkin LV4
+1/150 空破闪 LV4
+1/1200 护身气幕 LV4
+1/1400 狂暴 LV4
+1/1600 嗜血 LV4
+1/2000 反击 LV4
+1/2600 不灭护体 LV4
 
-1/25 MoonLight LV4
-1/30 MPEater LV4
-1/50 SwiftFeet LV4
-1/1400 DarkBody LV4
+1/25 月光 LV4
+1/30 吸气 LV4
+1/50 迅雷疾足 LV4
+1/1400 暗影替身 LV4
 1/100 CrescentSlash LV4
 
 
-1/25 SummonShinsu LV4
-1/30 UltimateEnhancer LV4
-1/30 EnergyRepulsor LV4
-1/50 Purification LV4
-1/50 Hallucination LV4
-1/100 HealingCircle LV4
-1/200 SummonHolyDeva LV4
-1/1200 Curse LV4
-1/1400 PoisonCloud LV4
-1/1800 PetEnhancer LV4
-1/2000 EnergyShield LV4
+1/25 召唤神兽 LV4
+1/30 终极强化 LV4
+1/30 气功波 LV4
+1/50 净化术 LV4
+1/50 迷魂术 LV4
+1/100 阴阳五行阵 LV4
+1/200 召唤圣灵 LV4
+1/1200 诅咒术 LV4
+1/1400 毒雾 LV4
+1/1800 宠物强化 LV4
+1/2000 能量护盾 LV4
 1/2300 HolyShield LV4
 1/2600 HeadShot LV4
 
@@ -768,100 +768,100 @@
 1/1 Gold 22000 LV5
 
 ;Pots + Other
-1/1 (HP)DrugLarge LV5
-1/1 (HP)DrugLarge LV5
-1/1 (HP)DrugLarge LV5
-1/1 (HP)DrugLarge LV5
-1/1 (MP)DrugLarge LV5
-1/1 (MP)DrugLarge LV5
-1/1 (MP)DrugLarge LV5
-1/1 (MP)DrugLarge LV5
-1/1 Sunpotion(M) LV5
-1/1 Sunpotion(M) LV5
-1/1 Sunpotion(M) LV5
-1/1 Sunpotion(M) LV5
-1/1 Sunpotion(M) LV5
-1/1 Sunpotion(M) LV5
-1/1 Sunpotion LV5
-1/1 Sunpotion LV5
-1/1 Sunpotion LV5
+1/1 金疮药(大量) LV5
+1/1 金疮药(大量) LV5
+1/1 金疮药(大量) LV5
+1/1 金疮药(大量) LV5
+1/1 魔法药(大量) LV5
+1/1 魔法药(大量) LV5
+1/1 魔法药(大量) LV5
+1/1 魔法药(大量) LV5
+1/1 强效太阳水 LV5
+1/1 强效太阳水 LV5
+1/1 强效太阳水 LV5
+1/1 强效太阳水 LV5
+1/1 强效太阳水 LV5
+1/1 强效太阳水 LV5
+1/1 太阳水 LV5
+1/1 太阳水 LV5
+1/1 太阳水 LV5
 
-1/2 BenedictionOil LV5
+1/2 祝福油 LV5
 
 
-1/20 AwakeningSoul0 LV5
+1/20 觉醒之魂0 LV5
 
 ;Weapons
-1/900 DragonSlayer LV5
-1/900 MaleficBow LV5
-1/900 RoyalBlades LV5
-1/900 DragonStaff LV5
-1/900 SoulSabre LV5
-1/1650 BladesOfMagi LV5
-1/1150 SwordOfWarGod LV5
-1/1150 BowOfForce LV5
-1/1150 BladeOfSorcery LV5
-1/1150 HeavenSword LV5
-1/2150 BlackTigerHammer LV5
-1/2150 LethalBow LV5
-1/2150 StaffOfLotus LV5
-1/2150 FanOfCrane LV5
-1/2150 ButcheringBlades LV5
+1/900 屠龙 LV5
+1/900 邪弓 LV5
+1/900 修罗刀 LV5
+1/900 噬魂法杖 LV5
+1/900 龙纹剑 LV5
+1/1650 暗真魔刀 LV5
+1/1150 开天 LV5
+1/1150 力量之弓 LV5
+1/1150 镇天 LV5
+1/1150 玄天 LV5
+1/2150 黑虎斧 LV5
+1/2150 致命之弓 LV5
+1/2150 火莲杖 LV5
+1/2150 鹤羽扇 LV5
+1/2150 黑乌刀 LV5
 
 
 ;Necklace
-1/950 CuspidNecklace LV5
-1/950 SorceryAnchor LV5
-1/950 PurifiedMirror LV5
-1/975 EvilTriangle LV5
-1/975 CrossPurified LV5
-1/975 AdamantNecklace LV5
-1/45 ClawNecklace LV5
-1/45 LifeNecklace LV5
-1/45 PearlNecklace LV5
-1/80 GreenBead LV5
-1/80 DemonicBells LV5
-1/80 SoulNecklace LV5
+1/950 破角 LV5
+1/950 针坠 LV5
+1/950 心如明镜 LV5
+1/975 曜紫天坠 LV5
+1/975 秀女十字盘 LV5
+1/975 金刚陶坠 LV5
+1/45 幽灵项链 LV5
+1/45 生命项链 LV5
+1/45 天珠项链 LV5
+1/80 绿色项链 LV5
+1/80 恶魔铃铛 LV5
+1/80 灵魂项链 LV5
 
 ;Necklace Rare
 1/1900 TerrapinNecklace LV5
 
 ;Bracelets
-1/950 DualTitanAmulet LV5
-1/950 SacredAngelAmulet LV5
-1/950 EvilWhispAmulet LV5
-1/975 WildTitanAmulet LV5
-1/975 EnchantedAmulet LV5
-1/975 FiveElementAmulet LV5
-1/30 SteelGlove LV5
-1/30 SpellBracelet LV5
-1/30 3rdEyeBracelet LV5
-1/100 HangMaWheel LV5
-1/100 BokMaWheel LV5
-1/100 8TrigramWheel LV5
-1/250 SpiritReformer LV5
-1/250 HolyTaoWheel LV5
-1/250 BaekTaGlove LV5
+1/950 铁魔双轮 LV5
+1/950 玉女天使 LV5
+1/950 曜火虹轮 LV5
+1/975 暴虎归山 LV5
+1/975 曜宝探魔轮 LV5
+1/975 五行悟思轮 LV5
+1/30 阎罗手套 LV5
+1/30 思贝尔手镯 LV5
+1/30 三眼手镯 LV5
+1/100 抗魔轮 LV5
+1/100 伏魔轮 LV5
+1/100 八极轮 LV5
+1/250 魂锁轮 LV5
+1/250 太极轮 LV5
+1/250 白驼手套 LV5
 
 ;Bracelets Rare
 1/1900 TerrapinBracelet LV5
 
 ;Rings
-1/950 PledgeRing LV5
-1/950 FiveElementRing LV5
-1/950 CrimsonRubyRing LV5
-1/975 DemonRubyRing LV5
-1/975 EvilExpelRing LV5
-1/975 GoldDragonRing LV5
-1/30 PowerRing LV5
-1/30 VioletRing LV5
-1/30 TitanRing LV5
-1/100 OmaSpiritRing LV5
-1/100 NobleRing LV5
-1/100 SoulRing LV5
-1/150 BoundlessRing LV5
-1/150 ThunderRing LV5
-1/150 TaeGukRing LV5
+1/950 盟约戒指 LV5
+1/950 五行连环 LV5
+1/950 血玉环 LV5
+1/975 飞曜环 LV5
+1/975 金刚伏魔环 LV5
+1/975 金龙戒指 LV5
+1/30 力量戒指 LV5
+1/30 紫碧螺 LV5
+1/30 泰坦戒指 LV5
+1/100 奥玛环 LV5
+1/100 鬼刃环 LV5
+1/100 心意环 LV5
+1/150 无极环 LV5
+1/150 雷霆环 LV5
+1/150 太极环 LV5
 
 ;Rings Rare
 1/1900 TerrapinRing LV5
@@ -870,10 +870,10 @@
 1/1900 TerrapinShield LV5
 
 ;Shoes
-1/15 SilkBoots LV5
-1/20 BlackBoots LV5
-1/30 DragonBoots LV5
-1/60 RedScaleBoots LV5
+1/15 紫绸靴 LV5
+1/20 避魂靴 LV5
+1/30 龙靴 LV5
+1/60 赤鳞靴 LV5
 
 ;Stone
 1/50 HolyDCStone LV5
@@ -886,52 +886,52 @@
 1/50 HolyDefenseStone LV5
 
 ;Books
-1/10 FrostCrunch LV5
-1/25 IceStorm LV5
-1/30 FlameDisruptor LV5
-1/400 FlameField LV5
-1/50 Vampirism LV5
-1/150 Mirroring LV5
-1/1200 Blizzard LV5
-1/1400 MagicBooster LV5
-1/1600 MeteorStrike LV5
-1/2000 FastMove LV5
-1/2200 IceThrust LV5
+1/10 寒冰掌 LV5
+1/25 冰咆哮 LV5
+1/30 灭天火 LV5
+1/400 火龙气焰 LV5
+1/50 噬血术 LV5
+1/150 分身术 LV5
+1/1200 天霜冰环 LV5
+1/1400 魔力强化 LV5
+1/1600 流星打击 LV5
+1/2000 快速移动 LV5
+1/2200 冰刺术 LV5
 1/2400 FrozenRains LV5
 1/2600 LavaKing LV5
-1/3000 StormEscape LV5
+1/3000 风暴逃脱 LV5
 
-1/25 FlamingSword LV5
-1/30 CrossHalfMoon LV5
-1/50 TwinDrakeBlade LV5
-1/50 LionRoar LV5
-1/50 Entrapment LV5
+1/25 烈火剑法 LV5
+1/30 狂风斩 LV5
+1/50 双龙斩 LV5
+1/50 狮子吼 LV5
+1/50 捕蝇剑 LV5
 1/60 BladeStorm LV5
-1/150 BladeAvalanche LV5
-1/1200 ProtectionField LV5
-1/1400 Rage LV5
-1/1600 Fury LV5
-1/2000 CounterAttack LV5
-1/2600 ImmortalSkin LV5
+1/150 空破闪 LV5
+1/1200 护身气幕 LV5
+1/1400 狂暴 LV5
+1/1600 嗜血 LV5
+1/2000 反击 LV5
+1/2600 不灭护体 LV5
 
-1/25 MoonLight LV5
-1/30 MPEater LV5
-1/50 SwiftFeet LV5
-1/1400 DarkBody LV5
+1/25 月光 LV5
+1/30 吸气 LV5
+1/50 迅雷疾足 LV5
+1/1400 暗影替身 LV5
 1/100 CrescentSlash LV5
 
 
-1/25 SummonShinsu LV5
-1/30 UltimateEnhancer LV5
-1/30 EnergyRepulsor LV5
-1/50 Purification LV5
-1/50 Hallucination LV5
-1/100 HealingCircle LV5
-1/200 SummonHolyDeva LV5
-1/1200 Curse LV5
-1/1400 PoisonCloud LV5
-1/1800 PetEnhancer LV5
-1/2000 EnergyShield LV5
+1/25 召唤神兽 LV5
+1/30 终极强化 LV5
+1/30 气功波 LV5
+1/50 净化术 LV5
+1/50 迷魂术 LV5
+1/100 阴阳五行阵 LV5
+1/200 召唤圣灵 LV5
+1/1200 诅咒术 LV5
+1/1400 毒雾 LV5
+1/1800 宠物强化 LV5
+1/2000 能量护盾 LV5
 1/2300 HolyShield LV5
 1/2600 HeadShot LV5
 
@@ -957,100 +957,100 @@
 1/1 Gold 22000 LV6
 
 ;Pots + Other
-1/1 (HP)DrugLarge LV6
-1/1 (HP)DrugLarge LV6
-1/1 (HP)DrugLarge LV6
-1/1 (HP)DrugLarge LV6
-1/1 (MP)DrugLarge LV6
-1/1 (MP)DrugLarge LV6
-1/1 (MP)DrugLarge LV6
-1/1 (MP)DrugLarge LV6
-1/1 Sunpotion(M) LV6
-1/1 Sunpotion(M) LV6
-1/1 Sunpotion(M) LV6
-1/1 Sunpotion(M) LV6
-1/1 Sunpotion(M) LV6
-1/1 Sunpotion(M) LV6
-1/1 Sunpotion LV6
-1/1 Sunpotion LV6
-1/1 Sunpotion LV6
+1/1 金疮药(大量) LV6
+1/1 金疮药(大量) LV6
+1/1 金疮药(大量) LV6
+1/1 金疮药(大量) LV6
+1/1 魔法药(大量) LV6
+1/1 魔法药(大量) LV6
+1/1 魔法药(大量) LV6
+1/1 魔法药(大量) LV6
+1/1 强效太阳水 LV6
+1/1 强效太阳水 LV6
+1/1 强效太阳水 LV6
+1/1 强效太阳水 LV6
+1/1 强效太阳水 LV6
+1/1 强效太阳水 LV6
+1/1 太阳水 LV6
+1/1 太阳水 LV6
+1/1 太阳水 LV6
 
-1/2 BenedictionOil LV6
+1/2 祝福油 LV6
 
 
-1/20 AwakeningSoul0 LV6
+1/20 觉醒之魂0 LV6
 
 ;Weapons
-1/900 DragonSlayer LV6
-1/900 MaleficBow LV6
-1/900 RoyalBlades LV6
-1/900 DragonStaff LV6
-1/900 SoulSabre LV6
-1/1650 BladesOfMagi LV6
-1/1150 SwordOfWarGod LV6
-1/1150 BowOfForce LV6
-1/1150 BladeOfSorcery LV6
-1/1150 HeavenSword LV6
-1/2150 BlackTigerHammer LV6
-1/2150 LethalBow LV6
-1/2150 StaffOfLotus LV6
-1/2150 FanOfCrane LV6
-1/2150 ButcheringBlades LV6
+1/900 屠龙 LV6
+1/900 邪弓 LV6
+1/900 修罗刀 LV6
+1/900 噬魂法杖 LV6
+1/900 龙纹剑 LV6
+1/1650 暗真魔刀 LV6
+1/1150 开天 LV6
+1/1150 力量之弓 LV6
+1/1150 镇天 LV6
+1/1150 玄天 LV6
+1/2150 黑虎斧 LV6
+1/2150 致命之弓 LV6
+1/2150 火莲杖 LV6
+1/2150 鹤羽扇 LV6
+1/2150 黑乌刀 LV6
 
 
 ;Necklace
-1/950 CuspidNecklace LV6
-1/950 SorceryAnchor LV6
-1/950 PurifiedMirror LV6
-1/975 EvilTriangle LV6
-1/975 CrossPurified LV6
-1/975 AdamantNecklace LV6
-1/45 ClawNecklace LV6
-1/45 LifeNecklace LV6
-1/45 PearlNecklace LV6
-1/80 GreenBead LV6
-1/80 DemonicBells LV6
-1/80 SoulNecklace LV6
+1/950 破角 LV6
+1/950 针坠 LV6
+1/950 心如明镜 LV6
+1/975 曜紫天坠 LV6
+1/975 秀女十字盘 LV6
+1/975 金刚陶坠 LV6
+1/45 幽灵项链 LV6
+1/45 生命项链 LV6
+1/45 天珠项链 LV6
+1/80 绿色项链 LV6
+1/80 恶魔铃铛 LV6
+1/80 灵魂项链 LV6
 
 ;Necklace Rare
 1/1900 TerrapinNecklace LV6
 
 ;Bracelets
-1/950 DualTitanAmulet LV6
-1/950 SacredAngelAmulet LV6
-1/950 EvilWhispAmulet LV6
-1/975 WildTitanAmulet LV6
-1/975 EnchantedAmulet LV6
-1/975 FiveElementAmulet LV6
-1/30 SteelGlove LV6
-1/30 SpellBracelet LV6
-1/30 3rdEyeBracelet LV6
-1/100 HangMaWheel LV6
-1/100 BokMaWheel LV6
-1/100 8TrigramWheel LV6
-1/250 SpiritReformer LV6
-1/250 HolyTaoWheel LV6
-1/250 BaekTaGlove LV6
+1/950 铁魔双轮 LV6
+1/950 玉女天使 LV6
+1/950 曜火虹轮 LV6
+1/975 暴虎归山 LV6
+1/975 曜宝探魔轮 LV6
+1/975 五行悟思轮 LV6
+1/30 阎罗手套 LV6
+1/30 思贝尔手镯 LV6
+1/30 三眼手镯 LV6
+1/100 抗魔轮 LV6
+1/100 伏魔轮 LV6
+1/100 八极轮 LV6
+1/250 魂锁轮 LV6
+1/250 太极轮 LV6
+1/250 白驼手套 LV6
 
 ;Bracelets Rare
 1/1900 TerrapinBracelet LV6
 
 ;Rings
-1/950 PledgeRing LV6
-1/950 FiveElementRing LV6
-1/950 CrimsonRubyRing LV6
-1/975 DemonRubyRing LV6
-1/975 EvilExpelRing LV6
-1/975 GoldDragonRing LV6
-1/30 PowerRing LV6
-1/30 VioletRing LV6
-1/30 TitanRing LV6
-1/100 OmaSpiritRing LV6
-1/100 NobleRing LV6
-1/100 SoulRing LV6
-1/150 BoundlessRing LV6
-1/150 ThunderRing LV6
-1/150 TaeGukRing LV6
+1/950 盟约戒指 LV6
+1/950 五行连环 LV6
+1/950 血玉环 LV6
+1/975 飞曜环 LV6
+1/975 金刚伏魔环 LV6
+1/975 金龙戒指 LV6
+1/30 力量戒指 LV6
+1/30 紫碧螺 LV6
+1/30 泰坦戒指 LV6
+1/100 奥玛环 LV6
+1/100 鬼刃环 LV6
+1/100 心意环 LV6
+1/150 无极环 LV6
+1/150 雷霆环 LV6
+1/150 太极环 LV6
 
 ;Rings Rare
 1/1900 TerrapinRing LV6
@@ -1059,10 +1059,10 @@
 1/1900 TerrapinShield LV6
 
 ;Shoes
-1/15 SilkBoots LV6
-1/20 BlackBoots LV6
-1/30 DragonBoots LV6
-1/60 RedScaleBoots LV6
+1/15 紫绸靴 LV6
+1/20 避魂靴 LV6
+1/30 龙靴 LV6
+1/60 赤鳞靴 LV6
 
 ;Stone
 1/50 HolyDCStone LV6
@@ -1075,52 +1075,52 @@
 1/50 HolyDefenseStone LV6
 
 ;Books
-1/10 FrostCrunch LV6
-1/25 IceStorm LV6
-1/30 FlameDisruptor LV6
-1/400 FlameField LV6
-1/50 Vampirism LV6
-1/150 Mirroring LV6
-1/1200 Blizzard LV6
-1/1400 MagicBooster LV6
-1/1600 MeteorStrike LV6
-1/2000 FastMove LV6
-1/2200 IceThrust LV6
+1/10 寒冰掌 LV6
+1/25 冰咆哮 LV6
+1/30 灭天火 LV6
+1/400 火龙气焰 LV6
+1/50 噬血术 LV6
+1/150 分身术 LV6
+1/1200 天霜冰环 LV6
+1/1400 魔力强化 LV6
+1/1600 流星打击 LV6
+1/2000 快速移动 LV6
+1/2200 冰刺术 LV6
 1/2400 FrozenRains LV6
 1/2600 LavaKing LV6
-1/3000 StormEscape LV6
+1/3000 风暴逃脱 LV6
 
-1/25 FlamingSword LV6
-1/30 CrossHalfMoon LV6
-1/50 TwinDrakeBlade LV6
-1/50 LionRoar LV6
-1/50 Entrapment LV6
+1/25 烈火剑法 LV6
+1/30 狂风斩 LV6
+1/50 双龙斩 LV6
+1/50 狮子吼 LV6
+1/50 捕蝇剑 LV6
 1/60 BladeStorm LV6
-1/150 BladeAvalanche LV6
-1/1200 ProtectionField LV6
-1/1400 Rage LV6
-1/1600 Fury LV6
-1/2000 CounterAttack LV6
-1/2600 ImmortalSkin LV6
+1/150 空破闪 LV6
+1/1200 护身气幕 LV6
+1/1400 狂暴 LV6
+1/1600 嗜血 LV6
+1/2000 反击 LV6
+1/2600 不灭护体 LV6
 
-1/25 MoonLight LV6
-1/30 MPEater LV6
-1/50 SwiftFeet LV6
-1/1400 DarkBody LV6
+1/25 月光 LV6
+1/30 吸气 LV6
+1/50 迅雷疾足 LV6
+1/1400 暗影替身 LV6
 1/100 CrescentSlash LV6
 
 
-1/25 SummonShinsu LV6
-1/30 UltimateEnhancer LV6
-1/30 EnergyRepulsor LV6
-1/50 Purification LV6
-1/50 Hallucination LV6
-1/100 HealingCircle LV6
-1/200 SummonHolyDeva LV6
-1/1200 Curse LV6
-1/1400 PoisonCloud LV6
-1/1800 PetEnhancer LV6
-1/2000 EnergyShield LV6
+1/25 召唤神兽 LV6
+1/30 终极强化 LV6
+1/30 气功波 LV6
+1/50 净化术 LV6
+1/50 迷魂术 LV6
+1/100 阴阳五行阵 LV6
+1/200 召唤圣灵 LV6
+1/1200 诅咒术 LV6
+1/1400 毒雾 LV6
+1/1800 宠物强化 LV6
+1/2000 能量护盾 LV6
 1/2300 HolyShield LV6
 1/2600 HeadShot LV6
 
@@ -1146,100 +1146,100 @@
 1/1 Gold 22000 LV7
 
 ;Pots + Other
-1/1 (HP)DrugLarge LV7
-1/1 (HP)DrugLarge LV7
-1/1 (HP)DrugLarge LV7
-1/1 (HP)DrugLarge LV7
-1/1 (MP)DrugLarge LV7
-1/1 (MP)DrugLarge LV7
-1/1 (MP)DrugLarge LV7
-1/1 (MP)DrugLarge LV7
-1/1 Sunpotion(M) LV7
-1/1 Sunpotion(M) LV7
-1/1 Sunpotion(M) LV7
-1/1 Sunpotion(M) LV7
-1/1 Sunpotion(M) LV7
-1/1 Sunpotion(M) LV7
-1/1 Sunpotion LV7
-1/1 Sunpotion LV7
-1/1 Sunpotion LV7
+1/1 金疮药(大量) LV7
+1/1 金疮药(大量) LV7
+1/1 金疮药(大量) LV7
+1/1 金疮药(大量) LV7
+1/1 魔法药(大量) LV7
+1/1 魔法药(大量) LV7
+1/1 魔法药(大量) LV7
+1/1 魔法药(大量) LV7
+1/1 强效太阳水 LV7
+1/1 强效太阳水 LV7
+1/1 强效太阳水 LV7
+1/1 强效太阳水 LV7
+1/1 强效太阳水 LV7
+1/1 强效太阳水 LV7
+1/1 太阳水 LV7
+1/1 太阳水 LV7
+1/1 太阳水 LV7
 
-1/2 BenedictionOil LV7
+1/2 祝福油 LV7
 
 
-1/20 AwakeningSoul0 LV7
+1/20 觉醒之魂0 LV7
 
 ;Weapons
-1/900 DragonSlayer LV7
-1/900 MaleficBow LV7
-1/900 RoyalBlades LV7
-1/900 DragonStaff LV7
-1/900 SoulSabre LV7
-1/1650 BladesOfMagi LV7
-1/1150 SwordOfWarGod LV7
-1/1150 BowOfForce LV7
-1/1150 BladeOfSorcery LV7
-1/1150 HeavenSword LV7
-1/2150 BlackTigerHammer LV7
-1/2150 LethalBow LV7
-1/2150 StaffOfLotus LV7
-1/2150 FanOfCrane LV7
-1/2150 ButcheringBlades LV7
+1/900 屠龙 LV7
+1/900 邪弓 LV7
+1/900 修罗刀 LV7
+1/900 噬魂法杖 LV7
+1/900 龙纹剑 LV7
+1/1650 暗真魔刀 LV7
+1/1150 开天 LV7
+1/1150 力量之弓 LV7
+1/1150 镇天 LV7
+1/1150 玄天 LV7
+1/2150 黑虎斧 LV7
+1/2150 致命之弓 LV7
+1/2150 火莲杖 LV7
+1/2150 鹤羽扇 LV7
+1/2150 黑乌刀 LV7
 
 
 ;Necklace
-1/950 CuspidNecklace LV7
-1/950 SorceryAnchor LV7
-1/950 PurifiedMirror LV7
-1/975 EvilTriangle LV7
-1/975 CrossPurified LV7
-1/975 AdamantNecklace LV7
-1/45 ClawNecklace LV7
-1/45 LifeNecklace LV7
-1/45 PearlNecklace LV7
-1/80 GreenBead LV7
-1/80 DemonicBells LV7
-1/80 SoulNecklace LV7
+1/950 破角 LV7
+1/950 针坠 LV7
+1/950 心如明镜 LV7
+1/975 曜紫天坠 LV7
+1/975 秀女十字盘 LV7
+1/975 金刚陶坠 LV7
+1/45 幽灵项链 LV7
+1/45 生命项链 LV7
+1/45 天珠项链 LV7
+1/80 绿色项链 LV7
+1/80 恶魔铃铛 LV7
+1/80 灵魂项链 LV7
 
 ;Necklace Rare
 1/1900 TerrapinNecklace LV7
 
 ;Bracelets
-1/950 DualTitanAmulet LV7
-1/950 SacredAngelAmulet LV7
-1/950 EvilWhispAmulet LV7
-1/975 WildTitanAmulet LV7
-1/975 EnchantedAmulet LV7
-1/975 FiveElementAmulet LV7
-1/30 SteelGlove LV7
-1/30 SpellBracelet LV7
-1/30 3rdEyeBracelet LV7
-1/100 HangMaWheel LV7
-1/100 BokMaWheel LV7
-1/100 8TrigramWheel LV7
-1/250 SpiritReformer LV7
-1/250 HolyTaoWheel LV7
-1/250 BaekTaGlove LV7
+1/950 铁魔双轮 LV7
+1/950 玉女天使 LV7
+1/950 曜火虹轮 LV7
+1/975 暴虎归山 LV7
+1/975 曜宝探魔轮 LV7
+1/975 五行悟思轮 LV7
+1/30 阎罗手套 LV7
+1/30 思贝尔手镯 LV7
+1/30 三眼手镯 LV7
+1/100 抗魔轮 LV7
+1/100 伏魔轮 LV7
+1/100 八极轮 LV7
+1/250 魂锁轮 LV7
+1/250 太极轮 LV7
+1/250 白驼手套 LV7
 
 ;Bracelets Rare
 1/1900 TerrapinBracelet LV7
 
 ;Rings
-1/950 PledgeRing LV7
-1/950 FiveElementRing LV7
-1/950 CrimsonRubyRing LV7
-1/975 DemonRubyRing LV7
-1/975 EvilExpelRing LV7
-1/975 GoldDragonRing LV7
-1/30 PowerRing LV7
-1/30 VioletRing LV7
-1/30 TitanRing LV7
-1/100 OmaSpiritRing LV7
-1/100 NobleRing LV7
-1/100 SoulRing LV7
-1/150 BoundlessRing LV7
-1/150 ThunderRing LV7
-1/150 TaeGukRing LV7
+1/950 盟约戒指 LV7
+1/950 五行连环 LV7
+1/950 血玉环 LV7
+1/975 飞曜环 LV7
+1/975 金刚伏魔环 LV7
+1/975 金龙戒指 LV7
+1/30 力量戒指 LV7
+1/30 紫碧螺 LV7
+1/30 泰坦戒指 LV7
+1/100 奥玛环 LV7
+1/100 鬼刃环 LV7
+1/100 心意环 LV7
+1/150 无极环 LV7
+1/150 雷霆环 LV7
+1/150 太极环 LV7
 
 ;Rings Rare
 1/1900 TerrapinRing LV7
@@ -1248,10 +1248,10 @@
 1/1900 TerrapinShield LV7
 
 ;Shoes
-1/15 SilkBoots LV7
-1/20 BlackBoots LV7
-1/30 DragonBoots LV7
-1/60 RedScaleBoots LV7
+1/15 紫绸靴 LV7
+1/20 避魂靴 LV7
+1/30 龙靴 LV7
+1/60 赤鳞靴 LV7
 
 ;Stone
 1/50 HolyDCStone LV7
@@ -1264,52 +1264,52 @@
 1/50 HolyDefenseStone LV7
 
 ;Books
-1/10 FrostCrunch LV7
-1/25 IceStorm LV7
-1/30 FlameDisruptor LV7
-1/400 FlameField LV7
-1/50 Vampirism LV7
-1/150 Mirroring LV7
-1/1200 Blizzard LV7
-1/1400 MagicBooster LV7
-1/1600 MeteorStrike LV7
-1/2000 FastMove LV7
-1/2200 IceThrust LV7
+1/10 寒冰掌 LV7
+1/25 冰咆哮 LV7
+1/30 灭天火 LV7
+1/400 火龙气焰 LV7
+1/50 噬血术 LV7
+1/150 分身术 LV7
+1/1200 天霜冰环 LV7
+1/1400 魔力强化 LV7
+1/1600 流星打击 LV7
+1/2000 快速移动 LV7
+1/2200 冰刺术 LV7
 1/2400 FrozenRains LV7
 1/2600 LavaKing LV7
-1/3000 StormEscape LV7
+1/3000 风暴逃脱 LV7
 
-1/25 FlamingSword LV7
-1/30 CrossHalfMoon LV7
-1/50 TwinDrakeBlade LV7
-1/50 LionRoar LV7
-1/50 Entrapment LV7
+1/25 烈火剑法 LV7
+1/30 狂风斩 LV7
+1/50 双龙斩 LV7
+1/50 狮子吼 LV7
+1/50 捕蝇剑 LV7
 1/60 BladeStorm LV7
-1/150 BladeAvalanche LV7
-1/1200 ProtectionField LV7
-1/1400 Rage LV7
-1/1600 Fury LV7
-1/2000 CounterAttack LV7
-1/2600 ImmortalSkin LV7
+1/150 空破闪 LV7
+1/1200 护身气幕 LV7
+1/1400 狂暴 LV7
+1/1600 嗜血 LV7
+1/2000 反击 LV7
+1/2600 不灭护体 LV7
 
-1/25 MoonLight LV7
-1/30 MPEater LV7
-1/50 SwiftFeet LV7
-1/1400 DarkBody LV7
+1/25 月光 LV7
+1/30 吸气 LV7
+1/50 迅雷疾足 LV7
+1/1400 暗影替身 LV7
 1/100 CrescentSlash LV7
 
 
-1/25 SummonShinsu LV7
-1/30 UltimateEnhancer LV7
-1/30 EnergyRepulsor LV7
-1/50 Purification LV7
-1/50 Hallucination LV7
-1/100 HealingCircle LV7
-1/200 SummonHolyDeva LV7
-1/1200 Curse LV7
-1/1400 PoisonCloud LV7
-1/1800 PetEnhancer LV7
-1/2000 EnergyShield LV7
+1/25 召唤神兽 LV7
+1/30 终极强化 LV7
+1/30 气功波 LV7
+1/50 净化术 LV7
+1/50 迷魂术 LV7
+1/100 阴阳五行阵 LV7
+1/200 召唤圣灵 LV7
+1/1200 诅咒术 LV7
+1/1400 毒雾 LV7
+1/1800 宠物强化 LV7
+1/2000 能量护盾 LV7
 1/2300 HolyShield LV7
 1/2600 HeadShot LV7
 
@@ -1334,100 +1334,100 @@
 1/1 Gold 22000 LV8
 
 ;Pots + Other
-1/1 (HP)DrugLarge LV8
-1/1 (HP)DrugLarge LV8
-1/1 (HP)DrugLarge LV8
-1/1 (HP)DrugLarge LV8
-1/1 (MP)DrugLarge LV8
-1/1 (MP)DrugLarge LV8
-1/1 (MP)DrugLarge LV8
-1/1 (MP)DrugLarge LV8
-1/1 Sunpotion(M) LV8
-1/1 Sunpotion(M) LV8
-1/1 Sunpotion(M) LV8
-1/1 Sunpotion(M) LV8
-1/1 Sunpotion(M) LV8
-1/1 Sunpotion(M) LV8
-1/1 Sunpotion LV8
-1/1 Sunpotion LV8
-1/1 Sunpotion LV8
+1/1 金疮药(大量) LV8
+1/1 金疮药(大量) LV8
+1/1 金疮药(大量) LV8
+1/1 金疮药(大量) LV8
+1/1 魔法药(大量) LV8
+1/1 魔法药(大量) LV8
+1/1 魔法药(大量) LV8
+1/1 魔法药(大量) LV8
+1/1 强效太阳水 LV8
+1/1 强效太阳水 LV8
+1/1 强效太阳水 LV8
+1/1 强效太阳水 LV8
+1/1 强效太阳水 LV8
+1/1 强效太阳水 LV8
+1/1 太阳水 LV8
+1/1 太阳水 LV8
+1/1 太阳水 LV8
 
-1/2 BenedictionOil LV8
+1/2 祝福油 LV8
 
 
-1/20 AwakeningSoul0 LV8
+1/20 觉醒之魂0 LV8
 
 ;Weapons
-1/900 DragonSlayer LV8
-1/900 MaleficBow LV8
-1/900 RoyalBlades LV8
-1/900 DragonStaff LV8
-1/900 SoulSabre LV8
-1/1650 BladesOfMagi LV8
-1/1150 SwordOfWarGod LV8
-1/1150 BowOfForce LV8
-1/1150 BladeOfSorcery LV8
-1/1150 HeavenSword LV8
-1/2150 BlackTigerHammer LV8
-1/2150 LethalBow LV8
-1/2150 StaffOfLotus LV8
-1/2150 FanOfCrane LV8
-1/2150 ButcheringBlades LV8
+1/900 屠龙 LV8
+1/900 邪弓 LV8
+1/900 修罗刀 LV8
+1/900 噬魂法杖 LV8
+1/900 龙纹剑 LV8
+1/1650 暗真魔刀 LV8
+1/1150 开天 LV8
+1/1150 力量之弓 LV8
+1/1150 镇天 LV8
+1/1150 玄天 LV8
+1/2150 黑虎斧 LV8
+1/2150 致命之弓 LV8
+1/2150 火莲杖 LV8
+1/2150 鹤羽扇 LV8
+1/2150 黑乌刀 LV8
 
 
 ;Necklace
-1/950 CuspidNecklace LV8
-1/950 SorceryAnchor LV8
-1/950 PurifiedMirror LV8
-1/975 EvilTriangle LV8
-1/975 CrossPurified LV8
-1/975 AdamantNecklace LV8
-1/45 ClawNecklace LV8
-1/45 LifeNecklace LV8
-1/45 PearlNecklace LV8
-1/80 GreenBead LV8
-1/80 DemonicBells LV8
-1/80 SoulNecklace LV8
+1/950 破角 LV8
+1/950 针坠 LV8
+1/950 心如明镜 LV8
+1/975 曜紫天坠 LV8
+1/975 秀女十字盘 LV8
+1/975 金刚陶坠 LV8
+1/45 幽灵项链 LV8
+1/45 生命项链 LV8
+1/45 天珠项链 LV8
+1/80 绿色项链 LV8
+1/80 恶魔铃铛 LV8
+1/80 灵魂项链 LV8
 
 ;Necklace Rare
 1/1900 TerrapinNecklace LV8
 
 ;Bracelets
-1/950 DualTitanAmulet LV8
-1/950 SacredAngelAmulet LV8
-1/950 EvilWhispAmulet LV8
-1/975 WildTitanAmulet LV8
-1/975 EnchantedAmulet LV8
-1/975 FiveElementAmulet LV8
-1/30 SteelGlove LV8
-1/30 SpellBracelet LV8
-1/30 3rdEyeBracelet LV8
-1/100 HangMaWheel LV8
-1/100 BokMaWheel LV8
-1/100 8TrigramWheel LV8
-1/250 SpiritReformer LV8
-1/250 HolyTaoWheel LV8
-1/250 BaekTaGlove LV8
+1/950 铁魔双轮 LV8
+1/950 玉女天使 LV8
+1/950 曜火虹轮 LV8
+1/975 暴虎归山 LV8
+1/975 曜宝探魔轮 LV8
+1/975 五行悟思轮 LV8
+1/30 阎罗手套 LV8
+1/30 思贝尔手镯 LV8
+1/30 三眼手镯 LV8
+1/100 抗魔轮 LV8
+1/100 伏魔轮 LV8
+1/100 八极轮 LV8
+1/250 魂锁轮 LV8
+1/250 太极轮 LV8
+1/250 白驼手套 LV8
 
 ;Bracelets Rare
 1/1900 TerrapinBracelet LV8
 
 ;Rings
-1/950 PledgeRing LV8
-1/950 FiveElementRing LV8
-1/950 CrimsonRubyRing LV8
-1/975 DemonRubyRing LV8
-1/975 EvilExpelRing LV8
-1/975 GoldDragonRing LV8
-1/30 PowerRing LV8
-1/30 VioletRing LV8
-1/30 TitanRing LV8
-1/100 OmaSpiritRing LV8
-1/100 NobleRing LV8
-1/100 SoulRing LV8
-1/150 BoundlessRing LV8
-1/150 ThunderRing LV8
-1/150 TaeGukRing LV8
+1/950 盟约戒指 LV8
+1/950 五行连环 LV8
+1/950 血玉环 LV8
+1/975 飞曜环 LV8
+1/975 金刚伏魔环 LV8
+1/975 金龙戒指 LV8
+1/30 力量戒指 LV8
+1/30 紫碧螺 LV8
+1/30 泰坦戒指 LV8
+1/100 奥玛环 LV8
+1/100 鬼刃环 LV8
+1/100 心意环 LV8
+1/150 无极环 LV8
+1/150 雷霆环 LV8
+1/150 太极环 LV8
 
 ;Rings Rare
 1/1900 TerrapinRing LV8
@@ -1436,10 +1436,10 @@
 1/1900 TerrapinShield LV8
 
 ;Shoes
-1/15 SilkBoots LV8
-1/20 BlackBoots LV8
-1/30 DragonBoots LV8
-1/60 RedScaleBoots LV8
+1/15 紫绸靴 LV8
+1/20 避魂靴 LV8
+1/30 龙靴 LV8
+1/60 赤鳞靴 LV8
 
 ;Stone
 1/50 HolyDCStone LV8
@@ -1452,52 +1452,52 @@
 1/50 HolyDefenseStone LV8
 
 ;Books
-1/10 FrostCrunch LV8
-1/25 IceStorm LV8
-1/30 FlameDisruptor LV8
-1/400 FlameField LV8
-1/50 Vampirism LV8
-1/150 Mirroring LV8
-1/1200 Blizzard LV8
-1/1400 MagicBooster LV8
-1/1600 MeteorStrike LV8
-1/2000 FastMove LV8
-1/2200 IceThrust LV8
+1/10 寒冰掌 LV8
+1/25 冰咆哮 LV8
+1/30 灭天火 LV8
+1/400 火龙气焰 LV8
+1/50 噬血术 LV8
+1/150 分身术 LV8
+1/1200 天霜冰环 LV8
+1/1400 魔力强化 LV8
+1/1600 流星打击 LV8
+1/2000 快速移动 LV8
+1/2200 冰刺术 LV8
 1/2400 FrozenRains LV8
 1/2600 LavaKing LV8
-1/3000 StormEscape LV8
+1/3000 风暴逃脱 LV8
 
-1/25 FlamingSword LV8
-1/30 CrossHalfMoon LV8
-1/50 TwinDrakeBlade LV8
-1/50 LionRoar LV8
-1/50 Entrapment LV8
+1/25 烈火剑法 LV8
+1/30 狂风斩 LV8
+1/50 双龙斩 LV8
+1/50 狮子吼 LV8
+1/50 捕蝇剑 LV8
 1/60 BladeStorm LV8
-1/150 BladeAvalanche LV8
-1/1200 ProtectionField LV8
-1/1400 Rage LV8
-1/1600 Fury LV8
-1/2000 CounterAttack LV8
-1/2600 ImmortalSkin LV8
+1/150 空破闪 LV8
+1/1200 护身气幕 LV8
+1/1400 狂暴 LV8
+1/1600 嗜血 LV8
+1/2000 反击 LV8
+1/2600 不灭护体 LV8
 
-1/25 MoonLight LV8
-1/30 MPEater LV8
-1/50 SwiftFeet LV8
-1/1400 DarkBody LV8
+1/25 月光 LV8
+1/30 吸气 LV8
+1/50 迅雷疾足 LV8
+1/1400 暗影替身 LV8
 1/100 CrescentSlash LV8
 
 
-1/25 SummonShinsu LV8
-1/30 UltimateEnhancer LV8
-1/30 EnergyRepulsor LV8
-1/50 Purification LV8
-1/50 Hallucination LV8
-1/100 HealingCircle LV8
-1/200 SummonHolyDeva LV8
-1/1200 Curse LV8
-1/1400 PoisonCloud LV8
-1/1800 PetEnhancer LV8
-1/2000 EnergyShield LV8
+1/25 召唤神兽 LV8
+1/30 终极强化 LV8
+1/30 气功波 LV8
+1/50 净化术 LV8
+1/50 迷魂术 LV8
+1/100 阴阳五行阵 LV8
+1/200 召唤圣灵 LV8
+1/1200 诅咒术 LV8
+1/1400 毒雾 LV8
+1/1800 宠物强化 LV8
+1/2000 能量护盾 LV8
 1/2300 HolyShield LV8
 1/2600 HeadShot LV8
 

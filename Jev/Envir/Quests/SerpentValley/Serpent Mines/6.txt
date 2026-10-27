@@ -1,17 +1,18 @@
 [@Description]
-A Scroll with a description. It must be important.
+一张带有描述的卷轴。想必很重要。
 
 [@TaskDescription]
-Deliver the {HiddenScroll/LightSteelBlue} to {Dr.Kim/LimeGreen}.
+将 {隐藏的卷轴/LightSteelBlue} 交给 {金医生/LimeGreen}。
 
 [@Completion]
+
 
 [@KillTasks]
 
 [@ItemTasks]
 
 [@CarryItems]
-HiddenScroll 2 
+隐藏的卷轴 2 
 
 [@FixedRewards]
 

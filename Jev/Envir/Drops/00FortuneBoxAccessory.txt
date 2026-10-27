@@ -1,32 +1,32 @@
 ;Necklace
 ;;Warrior
-1/300 ClawNecklace
-1/400 GreenBead
-1/500 HeroNecklace
-1/600 PurpleFoxCollar
-1/700 GreatPurpleFoxCollar
-1/800 CuspidNecklace
-1/900 AdamantNecklace
+1/300 幽灵项链
+1/400 绿色项链
+1/500 水波颈饰
+1/600 黑狐项链
+1/700 黑月神瑛
+1/800 破角
+1/900 金刚陶坠
 
 ;;Wizard
-1/300 LifeNecklace
-1/400 DemonicBells
-1/500 AdamantineNecklace
-1/600 RedFoxCollar
-1/700 GreatRedFoxCollar
-1/800 SorceryAnchor
-1/900 EvilTriangle
+1/300 生命项链
+1/400 恶魔铃铛
+1/500 金刚铃项链
+1/600 红狐项链
+1/700 赤月神瑛
+1/800 针坠
+1/900 曜紫天坠
 
 ;;Taoist
-1/300 PearlNecklace
-1/400 SoulNecklace
-1/500 RequiemNecklace
-1/600 BlueFoxCollar
-1/700 GreatBlueFoxCollar
-1/800 PurifiedMirror
-1/900 CrossPurified
+1/300 天珠项链
+1/400 灵魂项链
+1/500 镇魂项链
+1/600 蓝狐项链
+1/700 悲月神瑛
+1/800 心如明镜
+1/900 秀女十字盘
 
 ;Set
-1/450 SmashPendulum
-1/450 HwanDevilNecklace
-1/450 PurityNecklace
+1/450 破碎项链
+1/450 青魔项链
+1/450 灵玉项链

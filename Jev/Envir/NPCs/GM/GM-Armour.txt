@@ -2,112 +2,112 @@
 #IF
 ISADMIN
 #SAY
-Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-I see you're wearing: {<$ARMOUR>/CORAL}
+{<$USERNAME>/KHAKI}，我叫{<$NPCNAME>/KHAKI}。
+我看到你穿着: {<$ARMOUR>/CORAL}
 
-<Buy/@Buy> Armour
-<Sell/@Sell> Armour
-<Repair/@Repair> Armour
-<Special Repair/@SRepair> Armour
+<购买/@Buy> 护甲
+<出售/@Sell> 护甲
+<修理/@Repair> 护甲
+<特殊修理/@SRepair> 护甲
 #ELSEACT
 MOVE 0 300 300
  
 [@Buy]
 #SAY
-Buy.
+买。
  
-<Back/@Main>
+<返回/@Main>
 
 [@Sell]
 #SAY
-Sell.
+出售。
  
-<Back/@Main>
+<返回/@Main>
 
 [@Repair]
 #SAY
-Repair.
+修理。
  
-<Back/@Main>
+<返回/@Main>
 
 [@SRepair]
 #SAY
-Special repair.
+特殊修理。
  
-<Back/@Main>
+<返回/@Main>
 
 
 [Types]
 2
 
 [Trade]
-MirArmour(M)
-MirArmour(F)
-BoneRobe(M)
-BoneRobe(F)
-TarragonArmour(M)
-TarragonArmour(F)
-RaidersArmour(M)
-RaidersArmour(F)
-BaseDress(M)
-BaseDress(F)
-LightArmour(M)
-LightArmour(F)
-MediumArmour(M)
-MediumArmour(F)
-HeavyArmour(M)
-HeavyArmour(F)
-MagicRobe(M)
-MagicRobe(F)
-SoulArmour(M)
-SoulArmour(F)
-RelicArmour(M)
-RelicArmour(F)
-LightLeatherArmour(M)
-LightLeatherArmour(F)
-IronArmour(M)
-IronArmour(F)
-WizardRobe(M)
-WitchRobe(F)
-PearlArmour(M)
-PearlArmour(F)
-AncientArmour(M)
-AncientArmour(F)
-TemperedArmour(M)
-TemperedArmour(F)
-SteelArmour(M)
-SteelArmour(F)
-DragonRobe(M)
-DragonRobe(F)
-TitanArmour(M)
-TitanArmour(F)
-RoyalArmour(M)
-RoyalArmour(F)
-StuddedArmour(M)
-StuddedArmour(F)
-BlackTigerArmour(M)
-BlackTigerArmour(F)
-LotusArmour(M)
-LotusArmour(F)
-CraneArmour(M)
-CraneArmour(F)
-StealthArmour(M)
-StealthArmour(F)
-LightTemperedArmour(M)
-LightTemperedArmour(F)
-BlueDarkArmour(M)
-BlueDarkArmour(F)
-RedDarkArmour(M)
-RedDarkArmour(F)
-GreenDarkArmour(M)
-GreenDarkArmour(F)
-GoldDarkArmour(M)
-GoldDarkArmour(F)
-ScaledArmour(M)
-ScaledArmour(F)
-CrystalArmour(M)
-CrystalArmour(F)
-HeavenArmour(M)
-HeavenArmour(F)
-OmaKingRobe(M)
-OmaKingRobe(F)
+天龙不死衣(男)
+天龙不死衣(女)
+龙骨甲(男)
+龙骨甲(女)
+血龙盔甲(男)
+血龙盔甲(女)
+监视者铠甲(男)
+监视者铠甲(女)
+布衣(男)
+布衣(女)
+轻型盔甲(男)
+轻型盔甲(女)
+中型盔甲(男)
+中型盔甲(女)
+重盔甲(男)
+重盔甲(女)
+魔法长袍(男)
+魔法长袍(女)
+灵魂战衣(男)
+灵魂战衣(女)
+残影魔衣(男)
+残影魔衣(女)
+轻皮甲(男)
+轻皮甲(女)
+战神盔甲(男)
+战神盔甲(女)
+恶魔长袍(男)
+恶魔长袍(女)
+幽灵战衣(男)
+幽灵战衣(女)
+炎红战衣(男)
+炎红战衣(女)
+精炼铠甲(男)
+精炼铠甲(女)
+鬼面甲胄(男)
+鬼面甲胄(女)
+火龙魔衣(男)
+火龙魔衣(女)
+玄天宝衣(男)
+玄天宝衣(女)
+修罗血衣(男)
+修罗血衣(女)
+镶钉铠甲(男)
+镶钉铠甲(女)
+黑虎甲胄(男)
+黑虎甲胄(女)
+莲盛魔衣(男)
+莲盛魔衣(女)
+鹤羽圣衣(男)
+鹤羽圣衣(女)
+黑乌飞甲(男)
+黑乌飞甲(女)
+轻型精炼甲(男)
+轻型精炼甲(女)
+青之魔甲(男)
+青之魔甲(女)
+赤之魔甲(男)
+赤之魔甲(女)
+绿之魔甲(男)
+绿之魔甲(女)
+黑之魔甲(男)
+黑之魔甲(女)
+鳞甲(男)
+鳞甲(女)
+灵晶甲胄(男)
+灵晶甲胄(女)
+天衣无缝(男)
+天衣无缝(女)
+破凰天魔衣(男)
+破凰天魔衣(女)
