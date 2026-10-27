@@ -24,7 +24,6 @@ INGUILD NewbieGuild
 #SAY
 <$USERNAME>，你目前在一个公会里。
 请先退出公会再重试。
-
  
 <返回/@Main>
 #ELSEACT

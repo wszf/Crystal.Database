@@ -1,5 +1,5 @@
 TITLE=欢迎来到《传奇2》
-!!必读!!
+             !!必读!!
 
 
 
@@ -14,7 +14,7 @@ TITLE=欢迎来到《传奇2》
 
 
 点击关闭并继续游戏，即表示你同意
-以下服务条款。
+以上服务条款。
 
 (LOMCN/http://LOMCN.ORG)
 (DATABASE/https://github.com/Suprcode/mir2-database/tree/main/Jev)

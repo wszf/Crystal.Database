@@ -13,7 +13,6 @@ GOTO @Main-1
 #SAY
 <$USERNAME>，你是新手吗？
 请按（H）键调出帮助菜单。
-
  
 <关闭/@exit>
 

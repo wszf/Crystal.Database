@@ -37,7 +37,6 @@ CHECKITEM SwampRelic
 <关闭/@exit>
 #ELSESAY
 请不要耍花招。
-
  
 <关闭/@exit>
 

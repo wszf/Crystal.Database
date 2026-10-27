@@ -11,7 +11,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import lib  # noqa: E402
 
-WORK = Path("/tmp/task357/work")
+WORK = lib.WORK
 SCRIPT_ROOTS = ("NPCs", "SystemScripts", "Events")
 QUEST_ROOT = "Quests"
 

@@ -21,7 +21,7 @@ import requests
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import lib  # noqa: E402
 
-WORK = Path("/tmp/task357/work")
+WORK = lib.WORK
 URL = "http://127.0.0.1:11434/api/generate"
 MODEL = "gemma4:e4b"
 BATCH = 20

@@ -21,7 +21,6 @@ GOTO @Main-1
 
 [@BuySell]
 您想买卖什么头盔？
-
 <回购/@BuyBack>
  
 <返回/@Main>

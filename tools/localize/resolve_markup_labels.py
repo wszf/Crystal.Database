@@ -52,7 +52,7 @@ def main():
 
     # Person names used inside quest prose ("{Jane/LimeGreen}") come from the
     # NPC catalogue, e.g. "CraftsLady_Jane" -> "工艺夫人_简".
-    jev = json.loads(Path("/tmp/task357/Jev.json").read_text(encoding="utf-8"))
+    jev = json.loads((lib.DATA / "english_catalog.json").read_text(encoding="utf-8"))
     npc_zh = {int(k): v for k, v in lib.load("npc_names.json").items()}
     for npc in jev["npcs"]:
         english = [x for x in re.split(r"[_\s]+", npc["name"]) if x]

@@ -16,7 +16,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import lib  # noqa: E402
 
-WORK = Path("/tmp/task357/work")
+WORK = lib.WORK
 
 
 def norm(s: str) -> str:
@@ -24,7 +24,7 @@ def norm(s: str) -> str:
 
 
 def main():
-    jev = json.loads(Path("/tmp/task357/Jev.json").read_text(encoding="utf-8"))
+    jev = json.loads((lib.DATA / "english_catalog.json").read_text(encoding="utf-8"))
     labels = dict(lib.load("label_tm.json"))
     fixes = dict(lib.load("label_fixes.json"))
     item_zh = {int(k): v for k, v in lib.load("item_names.json").items()}

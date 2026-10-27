@@ -22,7 +22,6 @@ GOTO @Main-1
 [@Buy]
 #SAY
 请选择您想要购买的物品
-
 <回购/@BuyBack>
  
 <返回/@main>

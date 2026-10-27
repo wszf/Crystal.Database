@@ -10,8 +10,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import lib  # noqa: E402
 
-WORK = Path("/tmp/task357/work")
-OUT = Path("/tmp/task357/final")
+WORK = lib.WORK
+OUT = lib.OUT
 
 MANUAL_NPC = {
     "bradly": "布拉德利",
@@ -27,6 +27,21 @@ MANUAL_NPC = {
 
 MESSAGE_OVERRIDES = {
     "106:gotoMessage": "返回地下城南区1层的迷失灵魂 (202:204)",
+}
+
+# Game shop tab titles.  GameShopItem.Class must stay English ("All",
+# "Warrior", ...) because the client compares it against those literals, but
+# Category is only a display/filter label, so it is localized.
+SHOP_CATEGORIES = {
+    "Potion": "药水",
+    "Transform": "变身",
+    "Special": "特殊",
+    "Scroll": "卷轴",
+    "Mount": "坐骑",
+    "Torch": "火把",
+    "Creature": "召唤兽",
+    "Fishing": "钓鱼",
+    "Package": "礼包",
 }
 
 
@@ -76,15 +91,15 @@ class Fixer:
 
 
 def main():
-    jev = json.loads(Path("/tmp/task357/Jev.json").read_text(encoding="utf-8"))
+    jev = json.loads((lib.DATA / "english_catalog.json").read_text(encoding="utf-8"))
     item_zh = {int(k): v for k, v in lib.load("item_names.json").items()}
     mon_zh = {int(k): v for k, v in lib.load("monster_names.json").items()}
     map_zh = {int(k): v for k, v in lib.load("map_titles.json").items()}
     npc_zh = {int(k): v for k, v in lib.load("npc_names.json").items()}
     quest_names = {int(k): v for k, v in lib.load("quest_names.json").items()}
-    tool_cj = json.loads(Path("/tmp/task357/tooltip_cj.json").read_text(encoding="utf-8"))
-    tool_model = json.loads(Path("/tmp/task357/tooltip_model.json").read_text(encoding="utf-8"))
-    qmsg = json.loads(Path("/tmp/task357/quest_msgs_model.json").read_text(encoding="utf-8"))
+    tool_cj = json.loads((lib.DATA / "tooltip_cj.json").read_text(encoding="utf-8"))
+    tool_model = json.loads((lib.DATA / "tooltip_model.json").read_text(encoding="utf-8"))
+    qmsg = json.loads((lib.DATA / "quest_messages.json").read_text(encoding="utf-8"))
     tool_fix = {int(k): v for k, v in lib.load("tooltip_fixes.json").items()}
     fixer = Fixer(jev)
 
@@ -113,6 +128,9 @@ def main():
             if not translated:
                 translated = value
             info[field] = fixer.fix(translated)
+
+    for shop in jev["shops"]:
+        shop["category"] = SHOP_CATEGORIES.get(shop["category"], shop["category"])
 
     jev["dragon"]["monsterName"] = mon_zh[392]
     jev["dragon"]["bodyName"] = mon_zh[393]
@@ -144,6 +162,9 @@ def main():
         assert re.search(r"[\u4e00-\u9fff]", row["title"]) and not re.search(r"[A-Za-z]", row["title"]), row
     for row in jev["npcs"]:
         assert not re.search(r"\s", row["name"]) and re.search(r"[\u4e00-\u9fff]", row["name"]), row
+    shop_latin = sorted({s["category"] for s in jev["shops"]
+                         if re.search(r"[A-Za-z]", s["category"])})
+    print("shop category Latin residue:", shop_latin)
     residue = []
     for row in jev["quests"]:
         for field in ("gotoMessage", "killMessage", "itemMessage", "flagMessage", "name", "group"):

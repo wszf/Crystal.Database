@@ -22,7 +22,6 @@ INGUILD
 #SAY
 <$USERNAME>，你目前在一个公会里。
 请先退出公会再重试。
-
 #ELSEACT
 ADDTOGUILD NewbieGuild
 ADDNAMELIST ../NameLists/NewbieGuild.txt

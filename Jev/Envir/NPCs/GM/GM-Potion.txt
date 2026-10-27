@@ -9,7 +9,6 @@ ISADMIN
  
 提示：使用{@超人/LIMEGREEN}可以获得无限的生命值和魔法值。
 
-
 #ELSEACT
 MOVE 0 300 300
 

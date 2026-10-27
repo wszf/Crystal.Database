@@ -22,7 +22,7 @@ def norm(s: str) -> str:
 
 
 def main():
-    jev = json.loads(Path("/tmp/task357/Jev.json").read_text(encoding="utf-8"))
+    jev = json.loads((lib.DATA / "english_catalog.json").read_text(encoding="utf-8"))
     labels = dict(lib.load("label_tm.json"))
     item = {int(k): v for k, v in lib.load("item_names.json").items()}
     mon = {int(k): v for k, v in lib.load("monster_names.json").items()}

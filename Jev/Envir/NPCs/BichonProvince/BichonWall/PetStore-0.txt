@@ -23,7 +23,6 @@ GOTO @Main-1
 [@Buy]
 #SAY
 请选择您想要购买的蛋。
-
  
  
 <返回/@Main>

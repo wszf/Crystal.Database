@@ -10,7 +10,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import lib  # noqa: E402
 
-WORK = Path("/tmp/task357/work")
+WORK = lib.WORK
 JEV = lib.JEV
 CONFIGS = JEV / "Configs"
 
@@ -86,7 +86,7 @@ GUILD_BUFFS = {
 
 class Resolver:
     def __init__(self):
-        jev = json.loads((Path("/tmp/task357/Jev.json")).read_text(encoding="utf-8"))
+        jev = json.loads(((lib.DATA / "english_catalog.json")).read_text(encoding="utf-8"))
         self.item_zh = {int(k): v for k, v in lib.load("item_names.json").items()}
         self.mon_zh = {int(k): v for k, v in lib.load("monster_names.json").items()}
         self.item_by = {norm(x["name"]): x["index"] for x in jev["items"]}
@@ -215,7 +215,7 @@ NOTICE = {
     "Welcome to Legend of Mir 2": "欢迎来到《传奇2》",
     "!!MUST READ!!": "!!必读!!",
     "By clicking close and continuing to play the": "点击关闭并继续游戏，即表示你同意",
-    "game you are agreeing to the terms of": "以下服务条款。",
+    "game you are agreeing to the terms of": "以上服务条款。",
     "service above.": "",
 }
 NOTICE_EXTRA = {"LOMCN": "LOMCN", "DATABASE": "数据库"}
@@ -225,6 +225,9 @@ def translate_notice(line: str) -> str:
     stripped = line.strip()
     if not stripped:
         return line
+    # Keep the original indentation: the notice art relies on it.
+    lead = line[:len(line) - len(line.lstrip())]
+    trail = line[len(line.rstrip()):]
 
     def repl(m):
         vis, url = m.group(1), m.group(2)
@@ -236,7 +239,7 @@ def translate_notice(line: str) -> str:
     elif new == stripped:
         text = NOTICE.get(stripped, stripped)
         new = text
-    return new
+    return lead + new + trail
 
 
 if __name__ == "__main__":

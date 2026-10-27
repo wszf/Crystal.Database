@@ -15,15 +15,23 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import lib  # noqa: E402
 
-WORK = Path("/tmp/task357/work")
+WORK = lib.WORK
 JEV = lib.JEV
 ENVIR = JEV / "Envir"
 CONFIGS = JEV / "Configs"
-OUT = Path("/tmp/task357/final")
+OUT = lib.OUT
 
 ITEM_CMDS = {"GIVEITEM", "TAKEITEM", "CHECKITEM", "CHECKHEROITEM"}
 MON_CMDS = {"MONGEN", "MONGEN2", "GIVEPET", "REMOVEPET", "CHECKPET", "PETLEVEL",
             "CHECKMON", "CHECKEXACTMON"}
+
+# The English source spells a few monster names wrong.  Those references point
+# at a real record, so they are mapped to it instead of staying English (the
+# surrounding quest prose already names the same monster in Chinese).
+MON_ALIASES = {
+    "darkdevouer": "darkdevourer",       # WasteLand/Red Cave/2: 怨恶
+    "elecminotaur": "electricminotaur",  # PrajnaIsland/PranjaTemple/2: 电光牛魔
+}
 
 
 def norm(s: str) -> str:
@@ -32,7 +40,7 @@ def norm(s: str) -> str:
 
 class Names:
     def __init__(self):
-        jev = json.loads((Path("/tmp/task357/Jev.json")).read_text(encoding="utf-8"))
+        jev = json.loads(((lib.DATA / "english_catalog.json")).read_text(encoding="utf-8"))
         self.items = jev["items"]
         self.monsters = jev["monsters"]
         self.maps = jev["maps"]
@@ -55,7 +63,7 @@ class Names:
         return self.item_zh.get(idx) if idx is not None else None
 
     def mon(self, token):
-        idx = self.mon_by.get(norm(token))
+        idx = self.mon_by.get(MON_ALIASES.get(norm(token), norm(token)))
         return self.mon_zh.get(idx) if idx is not None else None
 
     def reward_items(self, token):
@@ -93,10 +101,23 @@ def labels():
 LINE_TM = None
 
 
+def one_line(value: str) -> str:
+    """A translation of one source line must stay one script line.
+
+    The model sometimes answers with soft line breaks (trailing newline, or
+    splitting a two-column menu row); NPC script line counts are part of the
+    dialog layout and of the [TRADE] line-derived ids, so collapse them.
+    """
+    if "\n" not in value:
+        return value
+    parts = [part.strip() for part in value.split("\n") if part.strip()]
+    return "  ".join(parts)
+
+
 def line_tm():
     global LINE_TM
     if LINE_TM is None:
-        LINE_TM = tm()["line"]
+        LINE_TM = {key: one_line(value) for key, value in tm()["line"].items()}
     return LINE_TM
 
 
@@ -455,6 +476,7 @@ def main():
     rewrite_recipes(names, stats)
     rewrite_quests(names, stats)
     report = {k: (sorted(v) if isinstance(v, set) else v) for k, v in stats.items()}
+    WORK.mkdir(parents=True, exist_ok=True)
     (WORK / "apply_report.json").write_text(json.dumps(report, ensure_ascii=False, indent=1), encoding="utf-8")
     for key, value in report.items():
         if isinstance(value, list) and value:

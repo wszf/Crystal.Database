@@ -14,7 +14,7 @@
 
 [@KillTasks]
 梦魇 3
-DarkDevouer 3
+怨恶 3
 
 [@ItemTasks]
 

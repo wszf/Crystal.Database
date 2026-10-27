@@ -16,6 +16,10 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 DATA = HERE / "data"
 JEV = HERE.parents[1] / "Jev"
+# Scratch outputs (apply report, extraction dumps, generated payload).
+WORK = Path("/tmp/task357/work")
+OUT = Path("/tmp/task357/final")
+CATALOG = DATA / "english_catalog.json"
 
 CJK_RE = re.compile(r"[\u4e00-\u9fff]")
 LATIN_RE = re.compile(r"[A-Za-z]")

@@ -9,7 +9,6 @@ GOTO @MAIN-2
 [@MAIN-1]
 #SAY
 旅人。到处都是破坏一切的人。
-
  
 <关闭/@exit>
 

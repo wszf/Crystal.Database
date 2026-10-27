@@ -8,7 +8,7 @@
 
 
 [@KillTasks]
-ElecMinotaur 20
+电光牛魔 20
 火焰牛魔 20
 冰牛魔 20
 风之牛魔 20
